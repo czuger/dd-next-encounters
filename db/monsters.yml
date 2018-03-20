@@ -1,0 +1,4066 @@
+---
+- !ruby/object:Monster
+  challenge: 1
+  name: Aarakocra
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 9
+  name: Abjurer
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 10
+  name: Aboleth
+  type: Basic Rules
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 9
+  name: Abominable Yeti
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 23
+  name: Acererak
+  type: Tomb of Annihilation
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Acolyte
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 14
+  name: Adult Black Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 17
+  name: Adult Blue Dracolich
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 16
+  name: Adult Blue Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 13
+  name: Adult Brass Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 15
+  name: Adult Bronze Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 14
+  name: Adult Copper Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 17
+  name: Adult Gold Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 15
+  name: Adult Green Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 17
+  name: Adult Red Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 16
+  name: Adult Silver Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 13
+  name: Adult White Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 7
+  name: Aerisi Kalinoth
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Air Elemental
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 7
+  name: Air Elemental Myrmidon
+  type: Princes of the Apocalypse
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Albino Dwarf Spirit Warrior
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Albino Dwarf Warrior
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Aldani (Lobsterfolk)
+  type: Tomb of Annihilation
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 10
+  name: Alhoon
+  type: Volo's Guide to Monsters
+  source: Undead
+- !ruby/object:Monster
+  challenge: 2
+  name: Allosaurus
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 0
+  name: Almiraj
+  type: Tomb of Annihilation
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Ambush Drake
+  type: Hoard of the Dragon Queen
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 21
+  name: Ancient Black Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 23
+  name: Ancient Blue Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 20
+  name: Ancient Brass Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 22
+  name: Ancient Bronze Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 21
+  name: Ancient Copper Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 24
+  name: Ancient Gold Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 22
+  name: Ancient Green Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 24
+  name: Ancient Red Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 23
+  name: Ancient Silver Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 20
+  name: Ancient White Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 17
+  name: Androsphinx
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Animated Armor
+  type: Basic Rules
+  source: Construct
+- !ruby/object:Monster
+  challenge: 2
+  name: Animated Table
+  type: The Forge of Fury
+  source: Construct
+- !ruby/object:Monster
+  challenge: 2
+  name: Ankheg
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 3
+  name: Ankylosaurus
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Ankylosaurus Zombie
+  type: Tomb of Annihilation
+  source: Undead
+- !ruby/object:Monster
+  challenge: 6
+  name: Annis Hag
+  type: Volo's Guide to Monsters
+  source: Fey
+- !ruby/object:Monster
+  challenge: 1
+  name: Ape
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Apprentice Wizard
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 12
+  name: Arcanaloth
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 12
+  name: Archdruid
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Archer
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 12
+  name: Archmage
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 7
+  name: Artus Cimber
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 8
+  name: Assassin
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Assassin Vine
+  type: Tomb of Annihilation
+  source: Plant
+- !ruby/object:Monster
+  challenge: 13
+  name: Atropal
+  type: Tomb of Annihilation
+  source: Undead
+- !ruby/object:Monster
+  challenge: 0
+  name: Augrek Brighthelm
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Aurochs
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 0
+  name: Avatar of Death
+  type: Dungeon Master's Guide
+  source: Undead
+- !ruby/object:Monster
+  challenge: 0
+  name: Awakened Shrub
+  type: Basic Rules
+  source: Plant
+- !ruby/object:Monster
+  challenge: 2
+  name: Awakened Tree
+  type: Basic Rules
+  source: Plant
+- !ruby/object:Monster
+  challenge: 2
+  name: Awakened Zurkhwood
+  type: Out of the Abyss
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Axe Beak
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 4
+  name: Azbara Jos
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Azer
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 11
+  name: Baba Lysaga
+  type: Curse of Strahd
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 11
+  name: Baba Lysaga’s Creeping Hut
+  type: Curse of Strahd
+  source: Construct
+- !ruby/object:Monster
+  challenge: 4
+  name: Babau
+  type: Volo's Guide to Monsters
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 0
+  name: Baboon
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 0
+  name: Badger
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 19
+  name: Balor
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 5
+  name: Banderhobb
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Bandit
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Bandit Captain
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Banshee
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 23
+  name: Baphomet
+  type: Out of the Abyss
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 5
+  name: Barbed Devil
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Bard
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Barghest
+  type: Volo's Guide to Monsters
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 5
+  name: Barlgura
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Barovian Witch
+  type: Curse of Strahd
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Basilisk
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 8
+  name: Bastian Thermandar
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Bat
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Bearded Devil
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 11
+  name: Behir
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 13
+  name: Beholder
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 5
+  name: Beholder Zombie
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 0
+  name: Beldora
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Berserker
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 7
+  name: Bheur Hag
+  type: Volo's Guide to Monsters
+  source: Fey
+- !ruby/object:Monster
+  challenge: 1
+  name: Black Bear
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Black Dragon Wyrmling
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 2
+  name: Black Earth Guard
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Black Earth Priest
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Black Guard Drake
+  type: Volo's Guide to Monsters
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 4
+  name: Black Pudding
+  type: Basic Rules
+  source: Ooze
+- !ruby/object:Monster
+  challenge: 8
+  name: Blackguard
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 9
+  name: Blagothkus
+  type: Hoard of the Dragon Queen
+  source: Giant
+- !ruby/object:Monster
+  challenge: 1
+  name: Blink Dog
+  type: Basic Rules
+  source: Fey
+- !ruby/object:Monster
+  challenge: 1
+  name: Blood Hawk
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Blue Dragon Wyrmling
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 2
+  name: Blue Guard Drake
+  type: Volo's Guide to Monsters
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 7
+  name: Blue Slaad
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 1
+  name: Boar
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 6
+  name: Bodak
+  type: Volo's Guide to Monsters
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Boggle
+  type: Volo's Guide to Monsters
+  source: Fey
+- !ruby/object:Monster
+  challenge: 9
+  name: Bone Devil
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 4
+  name: Bone Naga
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Brass Dragon Wyrmling
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 1
+  name: Bridesmaid of Zuggtmoy
+  type: Out of the Abyss
+  source: Plant
+- !ruby/object:Monster
+  challenge: 5
+  name: Brontosaurus
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Bronze Dragon Wyrmling
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 1
+  name: Broom of Animated Attack
+  type: Curse of Strahd
+  source: Construct
+- !ruby/object:Monster
+  challenge: 1
+  name: Brown Bear
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Bugbear
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Bugbear Chief
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Bulette
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Bullywug
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Burrowshark
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Cambion
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Camel
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Captain Othelstan
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Carrion Crawler
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 0
+  name: Cat
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Catoblepas
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Cave Bear
+  type: Monster Manual
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Cave Fisher
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Centaur
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 6
+  name: Centaur Mummy
+  type: The Hidden Shrine of Tamoachan
+  source: Undead
+- !ruby/object:Monster
+  challenge: 8
+  name: Chain Devil
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Chamberlain of Zuggtmoy
+  type: Out of the Abyss
+  source: Plant
+- !ruby/object:Monster
+  challenge: 9
+  name: Champion
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 6
+  name: Chasme
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 6
+  name: Chimera
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Chitine
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Choker
+  type: Dead in Thay
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 3
+  name: Choldrith
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 4
+  name: Chuul
+  type: Basic Rules
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 4
+  name: Chuul Spore Servant
+  type: Out of the Abyss
+  source: Plant
+- !ruby/object:Monster
+  challenge: 0
+  name: Chwinga
+  type: Tomb of Annihilation
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 9
+  name: Clay Golem
+  type: Basic Rules
+  source: Construct
+- !ruby/object:Monster
+  challenge: 8
+  name: Cloaker
+  type: Basic Rules
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 9
+  name: Cloud Giant
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 11
+  name: Cloud Giant Smiling One
+  type: Volo's Guide to Monsters
+  source: Giant
+- !ruby/object:Monster
+  challenge: 1
+  name: Cockatrice
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 0
+  name: Commoner
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 6
+  name: Conjurer
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Constrictor Snake
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Copper Dragon Wyrmling
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 4
+  name: Couatl
+  type: Basic Rules
+  source: Celestial
+- !ruby/object:Monster
+  challenge: 1
+  name: Cow
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 0
+  name: Crab
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Crag Cat
+  type: Storm King's Thunder
+  source: Beast
+- !ruby/object:Monster
+  challenge: 0
+  name: Cranium Rat
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 0
+  name: Crawling Claw
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Crocodile
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Crushing Wave Priest
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Crushing Wave Reaver
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Cult Fanatic
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Cultist
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 6
+  name: Cyclops
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 11
+  name: Dao
+  type: Monster Manual
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 0
+  name: Darathra Shendrel
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Dark Tide Knight
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Darkling
+  type: Volo's Guide to Monsters
+  source: Fey
+- !ruby/object:Monster
+  challenge: 2
+  name: Darkling Elder
+  type: Volo's Guide to Monsters
+  source: Fey
+- !ruby/object:Monster
+  challenge: 1
+  name: Darkmantle
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 0
+  name: Darz Helgar
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Death Dog
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 10
+  name: Death Kiss
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 17
+  name: Death Knight
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 10
+  name: Death Slaad
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 14
+  name: Death Tyrant
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 3
+  name: Deathlock Wight
+  type: Dead in Thay
+  source: Undead
+- !ruby/object:Monster
+  challenge: 4
+  name: Decapus
+  type: The Tortle Package
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Deep Gnome (Svirfneblin)
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Deep Rothé
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Deep Scion
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Deer
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Deinonychus
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 18
+  name: Demilich
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 26
+  name: Demogorgon
+  type: Out of the Abyss
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Derro
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Derro Savant
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 10
+  name: Deva
+  type: Basic Rules
+  source: Celestial
+- !ruby/object:Monster
+  challenge: 13
+  name: Devourer
+  type: Volo's Guide to Monsters
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Dimetrodon
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Dire Wolf
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Displacer Beast
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 8
+  name: Diviner
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 11
+  name: Djinni
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Dolphin
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Doppelganger
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 7
+  name: Draegloth
+  type: Volo's Guide to Monsters
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Draft Horse
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 17
+  name: Dragon Turtle
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 5
+  name: Dragonbait
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Dragonclaw
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Dragonfang
+  type: Rise of Tiamat
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 7
+  name: Dragonsoul
+  type: Rise of Tiamat
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Dragonwing
+  type: Rise of Tiamat
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Dralmorrer Borngray
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 7
+  name: Drannin Splithelm
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Dread Warrior
+  type: Dead in Thay
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Dretch
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 6
+  name: Drider
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Droki
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Drow
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Drow Elite Warrior
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 7
+  name: Drow Mage
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 8
+  name: Drow Priestess of Lolth
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Drow Spore Servant
+  type: Out of the Abyss
+  source: Plant
+- !ruby/object:Monster
+  challenge: 2
+  name: Druid
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Dryad
+  type: Basic Rules
+  source: Fey
+- !ruby/object:Monster
+  challenge: 1
+  name: Duergar
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Duergar Darkhaft
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Duergar Kavalrachni
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Duergar Keeper of the Flame
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Duergar Soulblade
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Duergar Spore Servant
+  type: Out of the Abyss
+  source: Plant
+- !ruby/object:Monster
+  challenge: 2
+  name: Duergar Spy
+  type: The Forge of Fury
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Duergar Stone Guard
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Duergar Xarrorn
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Duodrone
+  type: Monster Manual
+  source: Construct
+- !ruby/object:Monster
+  challenge: 1
+  name: Dust Mephit
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 0
+  name: Duvessa Shane
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Eagle
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Earth Elemental
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 7
+  name: Earth Elemental Myrmidon
+  type: Princes of the Apocalypse
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Eblis
+  type: Tomb of Annihilation
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 11
+  name: Efreeti
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 14
+  name: Elder Brain
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 4
+  name: Elephant
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Elizar Dryflagon
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Elk
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Emerald Enclave Scout
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 23
+  name: Empyrean
+  type: Monster Manual
+  source: Celestial
+- !ruby/object:Monster
+  challenge: 5
+  name: Enchanter
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 12
+  name: Erinyes
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Eternal Flame Guardian
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Eternal Flame Priest
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Ettercap
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 4
+  name: Ettin
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 1
+  name: Evil Mage
+  type: Lost Mine of Phandelver
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 9
+  name: Evoker
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 8
+  name: Ezmerelda d’Avenir
+  type: Curse of Strahd
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Faerie Dragon (Older)
+  type: Monster Manual
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 1
+  name: Faerie Dragon (Younger)
+  type: Monster Manual
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 2
+  name: Fathomer
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Feathergale Knight
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Female Steeder
+  type: Out of the Abyss
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Fire Elemental
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 7
+  name: Fire Elemental Myrmidon
+  type: Princes of the Apocalypse
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 9
+  name: Fire Giant
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 14
+  name: Fire Giant Dreadnought
+  type: Volo's Guide to Monsters
+  source: Giant
+- !ruby/object:Monster
+  challenge: 1
+  name: Fire Snake
+  type: Monster Manual
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Firenewt Warlock of Imix
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Firenewt Warrior
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Flail Snail
+  type: Volo's Guide to Monsters
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 4
+  name: Flameskull
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 6
+  name: Flamewrath
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Flesh Golem
+  type: Basic Rules
+  source: Construct
+- !ruby/object:Monster
+  challenge: 9
+  name: Flind
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Flumph
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 0
+  name: Flying Monkey
+  type: Tomb of Annihilation
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Flying Snake
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Flying Sword
+  type: Basic Rules
+  source: Construct
+- !ruby/object:Monster
+  challenge: 8
+  name: Fomorian
+  type: Monster Manual
+  source: Giant
+- !ruby/object:Monster
+  challenge: 6
+  name: Four-Armed Troll
+  type: Hoard of the Dragon Queen
+  source: Giant
+- !ruby/object:Monster
+  challenge: 23
+  name: Fraz-Urb’luu
+  type: Out of the Abyss
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 0
+  name: Frog
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 10
+  name: Froghemoth
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 8
+  name: Frost Giant
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 12
+  name: Frost Giant Everlasting One
+  type: Volo's Guide to Monsters
+  source: Giant
+- !ruby/object:Monster
+  challenge: 2
+  name: Frulam Mondath
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 6
+  name: Galeb Duhr
+  type: Monster Manual
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 9
+  name: Gar Shatterkeel
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Gargoyle
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Gas Spore
+  type: Monster Manual
+  source: Plant
+- !ruby/object:Monster
+  challenge: 6
+  name: Gauth
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 1
+  name: Gazer
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 1
+  name: Gazer Familiar
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 2
+  name: Gelatinous Cube
+  type: Basic Rules
+  source: Ooze
+- !ruby/object:Monster
+  challenge: 1
+  name: Geonid
+  type: The Tortle Package
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 7
+  name: Ghald
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Ghast
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 0
+  name: Ghelryn Foehammer
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Ghost
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Ghoul
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 7
+  name: Giant Ape
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Badger
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Bat
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Giant Boar
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Centipede
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Giant Constrictor Snake
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Crab
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Giant Crayfish
+  type: The Hidden Shrine of Tamoachan
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Giant Crocodile
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Eagle
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Giant Elk
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 0
+  name: Giant Fire Beetle
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 0
+  name: Giant Fly
+  type: Dungeon Master's Guide
+  source: Beast
+- !ruby/object:Monster
+  challenge: 10
+  name: Giant Four-Armed Gargoyle
+  type: Tomb of Annihilation
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Frog
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Goat
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Hyena
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Giant Ice Toad
+  type: Against the Giants
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 3
+  name: Giant Lightning Eel
+  type: The Hidden Shrine of Tamoachan
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Lizard
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Octopus
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Owl
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Poisonous Snake
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Rat
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Riding Lizard
+  type: Out of the Abyss
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Giant Scorpion
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Sea Horse
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Giant Shark
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 7
+  name: Giant Skeleton
+  type: Tomb of Horrors
+  source: Undead
+- !ruby/object:Monster
+  challenge: 3
+  name: Giant Snapping Turtle
+  type: Tomb of Annihilation
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Spider
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Strider
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 4
+  name: Giant Subterranean Lizard
+  type: The Forge of Fury
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Toad
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Vulture
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Wasp
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Weasel
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Giant Wolf Spider
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Gibbering Mouther
+  type: Basic Rules
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 4
+  name: Girallon
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 3
+  name: Girallon Zombie
+  type: Tomb of Annihilation
+  source: Undead
+- !ruby/object:Monster
+  challenge: 8
+  name: Githyanki Knight
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Githyanki Warrior
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Githzerai Monk
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 6
+  name: Githzerai Zerth
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 9
+  name: Glabrezu
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 5
+  name: Gladiator
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Gnoll
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Gnoll Fang of Yeenoghu
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Gnoll Flesh Gnawer
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Gnoll Hunter
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Gnoll Pack Lord
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Gnoll Witherling
+  type: Volo's Guide to Monsters
+  source: Undead
+- !ruby/object:Monster
+  challenge: 0
+  name: Goat
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Goblin
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Goblin Boss
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Gold Dragon Wyrmling
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 5
+  name: Gorgon
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 17
+  name: Goristro
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Gray Ooze
+  type: Basic Rules
+  source: Ooze
+- !ruby/object:Monster
+  challenge: 9
+  name: Gray Slaad
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 24
+  name: Graz’zt
+  type: Out of the Abyss
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 5
+  name: Greater Zombie
+  type: Tomb of Horrors
+  source: Undead
+- !ruby/object:Monster
+  challenge: 2
+  name: Green Dragon Wyrmling
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 2
+  name: Green Guard Drake
+  type: Volo's Guide to Monsters
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 3
+  name: Green Hag
+  type: Basic Rules
+  source: Fey
+- !ruby/object:Monster
+  challenge: 8
+  name: Green Slaad
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 3
+  name: Grell
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 2
+  name: Grick
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 7
+  name: Grick Alpha
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Griffon
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Grimlock
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Grisha
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 8
+  name: Grumink the Renegade
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Grung
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Grung Elite Warrior
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Grung Wildling
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Guard
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Guard Drake
+  type: Volo's Guide to Monsters
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 10
+  name: Guardian Naga
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Guardian Portrait
+  type: Curse of Strahd
+  source: Construct
+- !ruby/object:Monster
+  challenge: 11
+  name: Gynosphinx
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Hadrosaurus
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Half-Blue Dragon Gladiator
+  type: Rise of Tiamat
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 8
+  name: Half-Green Dragon Assassin
+  type: Rise of Tiamat
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Half-Ogre
+  type: Monster Manual
+  source: Giant
+- !ruby/object:Monster
+  challenge: 6
+  name: Half-Red Dragon Gladiator
+  type: Rise of Tiamat
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Half-Red Dragon Veteran
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Harpy
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 0
+  name: Hawk
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Hell Hound
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 5
+  name: Hellenrae
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Helmed Horror
+  type: Monster Manual
+  source: Construct
+- !ruby/object:Monster
+  challenge: 8
+  name: Hezrou
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 5
+  name: Hill Giant
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 1
+  name: Hippogriff
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Hobgoblin
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Hobgoblin Captain
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Hobgoblin Devastator
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Hobgoblin Iron Shadow
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 6
+  name: Hobgoblin Warlord
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Homunculus
+  type: Basic Rules
+  source: Construct
+- !ruby/object:Monster
+  challenge: 3
+  name: Hook Horror
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 3
+  name: Hook Horror Spore Servant
+  type: Out of the Abyss
+  source: Plant
+- !ruby/object:Monster
+  challenge: 11
+  name: Horned Devil
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Howling Hatred Initiate
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Howling Hatred Priest
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Hulking Crab
+  type: Storm King's Thunder
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Hunter Shark
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Hurricane
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 8
+  name: Hydra
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 0
+  name: Hyena
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 14
+  name: Ice Devil
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Ice Mephit
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Ice Toad
+  type: Rise of Tiamat
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 5
+  name: Ice Troll
+  type: Rise of Tiamat
+  source: Giant
+- !ruby/object:Monster
+  challenge: 3
+  name: Illusionist
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 19
+  name: Imix
+  type: Princes of the Apocalypse
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Imp
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Intellect Devourer
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 6
+  name: Invisible Stalker
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 16
+  name: Iron Golem
+  type: Basic Rules
+  source: Construct
+- !ruby/object:Monster
+  challenge: 1
+  name: Ixitxachitl
+  type: Out of the Abyss
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 2
+  name: Ixitxachitl Cleric
+  type: Out of the Abyss
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 23
+  name: Iymrith
+  type: Storm King's Thunder
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 5
+  name: Izek Strazni
+  type: Curse of Strahd
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Jackal
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Jackalwere
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Jaculi
+  type: Tomb of Annihilation
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Jamna Gleamsilver
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 23
+  name: Juiblex
+  type: Out of the Abyss
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 3
+  name: Kalka-Kylla
+  type: The Hidden Shrine of Tamoachan
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 4
+  name: Kamadan
+  type: Tomb of Annihilation
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 6
+  name: Kasimir Velikov
+  type: Curse of Strahd
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Kelpie
+  type: White Plume Mountain
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Kenku
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Killer Whale
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 12
+  name: Ki-rin
+  type: Volo's Guide to Monsters
+  source: Celestial
+- !ruby/object:Monster
+  challenge: 3
+  name: Knight
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Kobold
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Kobold Dragonshield
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Kobold Inventor
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Kobold Scale Sorcerer
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 7
+  name: Korred
+  type: Volo's Guide to Monsters
+  source: Fey
+- !ruby/object:Monster
+  challenge: 23
+  name: Kraken
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 5
+  name: Kraken Priest
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Kuo-toa
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 6
+  name: Kuo-toa Archpriest
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Kuo-toa Monitor
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Kuo-toa Whip
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Lamia
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 4
+  name: Langdedrosa Cyanwrath
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Larva
+  type: Dungeon Master's Guide
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 0
+  name: Lemure
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 3
+  name: Leucrotta
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 4
+  name: Liara Portyr
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 21
+  name: Lich
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 0
+  name: Lifferlas
+  type: Storm King's Thunder
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Lion
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 0
+  name: Lizard
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 4
+  name: Lizard King/Queen
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Lizardfolk
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Lizardfolk Shaman
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Lords’ Alliance Guard
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Lords’ Alliance Spy
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 10
+  name: Madam Eva
+  type: Curse of Strahd
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 23
+  name: Maegera the Dawn Titan
+  type: Storm King's Thunder
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 6
+  name: Mage
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Magma Mephit
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Magmin
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Male Steeder
+  type: Out of the Abyss
+  source: Beast
+- !ruby/object:Monster
+  challenge: 10
+  name: Malformed Kraken
+  type: Dead in Thay
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 6
+  name: Mammoth
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Manes
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 3
+  name: Manticore
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Mantrap
+  type: Tomb of Annihilation
+  source: Plant
+- !ruby/object:Monster
+  challenge: 11
+  name: Marid
+  type: Monster Manual
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 16
+  name: Marilith
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 0
+  name: Markham Southwell
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 8
+  name: Marlos Urnrayle
+  type: Princes of the Apocalypse
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 3
+  name: Martial Arts Adept
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Master Thief
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Mastiff
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Maw Demon
+  type: Volo's Guide to Monsters
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 6
+  name: Medusa
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Meenlock
+  type: Volo's Guide to Monsters
+  source: Fey
+- !ruby/object:Monster
+  challenge: 1
+  name: Merfolk
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Merrow
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 5
+  name: Mezzoloth
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Mimic
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 7
+  name: Mind Flayer
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 8
+  name: Mind Flayer Arcanist
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 22
+  name: Mind Flayer Lich (Illithilich)
+  type: Volo's Guide to Monsters
+  source: Undead
+- !ruby/object:Monster
+  challenge: 5
+  name: Mindwitness
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 3
+  name: Minotaur
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Minotaur Skeleton
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 6
+  name: Miraj Vizann
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Miros Xelbrin
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Mongrelfolk
+  type: Curse of Strahd
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Monodrone
+  type: Monster Manual
+  source: Construct
+- !ruby/object:Monster
+  challenge: 11
+  name: Morkoth
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 3
+  name: Mormesk the Wraith
+  type: Lost Mine of Phandelver
+  source: Undead
+- !ruby/object:Monster
+  challenge: 6
+  name: Mouth of Grolantor
+  type: Volo's Guide to Monsters
+  source: Giant
+- !ruby/object:Monster
+  challenge: 1
+  name: Mud Mephit
+  type: Monster Manual
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Mule
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Mummy
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 15
+  name: Mummy Lord
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Mwaxanaré
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Myconid Adult
+  type: Monster Manual
+  source: Plant
+- !ruby/object:Monster
+  challenge: 2
+  name: Myconid Sovereign
+  type: Monster Manual
+  source: Plant
+- !ruby/object:Monster
+  challenge: 0
+  name: Myconid Sprout
+  type: Monster Manual
+  source: Plant
+- !ruby/object:Monster
+  challenge: 11
+  name: Naergoth Bladelord
+  type: Rise of Tiamat
+  source: Undead
+- !ruby/object:Monster
+  challenge: 13
+  name: Nalfeshnee
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Narrak
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Narth Tezrin
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Naxene Drathkala
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 9
+  name: Necromancer
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Needle Blight
+  type: Monster Manual
+  source: Plant
+- !ruby/object:Monster
+  challenge: 3
+  name: Neogi
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 1
+  name: Neogi Hatchling
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 4
+  name: Neogi Master
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 13
+  name: Neothelid
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 2
+  name: Nereid
+  type: The Hidden Shrine of Tamoachan
+  source: Fey
+- !ruby/object:Monster
+  challenge: 9
+  name: Neronvain
+  type: Rise of Tiamat
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Nezznar the Black Spider
+  type: Lost Mine of Phandelver
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Night Hag
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 3
+  name: Nightmare
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Nilbog
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 13
+  name: Nimir
+  type: Storm King's Thunder
+  source: Giant
+- !ruby/object:Monster
+  challenge: 1
+  name: Noble
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Nothic
+  type: Basic Rules
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 9
+  name: Nycaloth
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Ochre Jelly
+  type: Basic Rules
+  source: Ooze
+- !ruby/object:Monster
+  challenge: 0
+  name: Octopus
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Ogre
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 2
+  name: Ogre Zombie
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 20
+  name: Ogrémoch
+  type: Princes of the Apocalypse
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 18
+  name: Olhydra
+  type: Princes of the Apocalypse
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 3
+  name: One-Eyed Shiver
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 7
+  name: Oni
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 10
+  name: Ooze Master
+  type: Dead in Thay
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Orc
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Orc Blade of Ilneval
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Orc Claw of Luthic
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Orc Eye of Gruumsh
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Orc Hand of Yurtrus
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Orc Nurtured One of Yurtrus
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Orc Red Fang of Shargaas
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Orc War Chief
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 26
+  name: Orcus
+  type: Out of the Abyss
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Oreioth
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Oren Yogilvy
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 13
+  name: Orlekto
+  type: Storm King's Thunder
+  source: Giant
+- !ruby/object:Monster
+  challenge: 2
+  name: Orog
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Othovir
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Otyugh
+  type: Basic Rules
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 0
+  name: Owl
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Owlbear
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Ox
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Panther
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Pegasus
+  type: Basic Rules
+  source: Celestial
+- !ruby/object:Monster
+  challenge: 2
+  name: Pentadrone
+  type: Monster Manual
+  source: Construct
+- !ruby/object:Monster
+  challenge: 2
+  name: Peryton
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 3
+  name: Phantom Warrior
+  type: Curse of Strahd
+  source: Undead
+- !ruby/object:Monster
+  challenge: 3
+  name: Pharblex Spattergoo
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Phase Spider
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Pidlwick II
+  type: Curse of Strahd
+  source: Construct
+- !ruby/object:Monster
+  challenge: 1
+  name: Piercer
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 20
+  name: Pit Fiend
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Pixie
+  type: Monster Manual
+  source: Fey
+- !ruby/object:Monster
+  challenge: 16
+  name: Planetar
+  type: Basic Rules
+  source: Celestial
+- !ruby/object:Monster
+  challenge: 2
+  name: Plesiosaurus
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Poisonous Snake
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Polar Bear
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Poltergeist
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Pony
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Priest
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Pseudodragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 1
+  name: Psychic Gray Ooze
+  type: Monster Manual
+  source: Ooze
+- !ruby/object:Monster
+  challenge: 1
+  name: Pterafolk
+  type: Tomb of Annihilation
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Pteranodon
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 4
+  name: Pudding King
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 15
+  name: Purple Worm
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Purple Wormling
+  type: Storm King's Thunder
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Quadrone
+  type: Monster Manual
+  source: Construct
+- !ruby/object:Monster
+  challenge: 2
+  name: Quaggoth
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Quaggoth Spore Servant
+  type: Monster Manual
+  source: Plant
+- !ruby/object:Monster
+  challenge: 3
+  name: Quaggoth Thonot
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Quasit
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Quetzalcoatlus
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Quickling
+  type: Volo's Guide to Monsters
+  source: Fey
+- !ruby/object:Monster
+  challenge: 0
+  name: Quipper
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 10
+  name: Rahadin
+  type: Curse of Strahd
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 13
+  name: Rakshasa
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 7
+  name: Ras Nsi
+  type: Tomb of Annihilation
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 0
+  name: Rat
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 6
+  name: Rath Modar
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Raven
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Razerblast
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Red Dragon Wyrmling
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 2
+  name: Red Guard Drake
+  type: Volo's Guide to Monsters
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 5
+  name: Red Slaad
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 1
+  name: Redbrand Ruffian
+  type: Lost Mine of Phandelver
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Redcap
+  type: Volo's Guide to Monsters
+  source: Fey
+- !ruby/object:Monster
+  challenge: 1
+  name: Reef Shark
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 11
+  name: Remorhaz
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 5
+  name: Revenant
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 7
+  name: Rezmir
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Rhinoceros
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Rictavio
+  type: Curse of Strahd
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Riding Horse
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 11
+  name: Roc
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 5
+  name: Roper
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Rothé
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Rug of Smothering
+  type: Basic Rules
+  source: Construct
+- !ruby/object:Monster
+  challenge: 1
+  name: Rust Monster
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Saber-Toothed Tiger
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Sacred Stone Monk
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Sahuagin
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Sahuagin Baron
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Sahuagin Priestess
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Salamander
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Satyr
+  type: Basic Rules
+  source: Fey
+- !ruby/object:Monster
+  challenge: 1
+  name: Scarecrow
+  type: Monster Manual
+  source: Construct
+- !ruby/object:Monster
+  challenge: 0
+  name: Scorpion
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Scout
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Scrag
+  type: Rise of Tiamat
+  source: Giant
+- !ruby/object:Monster
+  challenge: 2
+  name: Sea Hag
+  type: Basic Rules
+  source: Fey
+- !ruby/object:Monster
+  challenge: 0
+  name: Sea Horse
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Sea Lion
+  type: White Plume Mountain
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Sea Spawn
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 11
+  name: Severin
+  type: Rise of Tiamat
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Shadow
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 4
+  name: Shadow Demon
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Shadow Mastiff
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Shadow Mastiff Alpha
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 13
+  name: Shaldoor
+  type: Storm King's Thunder
+  source: Giant
+- !ruby/object:Monster
+  challenge: 0
+  name: Shalvus Martholio
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Shambling Mound
+  type: Basic Rules
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Sharwyn Hucrele
+  type: The Sunless Citadel
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 7
+  name: Shield Guardian
+  type: Basic Rules
+  source: Construct
+- !ruby/object:Monster
+  challenge: 4
+  name: Shoalar Quanderil
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 8
+  name: Shoosuva
+  type: Volo's Guide to Monsters
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 0
+  name: Shrieker
+  type: Basic Rules
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Sildar Hallwinter
+  type: Lost Mine of Phandelver
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Silver Dragon Wyrmling
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 0
+  name: Sir Baric Nylef
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Sir Braford
+  type: The Sunless Citadel
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Sirac of Suzail
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Siren
+  type: Tomb of Horrors
+  source: Fey
+- !ruby/object:Monster
+  challenge: 1
+  name: Skeleton
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 3
+  name: Skyweaver
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Slaad Tadpole
+  type: Monster Manual
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 3
+  name: Slithering Tracker
+  type: Volo's Guide to Monsters
+  source: Ooze
+- !ruby/object:Monster
+  challenge: 1
+  name: Smoke Mephit
+  type: Monster Manual
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 21
+  name: Solar
+  type: Basic Rules
+  source: Celestial
+- !ruby/object:Monster
+  challenge: 5
+  name: Spawn of Kyuss
+  type: Volo's Guide to Monsters
+  source: Undead
+- !ruby/object:Monster
+  challenge: 3
+  name: Spectator
+  type: Basic Rules
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 1
+  name: Specter
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 0
+  name: Spider
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Spined Devil
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 8
+  name: Spirit Naga
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Sprite
+  type: Basic Rules
+  source: Fey
+- !ruby/object:Monster
+  challenge: 1
+  name: Spy
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Steam Mephit
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 4
+  name: Stegosaurus
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Stench Kow
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Stirge
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 7
+  name: Stone Giant
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 10
+  name: Stone Giant Dreamwalker
+  type: Volo's Guide to Monsters
+  source: Giant
+- !ruby/object:Monster
+  challenge: 10
+  name: Stone Golem
+  type: Basic Rules
+  source: Construct
+- !ruby/object:Monster
+  challenge: 12
+  name: Stone Juggernaut
+  type: Tomb of Annihilation
+  source: Construct
+- !ruby/object:Monster
+  challenge: 4
+  name: Stonemelder
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 13
+  name: Storm Giant
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 16
+  name: Storm Giant Quintessent
+  type: Volo's Guide to Monsters
+  source: Giant
+- !ruby/object:Monster
+  challenge: 15
+  name: Strahd von Zarovich
+  type: Curse of Strahd
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Strahd Zombie
+  type: Curse of Strahd
+  source: Undead
+- !ruby/object:Monster
+  challenge: 6
+  name: Strahd’s Animated Armor
+  type: Curse of Strahd
+  source: Construct
+- !ruby/object:Monster
+  challenge: 4
+  name: Succubus/Incubus
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Su-monster
+  type: Tomb of Annihilation
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Swarm of Bats
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Swarm of Cranium Rats
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Swarm of Insects
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 2
+  name: Swarm of Poisonous Snakes
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Swarm of Quippers
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Swarm of Rats
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Swarm of Ravens
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Swarm of Rot Grubs
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Swashbuckler
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Tabaxi Hunter
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Tabaxi Minstrel
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Talis the White
+  type: Hoard of the Dragon Queen
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Tanarukk
+  type: Volo's Guide to Monsters
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 30
+  name: Tarrasque
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 13
+  name: Tarul Var
+  type: Dead in Thay
+  source: Undead
+- !ruby/object:Monster
+  challenge: 4
+  name: Tecuziztecatl
+  type: The Hidden Shrine of Tamoachan
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Thayan Apprentice
+  type: Dead in Thay
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Thayan Warrior
+  type: Dead in Thay
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 10
+  name: The Abbot
+  type: Curse of Strahd
+  source: Celestial
+- !ruby/object:Monster
+  challenge: 1
+  name: Thorn Slinger
+  type: The Hidden Shrine of Tamoachan
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Thorny
+  type: Volo's Guide to Monsters
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Thri-kreen
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Thug
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Thurl Merosska
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 30
+  name: Tiamat
+  type: Rise of Tiamat
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Tiger
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 0
+  name: Tiny Servant
+  type: Xanathar's Guide to Everything
+  source: Construct
+- !ruby/object:Monster
+  challenge: 5
+  name: Tlincalli
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Topi
+  type: The Tortle Package
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Tortle
+  type: The Tortle Package
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Tortle Druid
+  type: The Tortle Package
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Transmuter
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Trapper
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 9
+  name: Treant
+  type: Basic Rules
+  source: Plant
+- !ruby/object:Monster
+  challenge: 7
+  name: Tree Blight
+  type: Curse of Strahd
+  source: Plant
+- !ruby/object:Monster
+  challenge: 0
+  name: Tressym
+  type: Storm King's Thunder
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Tribal Warrior
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Triceratops
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Tridrone
+  type: Monster Manual
+  source: Construct
+- !ruby/object:Monster
+  challenge: 1
+  name: Tri-flower Frond
+  type: Tomb of Annihilation
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Troglodyte
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Troglodyte Champion of Laogzed
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Troll
+  type: Basic Rules
+  source: Giant
+- !ruby/object:Monster
+  challenge: 1
+  name: Twig Blight
+  type: Basic Rules
+  source: Plant
+- !ruby/object:Monster
+  challenge: 8
+  name: Tyrannosaurus Rex
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 8
+  name: Tyrannosaurus Zombie
+  type: Tomb of Annihilation
+  source: Undead
+- !ruby/object:Monster
+  challenge: 9
+  name: Ulitharid
+  type: Volo's Guide to Monsters
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 13
+  name: Ultroloth
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 5
+  name: Umber Hulk
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 5
+  name: Unicorn
+  type: Basic Rules
+  source: Celestial
+- !ruby/object:Monster
+  challenge: 0
+  name: Urgala Meltimer
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Uthgardt Shaman
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 13
+  name: Vaasha
+  type: Storm King's Thunder
+  source: Giant
+- !ruby/object:Monster
+  challenge: 13
+  name: Vampire
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 5
+  name: Vampire Spawn
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 15
+  name: Vampire Spellcaster
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 15
+  name: Vampire Warrior
+  type: Monster Manual
+  source: Undead
+- !ruby/object:Monster
+  challenge: 2
+  name: Vampiric Ixitxachitl
+  type: Out of the Abyss
+  source: Aberration
+- !ruby/object:Monster
+  challenge: 3
+  name: Vampiric Mist
+  type: Dead in Thay
+  source: Undead
+- !ruby/object:Monster
+  challenge: 9
+  name: Vanifer
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Vargouille
+  type: Volo's Guide to Monsters
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 1
+  name: Vegepygmy
+  type: Volo's Guide to Monsters
+  source: Plant
+- !ruby/object:Monster
+  challenge: 2
+  name: Vegepygmy Chief
+  type: Volo's Guide to Monsters
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Velociraptor
+  type: Volo's Guide to Monsters
+  source: Beast
+- !ruby/object:Monster
+  challenge: 3
+  name: Veteran
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Veteran of the Gauntlet
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Vine Blight
+  type: Monster Manual
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Violet Fungus
+  type: Basic Rules
+  source: Plant
+- !ruby/object:Monster
+  challenge: 7
+  name: Vladimir Horngaard
+  type: Curse of Strahd
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Volothamp “Volo” Geddarm
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 6
+  name: Vrock
+  type: Basic Rules
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 0
+  name: Vulture
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 9
+  name: War Priest
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Warhorse
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 1
+  name: Warhorse Skeleton
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 4
+  name: Warlock of the Archfey
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 7
+  name: Warlock of the Fiend
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 6
+  name: Warlock of the Great Old One
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 12
+  name: Warlord
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Water Elemental
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 7
+  name: Water Elemental Myrmidon
+  type: Princes of the Apocalypse
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 3
+  name: Water Weird
+  type: Monster Manual
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 0
+  name: Weasel
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Werebear
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Wereboar
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Wererat
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: Wereraven
+  type: Curse of Strahd
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Weretiger
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Werewolf
+  type: Basic Rules
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 2
+  name: White Dragon Wyrmling
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 2
+  name: White Guard Drake
+  type: Volo's Guide to Monsters
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 10
+  name: White Maw
+  type: Dead in Thay
+  source: Ooze
+- !ruby/object:Monster
+  challenge: 2
+  name: Wiggan Nettlebee
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Wight
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 2
+  name: Will-o'-Wisp
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 3
+  name: Windharrow
+  type: Princes of the Apocalypse
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Winged Kobold
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Winter Wolf
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Wolf
+  type: Basic Rules
+  source: Beast
+- !ruby/object:Monster
+  challenge: 5
+  name: Wood Woad
+  type: Volo's Guide to Monsters
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Worg
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 5
+  name: Wraith
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 6
+  name: Wyvern
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 7
+  name: Xandala
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 5
+  name: Xorn
+  type: Basic Rules
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 1
+  name: Xvart
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Xvart Speaker
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Xvart Warlock of Raxivort
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 4
+  name: Yakfolk Priest
+  type: Storm King's Thunder
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 3
+  name: Yakfolk Warrior
+  type: Storm King's Thunder
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 18
+  name: Yan-C-Bin
+  type: Princes of the Apocalypse
+  source: Elemental
+- !ruby/object:Monster
+  challenge: 24
+  name: Yeenoghu
+  type: Out of the Abyss
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 2
+  name: Yellow Musk Creeper
+  type: Tomb of Annihilation
+  source: Plant
+- !ruby/object:Monster
+  challenge: 1
+  name: Yellow Musk Zombie
+  type: Tomb of Annihilation
+  source: Undead
+- !ruby/object:Monster
+  challenge: 4
+  name: Yestabrod
+  type: Out of the Abyss
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 4
+  name: Yeth Hound
+  type: Volo's Guide to Monsters
+  source: Fey
+- !ruby/object:Monster
+  challenge: 3
+  name: Yeti
+  type: Basic Rules
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 10
+  name: Yochlol
+  type: Monster Manual
+  source: Fiend
+- !ruby/object:Monster
+  challenge: 7
+  name: Young Black Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 9
+  name: Young Blue Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 6
+  name: Young Brass Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 8
+  name: Young Bronze Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 7
+  name: Young Copper Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 10
+  name: Young Gold Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 8
+  name: Young Green Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 10
+  name: Young Red Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 13
+  name: Young Red Shadow Dragon
+  type: Monster Manual
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 5
+  name: Young Remorhaz
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 9
+  name: Young Silver Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 6
+  name: Young White Dragon
+  type: Basic Rules
+  source: Dragon
+- !ruby/object:Monster
+  challenge: 7
+  name: Yuan-ti Abomination
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 12
+  name: Yuan-ti Anathema
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 2
+  name: Yuan-ti Broodguard
+  type: Volo's Guide to Monsters
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 3
+  name: Yuan-ti Malison
+  type: Monster Manual
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 4
+  name: Yuan-ti Mind Whisperer
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 4
+  name: Yuan-ti Nightmare Speaker
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 5
+  name: Yuan-ti Pit Master
+  type: Volo's Guide to Monsters
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 1
+  name: Yuan-ti Pureblood
+  type: Monster Manual
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Yusdrayl
+  type: The Sunless Citadel
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Zhentarim Thug
+  type: Out of the Abyss
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 0
+  name: Zi Liang
+  type: Storm King's Thunder
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 8
+  name: Zindar
+  type: Tomb of Annihilation
+  source: Humanoid
+- !ruby/object:Monster
+  challenge: 1
+  name: Zombie
+  type: Basic Rules
+  source: Undead
+- !ruby/object:Monster
+  challenge: 1
+  name: Zorbo
+  type: Tomb of Annihilation
+  source: Monstrosity
+- !ruby/object:Monster
+  challenge: 23
+  name: Zuggtmoy
+  type: Out of the Abyss
+  source: Fiend
