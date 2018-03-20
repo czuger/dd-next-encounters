@@ -10,7 +10,7 @@
   type: Humanoid
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Aboleth
   type: Aberration
   source: Basic Rules
@@ -20,7 +20,7 @@
   type: Monstrosity
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Acererak
   type: Undead
   source: Tomb of Annihilation
@@ -30,57 +30,57 @@
   type: Humanoid
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.25
+  challenge: 14
   name: Adult Black Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.14285714285714285
+  challenge: 17
   name: Adult Blue Dracolich
   type: Undead
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.16666666666666666
+  challenge: 16
   name: Adult Blue Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Adult Brass Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.2
+  challenge: 15
   name: Adult Bronze Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.25
+  challenge: 14
   name: Adult Copper Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.14285714285714285
+  challenge: 17
   name: Adult Gold Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.2
+  challenge: 15
   name: Adult Green Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.14285714285714285
+  challenge: 17
   name: Adult Red Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.16666666666666666
+  challenge: 16
   name: Adult Silver Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Adult White Dragon
   type: Dragon
   source: Basic Rules
@@ -115,7 +115,7 @@
   type: Monstrosity
   source: Tomb of Annihilation
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Alhoon
   type: Undead
   source: Volo's Guide to Monsters
@@ -135,57 +135,57 @@
   type: Dragon
   source: Hoard of the Dragon Queen
 - !ruby/object:Monster
-  challenge: 2.0
+  challenge: 21
   name: Ancient Black Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Ancient Blue Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 20
   name: Ancient Brass Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 22
   name: Ancient Bronze Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 2.0
+  challenge: 21
   name: Ancient Copper Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 24
   name: Ancient Gold Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 22
   name: Ancient Green Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 24
   name: Ancient Red Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Ancient Silver Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 20
   name: Ancient White Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.14285714285714285
+  challenge: 17
   name: Androsphinx
   type: Monstrosity
   source: Basic Rules
@@ -230,12 +230,12 @@
   type: Humanoid
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 12
   name: Arcanaloth
   type: Fiend
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 12
   name: Archdruid
   type: Humanoid
   source: Volo's Guide to Monsters
@@ -245,7 +245,7 @@
   type: Humanoid
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 12
   name: Archmage
   type: Humanoid
   source: Basic Rules
@@ -265,7 +265,7 @@
   type: Plant
   source: Tomb of Annihilation
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Atropal
   type: Undead
   source: Tomb of Annihilation
@@ -315,12 +315,12 @@
   type: Elemental
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Baba Lysaga
   type: Humanoid
   source: Curse of Strahd
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Baba Lysaga’s Creeping Hut
   type: Construct
   source: Curse of Strahd
@@ -340,7 +340,7 @@
   type: Beast
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.1111111111111111
+  challenge: 19
   name: Balor
   type: Fiend
   source: Basic Rules
@@ -365,7 +365,7 @@
   type: Undead
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Baphomet
   type: Fiend
   source: Out of the Abyss
@@ -415,12 +415,12 @@
   type: Fiend
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Behir
   type: Monstrosity
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Beholder
   type: Aberration
   source: Monster Manual
@@ -710,7 +710,7 @@
   type: Giant
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Cloud Giant Smiling One
   type: Giant
   source: Volo's Guide to Monsters
@@ -800,7 +800,7 @@
   type: Giant
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Dao
   type: Elemental
   source: Monster Manual
@@ -840,22 +840,22 @@
   type: Monstrosity
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Death Kiss
   type: Aberration
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.14285714285714285
+  challenge: 17
   name: Death Knight
   type: Undead
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Death Slaad
   type: Aberration
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.25
+  challenge: 14
   name: Death Tyrant
   type: Undead
   source: Monster Manual
@@ -895,12 +895,12 @@
   type: Beast
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.125
+  challenge: 18
   name: Demilich
   type: Undead
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 26
   name: Demogorgon
   type: Fiend
   source: Out of the Abyss
@@ -915,12 +915,12 @@
   type: Humanoid
   source: Out of the Abyss
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Deva
   type: Celestial
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Devourer
   type: Fiend
   source: Volo's Guide to Monsters
@@ -945,7 +945,7 @@
   type: Humanoid
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Djinni
   type: Elemental
   source: Basic Rules
@@ -970,7 +970,7 @@
   type: Beast
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.14285714285714285
+  challenge: 17
   name: Dragon Turtle
   type: Dragon
   source: Basic Rules
@@ -1145,12 +1145,12 @@
   type: Monstrosity
   source: Tomb of Annihilation
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Efreeti
   type: Elemental
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.25
+  challenge: 14
   name: Elder Brain
   type: Aberration
   source: Volo's Guide to Monsters
@@ -1175,7 +1175,7 @@
   type: Humanoid
   source: Out of the Abyss
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Empyrean
   type: Celestial
   source: Monster Manual
@@ -1185,7 +1185,7 @@
   type: Humanoid
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 12
   name: Erinyes
   type: Fiend
   source: Basic Rules
@@ -1265,7 +1265,7 @@
   type: Giant
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.25
+  challenge: 14
   name: Fire Giant Dreadnought
   type: Giant
   source: Volo's Guide to Monsters
@@ -1340,7 +1340,7 @@
   type: Giant
   source: Hoard of the Dragon Queen
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Fraz-Urb’luu
   type: Fiend
   source: Out of the Abyss
@@ -1350,7 +1350,7 @@
   type: Beast
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Froghemoth
   type: Monstrosity
   source: Volo's Guide to Monsters
@@ -1360,7 +1360,7 @@
   type: Giant
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 12
   name: Frost Giant Everlasting One
   type: Giant
   source: Volo's Guide to Monsters
@@ -1505,7 +1505,7 @@
   type: Beast
   source: Dungeon Master's Guide
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Giant Four-Armed Gargoyle
   type: Elemental
   source: Tomb of Annihilation
@@ -1730,7 +1730,7 @@
   type: Monstrosity
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.14285714285714285
+  challenge: 17
   name: Goristro
   type: Fiend
   source: Monster Manual
@@ -1745,7 +1745,7 @@
   type: Aberration
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 24
   name: Graz’zt
   type: Fiend
   source: Out of the Abyss
@@ -1835,7 +1835,7 @@
   type: Dragon
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Guardian Naga
   type: Monstrosity
   source: Basic Rules
@@ -1845,7 +1845,7 @@
   type: Construct
   source: Curse of Strahd
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Gynosphinx
   type: Monstrosity
   source: Basic Rules
@@ -1960,7 +1960,7 @@
   type: Plant
   source: Out of the Abyss
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Horned Devil
   type: Fiend
   source: Basic Rules
@@ -2000,7 +2000,7 @@
   type: Beast
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.25
+  challenge: 14
   name: Ice Devil
   type: Fiend
   source: Basic Rules
@@ -2025,7 +2025,7 @@
   type: Humanoid
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.1111111111111111
+  challenge: 19
   name: Imix
   type: Elemental
   source: Princes of the Apocalypse
@@ -2045,7 +2045,7 @@
   type: Elemental
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.16666666666666666
+  challenge: 16
   name: Iron Golem
   type: Construct
   source: Basic Rules
@@ -2060,7 +2060,7 @@
   type: Aberration
   source: Out of the Abyss
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Iymrith
   type: Dragon
   source: Storm King's Thunder
@@ -2090,7 +2090,7 @@
   type: Humanoid
   source: Hoard of the Dragon Queen
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Juiblex
   type: Fiend
   source: Out of the Abyss
@@ -2125,7 +2125,7 @@
   type: Beast
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 12
   name: Ki-rin
   type: Celestial
   source: Volo's Guide to Monsters
@@ -2160,7 +2160,7 @@
   type: Fey
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Kraken
   type: Monstrosity
   source: Basic Rules
@@ -2220,7 +2220,7 @@
   type: Humanoid
   source: Tomb of Annihilation
 - !ruby/object:Monster
-  challenge: 2.0
+  challenge: 21
   name: Lich
   type: Undead
   source: Basic Rules
@@ -2265,12 +2265,12 @@
   type: Humanoid
   source: Out of the Abyss
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Madam Eva
   type: Humanoid
   source: Curse of Strahd
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Maegera the Dawn Titan
   type: Elemental
   source: Storm King's Thunder
@@ -2295,7 +2295,7 @@
   type: Beast
   source: Out of the Abyss
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Malformed Kraken
   type: Monstrosity
   source: Dead in Thay
@@ -2320,12 +2320,12 @@
   type: Plant
   source: Tomb of Annihilation
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Marid
   type: Elemental
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.16666666666666666
+  challenge: 16
   name: Marilith
   type: Fiend
   source: Basic Rules
@@ -2400,7 +2400,7 @@
   type: Aberration
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 22
   name: Mind Flayer Lich (Illithilich)
   type: Undead
   source: Volo's Guide to Monsters
@@ -2440,7 +2440,7 @@
   type: Construct
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Morkoth
   type: Aberration
   source: Volo's Guide to Monsters
@@ -2470,7 +2470,7 @@
   type: Undead
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.2
+  challenge: 15
   name: Mummy Lord
   type: Undead
   source: Basic Rules
@@ -2495,12 +2495,12 @@
   type: Plant
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Naergoth Bladelord
   type: Undead
   source: Rise of Tiamat
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Nalfeshnee
   type: Fiend
   source: Basic Rules
@@ -2545,7 +2545,7 @@
   type: Aberration
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Neothelid
   type: Aberration
   source: Volo's Guide to Monsters
@@ -2580,7 +2580,7 @@
   type: Humanoid
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Nimir
   type: Giant
   source: Storm King's Thunder
@@ -2620,12 +2620,12 @@
   type: Undead
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 20
   name: Ogrémoch
   type: Elemental
   source: Princes of the Apocalypse
 - !ruby/object:Monster
-  challenge: 0.125
+  challenge: 18
   name: Olhydra
   type: Elemental
   source: Princes of the Apocalypse
@@ -2640,7 +2640,7 @@
   type: Giant
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Ooze Master
   type: Undead
   source: Dead in Thay
@@ -2685,7 +2685,7 @@
   type: Humanoid
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 26
   name: Orcus
   type: Fiend
   source: Out of the Abyss
@@ -2700,7 +2700,7 @@
   type: Humanoid
   source: Storm King's Thunder
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Orlekto
   type: Giant
   source: Storm King's Thunder
@@ -2780,7 +2780,7 @@
   type: Monstrosity
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 20
   name: Pit Fiend
   type: Fiend
   source: Basic Rules
@@ -2790,7 +2790,7 @@
   type: Fey
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.16666666666666666
+  challenge: 16
   name: Planetar
   type: Celestial
   source: Basic Rules
@@ -2850,7 +2850,7 @@
   type: Humanoid
   source: Out of the Abyss
 - !ruby/object:Monster
-  challenge: 0.2
+  challenge: 15
   name: Purple Worm
   type: Monstrosity
   source: Basic Rules
@@ -2900,12 +2900,12 @@
   type: Beast
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Rahadin
   type: Humanoid
   source: Curse of Strahd
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Rakshasa
   type: Fiend
   source: Basic Rules
@@ -2965,7 +2965,7 @@
   type: Beast
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Remorhaz
   type: Monstrosity
   source: Basic Rules
@@ -2995,7 +2995,7 @@
   type: Beast
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Roc
   type: Monstrosity
   source: Basic Rules
@@ -3095,7 +3095,7 @@
   type: Humanoid
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 1.0
+  challenge: 11
   name: Severin
   type: Humanoid
   source: Rise of Tiamat
@@ -3120,7 +3120,7 @@
   type: Monstrosity
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Shaldoor
   type: Giant
   source: Storm King's Thunder
@@ -3215,7 +3215,7 @@
   type: Elemental
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 2.0
+  challenge: 21
   name: Solar
   type: Celestial
   source: Basic Rules
@@ -3285,17 +3285,17 @@
   type: Giant
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Stone Giant Dreamwalker
   type: Giant
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Stone Golem
   type: Construct
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 12
   name: Stone Juggernaut
   type: Construct
   source: Tomb of Annihilation
@@ -3305,17 +3305,17 @@
   type: Humanoid
   source: Princes of the Apocalypse
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Storm Giant
   type: Giant
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.16666666666666666
+  challenge: 16
   name: Storm Giant Quintessent
   type: Giant
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.2
+  challenge: 15
   name: Strahd von Zarovich
   type: Undead
   source: Curse of Strahd
@@ -3405,12 +3405,12 @@
   type: Fiend
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 30
   name: Tarrasque
   type: Monstrosity
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Tarul Var
   type: Undead
   source: Dead in Thay
@@ -3430,7 +3430,7 @@
   type: Humanoid
   source: Dead in Thay
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: The Abbot
   type: Celestial
   source: Curse of Strahd
@@ -3460,7 +3460,7 @@
   type: Humanoid
   source: Princes of the Apocalypse
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 30
   name: Tiamat
   type: Fiend
   source: Rise of Tiamat
@@ -3575,7 +3575,7 @@
   type: Aberration
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Ultroloth
   type: Fiend
   source: Monster Manual
@@ -3600,12 +3600,12 @@
   type: Humanoid
   source: Storm King's Thunder
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Vaasha
   type: Giant
   source: Storm King's Thunder
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Vampire
   type: Undead
   source: Basic Rules
@@ -3615,12 +3615,12 @@
   type: Undead
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.2
+  challenge: 15
   name: Vampire Spellcaster
   type: Undead
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.2
+  challenge: 15
   name: Vampire Warrior
   type: Undead
   source: Monster Manual
@@ -3730,7 +3730,7 @@
   type: Humanoid
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 12
   name: Warlord
   type: Humanoid
   source: Volo's Guide to Monsters
@@ -3795,7 +3795,7 @@
   type: Dragon
   source: Volo's Guide to Monsters
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: White Maw
   type: Ooze
   source: Dead in Thay
@@ -3890,12 +3890,12 @@
   type: Monstrosity
   source: Storm King's Thunder
 - !ruby/object:Monster
-  challenge: 0.125
+  challenge: 18
   name: Yan-C-Bin
   type: Elemental
   source: Princes of the Apocalypse
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 24
   name: Yeenoghu
   type: Fiend
   source: Out of the Abyss
@@ -3925,7 +3925,7 @@
   type: Monstrosity
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Yochlol
   type: Fiend
   source: Monster Manual
@@ -3955,7 +3955,7 @@
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Young Gold Dragon
   type: Dragon
   source: Basic Rules
@@ -3965,12 +3965,12 @@
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: .inf
+  challenge: 10
   name: Young Red Dragon
   type: Dragon
   source: Basic Rules
 - !ruby/object:Monster
-  challenge: 0.3333333333333333
+  challenge: 13
   name: Young Red Shadow Dragon
   type: Dragon
   source: Monster Manual
@@ -3995,7 +3995,7 @@
   type: Monstrosity
   source: Monster Manual
 - !ruby/object:Monster
-  challenge: 0.5
+  challenge: 12
   name: Yuan-ti Anathema
   type: Monstrosity
   source: Volo's Guide to Monsters
@@ -4060,7 +4060,7 @@
   type: Monstrosity
   source: Tomb of Annihilation
 - !ruby/object:Monster
-  challenge: 0.6666666666666666
+  challenge: 23
   name: Zuggtmoy
   type: Fiend
   source: Out of the Abyss

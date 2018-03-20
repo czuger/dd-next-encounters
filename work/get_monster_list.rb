@@ -14,7 +14,9 @@ next_page = 'monsters'
 def read_page( page, monsters )
   page.css( '//div[data-type=monsters]' ).each do |monster|
     challenge = monster.css( 'div.monster-challenge' ).children.children.text
-    challenge = challenge.match( /(\d)\/?(\d)?/ )
+    challenge = challenge.match( /(\d+)\/?(\d)?/ )
+    # p challenge
+
     numerator = challenge[1]
     denominator = challenge[2]
 
@@ -23,6 +25,8 @@ def read_page( page, monsters )
     else
       challenge = numerator.to_i
     end
+
+    # p challenge
 
     name = monster.css( 'div.monster-name' ).children.children.children.text
     source = monster.css( 'div.monster-name' ).children.children.last.text
