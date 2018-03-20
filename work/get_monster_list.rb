@@ -3,6 +3,9 @@ require 'open-uri'
 require 'pp'
 require 'yaml'
 
+# Best nokogiri tuto
+# http://ruby.bastardsbook.com/chapters/html-parsing/
+
 require_relative '../lib/monster'
 
 base_page = 'https://www.dndbeyond.com/'
@@ -10,7 +13,17 @@ next_page = 'monsters'
 
 def read_page( page, monsters )
   page.css( '//div[data-type=monsters]' ).each do |monster|
-    challenge = monster.css( 'div.monster-challenge' ).children.children.text.to_i
+    challenge = monster.css( 'div.monster-challenge' ).children.children.text
+    challenge = challenge.match( /(\d)\/?(\d)?/ )
+    numerator = challenge[1]
+    denominator = challenge[2]
+
+    if denominator
+      challenge = numerator.to_f / denominator.to_f
+    else
+      challenge = numerator.to_i
+    end
+
     name = monster.css( 'div.monster-name' ).children.children.children.text
     source = monster.css( 'div.monster-name' ).children.children.last.text
 
