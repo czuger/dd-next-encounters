@@ -18,7 +18,7 @@ def read_page( page, monsters )
 
     # p monster.css( 'div.monster-environment' ).children.children.text
 
-    monsters << Monster.new( challenge, name, source, type )
+    monsters << Monster.new( challenge, name, type, source )
   end
   monsters
 end

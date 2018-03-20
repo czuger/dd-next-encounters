@@ -1,6 +1,9 @@
 # require 'constructor'
 
 class Monster
+
+  attr_reader :challenge, :name, :type, :source
+
   def initialize( challenge, name, type, source )
     set_instance_variables(binding, *local_variables)
   end
