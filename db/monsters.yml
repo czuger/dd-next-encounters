@@ -4,4063 +4,4876 @@
   name: Aarakocra
   type: Humanoid
   source: Monster Manual
+  key: :aarakocra
 - !ruby/object:Monster
   challenge: 9
   name: Abjurer
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :abjurer
 - !ruby/object:Monster
   challenge: 10
   name: Aboleth
   type: Aberration
   source: Basic Rules
+  key: :aboleth
 - !ruby/object:Monster
   challenge: 9
   name: Abominable Yeti
   type: Monstrosity
   source: Monster Manual
+  key: :abominable_yeti
 - !ruby/object:Monster
   challenge: 23
   name: Acererak
   type: Undead
   source: Tomb of Annihilation
+  key: :acererak
 - !ruby/object:Monster
   challenge: 0.25
   name: Acolyte
   type: Humanoid
   source: Basic Rules
+  key: :acolyte
 - !ruby/object:Monster
   challenge: 14
   name: Adult Black Dragon
   type: Dragon
   source: Basic Rules
+  key: :adult_black_dragon
 - !ruby/object:Monster
   challenge: 17
   name: Adult Blue Dracolich
   type: Undead
   source: Monster Manual
+  key: :adult_blue_dracolich
 - !ruby/object:Monster
   challenge: 16
   name: Adult Blue Dragon
   type: Dragon
   source: Basic Rules
+  key: :adult_blue_dragon
 - !ruby/object:Monster
   challenge: 13
   name: Adult Brass Dragon
   type: Dragon
   source: Basic Rules
+  key: :adult_brass_dragon
 - !ruby/object:Monster
   challenge: 15
   name: Adult Bronze Dragon
   type: Dragon
   source: Basic Rules
+  key: :adult_bronze_dragon
 - !ruby/object:Monster
   challenge: 14
   name: Adult Copper Dragon
   type: Dragon
   source: Basic Rules
+  key: :adult_copper_dragon
 - !ruby/object:Monster
   challenge: 17
   name: Adult Gold Dragon
   type: Dragon
   source: Basic Rules
+  key: :adult_gold_dragon
 - !ruby/object:Monster
   challenge: 15
   name: Adult Green Dragon
   type: Dragon
   source: Basic Rules
+  key: :adult_green_dragon
 - !ruby/object:Monster
   challenge: 17
   name: Adult Red Dragon
   type: Dragon
   source: Basic Rules
+  key: :adult_red_dragon
 - !ruby/object:Monster
   challenge: 16
   name: Adult Silver Dragon
   type: Dragon
   source: Basic Rules
+  key: :adult_silver_dragon
 - !ruby/object:Monster
   challenge: 13
   name: Adult White Dragon
   type: Dragon
   source: Basic Rules
+  key: :adult_white_dragon
 - !ruby/object:Monster
   challenge: 7
   name: Aerisi Kalinoth
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :aerisi_kalinoth
 - !ruby/object:Monster
   challenge: 5
   name: Air Elemental
   type: Elemental
   source: Basic Rules
+  key: :air_elemental
 - !ruby/object:Monster
   challenge: 7
   name: Air Elemental Myrmidon
   type: Elemental
   source: Princes of the Apocalypse
+  key: :air_elemental_myrmidon
 - !ruby/object:Monster
   challenge: 1
   name: Albino Dwarf Spirit Warrior
   type: Humanoid
   source: Tomb of Annihilation
+  key: :albino_dwarf_spirit_warrior
 - !ruby/object:Monster
   challenge: 0.25
   name: Albino Dwarf Warrior
   type: Humanoid
   source: Tomb of Annihilation
+  key: :albino_dwarf_warrior
 - !ruby/object:Monster
   challenge: 1
   name: Aldani (Lobsterfolk)
   type: Monstrosity
   source: Tomb of Annihilation
+  key: :aldani_(lobsterfolk)
 - !ruby/object:Monster
   challenge: 10
   name: Alhoon
   type: Undead
   source: Volo's Guide to Monsters
+  key: :alhoon
 - !ruby/object:Monster
   challenge: 2
   name: Allosaurus
   type: Beast
   source: Basic Rules
+  key: :allosaurus
 - !ruby/object:Monster
   challenge: 0
   name: Almiraj
   type: Beast
   source: Tomb of Annihilation
+  key: :almiraj
 - !ruby/object:Monster
   challenge: 0.5
   name: Ambush Drake
   type: Dragon
   source: Hoard of the Dragon Queen
+  key: :ambush_drake
 - !ruby/object:Monster
   challenge: 21
   name: Ancient Black Dragon
   type: Dragon
   source: Basic Rules
+  key: :ancient_black_dragon
 - !ruby/object:Monster
   challenge: 23
   name: Ancient Blue Dragon
   type: Dragon
   source: Basic Rules
+  key: :ancient_blue_dragon
 - !ruby/object:Monster
   challenge: 20
   name: Ancient Brass Dragon
   type: Dragon
   source: Basic Rules
+  key: :ancient_brass_dragon
 - !ruby/object:Monster
   challenge: 22
   name: Ancient Bronze Dragon
   type: Dragon
   source: Basic Rules
+  key: :ancient_bronze_dragon
 - !ruby/object:Monster
   challenge: 21
   name: Ancient Copper Dragon
   type: Dragon
   source: Basic Rules
+  key: :ancient_copper_dragon
 - !ruby/object:Monster
   challenge: 24
   name: Ancient Gold Dragon
   type: Dragon
   source: Basic Rules
+  key: :ancient_gold_dragon
 - !ruby/object:Monster
   challenge: 22
   name: Ancient Green Dragon
   type: Dragon
   source: Basic Rules
+  key: :ancient_green_dragon
 - !ruby/object:Monster
   challenge: 24
   name: Ancient Red Dragon
   type: Dragon
   source: Basic Rules
+  key: :ancient_red_dragon
 - !ruby/object:Monster
   challenge: 23
   name: Ancient Silver Dragon
   type: Dragon
   source: Basic Rules
+  key: :ancient_silver_dragon
 - !ruby/object:Monster
   challenge: 20
   name: Ancient White Dragon
   type: Dragon
   source: Basic Rules
+  key: :ancient_white_dragon
 - !ruby/object:Monster
   challenge: 17
   name: Androsphinx
   type: Monstrosity
   source: Basic Rules
+  key: :androsphinx
 - !ruby/object:Monster
   challenge: 1
   name: Animated Armor
   type: Construct
   source: Basic Rules
+  key: :animated_armor
 - !ruby/object:Monster
   challenge: 2
   name: Animated Table
   type: Construct
   source: The Forge of Fury
+  key: :animated_table
 - !ruby/object:Monster
   challenge: 2
   name: Ankheg
   type: Monstrosity
   source: Basic Rules
+  key: :ankheg
 - !ruby/object:Monster
   challenge: 3
   name: Ankylosaurus
   type: Beast
   source: Basic Rules
+  key: :ankylosaurus
 - !ruby/object:Monster
   challenge: 3
   name: Ankylosaurus Zombie
   type: Undead
   source: Tomb of Annihilation
+  key: :ankylosaurus_zombie
 - !ruby/object:Monster
   challenge: 6
   name: Annis Hag
   type: Fey
   source: Volo's Guide to Monsters
+  key: :annis_hag
 - !ruby/object:Monster
   challenge: 0.5
   name: Ape
   type: Beast
   source: Basic Rules
+  key: :ape
 - !ruby/object:Monster
   challenge: 0.25
   name: Apprentice Wizard
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :apprentice_wizard
 - !ruby/object:Monster
   challenge: 12
   name: Arcanaloth
   type: Fiend
   source: Monster Manual
+  key: :arcanaloth
 - !ruby/object:Monster
   challenge: 12
   name: Archdruid
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :archdruid
 - !ruby/object:Monster
   challenge: 3
   name: Archer
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :archer
 - !ruby/object:Monster
   challenge: 12
   name: Archmage
   type: Humanoid
   source: Basic Rules
+  key: :archmage
 - !ruby/object:Monster
   challenge: 7
   name: Artus Cimber
   type: Humanoid
   source: Tomb of Annihilation
+  key: :artus_cimber
 - !ruby/object:Monster
   challenge: 8
   name: Assassin
   type: Humanoid
   source: Basic Rules
+  key: :assassin
 - !ruby/object:Monster
   challenge: 3
   name: Assassin Vine
   type: Plant
   source: Tomb of Annihilation
+  key: :assassin_vine
 - !ruby/object:Monster
   challenge: 13
   name: Atropal
   type: Undead
   source: Tomb of Annihilation
+  key: :atropal
 - !ruby/object:Monster
   challenge: 0
   name: Augrek Brighthelm
   type: Humanoid
   source: Storm King's Thunder
+  key: :augrek_brighthelm
 - !ruby/object:Monster
   challenge: 2
   name: Aurochs
   type: Beast
   source: Volo's Guide to Monsters
+  key: :aurochs
 - !ruby/object:Monster
   challenge: 0
   name: Avatar of Death
   type: Undead
   source: Dungeon Master's Guide
+  key: :avatar_of_death
 - !ruby/object:Monster
   challenge: 0
   name: Awakened Shrub
   type: Plant
   source: Basic Rules
+  key: :awakened_shrub
 - !ruby/object:Monster
   challenge: 2
   name: Awakened Tree
   type: Plant
   source: Basic Rules
+  key: :awakened_tree
 - !ruby/object:Monster
   challenge: 2
   name: Awakened Zurkhwood
   type: Plant
   source: Out of the Abyss
+  key: :awakened_zurkhwood
 - !ruby/object:Monster
   challenge: 0.25
   name: Axe Beak
   type: Beast
   source: Basic Rules
+  key: :axe_beak
 - !ruby/object:Monster
   challenge: 4
   name: Azbara Jos
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :azbara_jos
 - !ruby/object:Monster
   challenge: 2
   name: Azer
   type: Elemental
   source: Basic Rules
+  key: :azer
 - !ruby/object:Monster
   challenge: 11
   name: Baba Lysaga
   type: Humanoid
   source: Curse of Strahd
+  key: :baba_lysaga
 - !ruby/object:Monster
   challenge: 11
   name: Baba Lysaga’s Creeping Hut
   type: Construct
   source: Curse of Strahd
+  key: :baba_lysaga’s_creeping_hut
 - !ruby/object:Monster
   challenge: 4
   name: Babau
   type: Fiend
   source: Volo's Guide to Monsters
+  key: :babau
 - !ruby/object:Monster
   challenge: 0
   name: Baboon
   type: Beast
   source: Basic Rules
+  key: :baboon
 - !ruby/object:Monster
   challenge: 0
   name: Badger
   type: Beast
   source: Basic Rules
+  key: :badger
 - !ruby/object:Monster
   challenge: 19
   name: Balor
   type: Fiend
   source: Basic Rules
+  key: :balor
 - !ruby/object:Monster
   challenge: 5
   name: Banderhobb
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :banderhobb
 - !ruby/object:Monster
   challenge: 0.125
   name: Bandit
   type: Humanoid
   source: Basic Rules
+  key: :bandit
 - !ruby/object:Monster
   challenge: 2
   name: Bandit Captain
   type: Humanoid
   source: Basic Rules
+  key: :bandit_captain
 - !ruby/object:Monster
   challenge: 4
   name: Banshee
   type: Undead
   source: Basic Rules
+  key: :banshee
 - !ruby/object:Monster
   challenge: 23
   name: Baphomet
   type: Fiend
   source: Out of the Abyss
+  key: :baphomet
 - !ruby/object:Monster
   challenge: 5
   name: Barbed Devil
   type: Fiend
   source: Basic Rules
+  key: :barbed_devil
 - !ruby/object:Monster
   challenge: 2
   name: Bard
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :bard
 - !ruby/object:Monster
   challenge: 4
   name: Barghest
   type: Fiend
   source: Volo's Guide to Monsters
+  key: :barghest
 - !ruby/object:Monster
   challenge: 5
   name: Barlgura
   type: Fiend
   source: Monster Manual
+  key: :barlgura
 - !ruby/object:Monster
   challenge: 0.5
   name: Barovian Witch
   type: Humanoid
   source: Curse of Strahd
+  key: :barovian_witch
 - !ruby/object:Monster
   challenge: 3
   name: Basilisk
   type: Monstrosity
   source: Basic Rules
+  key: :basilisk
 - !ruby/object:Monster
   challenge: 8
   name: Bastian Thermandar
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :bastian_thermandar
 - !ruby/object:Monster
   challenge: 0
   name: Bat
   type: Beast
   source: Basic Rules
+  key: :bat
 - !ruby/object:Monster
   challenge: 3
   name: Bearded Devil
   type: Fiend
   source: Basic Rules
+  key: :bearded_devil
 - !ruby/object:Monster
   challenge: 11
   name: Behir
   type: Monstrosity
   source: Basic Rules
+  key: :behir
 - !ruby/object:Monster
   challenge: 13
   name: Beholder
   type: Aberration
   source: Monster Manual
+  key: :beholder
 - !ruby/object:Monster
   challenge: 5
   name: Beholder Zombie
   type: Undead
   source: Monster Manual
+  key: :beholder_zombie
 - !ruby/object:Monster
   challenge: 0
   name: Beldora
   type: Humanoid
   source: Storm King's Thunder
+  key: :beldora
 - !ruby/object:Monster
   challenge: 2
   name: Berserker
   type: Humanoid
   source: Basic Rules
+  key: :berserker
 - !ruby/object:Monster
   challenge: 7
   name: Bheur Hag
   type: Fey
   source: Volo's Guide to Monsters
+  key: :bheur_hag
 - !ruby/object:Monster
   challenge: 0.5
   name: Black Bear
   type: Beast
   source: Basic Rules
+  key: :black_bear
 - !ruby/object:Monster
   challenge: 2
   name: Black Dragon Wyrmling
   type: Dragon
   source: Basic Rules
+  key: :black_dragon_wyrmling
 - !ruby/object:Monster
   challenge: 2
   name: Black Earth Guard
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :black_earth_guard
 - !ruby/object:Monster
   challenge: 3
   name: Black Earth Priest
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :black_earth_priest
 - !ruby/object:Monster
   challenge: 2
   name: Black Guard Drake
   type: Dragon
   source: Volo's Guide to Monsters
+  key: :black_guard_drake
 - !ruby/object:Monster
   challenge: 4
   name: Black Pudding
   type: Ooze
   source: Basic Rules
+  key: :black_pudding
 - !ruby/object:Monster
   challenge: 8
   name: Blackguard
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :blackguard
 - !ruby/object:Monster
   challenge: 9
   name: Blagothkus
   type: Giant
   source: Hoard of the Dragon Queen
+  key: :blagothkus
 - !ruby/object:Monster
   challenge: 0.25
   name: Blink Dog
   type: Fey
   source: Basic Rules
+  key: :blink_dog
 - !ruby/object:Monster
   challenge: 0.125
   name: Blood Hawk
   type: Beast
   source: Basic Rules
+  key: :blood_hawk
 - !ruby/object:Monster
   challenge: 3
   name: Blue Dragon Wyrmling
   type: Dragon
   source: Basic Rules
+  key: :blue_dragon_wyrmling
 - !ruby/object:Monster
   challenge: 2
   name: Blue Guard Drake
   type: Dragon
   source: Volo's Guide to Monsters
+  key: :blue_guard_drake
 - !ruby/object:Monster
   challenge: 7
   name: Blue Slaad
   type: Aberration
   source: Monster Manual
+  key: :blue_slaad
 - !ruby/object:Monster
   challenge: 0.25
   name: Boar
   type: Beast
   source: Basic Rules
+  key: :boar
 - !ruby/object:Monster
   challenge: 6
   name: Bodak
   type: Undead
   source: Volo's Guide to Monsters
+  key: :bodak
 - !ruby/object:Monster
   challenge: 0.125
   name: Boggle
   type: Fey
   source: Volo's Guide to Monsters
+  key: :boggle
 - !ruby/object:Monster
   challenge: 9
   name: Bone Devil
   type: Fiend
   source: Basic Rules
+  key: :bone_devil
 - !ruby/object:Monster
   challenge: 4
   name: Bone Naga
   type: Undead
   source: Monster Manual
+  key: :bone_naga
 - !ruby/object:Monster
   challenge: 1
   name: Brass Dragon Wyrmling
   type: Dragon
   source: Basic Rules
+  key: :brass_dragon_wyrmling
 - !ruby/object:Monster
   challenge: 0.125
   name: Bridesmaid of Zuggtmoy
   type: Plant
   source: Out of the Abyss
+  key: :bridesmaid_of_zuggtmoy
 - !ruby/object:Monster
   challenge: 5
   name: Brontosaurus
   type: Beast
   source: Volo's Guide to Monsters
+  key: :brontosaurus
 - !ruby/object:Monster
   challenge: 2
   name: Bronze Dragon Wyrmling
   type: Dragon
   source: Basic Rules
+  key: :bronze_dragon_wyrmling
 - !ruby/object:Monster
   challenge: 0.25
   name: Broom of Animated Attack
   type: Construct
   source: Curse of Strahd
+  key: :broom_of_animated_attack
 - !ruby/object:Monster
   challenge: 1
   name: Brown Bear
   type: Beast
   source: Basic Rules
+  key: :brown_bear
 - !ruby/object:Monster
   challenge: 1
   name: Bugbear
   type: Humanoid
   source: Basic Rules
+  key: :bugbear
 - !ruby/object:Monster
   challenge: 3
   name: Bugbear Chief
   type: Humanoid
   source: Monster Manual
+  key: :bugbear_chief
 - !ruby/object:Monster
   challenge: 5
   name: Bulette
   type: Monstrosity
   source: Basic Rules
+  key: :bulette
 - !ruby/object:Monster
   challenge: 0.25
   name: Bullywug
   type: Humanoid
   source: Monster Manual
+  key: :bullywug
 - !ruby/object:Monster
   challenge: 4
   name: Burrowshark
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :burrowshark
 - !ruby/object:Monster
   challenge: 5
   name: Cambion
   type: Fiend
   source: Monster Manual
+  key: :cambion
 - !ruby/object:Monster
   challenge: 0.125
   name: Camel
   type: Beast
   source: Basic Rules
+  key: :camel
 - !ruby/object:Monster
   challenge: 5
   name: Captain Othelstan
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :captain_othelstan
 - !ruby/object:Monster
   challenge: 2
   name: Carrion Crawler
   type: Monstrosity
   source: Monster Manual
+  key: :carrion_crawler
 - !ruby/object:Monster
   challenge: 0
   name: Cat
   type: Beast
   source: Basic Rules
+  key: :cat
 - !ruby/object:Monster
   challenge: 5
   name: Catoblepas
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :catoblepas
 - !ruby/object:Monster
   challenge: 2
   name: Cave Bear
   type: Beast
   source: Monster Manual
+  key: :cave_bear
 - !ruby/object:Monster
   challenge: 3
   name: Cave Fisher
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :cave_fisher
 - !ruby/object:Monster
   challenge: 2
   name: Centaur
   type: Monstrosity
   source: Basic Rules
+  key: :centaur
 - !ruby/object:Monster
   challenge: 6
   name: Centaur Mummy
   type: Undead
   source: The Hidden Shrine of Tamoachan
+  key: :centaur_mummy
 - !ruby/object:Monster
   challenge: 8
   name: Chain Devil
   type: Fiend
   source: Basic Rules
+  key: :chain_devil
 - !ruby/object:Monster
   challenge: 2
   name: Chamberlain of Zuggtmoy
   type: Plant
   source: Out of the Abyss
+  key: :chamberlain_of_zuggtmoy
 - !ruby/object:Monster
   challenge: 9
   name: Champion
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :champion
 - !ruby/object:Monster
   challenge: 6
   name: Chasme
   type: Fiend
   source: Monster Manual
+  key: :chasme
 - !ruby/object:Monster
   challenge: 6
   name: Chimera
   type: Monstrosity
   source: Basic Rules
+  key: :chimera
 - !ruby/object:Monster
   challenge: 0.5
   name: Chitine
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :chitine
 - !ruby/object:Monster
   challenge: 1
   name: Choker
   type: Aberration
   source: Dead in Thay
+  key: :choker
 - !ruby/object:Monster
   challenge: 3
   name: Choldrith
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :choldrith
 - !ruby/object:Monster
   challenge: 4
   name: Chuul
   type: Aberration
   source: Basic Rules
+  key: :chuul
 - !ruby/object:Monster
   challenge: 4
   name: Chuul Spore Servant
   type: Plant
   source: Out of the Abyss
+  key: :chuul_spore_servant
 - !ruby/object:Monster
   challenge: 0
   name: Chwinga
   type: Elemental
   source: Tomb of Annihilation
+  key: :chwinga
 - !ruby/object:Monster
   challenge: 9
   name: Clay Golem
   type: Construct
   source: Basic Rules
+  key: :clay_golem
 - !ruby/object:Monster
   challenge: 8
   name: Cloaker
   type: Aberration
   source: Basic Rules
+  key: :cloaker
 - !ruby/object:Monster
   challenge: 9
   name: Cloud Giant
   type: Giant
   source: Basic Rules
+  key: :cloud_giant
 - !ruby/object:Monster
   challenge: 11
   name: Cloud Giant Smiling One
   type: Giant
   source: Volo's Guide to Monsters
+  key: :cloud_giant_smiling_one
 - !ruby/object:Monster
   challenge: 0.5
   name: Cockatrice
   type: Monstrosity
   source: Basic Rules
+  key: :cockatrice
 - !ruby/object:Monster
   challenge: 0
   name: Commoner
   type: Humanoid
   source: Basic Rules
+  key: :commoner
 - !ruby/object:Monster
   challenge: 6
   name: Conjurer
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :conjurer
 - !ruby/object:Monster
   challenge: 0.25
   name: Constrictor Snake
   type: Beast
   source: Basic Rules
+  key: :constrictor_snake
 - !ruby/object:Monster
   challenge: 1
   name: Copper Dragon Wyrmling
   type: Dragon
   source: Basic Rules
+  key: :copper_dragon_wyrmling
 - !ruby/object:Monster
   challenge: 4
   name: Couatl
   type: Celestial
   source: Basic Rules
+  key: :couatl
 - !ruby/object:Monster
   challenge: 0.25
   name: Cow
   type: Beast
   source: Volo's Guide to Monsters
+  key: :cow
 - !ruby/object:Monster
   challenge: 0
   name: Crab
   type: Beast
   source: Basic Rules
+  key: :crab
 - !ruby/object:Monster
   challenge: 1
   name: Crag Cat
   type: Beast
   source: Storm King's Thunder
+  key: :crag_cat
 - !ruby/object:Monster
   challenge: 0
   name: Cranium Rat
   type: Beast
   source: Volo's Guide to Monsters
+  key: :cranium_rat
 - !ruby/object:Monster
   challenge: 0
   name: Crawling Claw
   type: Undead
   source: Monster Manual
+  key: :crawling_claw
 - !ruby/object:Monster
   challenge: 0.5
   name: Crocodile
   type: Beast
   source: Basic Rules
+  key: :crocodile
 - !ruby/object:Monster
   challenge: 2
   name: Crushing Wave Priest
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :crushing_wave_priest
 - !ruby/object:Monster
   challenge: 0.5
   name: Crushing Wave Reaver
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :crushing_wave_reaver
 - !ruby/object:Monster
   challenge: 2
   name: Cult Fanatic
   type: Humanoid
   source: Basic Rules
+  key: :cult_fanatic
 - !ruby/object:Monster
   challenge: 0.125
   name: Cultist
   type: Humanoid
   source: Basic Rules
+  key: :cultist
 - !ruby/object:Monster
   challenge: 6
   name: Cyclops
   type: Giant
   source: Basic Rules
+  key: :cyclops
 - !ruby/object:Monster
   challenge: 11
   name: Dao
   type: Elemental
   source: Monster Manual
+  key: :dao
 - !ruby/object:Monster
   challenge: 0
   name: Darathra Shendrel
   type: Humanoid
   source: Storm King's Thunder
+  key: :darathra_shendrel
 - !ruby/object:Monster
   challenge: 3
   name: Dark Tide Knight
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :dark_tide_knight
 - !ruby/object:Monster
   challenge: 0.5
   name: Darkling
   type: Fey
   source: Volo's Guide to Monsters
+  key: :darkling
 - !ruby/object:Monster
   challenge: 2
   name: Darkling Elder
   type: Fey
   source: Volo's Guide to Monsters
+  key: :darkling_elder
 - !ruby/object:Monster
   challenge: 0.5
   name: Darkmantle
   type: Monstrosity
   source: Basic Rules
+  key: :darkmantle
 - !ruby/object:Monster
   challenge: 0
   name: Darz Helgar
   type: Humanoid
   source: Storm King's Thunder
+  key: :darz_helgar
 - !ruby/object:Monster
   challenge: 1
   name: Death Dog
   type: Monstrosity
   source: Basic Rules
+  key: :death_dog
 - !ruby/object:Monster
   challenge: 10
   name: Death Kiss
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :death_kiss
 - !ruby/object:Monster
   challenge: 17
   name: Death Knight
   type: Undead
   source: Monster Manual
+  key: :death_knight
 - !ruby/object:Monster
   challenge: 10
   name: Death Slaad
   type: Aberration
   source: Monster Manual
+  key: :death_slaad
 - !ruby/object:Monster
   challenge: 14
   name: Death Tyrant
   type: Undead
   source: Monster Manual
+  key: :death_tyrant
 - !ruby/object:Monster
   challenge: 3
   name: Deathlock Wight
   type: Undead
   source: Dead in Thay
+  key: :deathlock_wight
 - !ruby/object:Monster
   challenge: 4
   name: Decapus
   type: Monstrosity
   source: The Tortle Package
+  key: :decapus
 - !ruby/object:Monster
   challenge: 0.5
   name: Deep Gnome (Svirfneblin)
   type: Humanoid
   source: Basic Rules
+  key: :deep_gnome_(svirfneblin)
 - !ruby/object:Monster
   challenge: 0.25
   name: Deep Rothé
   type: Beast
   source: Volo's Guide to Monsters
+  key: :deep_rothé
 - !ruby/object:Monster
   challenge: 3
   name: Deep Scion
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :deep_scion
 - !ruby/object:Monster
   challenge: 0
   name: Deer
   type: Beast
   source: Basic Rules
+  key: :deer
 - !ruby/object:Monster
   challenge: 1
   name: Deinonychus
   type: Beast
   source: Volo's Guide to Monsters
+  key: :deinonychus
 - !ruby/object:Monster
   challenge: 18
   name: Demilich
   type: Undead
   source: Monster Manual
+  key: :demilich
 - !ruby/object:Monster
   challenge: 26
   name: Demogorgon
   type: Fiend
   source: Out of the Abyss
+  key: :demogorgon
 - !ruby/object:Monster
   challenge: 0.25
   name: Derro
   type: Humanoid
   source: Out of the Abyss
+  key: :derro
 - !ruby/object:Monster
   challenge: 3
   name: Derro Savant
   type: Humanoid
   source: Out of the Abyss
+  key: :derro_savant
 - !ruby/object:Monster
   challenge: 10
   name: Deva
   type: Celestial
   source: Basic Rules
+  key: :deva
 - !ruby/object:Monster
   challenge: 13
   name: Devourer
   type: Fiend
   source: Volo's Guide to Monsters
+  key: :devourer
 - !ruby/object:Monster
   challenge: 0.25
   name: Dimetrodon
   type: Beast
   source: Volo's Guide to Monsters
+  key: :dimetrodon
 - !ruby/object:Monster
   challenge: 1
   name: Dire Wolf
   type: Beast
   source: Basic Rules
+  key: :dire_wolf
 - !ruby/object:Monster
   challenge: 3
   name: Displacer Beast
   type: Monstrosity
   source: Monster Manual
+  key: :displacer_beast
 - !ruby/object:Monster
   challenge: 8
   name: Diviner
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :diviner
 - !ruby/object:Monster
   challenge: 11
   name: Djinni
   type: Elemental
   source: Basic Rules
+  key: :djinni
 - !ruby/object:Monster
   challenge: 0.125
   name: Dolphin
   type: Beast
   source: Volo's Guide to Monsters
+  key: :dolphin
 - !ruby/object:Monster
   challenge: 3
   name: Doppelganger
   type: Monstrosity
   source: Basic Rules
+  key: :doppelganger
 - !ruby/object:Monster
   challenge: 7
   name: Draegloth
   type: Fiend
   source: Volo's Guide to Monsters
+  key: :draegloth
 - !ruby/object:Monster
   challenge: 0.25
   name: Draft Horse
   type: Beast
   source: Basic Rules
+  key: :draft_horse
 - !ruby/object:Monster
   challenge: 17
   name: Dragon Turtle
   type: Dragon
   source: Basic Rules
+  key: :dragon_turtle
 - !ruby/object:Monster
   challenge: 5
   name: Dragonbait
   type: Humanoid
   source: Tomb of Annihilation
+  key: :dragonbait
 - !ruby/object:Monster
   challenge: 1
   name: Dragonclaw
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :dragonclaw
 - !ruby/object:Monster
   challenge: 5
   name: Dragonfang
   type: Humanoid
   source: Rise of Tiamat
+  key: :dragonfang
 - !ruby/object:Monster
   challenge: 7
   name: Dragonsoul
   type: Humanoid
   source: Rise of Tiamat
+  key: :dragonsoul
 - !ruby/object:Monster
   challenge: 2
   name: Dragonwing
   type: Humanoid
   source: Rise of Tiamat
+  key: :dragonwing
 - !ruby/object:Monster
   challenge: 3
   name: Dralmorrer Borngray
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :dralmorrer_borngray
 - !ruby/object:Monster
   challenge: 7
   name: Drannin Splithelm
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :drannin_splithelm
 - !ruby/object:Monster
   challenge: 1
   name: Dread Warrior
   type: Undead
   source: Dead in Thay
+  key: :dread_warrior
 - !ruby/object:Monster
   challenge: 0.25
   name: Dretch
   type: Fiend
   source: Basic Rules
+  key: :dretch
 - !ruby/object:Monster
   challenge: 6
   name: Drider
   type: Monstrosity
   source: Basic Rules
+  key: :drider
 - !ruby/object:Monster
   challenge: 2
   name: Droki
   type: Humanoid
   source: Out of the Abyss
+  key: :droki
 - !ruby/object:Monster
   challenge: 0.25
   name: Drow
   type: Humanoid
   source: Basic Rules
+  key: :drow
 - !ruby/object:Monster
   challenge: 5
   name: Drow Elite Warrior
   type: Humanoid
   source: Monster Manual
+  key: :drow_elite_warrior
 - !ruby/object:Monster
   challenge: 7
   name: Drow Mage
   type: Humanoid
   source: Monster Manual
+  key: :drow_mage
 - !ruby/object:Monster
   challenge: 8
   name: Drow Priestess of Lolth
   type: Humanoid
   source: Monster Manual
+  key: :drow_priestess_of_lolth
 - !ruby/object:Monster
   challenge: 0.125
   name: Drow Spore Servant
   type: Plant
   source: Out of the Abyss
+  key: :drow_spore_servant
 - !ruby/object:Monster
   challenge: 2
   name: Druid
   type: Humanoid
   source: Basic Rules
+  key: :druid
 - !ruby/object:Monster
   challenge: 1
   name: Dryad
   type: Fey
   source: Basic Rules
+  key: :dryad
 - !ruby/object:Monster
   challenge: 1
   name: Duergar
   type: Humanoid
   source: Basic Rules
+  key: :duergar
 - !ruby/object:Monster
   challenge: 2
   name: Duergar Darkhaft
   type: Humanoid
   source: Out of the Abyss
+  key: :duergar_darkhaft
 - !ruby/object:Monster
   challenge: 2
   name: Duergar Kavalrachni
   type: Humanoid
   source: Out of the Abyss
+  key: :duergar_kavalrachni
 - !ruby/object:Monster
   challenge: 2
   name: Duergar Keeper of the Flame
   type: Humanoid
   source: Out of the Abyss
+  key: :duergar_keeper_of_the_flame
 - !ruby/object:Monster
   challenge: 1
   name: Duergar Soulblade
   type: Humanoid
   source: Out of the Abyss
+  key: :duergar_soulblade
 - !ruby/object:Monster
   challenge: 0.5
   name: Duergar Spore Servant
   type: Plant
   source: Out of the Abyss
+  key: :duergar_spore_servant
 - !ruby/object:Monster
   challenge: 2
   name: Duergar Spy
   type: Humanoid
   source: The Forge of Fury
+  key: :duergar_spy
 - !ruby/object:Monster
   challenge: 2
   name: Duergar Stone Guard
   type: Humanoid
   source: Out of the Abyss
+  key: :duergar_stone_guard
 - !ruby/object:Monster
   challenge: 2
   name: Duergar Xarrorn
   type: Humanoid
   source: Out of the Abyss
+  key: :duergar_xarrorn
 - !ruby/object:Monster
   challenge: 0.25
   name: Duodrone
   type: Construct
   source: Monster Manual
+  key: :duodrone
 - !ruby/object:Monster
   challenge: 0.5
   name: Dust Mephit
   type: Elemental
   source: Basic Rules
+  key: :dust_mephit
 - !ruby/object:Monster
   challenge: 0
   name: Duvessa Shane
   type: Humanoid
   source: Storm King's Thunder
+  key: :duvessa_shane
 - !ruby/object:Monster
   challenge: 0
   name: Eagle
   type: Beast
   source: Basic Rules
+  key: :eagle
 - !ruby/object:Monster
   challenge: 5
   name: Earth Elemental
   type: Elemental
   source: Basic Rules
+  key: :earth_elemental
 - !ruby/object:Monster
   challenge: 7
   name: Earth Elemental Myrmidon
   type: Elemental
   source: Princes of the Apocalypse
+  key: :earth_elemental_myrmidon
 - !ruby/object:Monster
   challenge: 1
   name: Eblis
   type: Monstrosity
   source: Tomb of Annihilation
+  key: :eblis
 - !ruby/object:Monster
   challenge: 11
   name: Efreeti
   type: Elemental
   source: Basic Rules
+  key: :efreeti
 - !ruby/object:Monster
   challenge: 14
   name: Elder Brain
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :elder_brain
 - !ruby/object:Monster
   challenge: 4
   name: Elephant
   type: Beast
   source: Basic Rules
+  key: :elephant
 - !ruby/object:Monster
   challenge: 5
   name: Elizar Dryflagon
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :elizar_dryflagon
 - !ruby/object:Monster
   challenge: 0.25
   name: Elk
   type: Beast
   source: Basic Rules
+  key: :elk
 - !ruby/object:Monster
   challenge: 0.5
   name: Emerald Enclave Scout
   type: Humanoid
   source: Out of the Abyss
+  key: :emerald_enclave_scout
 - !ruby/object:Monster
   challenge: 23
   name: Empyrean
   type: Celestial
   source: Monster Manual
+  key: :empyrean
 - !ruby/object:Monster
   challenge: 5
   name: Enchanter
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :enchanter
 - !ruby/object:Monster
   challenge: 12
   name: Erinyes
   type: Fiend
   source: Basic Rules
+  key: :erinyes
 - !ruby/object:Monster
   challenge: 2
   name: Eternal Flame Guardian
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :eternal_flame_guardian
 - !ruby/object:Monster
   challenge: 3
   name: Eternal Flame Priest
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :eternal_flame_priest
 - !ruby/object:Monster
   challenge: 2
   name: Ettercap
   type: Monstrosity
   source: Basic Rules
+  key: :ettercap
 - !ruby/object:Monster
   challenge: 4
   name: Ettin
   type: Giant
   source: Basic Rules
+  key: :ettin
 - !ruby/object:Monster
   challenge: 1
   name: Evil Mage
   type: Humanoid
   source: Lost Mine of Phandelver
+  key: :evil_mage
 - !ruby/object:Monster
   challenge: 9
   name: Evoker
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :evoker
 - !ruby/object:Monster
   challenge: 8
   name: Ezmerelda d’Avenir
   type: Humanoid
   source: Curse of Strahd
+  key: :ezmerelda_d’avenir
 - !ruby/object:Monster
   challenge: 2
   name: Faerie Dragon (Older)
   type: Dragon
   source: Monster Manual
+  key: :faerie_dragon_(older)
 - !ruby/object:Monster
   challenge: 1
   name: Faerie Dragon (Younger)
   type: Dragon
   source: Monster Manual
+  key: :faerie_dragon_(younger)
 - !ruby/object:Monster
   challenge: 2
   name: Fathomer
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :fathomer
 - !ruby/object:Monster
   challenge: 1
   name: Feathergale Knight
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :feathergale_knight
 - !ruby/object:Monster
   challenge: 1
   name: Female Steeder
   type: Beast
   source: Out of the Abyss
+  key: :female_steeder
 - !ruby/object:Monster
   challenge: 5
   name: Fire Elemental
   type: Elemental
   source: Basic Rules
+  key: :fire_elemental
 - !ruby/object:Monster
   challenge: 7
   name: Fire Elemental Myrmidon
   type: Elemental
   source: Princes of the Apocalypse
+  key: :fire_elemental_myrmidon
 - !ruby/object:Monster
   challenge: 9
   name: Fire Giant
   type: Giant
   source: Basic Rules
+  key: :fire_giant
 - !ruby/object:Monster
   challenge: 14
   name: Fire Giant Dreadnought
   type: Giant
   source: Volo's Guide to Monsters
+  key: :fire_giant_dreadnought
 - !ruby/object:Monster
   challenge: 1
   name: Fire Snake
   type: Elemental
   source: Monster Manual
+  key: :fire_snake
 - !ruby/object:Monster
   challenge: 1
   name: Firenewt Warlock of Imix
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :firenewt_warlock_of_imix
 - !ruby/object:Monster
   challenge: 0.5
   name: Firenewt Warrior
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :firenewt_warrior
 - !ruby/object:Monster
   challenge: 3
   name: Flail Snail
   type: Elemental
   source: Volo's Guide to Monsters
+  key: :flail_snail
 - !ruby/object:Monster
   challenge: 4
   name: Flameskull
   type: Undead
   source: Basic Rules
+  key: :flameskull
 - !ruby/object:Monster
   challenge: 6
   name: Flamewrath
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :flamewrath
 - !ruby/object:Monster
   challenge: 5
   name: Flesh Golem
   type: Construct
   source: Basic Rules
+  key: :flesh_golem
 - !ruby/object:Monster
   challenge: 9
   name: Flind
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :flind
 - !ruby/object:Monster
   challenge: 0.125
   name: Flumph
   type: Aberration
   source: Monster Manual
+  key: :flumph
 - !ruby/object:Monster
   challenge: 0
   name: Flying Monkey
   type: Beast
   source: Tomb of Annihilation
+  key: :flying_monkey
 - !ruby/object:Monster
   challenge: 0.125
   name: Flying Snake
   type: Beast
   source: Basic Rules
+  key: :flying_snake
 - !ruby/object:Monster
   challenge: 0.25
   name: Flying Sword
   type: Construct
   source: Basic Rules
+  key: :flying_sword
 - !ruby/object:Monster
   challenge: 8
   name: Fomorian
   type: Giant
   source: Monster Manual
+  key: :fomorian
 - !ruby/object:Monster
   challenge: 6
   name: Four-Armed Troll
   type: Giant
   source: Hoard of the Dragon Queen
+  key: :four_armed_troll
 - !ruby/object:Monster
   challenge: 23
   name: Fraz-Urb’luu
   type: Fiend
   source: Out of the Abyss
+  key: :fraz_urb’luu
 - !ruby/object:Monster
   challenge: 0
   name: Frog
   type: Beast
   source: Basic Rules
+  key: :frog
 - !ruby/object:Monster
   challenge: 10
   name: Froghemoth
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :froghemoth
 - !ruby/object:Monster
   challenge: 8
   name: Frost Giant
   type: Giant
   source: Basic Rules
+  key: :frost_giant
 - !ruby/object:Monster
   challenge: 12
   name: Frost Giant Everlasting One
   type: Giant
   source: Volo's Guide to Monsters
+  key: :frost_giant_everlasting_one
 - !ruby/object:Monster
   challenge: 2
   name: Frulam Mondath
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :frulam_mondath
 - !ruby/object:Monster
   challenge: 6
   name: Galeb Duhr
   type: Elemental
   source: Monster Manual
+  key: :galeb_duhr
 - !ruby/object:Monster
   challenge: 9
   name: Gar Shatterkeel
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :gar_shatterkeel
 - !ruby/object:Monster
   challenge: 2
   name: Gargoyle
   type: Elemental
   source: Basic Rules
+  key: :gargoyle
 - !ruby/object:Monster
   challenge: 0.5
   name: Gas Spore
   type: Plant
   source: Monster Manual
+  key: :gas_spore
 - !ruby/object:Monster
   challenge: 6
   name: Gauth
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :gauth
 - !ruby/object:Monster
   challenge: 0.5
   name: Gazer
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :gazer
 - !ruby/object:Monster
   challenge: 0.5
   name: Gazer Familiar
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :gazer_familiar
 - !ruby/object:Monster
   challenge: 2
   name: Gelatinous Cube
   type: Ooze
   source: Basic Rules
+  key: :gelatinous_cube
 - !ruby/object:Monster
   challenge: 0.25
   name: Geonid
   type: Elemental
   source: The Tortle Package
+  key: :geonid
 - !ruby/object:Monster
   challenge: 7
   name: Ghald
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :ghald
 - !ruby/object:Monster
   challenge: 2
   name: Ghast
   type: Undead
   source: Basic Rules
+  key: :ghast
 - !ruby/object:Monster
   challenge: 0
   name: Ghelryn Foehammer
   type: Humanoid
   source: Storm King's Thunder
+  key: :ghelryn_foehammer
 - !ruby/object:Monster
   challenge: 4
   name: Ghost
   type: Undead
   source: Basic Rules
+  key: :ghost
 - !ruby/object:Monster
   challenge: 1
   name: Ghoul
   type: Undead
   source: Basic Rules
+  key: :ghoul
 - !ruby/object:Monster
   challenge: 7
   name: Giant Ape
   type: Beast
   source: Basic Rules
+  key: :giant_ape
 - !ruby/object:Monster
   challenge: 0.25
   name: Giant Badger
   type: Beast
   source: Basic Rules
+  key: :giant_badger
 - !ruby/object:Monster
   challenge: 0.25
   name: Giant Bat
   type: Beast
   source: Basic Rules
+  key: :giant_bat
 - !ruby/object:Monster
   challenge: 2
   name: Giant Boar
   type: Beast
   source: Basic Rules
+  key: :giant_boar
 - !ruby/object:Monster
   challenge: 0.25
   name: Giant Centipede
   type: Beast
   source: Basic Rules
+  key: :giant_centipede
 - !ruby/object:Monster
   challenge: 2
   name: Giant Constrictor Snake
   type: Beast
   source: Basic Rules
+  key: :giant_constrictor_snake
 - !ruby/object:Monster
   challenge: 0.125
   name: Giant Crab
   type: Beast
   source: Basic Rules
+  key: :giant_crab
 - !ruby/object:Monster
   challenge: 2
   name: Giant Crayfish
   type: Beast
   source: The Hidden Shrine of Tamoachan
+  key: :giant_crayfish
 - !ruby/object:Monster
   challenge: 5
   name: Giant Crocodile
   type: Beast
   source: Basic Rules
+  key: :giant_crocodile
 - !ruby/object:Monster
   challenge: 1
   name: Giant Eagle
   type: Beast
   source: Basic Rules
+  key: :giant_eagle
 - !ruby/object:Monster
   challenge: 2
   name: Giant Elk
   type: Beast
   source: Basic Rules
+  key: :giant_elk
 - !ruby/object:Monster
   challenge: 0
   name: Giant Fire Beetle
   type: Beast
   source: Basic Rules
+  key: :giant_fire_beetle
 - !ruby/object:Monster
   challenge: 0
   name: Giant Fly
   type: Beast
   source: Dungeon Master's Guide
+  key: :giant_fly
 - !ruby/object:Monster
   challenge: 10
   name: Giant Four-Armed Gargoyle
   type: Elemental
   source: Tomb of Annihilation
+  key: :giant_four_armed_gargoyle
 - !ruby/object:Monster
   challenge: 0.25
   name: Giant Frog
   type: Beast
   source: Basic Rules
+  key: :giant_frog
 - !ruby/object:Monster
   challenge: 0.5
   name: Giant Goat
   type: Beast
   source: Basic Rules
+  key: :giant_goat
 - !ruby/object:Monster
   challenge: 1
   name: Giant Hyena
   type: Beast
   source: Basic Rules
+  key: :giant_hyena
 - !ruby/object:Monster
   challenge: 3
   name: Giant Ice Toad
   type: Monstrosity
   source: Against the Giants
+  key: :giant_ice_toad
 - !ruby/object:Monster
   challenge: 3
   name: Giant Lightning Eel
   type: Beast
   source: The Hidden Shrine of Tamoachan
+  key: :giant_lightning_eel
 - !ruby/object:Monster
   challenge: 0.25
   name: Giant Lizard
   type: Beast
   source: Basic Rules
+  key: :giant_lizard
 - !ruby/object:Monster
   challenge: 1
   name: Giant Octopus
   type: Beast
   source: Basic Rules
+  key: :giant_octopus
 - !ruby/object:Monster
   challenge: 0.25
   name: Giant Owl
   type: Beast
   source: Basic Rules
+  key: :giant_owl
 - !ruby/object:Monster
   challenge: 0.25
   name: Giant Poisonous Snake
   type: Beast
   source: Basic Rules
+  key: :giant_poisonous_snake
 - !ruby/object:Monster
   challenge: 0.125
   name: Giant Rat
   type: Beast
   source: Basic Rules
+  key: :giant_rat
 - !ruby/object:Monster
   challenge: 0.25
   name: Giant Riding Lizard
   type: Beast
   source: Out of the Abyss
+  key: :giant_riding_lizard
 - !ruby/object:Monster
   challenge: 3
   name: Giant Scorpion
   type: Beast
   source: Basic Rules
+  key: :giant_scorpion
 - !ruby/object:Monster
   challenge: 0.5
   name: Giant Sea Horse
   type: Beast
   source: Basic Rules
+  key: :giant_sea_horse
 - !ruby/object:Monster
   challenge: 5
   name: Giant Shark
   type: Beast
   source: Basic Rules
+  key: :giant_shark
 - !ruby/object:Monster
   challenge: 7
   name: Giant Skeleton
   type: Undead
   source: Tomb of Horrors
+  key: :giant_skeleton
 - !ruby/object:Monster
   challenge: 3
   name: Giant Snapping Turtle
   type: Beast
   source: Tomb of Annihilation
+  key: :giant_snapping_turtle
 - !ruby/object:Monster
   challenge: 1
   name: Giant Spider
   type: Beast
   source: Basic Rules
+  key: :giant_spider
 - !ruby/object:Monster
   challenge: 1
   name: Giant Strider
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :giant_strider
 - !ruby/object:Monster
   challenge: 4
   name: Giant Subterranean Lizard
   type: Beast
   source: The Forge of Fury
+  key: :giant_subterranean_lizard
 - !ruby/object:Monster
   challenge: 1
   name: Giant Toad
   type: Beast
   source: Basic Rules
+  key: :giant_toad
 - !ruby/object:Monster
   challenge: 1
   name: Giant Vulture
   type: Beast
   source: Basic Rules
+  key: :giant_vulture
 - !ruby/object:Monster
   challenge: 0.5
   name: Giant Wasp
   type: Beast
   source: Basic Rules
+  key: :giant_wasp
 - !ruby/object:Monster
   challenge: 0.125
   name: Giant Weasel
   type: Beast
   source: Basic Rules
+  key: :giant_weasel
 - !ruby/object:Monster
   challenge: 0.25
   name: Giant Wolf Spider
   type: Beast
   source: Basic Rules
+  key: :giant_wolf_spider
 - !ruby/object:Monster
   challenge: 2
   name: Gibbering Mouther
   type: Aberration
   source: Basic Rules
+  key: :gibbering_mouther
 - !ruby/object:Monster
   challenge: 4
   name: Girallon
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :girallon
 - !ruby/object:Monster
   challenge: 3
   name: Girallon Zombie
   type: Undead
   source: Tomb of Annihilation
+  key: :girallon_zombie
 - !ruby/object:Monster
   challenge: 8
   name: Githyanki Knight
   type: Humanoid
   source: Monster Manual
+  key: :githyanki_knight
 - !ruby/object:Monster
   challenge: 3
   name: Githyanki Warrior
   type: Humanoid
   source: Monster Manual
+  key: :githyanki_warrior
 - !ruby/object:Monster
   challenge: 2
   name: Githzerai Monk
   type: Humanoid
   source: Monster Manual
+  key: :githzerai_monk
 - !ruby/object:Monster
   challenge: 6
   name: Githzerai Zerth
   type: Humanoid
   source: Monster Manual
+  key: :githzerai_zerth
 - !ruby/object:Monster
   challenge: 9
   name: Glabrezu
   type: Fiend
   source: Basic Rules
+  key: :glabrezu
 - !ruby/object:Monster
   challenge: 5
   name: Gladiator
   type: Humanoid
   source: Basic Rules
+  key: :gladiator
 - !ruby/object:Monster
   challenge: 0.5
   name: Gnoll
   type: Humanoid
   source: Basic Rules
+  key: :gnoll
 - !ruby/object:Monster
   challenge: 4
   name: Gnoll Fang of Yeenoghu
   type: Humanoid
   source: Monster Manual
+  key: :gnoll_fang_of_yeenoghu
 - !ruby/object:Monster
   challenge: 1
   name: Gnoll Flesh Gnawer
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :gnoll_flesh_gnawer
 - !ruby/object:Monster
   challenge: 0.5
   name: Gnoll Hunter
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :gnoll_hunter
 - !ruby/object:Monster
   challenge: 2
   name: Gnoll Pack Lord
   type: Humanoid
   source: Monster Manual
+  key: :gnoll_pack_lord
 - !ruby/object:Monster
   challenge: 0.25
   name: Gnoll Witherling
   type: Undead
   source: Volo's Guide to Monsters
+  key: :gnoll_witherling
 - !ruby/object:Monster
   challenge: 0
   name: Goat
   type: Beast
   source: Basic Rules
+  key: :goat
 - !ruby/object:Monster
   challenge: 0.25
   name: Goblin
   type: Humanoid
   source: Basic Rules
+  key: :goblin
 - !ruby/object:Monster
   challenge: 1
   name: Goblin Boss
   type: Humanoid
   source: Monster Manual
+  key: :goblin_boss
 - !ruby/object:Monster
   challenge: 3
   name: Gold Dragon Wyrmling
   type: Dragon
   source: Basic Rules
+  key: :gold_dragon_wyrmling
 - !ruby/object:Monster
   challenge: 5
   name: Gorgon
   type: Monstrosity
   source: Basic Rules
+  key: :gorgon
 - !ruby/object:Monster
   challenge: 17
   name: Goristro
   type: Fiend
   source: Monster Manual
+  key: :goristro
 - !ruby/object:Monster
   challenge: 0.5
   name: Gray Ooze
   type: Ooze
   source: Basic Rules
+  key: :gray_ooze
 - !ruby/object:Monster
   challenge: 9
   name: Gray Slaad
   type: Aberration
   source: Monster Manual
+  key: :gray_slaad
 - !ruby/object:Monster
   challenge: 24
   name: Graz’zt
   type: Fiend
   source: Out of the Abyss
+  key: :graz’zt
 - !ruby/object:Monster
   challenge: 5
   name: Greater Zombie
   type: Undead
   source: Tomb of Horrors
+  key: :greater_zombie
 - !ruby/object:Monster
   challenge: 2
   name: Green Dragon Wyrmling
   type: Dragon
   source: Basic Rules
+  key: :green_dragon_wyrmling
 - !ruby/object:Monster
   challenge: 2
   name: Green Guard Drake
   type: Dragon
   source: Volo's Guide to Monsters
+  key: :green_guard_drake
 - !ruby/object:Monster
   challenge: 3
   name: Green Hag
   type: Fey
   source: Basic Rules
+  key: :green_hag
 - !ruby/object:Monster
   challenge: 8
   name: Green Slaad
   type: Aberration
   source: Monster Manual
+  key: :green_slaad
 - !ruby/object:Monster
   challenge: 3
   name: Grell
   type: Aberration
   source: Monster Manual
+  key: :grell
 - !ruby/object:Monster
   challenge: 2
   name: Grick
   type: Monstrosity
   source: Basic Rules
+  key: :grick
 - !ruby/object:Monster
   challenge: 7
   name: Grick Alpha
   type: Monstrosity
   source: Monster Manual
+  key: :grick_alpha
 - !ruby/object:Monster
   challenge: 2
   name: Griffon
   type: Monstrosity
   source: Basic Rules
+  key: :griffon
 - !ruby/object:Monster
   challenge: 0.25
   name: Grimlock
   type: Humanoid
   source: Basic Rules
+  key: :grimlock
 - !ruby/object:Monster
   challenge: 2
   name: Grisha
   type: Humanoid
   source: Out of the Abyss
+  key: :grisha
 - !ruby/object:Monster
   challenge: 8
   name: Grumink the Renegade
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :grumink_the_renegade
 - !ruby/object:Monster
   challenge: 0.25
   name: Grung
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :grung
 - !ruby/object:Monster
   challenge: 2
   name: Grung Elite Warrior
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :grung_elite_warrior
 - !ruby/object:Monster
   challenge: 1
   name: Grung Wildling
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :grung_wildling
 - !ruby/object:Monster
   challenge: 0.125
   name: Guard
   type: Humanoid
   source: Basic Rules
+  key: :guard
 - !ruby/object:Monster
   challenge: 2
   name: Guard Drake
   type: Dragon
   source: Volo's Guide to Monsters
+  key: :guard_drake
 - !ruby/object:Monster
   challenge: 10
   name: Guardian Naga
   type: Monstrosity
   source: Basic Rules
+  key: :guardian_naga
 - !ruby/object:Monster
   challenge: 1
   name: Guardian Portrait
   type: Construct
   source: Curse of Strahd
+  key: :guardian_portrait
 - !ruby/object:Monster
   challenge: 11
   name: Gynosphinx
   type: Monstrosity
   source: Basic Rules
+  key: :gynosphinx
 - !ruby/object:Monster
   challenge: 0.25
   name: Hadrosaurus
   type: Beast
   source: Volo's Guide to Monsters
+  key: :hadrosaurus
 - !ruby/object:Monster
   challenge: 5
   name: Half-Blue Dragon Gladiator
   type: Humanoid
   source: Rise of Tiamat
+  key: :half_blue_dragon_gladiator
 - !ruby/object:Monster
   challenge: 8
   name: Half-Green Dragon Assassin
   type: Humanoid
   source: Rise of Tiamat
+  key: :half_green_dragon_assassin
 - !ruby/object:Monster
   challenge: 1
   name: Half-Ogre
   type: Giant
   source: Monster Manual
+  key: :half_ogre
 - !ruby/object:Monster
   challenge: 6
   name: Half-Red Dragon Gladiator
   type: Humanoid
   source: Rise of Tiamat
+  key: :half_red_dragon_gladiator
 - !ruby/object:Monster
   challenge: 5
   name: Half-Red Dragon Veteran
   type: Humanoid
   source: Basic Rules
+  key: :half_red_dragon_veteran
 - !ruby/object:Monster
   challenge: 1
   name: Harpy
   type: Monstrosity
   source: Basic Rules
+  key: :harpy
 - !ruby/object:Monster
   challenge: 0
   name: Hawk
   type: Beast
   source: Basic Rules
+  key: :hawk
 - !ruby/object:Monster
   challenge: 3
   name: Hell Hound
   type: Fiend
   source: Basic Rules
+  key: :hell_hound
 - !ruby/object:Monster
   challenge: 5
   name: Hellenrae
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :hellenrae
 - !ruby/object:Monster
   challenge: 4
   name: Helmed Horror
   type: Construct
   source: Monster Manual
+  key: :helmed_horror
 - !ruby/object:Monster
   challenge: 8
   name: Hezrou
   type: Fiend
   source: Basic Rules
+  key: :hezrou
 - !ruby/object:Monster
   challenge: 5
   name: Hill Giant
   type: Giant
   source: Basic Rules
+  key: :hill_giant
 - !ruby/object:Monster
   challenge: 1
   name: Hippogriff
   type: Monstrosity
   source: Basic Rules
+  key: :hippogriff
 - !ruby/object:Monster
   challenge: 0.5
   name: Hobgoblin
   type: Humanoid
   source: Basic Rules
+  key: :hobgoblin
 - !ruby/object:Monster
   challenge: 3
   name: Hobgoblin Captain
   type: Humanoid
   source: Monster Manual
+  key: :hobgoblin_captain
 - !ruby/object:Monster
   challenge: 4
   name: Hobgoblin Devastator
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :hobgoblin_devastator
 - !ruby/object:Monster
   challenge: 2
   name: Hobgoblin Iron Shadow
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :hobgoblin_iron_shadow
 - !ruby/object:Monster
   challenge: 6
   name: Hobgoblin Warlord
   type: Humanoid
   source: Monster Manual
+  key: :hobgoblin_warlord
 - !ruby/object:Monster
   challenge: 0
   name: Homunculus
   type: Construct
   source: Basic Rules
+  key: :homunculus
 - !ruby/object:Monster
   challenge: 3
   name: Hook Horror
   type: Monstrosity
   source: Monster Manual
+  key: :hook_horror
 - !ruby/object:Monster
   challenge: 3
   name: Hook Horror Spore Servant
   type: Plant
   source: Out of the Abyss
+  key: :hook_horror_spore_servant
 - !ruby/object:Monster
   challenge: 11
   name: Horned Devil
   type: Fiend
   source: Basic Rules
+  key: :horned_devil
 - !ruby/object:Monster
   challenge: 0.125
   name: Howling Hatred Initiate
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :howling_hatred_initiate
 - !ruby/object:Monster
   challenge: 2
   name: Howling Hatred Priest
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :howling_hatred_priest
 - !ruby/object:Monster
   challenge: 5
   name: Hulking Crab
   type: Beast
   source: Storm King's Thunder
+  key: :hulking_crab
 - !ruby/object:Monster
   challenge: 2
   name: Hunter Shark
   type: Beast
   source: Basic Rules
+  key: :hunter_shark
 - !ruby/object:Monster
   challenge: 2
   name: Hurricane
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :hurricane
 - !ruby/object:Monster
   challenge: 8
   name: Hydra
   type: Monstrosity
   source: Basic Rules
+  key: :hydra
 - !ruby/object:Monster
   challenge: 0
   name: Hyena
   type: Beast
   source: Basic Rules
+  key: :hyena
 - !ruby/object:Monster
   challenge: 14
   name: Ice Devil
   type: Fiend
   source: Basic Rules
+  key: :ice_devil
 - !ruby/object:Monster
   challenge: 0.5
   name: Ice Mephit
   type: Elemental
   source: Basic Rules
+  key: :ice_mephit
 - !ruby/object:Monster
   challenge: 1
   name: Ice Toad
   type: Monstrosity
   source: Rise of Tiamat
+  key: :ice_toad
 - !ruby/object:Monster
   challenge: 5
   name: Ice Troll
   type: Giant
   source: Rise of Tiamat
+  key: :ice_troll
 - !ruby/object:Monster
   challenge: 3
   name: Illusionist
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :illusionist
 - !ruby/object:Monster
   challenge: 19
   name: Imix
   type: Elemental
   source: Princes of the Apocalypse
+  key: :imix
 - !ruby/object:Monster
   challenge: 1
   name: Imp
   type: Fiend
   source: Basic Rules
+  key: :imp
 - !ruby/object:Monster
   challenge: 2
   name: Intellect Devourer
   type: Aberration
   source: Monster Manual
+  key: :intellect_devourer
 - !ruby/object:Monster
   challenge: 6
   name: Invisible Stalker
   type: Elemental
   source: Basic Rules
+  key: :invisible_stalker
 - !ruby/object:Monster
   challenge: 16
   name: Iron Golem
   type: Construct
   source: Basic Rules
+  key: :iron_golem
 - !ruby/object:Monster
   challenge: 0.25
   name: Ixitxachitl
   type: Aberration
   source: Out of the Abyss
+  key: :ixitxachitl
 - !ruby/object:Monster
   challenge: 2
   name: Ixitxachitl Cleric
   type: Aberration
   source: Out of the Abyss
+  key: :ixitxachitl_cleric
 - !ruby/object:Monster
   challenge: 23
   name: Iymrith
   type: Dragon
   source: Storm King's Thunder
+  key: :iymrith
 - !ruby/object:Monster
   challenge: 5
   name: Izek Strazni
   type: Humanoid
   source: Curse of Strahd
+  key: :izek_strazni
 - !ruby/object:Monster
   challenge: 0
   name: Jackal
   type: Beast
   source: Basic Rules
+  key: :jackal
 - !ruby/object:Monster
   challenge: 0.5
   name: Jackalwere
   type: Humanoid
   source: Monster Manual
+  key: :jackalwere
 - !ruby/object:Monster
   challenge: 0.5
   name: Jaculi
   type: Beast
   source: Tomb of Annihilation
+  key: :jaculi
 - !ruby/object:Monster
   challenge: 1
   name: Jamna Gleamsilver
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :jamna_gleamsilver
 - !ruby/object:Monster
   challenge: 23
   name: Juiblex
   type: Fiend
   source: Out of the Abyss
+  key: :juiblex
 - !ruby/object:Monster
   challenge: 3
   name: Kalka-Kylla
   type: Monstrosity
   source: The Hidden Shrine of Tamoachan
+  key: :kalka_kylla
 - !ruby/object:Monster
   challenge: 4
   name: Kamadan
   type: Monstrosity
   source: Tomb of Annihilation
+  key: :kamadan
 - !ruby/object:Monster
   challenge: 6
   name: Kasimir Velikov
   type: Humanoid
   source: Curse of Strahd
+  key: :kasimir_velikov
 - !ruby/object:Monster
   challenge: 4
   name: Kelpie
   type: Plant
   source: White Plume Mountain
+  key: :kelpie
 - !ruby/object:Monster
   challenge: 0.25
   name: Kenku
   type: Humanoid
   source: Monster Manual
+  key: :kenku
 - !ruby/object:Monster
   challenge: 3
   name: Killer Whale
   type: Beast
   source: Basic Rules
+  key: :killer_whale
 - !ruby/object:Monster
   challenge: 12
   name: Ki-rin
   type: Celestial
   source: Volo's Guide to Monsters
+  key: :ki_rin
 - !ruby/object:Monster
   challenge: 3
   name: Knight
   type: Humanoid
   source: Basic Rules
+  key: :knight
 - !ruby/object:Monster
   challenge: 0.125
   name: Kobold
   type: Humanoid
   source: Basic Rules
+  key: :kobold
 - !ruby/object:Monster
   challenge: 1
   name: Kobold Dragonshield
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :kobold_dragonshield
 - !ruby/object:Monster
   challenge: 0.25
   name: Kobold Inventor
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :kobold_inventor
 - !ruby/object:Monster
   challenge: 1
   name: Kobold Scale Sorcerer
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :kobold_scale_sorcerer
 - !ruby/object:Monster
   challenge: 7
   name: Korred
   type: Fey
   source: Volo's Guide to Monsters
+  key: :korred
 - !ruby/object:Monster
   challenge: 23
   name: Kraken
   type: Monstrosity
   source: Basic Rules
+  key: :kraken
 - !ruby/object:Monster
   challenge: 5
   name: Kraken Priest
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :kraken_priest
 - !ruby/object:Monster
   challenge: 0.25
   name: Kuo-toa
   type: Humanoid
   source: Monster Manual
+  key: :kuo_toa
 - !ruby/object:Monster
   challenge: 6
   name: Kuo-toa Archpriest
   type: Humanoid
   source: Monster Manual
+  key: :kuo_toa_archpriest
 - !ruby/object:Monster
   challenge: 3
   name: Kuo-toa Monitor
   type: Humanoid
   source: Monster Manual
+  key: :kuo_toa_monitor
 - !ruby/object:Monster
   challenge: 1
   name: Kuo-toa Whip
   type: Humanoid
   source: Monster Manual
+  key: :kuo_toa_whip
 - !ruby/object:Monster
   challenge: 4
   name: Lamia
   type: Monstrosity
   source: Basic Rules
+  key: :lamia
 - !ruby/object:Monster
   challenge: 4
   name: Langdedrosa Cyanwrath
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :langdedrosa_cyanwrath
 - !ruby/object:Monster
   challenge: 0
   name: Larva
   type: Fiend
   source: Dungeon Master's Guide
+  key: :larva
 - !ruby/object:Monster
   challenge: 0
   name: Lemure
   type: Fiend
   source: Basic Rules
+  key: :lemure
 - !ruby/object:Monster
   challenge: 3
   name: Leucrotta
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :leucrotta
 - !ruby/object:Monster
   challenge: 4
   name: Liara Portyr
   type: Humanoid
   source: Tomb of Annihilation
+  key: :liara_portyr
 - !ruby/object:Monster
   challenge: 21
   name: Lich
   type: Undead
   source: Basic Rules
+  key: :lich
 - !ruby/object:Monster
   challenge: 0
   name: Lifferlas
   type: Plant
   source: Storm King's Thunder
+  key: :lifferlas
 - !ruby/object:Monster
   challenge: 1
   name: Lion
   type: Beast
   source: Basic Rules
+  key: :lion
 - !ruby/object:Monster
   challenge: 0
   name: Lizard
   type: Beast
   source: Basic Rules
+  key: :lizard
 - !ruby/object:Monster
   challenge: 4
   name: Lizard King/Queen
   type: Humanoid
   source: Monster Manual
+  key: :lizard_king/queen
 - !ruby/object:Monster
   challenge: 0.5
   name: Lizardfolk
   type: Humanoid
   source: Basic Rules
+  key: :lizardfolk
 - !ruby/object:Monster
   challenge: 2
   name: Lizardfolk Shaman
   type: Humanoid
   source: Monster Manual
+  key: :lizardfolk_shaman
 - !ruby/object:Monster
   challenge: 0.25
   name: Lords’ Alliance Guard
   type: Humanoid
   source: Out of the Abyss
+  key: :lords’_alliance_guard
 - !ruby/object:Monster
   challenge: 1
   name: Lords’ Alliance Spy
   type: Humanoid
   source: Out of the Abyss
+  key: :lords’_alliance_spy
 - !ruby/object:Monster
   challenge: 10
   name: Madam Eva
   type: Humanoid
   source: Curse of Strahd
+  key: :madam_eva
 - !ruby/object:Monster
   challenge: 23
   name: Maegera the Dawn Titan
   type: Elemental
   source: Storm King's Thunder
+  key: :maegera_the_dawn_titan
 - !ruby/object:Monster
   challenge: 6
   name: Mage
   type: Humanoid
   source: Basic Rules
+  key: :mage
 - !ruby/object:Monster
   challenge: 0.5
   name: Magma Mephit
   type: Elemental
   source: Basic Rules
+  key: :magma_mephit
 - !ruby/object:Monster
   challenge: 0.5
   name: Magmin
   type: Elemental
   source: Basic Rules
+  key: :magmin
 - !ruby/object:Monster
   challenge: 0.25
   name: Male Steeder
   type: Beast
   source: Out of the Abyss
+  key: :male_steeder
 - !ruby/object:Monster
   challenge: 10
   name: Malformed Kraken
   type: Monstrosity
   source: Dead in Thay
+  key: :malformed_kraken
 - !ruby/object:Monster
   challenge: 6
   name: Mammoth
   type: Beast
   source: Basic Rules
+  key: :mammoth
 - !ruby/object:Monster
   challenge: 0.125
   name: Manes
   type: Fiend
   source: Monster Manual
+  key: :manes
 - !ruby/object:Monster
   challenge: 3
   name: Manticore
   type: Monstrosity
   source: Basic Rules
+  key: :manticore
 - !ruby/object:Monster
   challenge: 1
   name: Mantrap
   type: Plant
   source: Tomb of Annihilation
+  key: :mantrap
 - !ruby/object:Monster
   challenge: 11
   name: Marid
   type: Elemental
   source: Monster Manual
+  key: :marid
 - !ruby/object:Monster
   challenge: 16
   name: Marilith
   type: Fiend
   source: Basic Rules
+  key: :marilith
 - !ruby/object:Monster
   challenge: 0
   name: Markham Southwell
   type: Humanoid
   source: Storm King's Thunder
+  key: :markham_southwell
 - !ruby/object:Monster
   challenge: 8
   name: Marlos Urnrayle
   type: Monstrosity
   source: Princes of the Apocalypse
+  key: :marlos_urnrayle
 - !ruby/object:Monster
   challenge: 3
   name: Martial Arts Adept
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :martial_arts_adept
 - !ruby/object:Monster
   challenge: 5
   name: Master Thief
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :master_thief
 - !ruby/object:Monster
   challenge: 0.125
   name: Mastiff
   type: Beast
   source: Basic Rules
+  key: :mastiff
 - !ruby/object:Monster
   challenge: 1
   name: Maw Demon
   type: Fiend
   source: Volo's Guide to Monsters
+  key: :maw_demon
 - !ruby/object:Monster
   challenge: 6
   name: Medusa
   type: Monstrosity
   source: Basic Rules
+  key: :medusa
 - !ruby/object:Monster
   challenge: 2
   name: Meenlock
   type: Fey
   source: Volo's Guide to Monsters
+  key: :meenlock
 - !ruby/object:Monster
   challenge: 0.125
   name: Merfolk
   type: Humanoid
   source: Basic Rules
+  key: :merfolk
 - !ruby/object:Monster
   challenge: 2
   name: Merrow
   type: Monstrosity
   source: Basic Rules
+  key: :merrow
 - !ruby/object:Monster
   challenge: 5
   name: Mezzoloth
   type: Fiend
   source: Monster Manual
+  key: :mezzoloth
 - !ruby/object:Monster
   challenge: 2
   name: Mimic
   type: Monstrosity
   source: Basic Rules
+  key: :mimic
 - !ruby/object:Monster
   challenge: 7
   name: Mind Flayer
   type: Aberration
   source: Monster Manual
+  key: :mind_flayer
 - !ruby/object:Monster
   challenge: 8
   name: Mind Flayer Arcanist
   type: Aberration
   source: Monster Manual
+  key: :mind_flayer_arcanist
 - !ruby/object:Monster
   challenge: 22
   name: Mind Flayer Lich (Illithilich)
   type: Undead
   source: Volo's Guide to Monsters
+  key: :mind_flayer_lich_(illithilich)
 - !ruby/object:Monster
   challenge: 5
   name: Mindwitness
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :mindwitness
 - !ruby/object:Monster
   challenge: 3
   name: Minotaur
   type: Monstrosity
   source: Basic Rules
+  key: :minotaur
 - !ruby/object:Monster
   challenge: 2
   name: Minotaur Skeleton
   type: Undead
   source: Basic Rules
+  key: :minotaur_skeleton
 - !ruby/object:Monster
   challenge: 6
   name: Miraj Vizann
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :miraj_vizann
 - !ruby/object:Monster
   challenge: 0
   name: Miros Xelbrin
   type: Humanoid
   source: Storm King's Thunder
+  key: :miros_xelbrin
 - !ruby/object:Monster
   challenge: 0.25
   name: Mongrelfolk
   type: Humanoid
   source: Curse of Strahd
+  key: :mongrelfolk
 - !ruby/object:Monster
   challenge: 0.125
   name: Monodrone
   type: Construct
   source: Monster Manual
+  key: :monodrone
 - !ruby/object:Monster
   challenge: 11
   name: Morkoth
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :morkoth
 - !ruby/object:Monster
   challenge: 3
   name: Mormesk the Wraith
   type: Undead
   source: Lost Mine of Phandelver
+  key: :mormesk_the_wraith
 - !ruby/object:Monster
   challenge: 6
   name: Mouth of Grolantor
   type: Giant
   source: Volo's Guide to Monsters
+  key: :mouth_of_grolantor
 - !ruby/object:Monster
   challenge: 0.25
   name: Mud Mephit
   type: Elemental
   source: Monster Manual
+  key: :mud_mephit
 - !ruby/object:Monster
   challenge: 0.125
   name: Mule
   type: Beast
   source: Basic Rules
+  key: :mule
 - !ruby/object:Monster
   challenge: 3
   name: Mummy
   type: Undead
   source: Basic Rules
+  key: :mummy
 - !ruby/object:Monster
   challenge: 15
   name: Mummy Lord
   type: Undead
   source: Basic Rules
+  key: :mummy_lord
 - !ruby/object:Monster
   challenge: 0.125
   name: Mwaxanaré
   type: Humanoid
   source: Tomb of Annihilation
+  key: :mwaxanaré
 - !ruby/object:Monster
   challenge: 0.5
   name: Myconid Adult
   type: Plant
   source: Monster Manual
+  key: :myconid_adult
 - !ruby/object:Monster
   challenge: 2
   name: Myconid Sovereign
   type: Plant
   source: Monster Manual
+  key: :myconid_sovereign
 - !ruby/object:Monster
   challenge: 0
   name: Myconid Sprout
   type: Plant
   source: Monster Manual
+  key: :myconid_sprout
 - !ruby/object:Monster
   challenge: 11
   name: Naergoth Bladelord
   type: Undead
   source: Rise of Tiamat
+  key: :naergoth_bladelord
 - !ruby/object:Monster
   challenge: 13
   name: Nalfeshnee
   type: Fiend
   source: Basic Rules
+  key: :nalfeshnee
 - !ruby/object:Monster
   challenge: 2
   name: Narrak
   type: Humanoid
   source: Out of the Abyss
+  key: :narrak
 - !ruby/object:Monster
   challenge: 0
   name: Narth Tezrin
   type: Humanoid
   source: Storm King's Thunder
+  key: :narth_tezrin
 - !ruby/object:Monster
   challenge: 0
   name: Naxene Drathkala
   type: Humanoid
   source: Storm King's Thunder
+  key: :naxene_drathkala
 - !ruby/object:Monster
   challenge: 9
   name: Necromancer
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :necromancer
 - !ruby/object:Monster
   challenge: 0.25
   name: Needle Blight
   type: Plant
   source: Monster Manual
+  key: :needle_blight
 - !ruby/object:Monster
   challenge: 3
   name: Neogi
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :neogi
 - !ruby/object:Monster
   challenge: 0.125
   name: Neogi Hatchling
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :neogi_hatchling
 - !ruby/object:Monster
   challenge: 4
   name: Neogi Master
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :neogi_master
 - !ruby/object:Monster
   challenge: 13
   name: Neothelid
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :neothelid
 - !ruby/object:Monster
   challenge: 2
   name: Nereid
   type: Fey
   source: The Hidden Shrine of Tamoachan
+  key: :nereid
 - !ruby/object:Monster
   challenge: 9
   name: Neronvain
   type: Humanoid
   source: Rise of Tiamat
+  key: :neronvain
 - !ruby/object:Monster
   challenge: 2
   name: Nezznar the Black Spider
   type: Humanoid
   source: Lost Mine of Phandelver
+  key: :nezznar_the_black_spider
 - !ruby/object:Monster
   challenge: 5
   name: Night Hag
   type: Fiend
   source: Basic Rules
+  key: :night_hag
 - !ruby/object:Monster
   challenge: 3
   name: Nightmare
   type: Fiend
   source: Basic Rules
+  key: :nightmare
 - !ruby/object:Monster
   challenge: 1
   name: Nilbog
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :nilbog
 - !ruby/object:Monster
   challenge: 13
   name: Nimir
   type: Giant
   source: Storm King's Thunder
+  key: :nimir
 - !ruby/object:Monster
   challenge: 0.125
   name: Noble
   type: Humanoid
   source: Basic Rules
+  key: :noble
 - !ruby/object:Monster
   challenge: 2
   name: Nothic
   type: Aberration
   source: Basic Rules
+  key: :nothic
 - !ruby/object:Monster
   challenge: 9
   name: Nycaloth
   type: Fiend
   source: Monster Manual
+  key: :nycaloth
 - !ruby/object:Monster
   challenge: 2
   name: Ochre Jelly
   type: Ooze
   source: Basic Rules
+  key: :ochre_jelly
 - !ruby/object:Monster
   challenge: 0
   name: Octopus
   type: Beast
   source: Basic Rules
+  key: :octopus
 - !ruby/object:Monster
   challenge: 2
   name: Ogre
   type: Giant
   source: Basic Rules
+  key: :ogre
 - !ruby/object:Monster
   challenge: 2
   name: Ogre Zombie
   type: Undead
   source: Basic Rules
+  key: :ogre_zombie
 - !ruby/object:Monster
   challenge: 20
   name: Ogrémoch
   type: Elemental
   source: Princes of the Apocalypse
+  key: :ogrémoch
 - !ruby/object:Monster
   challenge: 18
   name: Olhydra
   type: Elemental
   source: Princes of the Apocalypse
+  key: :olhydra
 - !ruby/object:Monster
   challenge: 3
   name: One-Eyed Shiver
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :one_eyed_shiver
 - !ruby/object:Monster
   challenge: 7
   name: Oni
   type: Giant
   source: Basic Rules
+  key: :oni
 - !ruby/object:Monster
   challenge: 10
   name: Ooze Master
   type: Undead
   source: Dead in Thay
+  key: :ooze_master
 - !ruby/object:Monster
   challenge: 0.5
   name: Orc
   type: Humanoid
   source: Basic Rules
+  key: :orc
 - !ruby/object:Monster
   challenge: 4
   name: Orc Blade of Ilneval
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :orc_blade_of_ilneval
 - !ruby/object:Monster
   challenge: 2
   name: Orc Claw of Luthic
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :orc_claw_of_luthic
 - !ruby/object:Monster
   challenge: 2
   name: Orc Eye of Gruumsh
   type: Humanoid
   source: Monster Manual
+  key: :orc_eye_of_gruumsh
 - !ruby/object:Monster
   challenge: 2
   name: Orc Hand of Yurtrus
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :orc_hand_of_yurtrus
 - !ruby/object:Monster
   challenge: 0.5
   name: Orc Nurtured One of Yurtrus
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :orc_nurtured_one_of_yurtrus
 - !ruby/object:Monster
   challenge: 3
   name: Orc Red Fang of Shargaas
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :orc_red_fang_of_shargaas
 - !ruby/object:Monster
   challenge: 4
   name: Orc War Chief
   type: Humanoid
   source: Monster Manual
+  key: :orc_war_chief
 - !ruby/object:Monster
   challenge: 26
   name: Orcus
   type: Fiend
   source: Out of the Abyss
+  key: :orcus
 - !ruby/object:Monster
   challenge: 2
   name: Oreioth
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :oreioth
 - !ruby/object:Monster
   challenge: 0
   name: Oren Yogilvy
   type: Humanoid
   source: Storm King's Thunder
+  key: :oren_yogilvy
 - !ruby/object:Monster
   challenge: 13
   name: Orlekto
   type: Giant
   source: Storm King's Thunder
+  key: :orlekto
 - !ruby/object:Monster
   challenge: 2
   name: Orog
   type: Humanoid
   source: Monster Manual
+  key: :orog
 - !ruby/object:Monster
   challenge: 0
   name: Othovir
   type: Humanoid
   source: Storm King's Thunder
+  key: :othovir
 - !ruby/object:Monster
   challenge: 5
   name: Otyugh
   type: Aberration
   source: Basic Rules
+  key: :otyugh
 - !ruby/object:Monster
   challenge: 0
   name: Owl
   type: Beast
   source: Basic Rules
+  key: :owl
 - !ruby/object:Monster
   challenge: 3
   name: Owlbear
   type: Monstrosity
   source: Basic Rules
+  key: :owlbear
 - !ruby/object:Monster
   challenge: 0.25
   name: Ox
   type: Beast
   source: Volo's Guide to Monsters
+  key: :ox
 - !ruby/object:Monster
   challenge: 0.25
   name: Panther
   type: Beast
   source: Basic Rules
+  key: :panther
 - !ruby/object:Monster
   challenge: 2
   name: Pegasus
   type: Celestial
   source: Basic Rules
+  key: :pegasus
 - !ruby/object:Monster
   challenge: 2
   name: Pentadrone
   type: Construct
   source: Monster Manual
+  key: :pentadrone
 - !ruby/object:Monster
   challenge: 2
   name: Peryton
   type: Monstrosity
   source: Monster Manual
+  key: :peryton
 - !ruby/object:Monster
   challenge: 3
   name: Phantom Warrior
   type: Undead
   source: Curse of Strahd
+  key: :phantom_warrior
 - !ruby/object:Monster
   challenge: 3
   name: Pharblex Spattergoo
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :pharblex_spattergoo
 - !ruby/object:Monster
   challenge: 3
   name: Phase Spider
   type: Monstrosity
   source: Basic Rules
+  key: :phase_spider
 - !ruby/object:Monster
   challenge: 0.25
   name: Pidlwick II
   type: Construct
   source: Curse of Strahd
+  key: :pidlwick_ii
 - !ruby/object:Monster
   challenge: 0.5
   name: Piercer
   type: Monstrosity
   source: Monster Manual
+  key: :piercer
 - !ruby/object:Monster
   challenge: 20
   name: Pit Fiend
   type: Fiend
   source: Basic Rules
+  key: :pit_fiend
 - !ruby/object:Monster
   challenge: 0.25
   name: Pixie
   type: Fey
   source: Monster Manual
+  key: :pixie
 - !ruby/object:Monster
   challenge: 16
   name: Planetar
   type: Celestial
   source: Basic Rules
+  key: :planetar
 - !ruby/object:Monster
   challenge: 2
   name: Plesiosaurus
   type: Beast
   source: Basic Rules
+  key: :plesiosaurus
 - !ruby/object:Monster
   challenge: 0.125
   name: Poisonous Snake
   type: Beast
   source: Basic Rules
+  key: :poisonous_snake
 - !ruby/object:Monster
   challenge: 2
   name: Polar Bear
   type: Beast
   source: Basic Rules
+  key: :polar_bear
 - !ruby/object:Monster
   challenge: 2
   name: Poltergeist
   type: Undead
   source: Monster Manual
+  key: :poltergeist
 - !ruby/object:Monster
   challenge: 0.125
   name: Pony
   type: Beast
   source: Basic Rules
+  key: :pony
 - !ruby/object:Monster
   challenge: 2
   name: Priest
   type: Humanoid
   source: Basic Rules
+  key: :priest
 - !ruby/object:Monster
   challenge: 0.25
   name: Pseudodragon
   type: Dragon
   source: Basic Rules
+  key: :pseudodragon
 - !ruby/object:Monster
   challenge: 0.5
   name: Psychic Gray Ooze
   type: Ooze
   source: Monster Manual
+  key: :psychic_gray_ooze
 - !ruby/object:Monster
   challenge: 1
   name: Pterafolk
   type: Monstrosity
   source: Tomb of Annihilation
+  key: :pterafolk
 - !ruby/object:Monster
   challenge: 0.25
   name: Pteranodon
   type: Beast
   source: Basic Rules
+  key: :pteranodon
 - !ruby/object:Monster
   challenge: 4
   name: Pudding King
   type: Humanoid
   source: Out of the Abyss
+  key: :pudding_king
 - !ruby/object:Monster
   challenge: 15
   name: Purple Worm
   type: Monstrosity
   source: Basic Rules
+  key: :purple_worm
 - !ruby/object:Monster
   challenge: 2
   name: Purple Wormling
   type: Monstrosity
   source: Storm King's Thunder
+  key: :purple_wormling
 - !ruby/object:Monster
   challenge: 1
   name: Quadrone
   type: Construct
   source: Monster Manual
+  key: :quadrone
 - !ruby/object:Monster
   challenge: 2
   name: Quaggoth
   type: Humanoid
   source: Monster Manual
+  key: :quaggoth
 - !ruby/object:Monster
   challenge: 1
   name: Quaggoth Spore Servant
   type: Plant
   source: Monster Manual
+  key: :quaggoth_spore_servant
 - !ruby/object:Monster
   challenge: 3
   name: Quaggoth Thonot
   type: Humanoid
   source: Monster Manual
+  key: :quaggoth_thonot
 - !ruby/object:Monster
   challenge: 1
   name: Quasit
   type: Fiend
   source: Basic Rules
+  key: :quasit
 - !ruby/object:Monster
   challenge: 2
   name: Quetzalcoatlus
   type: Beast
   source: Volo's Guide to Monsters
+  key: :quetzalcoatlus
 - !ruby/object:Monster
   challenge: 1
   name: Quickling
   type: Fey
   source: Volo's Guide to Monsters
+  key: :quickling
 - !ruby/object:Monster
   challenge: 0
   name: Quipper
   type: Beast
   source: Basic Rules
+  key: :quipper
 - !ruby/object:Monster
   challenge: 10
   name: Rahadin
   type: Humanoid
   source: Curse of Strahd
+  key: :rahadin
 - !ruby/object:Monster
   challenge: 13
   name: Rakshasa
   type: Fiend
   source: Basic Rules
+  key: :rakshasa
 - !ruby/object:Monster
   challenge: 7
   name: Ras Nsi
   type: Monstrosity
   source: Tomb of Annihilation
+  key: :ras_nsi
 - !ruby/object:Monster
   challenge: 0
   name: Rat
   type: Beast
   source: Basic Rules
+  key: :rat
 - !ruby/object:Monster
   challenge: 6
   name: Rath Modar
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :rath_modar
 - !ruby/object:Monster
   challenge: 0
   name: Raven
   type: Beast
   source: Basic Rules
+  key: :raven
 - !ruby/object:Monster
   challenge: 5
   name: Razerblast
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :razerblast
 - !ruby/object:Monster
   challenge: 4
   name: Red Dragon Wyrmling
   type: Dragon
   source: Basic Rules
+  key: :red_dragon_wyrmling
 - !ruby/object:Monster
   challenge: 2
   name: Red Guard Drake
   type: Dragon
   source: Volo's Guide to Monsters
+  key: :red_guard_drake
 - !ruby/object:Monster
   challenge: 5
   name: Red Slaad
   type: Aberration
   source: Monster Manual
+  key: :red_slaad
 - !ruby/object:Monster
   challenge: 0.5
   name: Redbrand Ruffian
   type: Humanoid
   source: Lost Mine of Phandelver
+  key: :redbrand_ruffian
 - !ruby/object:Monster
   challenge: 3
   name: Redcap
   type: Fey
   source: Volo's Guide to Monsters
+  key: :redcap
 - !ruby/object:Monster
   challenge: 0.5
   name: Reef Shark
   type: Beast
   source: Basic Rules
+  key: :reef_shark
 - !ruby/object:Monster
   challenge: 11
   name: Remorhaz
   type: Monstrosity
   source: Basic Rules
+  key: :remorhaz
 - !ruby/object:Monster
   challenge: 5
   name: Revenant
   type: Undead
   source: Monster Manual
+  key: :revenant
 - !ruby/object:Monster
   challenge: 7
   name: Rezmir
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :rezmir
 - !ruby/object:Monster
   challenge: 2
   name: Rhinoceros
   type: Beast
   source: Basic Rules
+  key: :rhinoceros
 - !ruby/object:Monster
   challenge: 5
   name: Rictavio
   type: Humanoid
   source: Curse of Strahd
+  key: :rictavio
 - !ruby/object:Monster
   challenge: 0.25
   name: Riding Horse
   type: Beast
   source: Basic Rules
+  key: :riding_horse
 - !ruby/object:Monster
   challenge: 11
   name: Roc
   type: Monstrosity
   source: Basic Rules
+  key: :roc
 - !ruby/object:Monster
   challenge: 5
   name: Roper
   type: Monstrosity
   source: Basic Rules
+  key: :roper
 - !ruby/object:Monster
   challenge: 0.25
   name: Rothé
   type: Beast
   source: Volo's Guide to Monsters
+  key: :rothé
 - !ruby/object:Monster
   challenge: 2
   name: Rug of Smothering
   type: Construct
   source: Basic Rules
+  key: :rug_of_smothering
 - !ruby/object:Monster
   challenge: 0.5
   name: Rust Monster
   type: Monstrosity
   source: Basic Rules
+  key: :rust_monster
 - !ruby/object:Monster
   challenge: 2
   name: Saber-Toothed Tiger
   type: Beast
   source: Basic Rules
+  key: :saber_toothed_tiger
 - !ruby/object:Monster
   challenge: 0.5
   name: Sacred Stone Monk
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :sacred_stone_monk
 - !ruby/object:Monster
   challenge: 0.5
   name: Sahuagin
   type: Humanoid
   source: Basic Rules
+  key: :sahuagin
 - !ruby/object:Monster
   challenge: 5
   name: Sahuagin Baron
   type: Humanoid
   source: Monster Manual
+  key: :sahuagin_baron
 - !ruby/object:Monster
   challenge: 2
   name: Sahuagin Priestess
   type: Humanoid
   source: Monster Manual
+  key: :sahuagin_priestess
 - !ruby/object:Monster
   challenge: 5
   name: Salamander
   type: Elemental
   source: Basic Rules
+  key: :salamander
 - !ruby/object:Monster
   challenge: 0.5
   name: Satyr
   type: Fey
   source: Basic Rules
+  key: :satyr
 - !ruby/object:Monster
   challenge: 1
   name: Scarecrow
   type: Construct
   source: Monster Manual
+  key: :scarecrow
 - !ruby/object:Monster
   challenge: 0
   name: Scorpion
   type: Beast
   source: Basic Rules
+  key: :scorpion
 - !ruby/object:Monster
   challenge: 0.5
   name: Scout
   type: Humanoid
   source: Basic Rules
+  key: :scout
 - !ruby/object:Monster
   challenge: 5
   name: Scrag
   type: Giant
   source: Rise of Tiamat
+  key: :scrag
 - !ruby/object:Monster
   challenge: 2
   name: Sea Hag
   type: Fey
   source: Basic Rules
+  key: :sea_hag
 - !ruby/object:Monster
   challenge: 0
   name: Sea Horse
   type: Beast
   source: Basic Rules
+  key: :sea_horse
 - !ruby/object:Monster
   challenge: 5
   name: Sea Lion
   type: Monstrosity
   source: White Plume Mountain
+  key: :sea_lion
 - !ruby/object:Monster
   challenge: 1
   name: Sea Spawn
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :sea_spawn
 - !ruby/object:Monster
   challenge: 11
   name: Severin
   type: Humanoid
   source: Rise of Tiamat
+  key: :severin
 - !ruby/object:Monster
   challenge: 0.5
   name: Shadow
   type: Undead
   source: Basic Rules
+  key: :shadow
 - !ruby/object:Monster
   challenge: 4
   name: Shadow Demon
   type: Fiend
   source: Monster Manual
+  key: :shadow_demon
 - !ruby/object:Monster
   challenge: 2
   name: Shadow Mastiff
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :shadow_mastiff
 - !ruby/object:Monster
   challenge: 2
   name: Shadow Mastiff Alpha
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :shadow_mastiff_alpha
 - !ruby/object:Monster
   challenge: 13
   name: Shaldoor
   type: Giant
   source: Storm King's Thunder
+  key: :shaldoor
 - !ruby/object:Monster
   challenge: 0
   name: Shalvus Martholio
   type: Humanoid
   source: Storm King's Thunder
+  key: :shalvus_martholio
 - !ruby/object:Monster
   challenge: 5
   name: Shambling Mound
   type: Plant
   source: Basic Rules
+  key: :shambling_mound
 - !ruby/object:Monster
   challenge: 0.5
   name: Sharwyn Hucrele
   type: Humanoid
   source: The Sunless Citadel
+  key: :sharwyn_hucrele
 - !ruby/object:Monster
   challenge: 7
   name: Shield Guardian
   type: Construct
   source: Basic Rules
+  key: :shield_guardian
 - !ruby/object:Monster
   challenge: 4
   name: Shoalar Quanderil
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :shoalar_quanderil
 - !ruby/object:Monster
   challenge: 8
   name: Shoosuva
   type: Fiend
   source: Volo's Guide to Monsters
+  key: :shoosuva
 - !ruby/object:Monster
   challenge: 0
   name: Shrieker
   type: Plant
   source: Basic Rules
+  key: :shrieker
 - !ruby/object:Monster
   challenge: 1
   name: Sildar Hallwinter
   type: Humanoid
   source: Lost Mine of Phandelver
+  key: :sildar_hallwinter
 - !ruby/object:Monster
   challenge: 2
   name: Silver Dragon Wyrmling
   type: Dragon
   source: Basic Rules
+  key: :silver_dragon_wyrmling
 - !ruby/object:Monster
   challenge: 0
   name: Sir Baric Nylef
   type: Humanoid
   source: Storm King's Thunder
+  key: :sir_baric_nylef
 - !ruby/object:Monster
   challenge: 0.5
   name: Sir Braford
   type: Humanoid
   source: The Sunless Citadel
+  key: :sir_braford
 - !ruby/object:Monster
   challenge: 0
   name: Sirac of Suzail
   type: Humanoid
   source: Storm King's Thunder
+  key: :sirac_of_suzail
 - !ruby/object:Monster
   challenge: 3
   name: Siren
   type: Fey
   source: Tomb of Horrors
+  key: :siren
 - !ruby/object:Monster
   challenge: 0.25
   name: Skeleton
   type: Undead
   source: Basic Rules
+  key: :skeleton
 - !ruby/object:Monster
   challenge: 3
   name: Skyweaver
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :skyweaver
 - !ruby/object:Monster
   challenge: 0.125
   name: Slaad Tadpole
   type: Aberration
   source: Monster Manual
+  key: :slaad_tadpole
 - !ruby/object:Monster
   challenge: 3
   name: Slithering Tracker
   type: Ooze
   source: Volo's Guide to Monsters
+  key: :slithering_tracker
 - !ruby/object:Monster
   challenge: 0.25
   name: Smoke Mephit
   type: Elemental
   source: Monster Manual
+  key: :smoke_mephit
 - !ruby/object:Monster
   challenge: 21
   name: Solar
   type: Celestial
   source: Basic Rules
+  key: :solar
 - !ruby/object:Monster
   challenge: 5
   name: Spawn of Kyuss
   type: Undead
   source: Volo's Guide to Monsters
+  key: :spawn_of_kyuss
 - !ruby/object:Monster
   challenge: 3
   name: Spectator
   type: Aberration
   source: Basic Rules
+  key: :spectator
 - !ruby/object:Monster
   challenge: 1
   name: Specter
   type: Undead
   source: Basic Rules
+  key: :specter
 - !ruby/object:Monster
   challenge: 0
   name: Spider
   type: Beast
   source: Basic Rules
+  key: :spider
 - !ruby/object:Monster
   challenge: 2
   name: Spined Devil
   type: Fiend
   source: Monster Manual
+  key: :spined_devil
 - !ruby/object:Monster
   challenge: 8
   name: Spirit Naga
   type: Monstrosity
   source: Basic Rules
+  key: :spirit_naga
 - !ruby/object:Monster
   challenge: 0.25
   name: Sprite
   type: Fey
   source: Basic Rules
+  key: :sprite
 - !ruby/object:Monster
   challenge: 1
   name: Spy
   type: Humanoid
   source: Basic Rules
+  key: :spy
 - !ruby/object:Monster
   challenge: 0.25
   name: Steam Mephit
   type: Elemental
   source: Basic Rules
+  key: :steam_mephit
 - !ruby/object:Monster
   challenge: 4
   name: Stegosaurus
   type: Beast
   source: Volo's Guide to Monsters
+  key: :stegosaurus
 - !ruby/object:Monster
   challenge: 0.25
   name: Stench Kow
   type: Beast
   source: Volo's Guide to Monsters
+  key: :stench_kow
 - !ruby/object:Monster
   challenge: 0.125
   name: Stirge
   type: Beast
   source: Basic Rules
+  key: :stirge
 - !ruby/object:Monster
   challenge: 7
   name: Stone Giant
   type: Giant
   source: Basic Rules
+  key: :stone_giant
 - !ruby/object:Monster
   challenge: 10
   name: Stone Giant Dreamwalker
   type: Giant
   source: Volo's Guide to Monsters
+  key: :stone_giant_dreamwalker
 - !ruby/object:Monster
   challenge: 10
   name: Stone Golem
   type: Construct
   source: Basic Rules
+  key: :stone_golem
 - !ruby/object:Monster
   challenge: 12
   name: Stone Juggernaut
   type: Construct
   source: Tomb of Annihilation
+  key: :stone_juggernaut
 - !ruby/object:Monster
   challenge: 4
   name: Stonemelder
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :stonemelder
 - !ruby/object:Monster
   challenge: 13
   name: Storm Giant
   type: Giant
   source: Basic Rules
+  key: :storm_giant
 - !ruby/object:Monster
   challenge: 16
   name: Storm Giant Quintessent
   type: Giant
   source: Volo's Guide to Monsters
+  key: :storm_giant_quintessent
 - !ruby/object:Monster
   challenge: 15
   name: Strahd von Zarovich
   type: Undead
   source: Curse of Strahd
+  key: :strahd_von_zarovich
 - !ruby/object:Monster
   challenge: 1
   name: Strahd Zombie
   type: Undead
   source: Curse of Strahd
+  key: :strahd_zombie
 - !ruby/object:Monster
   challenge: 6
   name: Strahd’s Animated Armor
   type: Construct
   source: Curse of Strahd
+  key: :strahd’s_animated_armor
 - !ruby/object:Monster
   challenge: 4
   name: Succubus/Incubus
   type: Fiend
   source: Basic Rules
+  key: :succubus/incubus
 - !ruby/object:Monster
   challenge: 1
   name: Su-monster
   type: Monstrosity
   source: Tomb of Annihilation
+  key: :su_monster
 - !ruby/object:Monster
   challenge: 0.25
   name: Swarm of Bats
   type: Beast
   source: Basic Rules
+  key: :swarm_of_bats
 - !ruby/object:Monster
   challenge: 5
   name: Swarm of Cranium Rats
   type: Beast
   source: Volo's Guide to Monsters
+  key: :swarm_of_cranium_rats
 - !ruby/object:Monster
   challenge: 0.5
   name: Swarm of Insects
   type: Beast
   source: Basic Rules
+  key: :swarm_of_insects
 - !ruby/object:Monster
   challenge: 2
   name: Swarm of Poisonous Snakes
   type: Beast
   source: Basic Rules
+  key: :swarm_of_poisonous_snakes
 - !ruby/object:Monster
   challenge: 1
   name: Swarm of Quippers
   type: Beast
   source: Basic Rules
+  key: :swarm_of_quippers
 - !ruby/object:Monster
   challenge: 0.25
   name: Swarm of Rats
   type: Beast
   source: Basic Rules
+  key: :swarm_of_rats
 - !ruby/object:Monster
   challenge: 0.25
   name: Swarm of Ravens
   type: Beast
   source: Basic Rules
+  key: :swarm_of_ravens
 - !ruby/object:Monster
   challenge: 0.5
   name: Swarm of Rot Grubs
   type: Beast
   source: Volo's Guide to Monsters
+  key: :swarm_of_rot_grubs
 - !ruby/object:Monster
   challenge: 3
   name: Swashbuckler
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :swashbuckler
 - !ruby/object:Monster
   challenge: 1
   name: Tabaxi Hunter
   type: Humanoid
   source: Tomb of Annihilation
+  key: :tabaxi_hunter
 - !ruby/object:Monster
   challenge: 0.25
   name: Tabaxi Minstrel
   type: Humanoid
   source: Tomb of Annihilation
+  key: :tabaxi_minstrel
 - !ruby/object:Monster
   challenge: 5
   name: Talis the White
   type: Humanoid
   source: Hoard of the Dragon Queen
+  key: :talis_the_white
 - !ruby/object:Monster
   challenge: 5
   name: Tanarukk
   type: Fiend
   source: Volo's Guide to Monsters
+  key: :tanarukk
 - !ruby/object:Monster
   challenge: 30
   name: Tarrasque
   type: Monstrosity
   source: Basic Rules
+  key: :tarrasque
 - !ruby/object:Monster
   challenge: 13
   name: Tarul Var
   type: Undead
   source: Dead in Thay
+  key: :tarul_var
 - !ruby/object:Monster
   challenge: 4
   name: Tecuziztecatl
   type: Monstrosity
   source: The Hidden Shrine of Tamoachan
+  key: :tecuziztecatl
 - !ruby/object:Monster
   challenge: 2
   name: Thayan Apprentice
   type: Humanoid
   source: Dead in Thay
+  key: :thayan_apprentice
 - !ruby/object:Monster
   challenge: 2
   name: Thayan Warrior
   type: Humanoid
   source: Dead in Thay
+  key: :thayan_warrior
 - !ruby/object:Monster
   challenge: 10
   name: The Abbot
   type: Celestial
   source: Curse of Strahd
+  key: :the_abbot
 - !ruby/object:Monster
   challenge: 0.5
   name: Thorn Slinger
   type: Plant
   source: The Hidden Shrine of Tamoachan
+  key: :thorn_slinger
 - !ruby/object:Monster
   challenge: 1
   name: Thorny
   type: Plant
   source: Volo's Guide to Monsters
+  key: :thorny
 - !ruby/object:Monster
   challenge: 1
   name: Thri-kreen
   type: Humanoid
   source: Monster Manual
+  key: :thri_kreen
 - !ruby/object:Monster
   challenge: 0.5
   name: Thug
   type: Humanoid
   source: Basic Rules
+  key: :thug
 - !ruby/object:Monster
   challenge: 3
   name: Thurl Merosska
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :thurl_merosska
 - !ruby/object:Monster
   challenge: 30
   name: Tiamat
   type: Fiend
   source: Rise of Tiamat
+  key: :tiamat
 - !ruby/object:Monster
   challenge: 1
   name: Tiger
   type: Beast
   source: Basic Rules
+  key: :tiger
 - !ruby/object:Monster
   challenge: 0
   name: Tiny Servant
   type: Construct
   source: Xanathar's Guide to Everything
+  key: :tiny_servant
 - !ruby/object:Monster
   challenge: 5
   name: Tlincalli
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :tlincalli
 - !ruby/object:Monster
   challenge: 0.5
   name: Topi
   type: Undead
   source: The Tortle Package
+  key: :topi
 - !ruby/object:Monster
   challenge: 0.25
   name: Tortle
   type: Humanoid
   source: The Tortle Package
+  key: :tortle
 - !ruby/object:Monster
   challenge: 2
   name: Tortle Druid
   type: Humanoid
   source: The Tortle Package
+  key: :tortle_druid
 - !ruby/object:Monster
   challenge: 5
   name: Transmuter
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :transmuter
 - !ruby/object:Monster
   challenge: 3
   name: Trapper
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :trapper
 - !ruby/object:Monster
   challenge: 9
   name: Treant
   type: Plant
   source: Basic Rules
+  key: :treant
 - !ruby/object:Monster
   challenge: 7
   name: Tree Blight
   type: Plant
   source: Curse of Strahd
+  key: :tree_blight
 - !ruby/object:Monster
   challenge: 0
   name: Tressym
   type: Beast
   source: Storm King's Thunder
+  key: :tressym
 - !ruby/object:Monster
   challenge: 0.125
   name: Tribal Warrior
   type: Humanoid
   source: Basic Rules
+  key: :tribal_warrior
 - !ruby/object:Monster
   challenge: 5
   name: Triceratops
   type: Beast
   source: Basic Rules
+  key: :triceratops
 - !ruby/object:Monster
   challenge: 0.5
   name: Tridrone
   type: Construct
   source: Monster Manual
+  key: :tridrone
 - !ruby/object:Monster
   challenge: 0.5
   name: Tri-flower Frond
   type: Plant
   source: Tomb of Annihilation
+  key: :tri_flower_frond
 - !ruby/object:Monster
   challenge: 0.25
   name: Troglodyte
   type: Humanoid
   source: Monster Manual
+  key: :troglodyte
 - !ruby/object:Monster
   challenge: 3
   name: Troglodyte Champion of Laogzed
   type: Humanoid
   source: Out of the Abyss
+  key: :troglodyte_champion_of_laogzed
 - !ruby/object:Monster
   challenge: 5
   name: Troll
   type: Giant
   source: Basic Rules
+  key: :troll
 - !ruby/object:Monster
   challenge: 0.125
   name: Twig Blight
   type: Plant
   source: Basic Rules
+  key: :twig_blight
 - !ruby/object:Monster
   challenge: 8
   name: Tyrannosaurus Rex
   type: Beast
   source: Basic Rules
+  key: :tyrannosaurus_rex
 - !ruby/object:Monster
   challenge: 8
   name: Tyrannosaurus Zombie
   type: Undead
   source: Tomb of Annihilation
+  key: :tyrannosaurus_zombie
 - !ruby/object:Monster
   challenge: 9
   name: Ulitharid
   type: Aberration
   source: Volo's Guide to Monsters
+  key: :ulitharid
 - !ruby/object:Monster
   challenge: 13
   name: Ultroloth
   type: Fiend
   source: Monster Manual
+  key: :ultroloth
 - !ruby/object:Monster
   challenge: 5
   name: Umber Hulk
   type: Monstrosity
   source: Monster Manual
+  key: :umber_hulk
 - !ruby/object:Monster
   challenge: 5
   name: Unicorn
   type: Celestial
   source: Basic Rules
+  key: :unicorn
 - !ruby/object:Monster
   challenge: 0
   name: Urgala Meltimer
   type: Humanoid
   source: Storm King's Thunder
+  key: :urgala_meltimer
 - !ruby/object:Monster
   challenge: 2
   name: Uthgardt Shaman
   type: Humanoid
   source: Storm King's Thunder
+  key: :uthgardt_shaman
 - !ruby/object:Monster
   challenge: 13
   name: Vaasha
   type: Giant
   source: Storm King's Thunder
+  key: :vaasha
 - !ruby/object:Monster
   challenge: 13
   name: Vampire
   type: Undead
   source: Basic Rules
+  key: :vampire
 - !ruby/object:Monster
   challenge: 5
   name: Vampire Spawn
   type: Undead
   source: Basic Rules
+  key: :vampire_spawn
 - !ruby/object:Monster
   challenge: 15
   name: Vampire Spellcaster
   type: Undead
   source: Monster Manual
+  key: :vampire_spellcaster
 - !ruby/object:Monster
   challenge: 15
   name: Vampire Warrior
   type: Undead
   source: Monster Manual
+  key: :vampire_warrior
 - !ruby/object:Monster
   challenge: 2
   name: Vampiric Ixitxachitl
   type: Aberration
   source: Out of the Abyss
+  key: :vampiric_ixitxachitl
 - !ruby/object:Monster
   challenge: 3
   name: Vampiric Mist
   type: Undead
   source: Dead in Thay
+  key: :vampiric_mist
 - !ruby/object:Monster
   challenge: 9
   name: Vanifer
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :vanifer
 - !ruby/object:Monster
   challenge: 1
   name: Vargouille
   type: Fiend
   source: Volo's Guide to Monsters
+  key: :vargouille
 - !ruby/object:Monster
   challenge: 0.25
   name: Vegepygmy
   type: Plant
   source: Volo's Guide to Monsters
+  key: :vegepygmy
 - !ruby/object:Monster
   challenge: 2
   name: Vegepygmy Chief
   type: Plant
   source: Volo's Guide to Monsters
+  key: :vegepygmy_chief
 - !ruby/object:Monster
   challenge: 0.25
   name: Velociraptor
   type: Beast
   source: Volo's Guide to Monsters
+  key: :velociraptor
 - !ruby/object:Monster
   challenge: 3
   name: Veteran
   type: Humanoid
   source: Basic Rules
+  key: :veteran
 - !ruby/object:Monster
   challenge: 3
   name: Veteran of the Gauntlet
   type: Humanoid
   source: Out of the Abyss
+  key: :veteran_of_the_gauntlet
 - !ruby/object:Monster
   challenge: 0.5
   name: Vine Blight
   type: Plant
   source: Monster Manual
+  key: :vine_blight
 - !ruby/object:Monster
   challenge: 0.25
   name: Violet Fungus
   type: Plant
   source: Basic Rules
+  key: :violet_fungus
 - !ruby/object:Monster
   challenge: 7
   name: Vladimir Horngaard
   type: Undead
   source: Curse of Strahd
+  key: :vladimir_horngaard
 - !ruby/object:Monster
   challenge: 0.25
   name: Volothamp “Volo” Geddarm
   type: Humanoid
   source: Tomb of Annihilation
+  key: :volothamp_“volo”_geddarm
 - !ruby/object:Monster
   challenge: 6
   name: Vrock
   type: Fiend
   source: Basic Rules
+  key: :vrock
 - !ruby/object:Monster
   challenge: 0
   name: Vulture
   type: Beast
   source: Basic Rules
+  key: :vulture
 - !ruby/object:Monster
   challenge: 9
   name: War Priest
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :war_priest
 - !ruby/object:Monster
   challenge: 0.5
   name: Warhorse
   type: Beast
   source: Basic Rules
+  key: :warhorse
 - !ruby/object:Monster
   challenge: 0.5
   name: Warhorse Skeleton
   type: Undead
   source: Basic Rules
+  key: :warhorse_skeleton
 - !ruby/object:Monster
   challenge: 4
   name: Warlock of the Archfey
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :warlock_of_the_archfey
 - !ruby/object:Monster
   challenge: 7
   name: Warlock of the Fiend
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :warlock_of_the_fiend
 - !ruby/object:Monster
   challenge: 6
   name: Warlock of the Great Old One
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :warlock_of_the_great_old_one
 - !ruby/object:Monster
   challenge: 12
   name: Warlord
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :warlord
 - !ruby/object:Monster
   challenge: 5
   name: Water Elemental
   type: Elemental
   source: Basic Rules
+  key: :water_elemental
 - !ruby/object:Monster
   challenge: 7
   name: Water Elemental Myrmidon
   type: Elemental
   source: Princes of the Apocalypse
+  key: :water_elemental_myrmidon
 - !ruby/object:Monster
   challenge: 3
   name: Water Weird
   type: Elemental
   source: Monster Manual
+  key: :water_weird
 - !ruby/object:Monster
   challenge: 0
   name: Weasel
   type: Beast
   source: Basic Rules
+  key: :weasel
 - !ruby/object:Monster
   challenge: 5
   name: Werebear
   type: Humanoid
   source: Basic Rules
+  key: :werebear
 - !ruby/object:Monster
   challenge: 4
   name: Wereboar
   type: Humanoid
   source: Basic Rules
+  key: :wereboar
 - !ruby/object:Monster
   challenge: 2
   name: Wererat
   type: Humanoid
   source: Basic Rules
+  key: :wererat
 - !ruby/object:Monster
   challenge: 2
   name: Wereraven
   type: Humanoid
   source: Curse of Strahd
+  key: :wereraven
 - !ruby/object:Monster
   challenge: 4
   name: Weretiger
   type: Humanoid
   source: Basic Rules
+  key: :weretiger
 - !ruby/object:Monster
   challenge: 3
   name: Werewolf
   type: Humanoid
   source: Basic Rules
+  key: :werewolf
 - !ruby/object:Monster
   challenge: 2
   name: White Dragon Wyrmling
   type: Dragon
   source: Basic Rules
+  key: :white_dragon_wyrmling
 - !ruby/object:Monster
   challenge: 2
   name: White Guard Drake
   type: Dragon
   source: Volo's Guide to Monsters
+  key: :white_guard_drake
 - !ruby/object:Monster
   challenge: 10
   name: White Maw
   type: Ooze
   source: Dead in Thay
+  key: :white_maw
 - !ruby/object:Monster
   challenge: 2
   name: Wiggan Nettlebee
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :wiggan_nettlebee
 - !ruby/object:Monster
   challenge: 3
   name: Wight
   type: Undead
   source: Basic Rules
+  key: :wight
 - !ruby/object:Monster
   challenge: 2
   name: Will-o'-Wisp
   type: Undead
   source: Basic Rules
+  key: :will_o_wisp
 - !ruby/object:Monster
   challenge: 3
   name: Windharrow
   type: Humanoid
   source: Princes of the Apocalypse
+  key: :windharrow
 - !ruby/object:Monster
   challenge: 0.25
   name: Winged Kobold
   type: Humanoid
   source: Monster Manual
+  key: :winged_kobold
 - !ruby/object:Monster
   challenge: 3
   name: Winter Wolf
   type: Monstrosity
   source: Basic Rules
+  key: :winter_wolf
 - !ruby/object:Monster
   challenge: 0.25
   name: Wolf
   type: Beast
   source: Basic Rules
+  key: :wolf
 - !ruby/object:Monster
   challenge: 5
   name: Wood Woad
   type: Plant
   source: Volo's Guide to Monsters
+  key: :wood_woad
 - !ruby/object:Monster
   challenge: 0.5
   name: Worg
   type: Monstrosity
   source: Basic Rules
+  key: :worg
 - !ruby/object:Monster
   challenge: 5
   name: Wraith
   type: Undead
   source: Basic Rules
+  key: :wraith
 - !ruby/object:Monster
   challenge: 6
   name: Wyvern
   type: Dragon
   source: Basic Rules
+  key: :wyvern
 - !ruby/object:Monster
   challenge: 7
   name: Xandala
   type: Humanoid
   source: Tomb of Annihilation
+  key: :xandala
 - !ruby/object:Monster
   challenge: 5
   name: Xorn
   type: Elemental
   source: Basic Rules
+  key: :xorn
 - !ruby/object:Monster
   challenge: 0.125
   name: Xvart
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :xvart
 - !ruby/object:Monster
   challenge: 0.125
   name: Xvart Speaker
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :xvart_speaker
 - !ruby/object:Monster
   challenge: 1
   name: Xvart Warlock of Raxivort
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :xvart_warlock_of_raxivort
 - !ruby/object:Monster
   challenge: 4
   name: Yakfolk Priest
   type: Monstrosity
   source: Storm King's Thunder
+  key: :yakfolk_priest
 - !ruby/object:Monster
   challenge: 3
   name: Yakfolk Warrior
   type: Monstrosity
   source: Storm King's Thunder
+  key: :yakfolk_warrior
 - !ruby/object:Monster
   challenge: 18
   name: Yan-C-Bin
   type: Elemental
   source: Princes of the Apocalypse
+  key: :yan_c_bin
 - !ruby/object:Monster
   challenge: 24
   name: Yeenoghu
   type: Fiend
   source: Out of the Abyss
+  key: :yeenoghu
 - !ruby/object:Monster
   challenge: 2
   name: Yellow Musk Creeper
   type: Plant
   source: Tomb of Annihilation
+  key: :yellow_musk_creeper
 - !ruby/object:Monster
   challenge: 0.25
   name: Yellow Musk Zombie
   type: Undead
   source: Tomb of Annihilation
+  key: :yellow_musk_zombie
 - !ruby/object:Monster
   challenge: 4
   name: Yestabrod
   type: Monstrosity
   source: Out of the Abyss
+  key: :yestabrod
 - !ruby/object:Monster
   challenge: 4
   name: Yeth Hound
   type: Fey
   source: Volo's Guide to Monsters
+  key: :yeth_hound
 - !ruby/object:Monster
   challenge: 3
   name: Yeti
   type: Monstrosity
   source: Basic Rules
+  key: :yeti
 - !ruby/object:Monster
   challenge: 10
   name: Yochlol
   type: Fiend
   source: Monster Manual
+  key: :yochlol
 - !ruby/object:Monster
   challenge: 7
   name: Young Black Dragon
   type: Dragon
   source: Basic Rules
+  key: :young_black_dragon
 - !ruby/object:Monster
   challenge: 9
   name: Young Blue Dragon
   type: Dragon
   source: Basic Rules
+  key: :young_blue_dragon
 - !ruby/object:Monster
   challenge: 6
   name: Young Brass Dragon
   type: Dragon
   source: Basic Rules
+  key: :young_brass_dragon
 - !ruby/object:Monster
   challenge: 8
   name: Young Bronze Dragon
   type: Dragon
   source: Basic Rules
+  key: :young_bronze_dragon
 - !ruby/object:Monster
   challenge: 7
   name: Young Copper Dragon
   type: Dragon
   source: Basic Rules
+  key: :young_copper_dragon
 - !ruby/object:Monster
   challenge: 10
   name: Young Gold Dragon
   type: Dragon
   source: Basic Rules
+  key: :young_gold_dragon
 - !ruby/object:Monster
   challenge: 8
   name: Young Green Dragon
   type: Dragon
   source: Basic Rules
+  key: :young_green_dragon
 - !ruby/object:Monster
   challenge: 10
   name: Young Red Dragon
   type: Dragon
   source: Basic Rules
+  key: :young_red_dragon
 - !ruby/object:Monster
   challenge: 13
   name: Young Red Shadow Dragon
   type: Dragon
   source: Monster Manual
+  key: :young_red_shadow_dragon
 - !ruby/object:Monster
   challenge: 5
   name: Young Remorhaz
   type: Monstrosity
   source: Monster Manual
+  key: :young_remorhaz
 - !ruby/object:Monster
   challenge: 9
   name: Young Silver Dragon
   type: Dragon
   source: Basic Rules
+  key: :young_silver_dragon
 - !ruby/object:Monster
   challenge: 6
   name: Young White Dragon
   type: Dragon
   source: Basic Rules
+  key: :young_white_dragon
 - !ruby/object:Monster
   challenge: 7
   name: Yuan-ti Abomination
   type: Monstrosity
   source: Monster Manual
+  key: :yuan_ti_abomination
 - !ruby/object:Monster
   challenge: 12
   name: Yuan-ti Anathema
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :yuan_ti_anathema
 - !ruby/object:Monster
   challenge: 2
   name: Yuan-ti Broodguard
   type: Humanoid
   source: Volo's Guide to Monsters
+  key: :yuan_ti_broodguard
 - !ruby/object:Monster
   challenge: 3
   name: Yuan-ti Malison
   type: Monstrosity
   source: Monster Manual
+  key: :yuan_ti_malison
 - !ruby/object:Monster
   challenge: 4
   name: Yuan-ti Mind Whisperer
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :yuan_ti_mind_whisperer
 - !ruby/object:Monster
   challenge: 4
   name: Yuan-ti Nightmare Speaker
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :yuan_ti_nightmare_speaker
 - !ruby/object:Monster
   challenge: 5
   name: Yuan-ti Pit Master
   type: Monstrosity
   source: Volo's Guide to Monsters
+  key: :yuan_ti_pit_master
 - !ruby/object:Monster
   challenge: 1
   name: Yuan-ti Pureblood
   type: Humanoid
   source: Monster Manual
+  key: :yuan_ti_pureblood
 - !ruby/object:Monster
   challenge: 1
   name: Yusdrayl
   type: Humanoid
   source: The Sunless Citadel
+  key: :yusdrayl
 - !ruby/object:Monster
   challenge: 0.5
   name: Zhentarim Thug
   type: Humanoid
   source: Out of the Abyss
+  key: :zhentarim_thug
 - !ruby/object:Monster
   challenge: 0
   name: Zi Liang
   type: Humanoid
   source: Storm King's Thunder
+  key: :zi_liang
 - !ruby/object:Monster
   challenge: 8
   name: Zindar
   type: Humanoid
   source: Tomb of Annihilation
+  key: :zindar
 - !ruby/object:Monster
   challenge: 0.25
   name: Zombie
   type: Undead
   source: Basic Rules
+  key: :zombie
 - !ruby/object:Monster
   challenge: 0.5
   name: Zorbo
   type: Monstrosity
   source: Tomb of Annihilation
+  key: :zorbo
 - !ruby/object:Monster
   challenge: 23
   name: Zuggtmoy
   type: Fiend
   source: Out of the Abyss
+  key: :zuggtmoy

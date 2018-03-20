@@ -12,20 +12,17 @@ class MonstersManual
 
   def read
     monsters = YAML::load_file('db/monsters.yml')
-    monster_id = 0
     monsters.each do |monster|
-      @monsters[monster_id]=monster
+      @monsters[monster.key]=monster
 
       @sources[monster.source] ||= []
-      @sources[monster.source] << monster_id
+      @sources[monster.source] << monster.key
 
       @challenges[monster.challenge] ||= []
-      @challenges[monster.challenge] << monster_id
+      @challenges[monster.challenge] << monster.key
 
       @types[monster.type] ||= []
-      @types[monster.type] << monster_id
-
-      monster_id+=1
+      @types[monster.type] << monster.key
     end
   end
 
