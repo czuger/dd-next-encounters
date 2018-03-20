@@ -44,7 +44,13 @@ class MonstersManual
   def select( sources: :all, types: :all, min_challenge: :none, max_challenge: :none )
     sources_ids = ( sources == :all ? @sources.values.flatten : sources.map{ |s| @sources[s] }.flatten )
     types_ids = ( types == :all ? @types.values.flatten : types.map{ |t| @types[t] }.flatten )
-    monsters_ids = sources_ids & types_ids
+
+    challenges = @challenges.keys
+    challenges.reject!{ |c| c > max_challenge } if max_challenge != :none
+    challenges.reject!{ |c| c < min_challenge } if min_challenge != :none
+    challenges_ids = challenges.map{ |c| @challenges[ c ] }.flatten
+
+    monsters_ids = sources_ids & types_ids & challenges_ids
     monsters_ids.map{ |m| @monsters[m] }
   end
 end
