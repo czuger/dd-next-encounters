@@ -1,11 +1,15 @@
+require_relative 'encounter'
+
 class Lair
 
   CONTENT = {
-      undead_basic: [ :zombie, :skeleton, :ghoul, :shadow, :specter, :ghast ],
-      undead_mythical: [ :zombie, :skeleton, :ghoul, :minotaur_skeleton, :mummy, :mummy_lord ],
-      undead_vampire: [ :zombie, :skeleton, :ghoul, :vampire, :vampire_spawn, :vampire_spellcaster, :vampire_warrior ],
-      gobelin_basic: [ :goblin, :goblin_boss, :hobgoblin, :hobgoblin_captain, :hobgoblin_warlord, :bugbear, :bugbear_chief ],
-      orc_basic: [ :orc_war_chief, :orc ]
+      undead_basic: { bosses: [], troops: [ :zombie, :skeleton, :ghoul, :shadow, :specter, :ghast ] },
+      undead_mythical: { bosses: [], troops: [ :zombie, :skeleton, :ghoul, :minotaur_skeleton, :mummy, :mummy_lord ] },
+      undead_vampire: { bosses: [], troops: [ :zombie, :skeleton, :ghoul, :vampire, :vampire_spawn, :vampire_spellcaster, :vampire_warrior ] },
+      gobelin_basic: { bosses: [ :goblin_boss ], troops:[ :goblin ] },
+      hobgobelin_basic: { bosses: [ :hobgoblin_captain, :hobgoblin_warlord ], troops:[ :hobgoblin ] },
+      bugbear_basic: { bosses: [ :bugbear_chief ], troops:[ :bugbear ] },
+      orc_basic: { bosses: [ :orc_war_chief, :orc_eye_of_gruumsh ], troops:[ :orc ] }
   }
 
   def initialize( lair_type )
@@ -25,17 +29,21 @@ class Lair
   # Encounter level : 0 -> 3
   # 0 : Easy
   # 3 : Deadly
-  def get_encounter( encounter_level, *hero_level, encounter_base = [] )
+  def get_encounter( encounter_level, *hero_level )
     raise "Bad encounter level : #{encounter_level.inspect}" if encounter_level < 0 || encounter_level > 3
     party_xp_level = hero_level.map{ |hl| @xp_table[hl][encounter_level] }.reduce(&:+)
 
+    encounter = Encounter.new( party_xp_level )
+
+    # Choose a random boss
+    boss = @bosses.sample if @bosses && rand( 1 .. 4 ) == 4
+    encounter.add_monster_if_possible( boss ) if boss
+
     # Choose a random monster
     monster = get_corresponding_monsters( party_xp_level ).sample
-    encounter = encounter_base
 
     loop do
-      break if encounter_value( encounter + [ monster ] ) > party_xp_level
-      encounter << monster
+      break unless encounter.add_monster_if_possible( monster )
     end
 
     encounter
@@ -43,30 +51,18 @@ class Lair
 
   private
 
-  def encounter_value( encounter )
-    encounter.map{ |e| e.xp_value }.reduce(&:+) * get_encounter_multiplier( encounter )
-  end
-
-  def get_encounter_multiplier( encounter )
-    count = encounter.count
-    mul = 1
-    mul = 1.5 if count >= 2
-    mul = 2 if count >= 3
-    mul = 2.5 if count >= 7
-    mul = 3 if count >= 11
-    mul = 4 if count >= 15
-    mul
-  end
-
   def get_corresponding_monsters( party_xp_level)
-    @monsters.map{ |m| m if m.xp_value < party_xp_level }.compact
+    @troops.map{ |m| m if m.xp_value < party_xp_level }.compact
   end
 
   def read_monster_manual
     @monster_manual.read
 
     @monsters = @monster_manual.select( sources: [ 'Basic Rules', 'Monster Manual' ] )
-    @monsters.reject!{ |m| !CONTENT[@lair_type].include?( m.key ) }
+    @troops = @monsters.select{ |m| CONTENT[@lair_type][:troops].include?( m.key ) }
+    @bosses = @monsters.select{ |m| CONTENT[@lair_type][:bosses].include?( m.key ) }
+    @bosses = nil if @bosses.empty?
+    # @monsters.reject!{ |m| !CONTENT[@lair_type].include?( m.key ) }
   end
 
   def read_xp_table
