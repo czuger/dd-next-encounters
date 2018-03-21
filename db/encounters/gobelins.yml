@@ -1,0 +1,18 @@
+---
+:troops:
+  - :goblin
+  - :hobgoblin
+  - :bugbear
+:bosses:
+  - :goblin_boss
+  - :hobgoblin_captain
+  - :hobgoblin_warlord
+  - :bugbear_chief
+:cant_lead:
+  :goblin_boss:
+    - :hobgoblin
+    - :bugbear
+  :hobgoblin_captain:
+    - :bugbear
+  :hobgoblin_warlord:
+    - :bugbear
