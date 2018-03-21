@@ -3,6 +3,8 @@ require_relative 'monster'
 
 class MonstersManual
 
+  attr_reader :monsters
+
   def initialize
     @monsters = {}
     @sources = {}
@@ -11,12 +13,11 @@ class MonstersManual
   end
 
   def load
-    monster_manual = YAML::load_file('db/monster_manual.yml')
+    monster_manual = YAML::load_file('db/monsters_manual.yml')
     @monsters = monster_manual[:monsters]
     @sources = monster_manual[:sources]
     @challenges = monster_manual[:challenges]
     @types = monster_manual[:types]
-
   end
 
   def save
@@ -59,8 +60,6 @@ class MonstersManual
       monster.xp_value = xp_by_challenge_rating_table[monster.challenge]
     end
   end
-
-  private
 
   def rebuild
     monsters = YAML::load_file('db/monsters.yml')

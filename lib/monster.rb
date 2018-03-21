@@ -18,7 +18,7 @@ class Monster
 
   def initialize( challenge, name, type, source )
     set_instance_variables(binding, *local_variables)
-    @key = @name.gsub( /[ -]/, '_' ).delete( "'" ).downcase.to_sym
+    @key = @name.gsub( /[ -]/, '_' ).gsub( 'é', 'e' ).delete( "()'’“”" ).downcase.to_sym
   end
 
 end

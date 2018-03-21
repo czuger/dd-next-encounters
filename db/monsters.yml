@@ -136,7 +136,7 @@
   name: Aldani (Lobsterfolk)
   type: Monstrosity
   source: Tomb of Annihilation
-  key: :aldani_(lobsterfolk)
+  key: :aldani_lobsterfolk
 - !ruby/object:Monster
   challenge: 10
   name: Alhoon
@@ -388,7 +388,7 @@
   name: Baba Lysaga’s Creeping Hut
   type: Construct
   source: Curse of Strahd
-  key: :baba_lysaga’s_creeping_hut
+  key: :baba_lysagas_creeping_hut
 - !ruby/object:Monster
   challenge: 4
   name: Babau
@@ -1048,13 +1048,13 @@
   name: Deep Gnome (Svirfneblin)
   type: Humanoid
   source: Basic Rules
-  key: :deep_gnome_(svirfneblin)
+  key: :deep_gnome_svirfneblin
 - !ruby/object:Monster
   challenge: 0.25
   name: Deep Rothé
   type: Beast
   source: Volo's Guide to Monsters
-  key: :deep_rothé
+  key: :deep_rothe
 - !ruby/object:Monster
   challenge: 3
   name: Deep Scion
@@ -1468,19 +1468,19 @@
   name: Ezmerelda d’Avenir
   type: Humanoid
   source: Curse of Strahd
-  key: :ezmerelda_d’avenir
+  key: :ezmerelda_davenir
 - !ruby/object:Monster
   challenge: 2
   name: Faerie Dragon (Older)
   type: Dragon
   source: Monster Manual
-  key: :faerie_dragon_(older)
+  key: :faerie_dragon_older
 - !ruby/object:Monster
   challenge: 1
   name: Faerie Dragon (Younger)
   type: Dragon
   source: Monster Manual
-  key: :faerie_dragon_(younger)
+  key: :faerie_dragon_younger
 - !ruby/object:Monster
   challenge: 2
   name: Fathomer
@@ -1612,7 +1612,7 @@
   name: Fraz-Urb’luu
   type: Fiend
   source: Out of the Abyss
-  key: :fraz_urb’luu
+  key: :fraz_urbluu
 - !ruby/object:Monster
   challenge: 0
   name: Frog
@@ -2098,7 +2098,7 @@
   name: Graz’zt
   type: Fiend
   source: Out of the Abyss
-  key: :graz’zt
+  key: :grazzt
 - !ruby/object:Monster
   challenge: 5
   name: Greater Zombie
@@ -2710,13 +2710,13 @@
   name: Lords’ Alliance Guard
   type: Humanoid
   source: Out of the Abyss
-  key: :lords’_alliance_guard
+  key: :lords_alliance_guard
 - !ruby/object:Monster
   challenge: 1
   name: Lords’ Alliance Spy
   type: Humanoid
   source: Out of the Abyss
-  key: :lords’_alliance_spy
+  key: :lords_alliance_spy
 - !ruby/object:Monster
   challenge: 10
   name: Madam Eva
@@ -2884,7 +2884,7 @@
   name: Mind Flayer Lich (Illithilich)
   type: Undead
   source: Volo's Guide to Monsters
-  key: :mind_flayer_lich_(illithilich)
+  key: :mind_flayer_lich_illithilich
 - !ruby/object:Monster
   challenge: 5
   name: Mindwitness
@@ -2974,7 +2974,7 @@
   name: Mwaxanaré
   type: Humanoid
   source: Tomb of Annihilation
-  key: :mwaxanaré
+  key: :mwaxanare
 - !ruby/object:Monster
   challenge: 0.5
   name: Myconid Adult
@@ -3148,7 +3148,7 @@
   name: Ogrémoch
   type: Elemental
   source: Princes of the Apocalypse
-  key: :ogrémoch
+  key: :ogremoch
 - !ruby/object:Monster
   challenge: 18
   name: Olhydra
@@ -3610,7 +3610,7 @@
   name: Rothé
   type: Beast
   source: Volo's Guide to Monsters
-  key: :rothé
+  key: :rothe
 - !ruby/object:Monster
   challenge: 2
   name: Rug of Smothering
@@ -3994,7 +3994,7 @@
   name: Strahd’s Animated Armor
   type: Construct
   source: Curse of Strahd
-  key: :strahd’s_animated_armor
+  key: :strahds_animated_armor
 - !ruby/object:Monster
   challenge: 4
   name: Succubus/Incubus
@@ -4426,7 +4426,7 @@
   name: Volothamp “Volo” Geddarm
   type: Humanoid
   source: Tomb of Annihilation
-  key: :volothamp_“volo”_geddarm
+  key: :volothamp_volo_geddarm
 - !ruby/object:Monster
   challenge: 6
   name: Vrock

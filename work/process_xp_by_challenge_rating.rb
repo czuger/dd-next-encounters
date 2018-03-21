@@ -20,6 +20,7 @@ end
 
 m = MonstersManual.new
 m.load
+m.rebuild
 m.set_xp( xp_by_challenge_rating )
 
 m.save
