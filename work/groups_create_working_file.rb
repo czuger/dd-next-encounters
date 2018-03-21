@@ -1,5 +1,7 @@
 require_relative '../lib/monsters_manual'
 
+raise 'Does not use this anymore'
+
 m = MonstersManual.new
 m.load
 

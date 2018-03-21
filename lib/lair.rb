@@ -38,6 +38,10 @@ class Lair
     #   - If can form a group with boss and at least 2 sbires, take it
     #   - Otherwise keep troops.
 
+    # + Integrate group in monster manual
+    # Work from list
+    # Add a boss tag to the monster (work from a key list)
+
     raise "Bad encounter level : #{encounter_level.inspect}" if encounter_level < 0 || encounter_level > 3
     party_xp_level = hero_level.map{ |hl| @xp_table[hl][encounter_level] }.reduce(&:+)
 
