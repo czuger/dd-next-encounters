@@ -27,7 +27,6 @@ class Lair
     raise "Bad encounter level : #{encounter_level.inspect}" if encounter_level < 0 || encounter_level > 3
     heros_level = hero_level.map{ |hl| @xp_table[hl][encounter_level] }.reduce(&:+)
 
-
   end
 
   private
@@ -40,14 +39,7 @@ class Lair
   end
 
   def read_xp_table
-    File.open( 'db/xp_tables.txt', 'r' ) do |f|
-      f.readlines.each_with_index do |line, index|
-        next if index == 0
-        l_data = line.split.map{ |e| e.to_i }
-        level = l_data.shift
-        @xp_table[ level ] = l_data
-      end
-    end
+    @xp_table = YAML.load_file( 'db/xp_table.yml' )
   end
 
 end
