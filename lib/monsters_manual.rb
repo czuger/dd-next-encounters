@@ -10,20 +10,23 @@ class MonstersManual
     @types = {}
   end
 
-  def read
-    monsters = YAML::load_file('db/monsters.yml')
-    monsters.each do |monster|
-      @monsters[monster.key]=monster
+  def load
+    monster_manual = YAML::load_file('db/monster_manual.yml')
+    @monsters = monster_manual[:monsters]
+    @sources = monster_manual[:sources]
+    @challenges = monster_manual[:challenges]
+    @types = monster_manual[:types]
 
-      @sources[monster.source] ||= []
-      @sources[monster.source] << monster.key
+  end
 
-      @challenges[monster.challenge] ||= []
-      @challenges[monster.challenge] << monster.key
-
-      @types[monster.type] ||= []
-      @types[monster.type] << monster.key
-    end
+  def save
+    monster_manual = {
+        monsters: @monsters,
+        sources: @sources,
+        challenges: @challenges,
+        types: @types
+    }
+    File.open( 'db/monsters_manual.yml', 'w' ){ |f| f.write monster_manual.to_yaml }
   end
 
   def sources
@@ -50,4 +53,29 @@ class MonstersManual
     monsters_ids = sources_ids & types_ids & challenges_ids
     monsters_ids.map{ |m| @monsters[m] }
   end
+
+  def set_xp( xp_by_challenge_rating_table )
+    @monsters.each_value do |monster|
+      monster.xp_value = xp_by_challenge_rating_table[monster.challenge]
+    end
+  end
+
+  private
+
+  def rebuild
+    monsters = YAML::load_file('db/monsters.yml')
+    monsters.each do |monster|
+      @monsters[monster.key]=monster
+
+      @sources[monster.source] ||= []
+      @sources[monster.source] << monster.key
+
+      @challenges[monster.challenge] ||= []
+      @challenges[monster.challenge] << monster.key
+
+      @types[monster.type] ||= []
+      @types[monster.type] << monster.key
+    end
+  end
+
 end

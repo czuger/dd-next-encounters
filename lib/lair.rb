@@ -30,6 +30,14 @@ class Lair
   # 0 : Easy
   # 3 : Deadly
   def get_encounter( encounter_level, *hero_level )
+
+    # TODO : rework this
+    # - Create an encounter from troops only
+    # - If troops count >= 6
+    #   - try to find an available boss.
+    #   - If can form a group with boss and at least 2 sbires, take it
+    #   - Otherwise keep troops.
+
     raise "Bad encounter level : #{encounter_level.inspect}" if encounter_level < 0 || encounter_level > 3
     party_xp_level = hero_level.map{ |hl| @xp_table[hl][encounter_level] }.reduce(&:+)
 

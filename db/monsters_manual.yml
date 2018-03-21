@@ -1,0 +1,8200 @@
+---
+:monsters:
+  :aarakocra: !ruby/object:Monster
+    challenge: 0.25
+    name: Aarakocra
+    type: Humanoid
+    source: Monster Manual
+    key: :aarakocra
+    xp_value: 50
+  :abjurer: !ruby/object:Monster
+    challenge: 9
+    name: Abjurer
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :abjurer
+    xp_value: 5000
+  :aboleth: !ruby/object:Monster
+    challenge: 10
+    name: Aboleth
+    type: Aberration
+    source: Basic Rules
+    key: :aboleth
+    xp_value: 5900
+  :abominable_yeti: !ruby/object:Monster
+    challenge: 9
+    name: Abominable Yeti
+    type: Monstrosity
+    source: Monster Manual
+    key: :abominable_yeti
+    xp_value: 5000
+  :acererak: !ruby/object:Monster
+    challenge: 23
+    name: Acererak
+    type: Undead
+    source: Tomb of Annihilation
+    key: :acererak
+    xp_value: 50000
+  :acolyte: !ruby/object:Monster
+    challenge: 0.25
+    name: Acolyte
+    type: Humanoid
+    source: Basic Rules
+    key: :acolyte
+    xp_value: 50
+  :adult_black_dragon: !ruby/object:Monster
+    challenge: 14
+    name: Adult Black Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :adult_black_dragon
+    xp_value: 11500
+  :adult_blue_dracolich: !ruby/object:Monster
+    challenge: 17
+    name: Adult Blue Dracolich
+    type: Undead
+    source: Monster Manual
+    key: :adult_blue_dracolich
+    xp_value: 18000
+  :adult_blue_dragon: !ruby/object:Monster
+    challenge: 16
+    name: Adult Blue Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :adult_blue_dragon
+    xp_value: 15000
+  :adult_brass_dragon: !ruby/object:Monster
+    challenge: 13
+    name: Adult Brass Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :adult_brass_dragon
+    xp_value: 10000
+  :adult_bronze_dragon: !ruby/object:Monster
+    challenge: 15
+    name: Adult Bronze Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :adult_bronze_dragon
+    xp_value: 13000
+  :adult_copper_dragon: !ruby/object:Monster
+    challenge: 14
+    name: Adult Copper Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :adult_copper_dragon
+    xp_value: 11500
+  :adult_gold_dragon: !ruby/object:Monster
+    challenge: 17
+    name: Adult Gold Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :adult_gold_dragon
+    xp_value: 18000
+  :adult_green_dragon: !ruby/object:Monster
+    challenge: 15
+    name: Adult Green Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :adult_green_dragon
+    xp_value: 13000
+  :adult_red_dragon: !ruby/object:Monster
+    challenge: 17
+    name: Adult Red Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :adult_red_dragon
+    xp_value: 18000
+  :adult_silver_dragon: !ruby/object:Monster
+    challenge: 16
+    name: Adult Silver Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :adult_silver_dragon
+    xp_value: 15000
+  :adult_white_dragon: !ruby/object:Monster
+    challenge: 13
+    name: Adult White Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :adult_white_dragon
+    xp_value: 10000
+  :aerisi_kalinoth: !ruby/object:Monster
+    challenge: 7
+    name: Aerisi Kalinoth
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :aerisi_kalinoth
+    xp_value: 2900
+  :air_elemental: !ruby/object:Monster
+    challenge: 5
+    name: Air Elemental
+    type: Elemental
+    source: Basic Rules
+    key: :air_elemental
+    xp_value: 1800
+  :air_elemental_myrmidon: !ruby/object:Monster
+    challenge: 7
+    name: Air Elemental Myrmidon
+    type: Elemental
+    source: Princes of the Apocalypse
+    key: :air_elemental_myrmidon
+    xp_value: 2900
+  :albino_dwarf_spirit_warrior: !ruby/object:Monster
+    challenge: 1
+    name: Albino Dwarf Spirit Warrior
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :albino_dwarf_spirit_warrior
+    xp_value: 200
+  :albino_dwarf_warrior: !ruby/object:Monster
+    challenge: 0.25
+    name: Albino Dwarf Warrior
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :albino_dwarf_warrior
+    xp_value: 50
+  :aldani_(lobsterfolk): !ruby/object:Monster
+    challenge: 1
+    name: Aldani (Lobsterfolk)
+    type: Monstrosity
+    source: Tomb of Annihilation
+    key: :aldani_(lobsterfolk)
+    xp_value: 200
+  :alhoon: !ruby/object:Monster
+    challenge: 10
+    name: Alhoon
+    type: Undead
+    source: Volo's Guide to Monsters
+    key: :alhoon
+    xp_value: 5900
+  :allosaurus: !ruby/object:Monster
+    challenge: 2
+    name: Allosaurus
+    type: Beast
+    source: Basic Rules
+    key: :allosaurus
+    xp_value: 450
+  :almiraj: !ruby/object:Monster
+    challenge: 0
+    name: Almiraj
+    type: Beast
+    source: Tomb of Annihilation
+    key: :almiraj
+    xp_value: 10
+  :ambush_drake: !ruby/object:Monster
+    challenge: 0.5
+    name: Ambush Drake
+    type: Dragon
+    source: Hoard of the Dragon Queen
+    key: :ambush_drake
+    xp_value: 100
+  :ancient_black_dragon: !ruby/object:Monster
+    challenge: 21
+    name: Ancient Black Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :ancient_black_dragon
+    xp_value: 33000
+  :ancient_blue_dragon: !ruby/object:Monster
+    challenge: 23
+    name: Ancient Blue Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :ancient_blue_dragon
+    xp_value: 50000
+  :ancient_brass_dragon: !ruby/object:Monster
+    challenge: 20
+    name: Ancient Brass Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :ancient_brass_dragon
+    xp_value: 25000
+  :ancient_bronze_dragon: !ruby/object:Monster
+    challenge: 22
+    name: Ancient Bronze Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :ancient_bronze_dragon
+    xp_value: 41000
+  :ancient_copper_dragon: !ruby/object:Monster
+    challenge: 21
+    name: Ancient Copper Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :ancient_copper_dragon
+    xp_value: 33000
+  :ancient_gold_dragon: !ruby/object:Monster
+    challenge: 24
+    name: Ancient Gold Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :ancient_gold_dragon
+    xp_value: 62000
+  :ancient_green_dragon: !ruby/object:Monster
+    challenge: 22
+    name: Ancient Green Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :ancient_green_dragon
+    xp_value: 41000
+  :ancient_red_dragon: !ruby/object:Monster
+    challenge: 24
+    name: Ancient Red Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :ancient_red_dragon
+    xp_value: 62000
+  :ancient_silver_dragon: !ruby/object:Monster
+    challenge: 23
+    name: Ancient Silver Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :ancient_silver_dragon
+    xp_value: 50000
+  :ancient_white_dragon: !ruby/object:Monster
+    challenge: 20
+    name: Ancient White Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :ancient_white_dragon
+    xp_value: 25000
+  :androsphinx: !ruby/object:Monster
+    challenge: 17
+    name: Androsphinx
+    type: Monstrosity
+    source: Basic Rules
+    key: :androsphinx
+    xp_value: 18000
+  :animated_armor: !ruby/object:Monster
+    challenge: 1
+    name: Animated Armor
+    type: Construct
+    source: Basic Rules
+    key: :animated_armor
+    xp_value: 200
+  :animated_table: !ruby/object:Monster
+    challenge: 2
+    name: Animated Table
+    type: Construct
+    source: The Forge of Fury
+    key: :animated_table
+    xp_value: 450
+  :ankheg: !ruby/object:Monster
+    challenge: 2
+    name: Ankheg
+    type: Monstrosity
+    source: Basic Rules
+    key: :ankheg
+    xp_value: 450
+  :ankylosaurus: !ruby/object:Monster
+    challenge: 3
+    name: Ankylosaurus
+    type: Beast
+    source: Basic Rules
+    key: :ankylosaurus
+    xp_value: 700
+  :ankylosaurus_zombie: !ruby/object:Monster
+    challenge: 3
+    name: Ankylosaurus Zombie
+    type: Undead
+    source: Tomb of Annihilation
+    key: :ankylosaurus_zombie
+    xp_value: 700
+  :annis_hag: !ruby/object:Monster
+    challenge: 6
+    name: Annis Hag
+    type: Fey
+    source: Volo's Guide to Monsters
+    key: :annis_hag
+    xp_value: 2300
+  :ape: !ruby/object:Monster
+    challenge: 0.5
+    name: Ape
+    type: Beast
+    source: Basic Rules
+    key: :ape
+    xp_value: 100
+  :apprentice_wizard: !ruby/object:Monster
+    challenge: 0.25
+    name: Apprentice Wizard
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :apprentice_wizard
+    xp_value: 50
+  :arcanaloth: !ruby/object:Monster
+    challenge: 12
+    name: Arcanaloth
+    type: Fiend
+    source: Monster Manual
+    key: :arcanaloth
+    xp_value: 8400
+  :archdruid: !ruby/object:Monster
+    challenge: 12
+    name: Archdruid
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :archdruid
+    xp_value: 8400
+  :archer: !ruby/object:Monster
+    challenge: 3
+    name: Archer
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :archer
+    xp_value: 700
+  :archmage: !ruby/object:Monster
+    challenge: 12
+    name: Archmage
+    type: Humanoid
+    source: Basic Rules
+    key: :archmage
+    xp_value: 8400
+  :artus_cimber: !ruby/object:Monster
+    challenge: 7
+    name: Artus Cimber
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :artus_cimber
+    xp_value: 2900
+  :assassin: !ruby/object:Monster
+    challenge: 8
+    name: Assassin
+    type: Humanoid
+    source: Basic Rules
+    key: :assassin
+    xp_value: 3900
+  :assassin_vine: !ruby/object:Monster
+    challenge: 3
+    name: Assassin Vine
+    type: Plant
+    source: Tomb of Annihilation
+    key: :assassin_vine
+    xp_value: 700
+  :atropal: !ruby/object:Monster
+    challenge: 13
+    name: Atropal
+    type: Undead
+    source: Tomb of Annihilation
+    key: :atropal
+    xp_value: 10000
+  :augrek_brighthelm: !ruby/object:Monster
+    challenge: 0
+    name: Augrek Brighthelm
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :augrek_brighthelm
+    xp_value: 10
+  :aurochs: !ruby/object:Monster
+    challenge: 2
+    name: Aurochs
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :aurochs
+    xp_value: 450
+  :avatar_of_death: !ruby/object:Monster
+    challenge: 0
+    name: Avatar of Death
+    type: Undead
+    source: Dungeon Master's Guide
+    key: :avatar_of_death
+    xp_value: 10
+  :awakened_shrub: !ruby/object:Monster
+    challenge: 0
+    name: Awakened Shrub
+    type: Plant
+    source: Basic Rules
+    key: :awakened_shrub
+    xp_value: 10
+  :awakened_tree: !ruby/object:Monster
+    challenge: 2
+    name: Awakened Tree
+    type: Plant
+    source: Basic Rules
+    key: :awakened_tree
+    xp_value: 450
+  :awakened_zurkhwood: !ruby/object:Monster
+    challenge: 2
+    name: Awakened Zurkhwood
+    type: Plant
+    source: Out of the Abyss
+    key: :awakened_zurkhwood
+    xp_value: 450
+  :axe_beak: !ruby/object:Monster
+    challenge: 0.25
+    name: Axe Beak
+    type: Beast
+    source: Basic Rules
+    key: :axe_beak
+    xp_value: 50
+  :azbara_jos: !ruby/object:Monster
+    challenge: 4
+    name: Azbara Jos
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :azbara_jos
+    xp_value: 1100
+  :azer: !ruby/object:Monster
+    challenge: 2
+    name: Azer
+    type: Elemental
+    source: Basic Rules
+    key: :azer
+    xp_value: 450
+  :baba_lysaga: !ruby/object:Monster
+    challenge: 11
+    name: Baba Lysaga
+    type: Humanoid
+    source: Curse of Strahd
+    key: :baba_lysaga
+    xp_value: 7200
+  :baba_lysaga’s_creeping_hut: !ruby/object:Monster
+    challenge: 11
+    name: Baba Lysaga’s Creeping Hut
+    type: Construct
+    source: Curse of Strahd
+    key: :baba_lysaga’s_creeping_hut
+    xp_value: 7200
+  :babau: !ruby/object:Monster
+    challenge: 4
+    name: Babau
+    type: Fiend
+    source: Volo's Guide to Monsters
+    key: :babau
+    xp_value: 1100
+  :baboon: !ruby/object:Monster
+    challenge: 0
+    name: Baboon
+    type: Beast
+    source: Basic Rules
+    key: :baboon
+    xp_value: 10
+  :badger: !ruby/object:Monster
+    challenge: 0
+    name: Badger
+    type: Beast
+    source: Basic Rules
+    key: :badger
+    xp_value: 10
+  :balor: !ruby/object:Monster
+    challenge: 19
+    name: Balor
+    type: Fiend
+    source: Basic Rules
+    key: :balor
+    xp_value: 22000
+  :banderhobb: !ruby/object:Monster
+    challenge: 5
+    name: Banderhobb
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :banderhobb
+    xp_value: 1800
+  :bandit: !ruby/object:Monster
+    challenge: 0.125
+    name: Bandit
+    type: Humanoid
+    source: Basic Rules
+    key: :bandit
+    xp_value: 25
+  :bandit_captain: !ruby/object:Monster
+    challenge: 2
+    name: Bandit Captain
+    type: Humanoid
+    source: Basic Rules
+    key: :bandit_captain
+    xp_value: 450
+  :banshee: !ruby/object:Monster
+    challenge: 4
+    name: Banshee
+    type: Undead
+    source: Basic Rules
+    key: :banshee
+    xp_value: 1100
+  :baphomet: !ruby/object:Monster
+    challenge: 23
+    name: Baphomet
+    type: Fiend
+    source: Out of the Abyss
+    key: :baphomet
+    xp_value: 50000
+  :barbed_devil: !ruby/object:Monster
+    challenge: 5
+    name: Barbed Devil
+    type: Fiend
+    source: Basic Rules
+    key: :barbed_devil
+    xp_value: 1800
+  :bard: !ruby/object:Monster
+    challenge: 2
+    name: Bard
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :bard
+    xp_value: 450
+  :barghest: !ruby/object:Monster
+    challenge: 4
+    name: Barghest
+    type: Fiend
+    source: Volo's Guide to Monsters
+    key: :barghest
+    xp_value: 1100
+  :barlgura: !ruby/object:Monster
+    challenge: 5
+    name: Barlgura
+    type: Fiend
+    source: Monster Manual
+    key: :barlgura
+    xp_value: 1800
+  :barovian_witch: !ruby/object:Monster
+    challenge: 0.5
+    name: Barovian Witch
+    type: Humanoid
+    source: Curse of Strahd
+    key: :barovian_witch
+    xp_value: 100
+  :basilisk: !ruby/object:Monster
+    challenge: 3
+    name: Basilisk
+    type: Monstrosity
+    source: Basic Rules
+    key: :basilisk
+    xp_value: 700
+  :bastian_thermandar: !ruby/object:Monster
+    challenge: 8
+    name: Bastian Thermandar
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :bastian_thermandar
+    xp_value: 3900
+  :bat: !ruby/object:Monster
+    challenge: 0
+    name: Bat
+    type: Beast
+    source: Basic Rules
+    key: :bat
+    xp_value: 10
+  :bearded_devil: !ruby/object:Monster
+    challenge: 3
+    name: Bearded Devil
+    type: Fiend
+    source: Basic Rules
+    key: :bearded_devil
+    xp_value: 700
+  :behir: !ruby/object:Monster
+    challenge: 11
+    name: Behir
+    type: Monstrosity
+    source: Basic Rules
+    key: :behir
+    xp_value: 7200
+  :beholder: !ruby/object:Monster
+    challenge: 13
+    name: Beholder
+    type: Aberration
+    source: Monster Manual
+    key: :beholder
+    xp_value: 10000
+  :beholder_zombie: !ruby/object:Monster
+    challenge: 5
+    name: Beholder Zombie
+    type: Undead
+    source: Monster Manual
+    key: :beholder_zombie
+    xp_value: 1800
+  :beldora: !ruby/object:Monster
+    challenge: 0
+    name: Beldora
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :beldora
+    xp_value: 10
+  :berserker: !ruby/object:Monster
+    challenge: 2
+    name: Berserker
+    type: Humanoid
+    source: Basic Rules
+    key: :berserker
+    xp_value: 450
+  :bheur_hag: !ruby/object:Monster
+    challenge: 7
+    name: Bheur Hag
+    type: Fey
+    source: Volo's Guide to Monsters
+    key: :bheur_hag
+    xp_value: 2900
+  :black_bear: !ruby/object:Monster
+    challenge: 0.5
+    name: Black Bear
+    type: Beast
+    source: Basic Rules
+    key: :black_bear
+    xp_value: 100
+  :black_dragon_wyrmling: !ruby/object:Monster
+    challenge: 2
+    name: Black Dragon Wyrmling
+    type: Dragon
+    source: Basic Rules
+    key: :black_dragon_wyrmling
+    xp_value: 450
+  :black_earth_guard: !ruby/object:Monster
+    challenge: 2
+    name: Black Earth Guard
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :black_earth_guard
+    xp_value: 450
+  :black_earth_priest: !ruby/object:Monster
+    challenge: 3
+    name: Black Earth Priest
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :black_earth_priest
+    xp_value: 700
+  :black_guard_drake: !ruby/object:Monster
+    challenge: 2
+    name: Black Guard Drake
+    type: Dragon
+    source: Volo's Guide to Monsters
+    key: :black_guard_drake
+    xp_value: 450
+  :black_pudding: !ruby/object:Monster
+    challenge: 4
+    name: Black Pudding
+    type: Ooze
+    source: Basic Rules
+    key: :black_pudding
+    xp_value: 1100
+  :blackguard: !ruby/object:Monster
+    challenge: 8
+    name: Blackguard
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :blackguard
+    xp_value: 3900
+  :blagothkus: !ruby/object:Monster
+    challenge: 9
+    name: Blagothkus
+    type: Giant
+    source: Hoard of the Dragon Queen
+    key: :blagothkus
+    xp_value: 5000
+  :blink_dog: !ruby/object:Monster
+    challenge: 0.25
+    name: Blink Dog
+    type: Fey
+    source: Basic Rules
+    key: :blink_dog
+    xp_value: 50
+  :blood_hawk: !ruby/object:Monster
+    challenge: 0.125
+    name: Blood Hawk
+    type: Beast
+    source: Basic Rules
+    key: :blood_hawk
+    xp_value: 25
+  :blue_dragon_wyrmling: !ruby/object:Monster
+    challenge: 3
+    name: Blue Dragon Wyrmling
+    type: Dragon
+    source: Basic Rules
+    key: :blue_dragon_wyrmling
+    xp_value: 700
+  :blue_guard_drake: !ruby/object:Monster
+    challenge: 2
+    name: Blue Guard Drake
+    type: Dragon
+    source: Volo's Guide to Monsters
+    key: :blue_guard_drake
+    xp_value: 450
+  :blue_slaad: !ruby/object:Monster
+    challenge: 7
+    name: Blue Slaad
+    type: Aberration
+    source: Monster Manual
+    key: :blue_slaad
+    xp_value: 2900
+  :boar: !ruby/object:Monster
+    challenge: 0.25
+    name: Boar
+    type: Beast
+    source: Basic Rules
+    key: :boar
+    xp_value: 50
+  :bodak: !ruby/object:Monster
+    challenge: 6
+    name: Bodak
+    type: Undead
+    source: Volo's Guide to Monsters
+    key: :bodak
+    xp_value: 2300
+  :boggle: !ruby/object:Monster
+    challenge: 0.125
+    name: Boggle
+    type: Fey
+    source: Volo's Guide to Monsters
+    key: :boggle
+    xp_value: 25
+  :bone_devil: !ruby/object:Monster
+    challenge: 9
+    name: Bone Devil
+    type: Fiend
+    source: Basic Rules
+    key: :bone_devil
+    xp_value: 5000
+  :bone_naga: !ruby/object:Monster
+    challenge: 4
+    name: Bone Naga
+    type: Undead
+    source: Monster Manual
+    key: :bone_naga
+    xp_value: 1100
+  :brass_dragon_wyrmling: !ruby/object:Monster
+    challenge: 1
+    name: Brass Dragon Wyrmling
+    type: Dragon
+    source: Basic Rules
+    key: :brass_dragon_wyrmling
+    xp_value: 200
+  :bridesmaid_of_zuggtmoy: !ruby/object:Monster
+    challenge: 0.125
+    name: Bridesmaid of Zuggtmoy
+    type: Plant
+    source: Out of the Abyss
+    key: :bridesmaid_of_zuggtmoy
+    xp_value: 25
+  :brontosaurus: !ruby/object:Monster
+    challenge: 5
+    name: Brontosaurus
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :brontosaurus
+    xp_value: 1800
+  :bronze_dragon_wyrmling: !ruby/object:Monster
+    challenge: 2
+    name: Bronze Dragon Wyrmling
+    type: Dragon
+    source: Basic Rules
+    key: :bronze_dragon_wyrmling
+    xp_value: 450
+  :broom_of_animated_attack: !ruby/object:Monster
+    challenge: 0.25
+    name: Broom of Animated Attack
+    type: Construct
+    source: Curse of Strahd
+    key: :broom_of_animated_attack
+    xp_value: 50
+  :brown_bear: !ruby/object:Monster
+    challenge: 1
+    name: Brown Bear
+    type: Beast
+    source: Basic Rules
+    key: :brown_bear
+    xp_value: 200
+  :bugbear: !ruby/object:Monster
+    challenge: 1
+    name: Bugbear
+    type: Humanoid
+    source: Basic Rules
+    key: :bugbear
+    xp_value: 200
+  :bugbear_chief: !ruby/object:Monster
+    challenge: 3
+    name: Bugbear Chief
+    type: Humanoid
+    source: Monster Manual
+    key: :bugbear_chief
+    xp_value: 700
+  :bulette: !ruby/object:Monster
+    challenge: 5
+    name: Bulette
+    type: Monstrosity
+    source: Basic Rules
+    key: :bulette
+    xp_value: 1800
+  :bullywug: !ruby/object:Monster
+    challenge: 0.25
+    name: Bullywug
+    type: Humanoid
+    source: Monster Manual
+    key: :bullywug
+    xp_value: 50
+  :burrowshark: !ruby/object:Monster
+    challenge: 4
+    name: Burrowshark
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :burrowshark
+    xp_value: 1100
+  :cambion: !ruby/object:Monster
+    challenge: 5
+    name: Cambion
+    type: Fiend
+    source: Monster Manual
+    key: :cambion
+    xp_value: 1800
+  :camel: !ruby/object:Monster
+    challenge: 0.125
+    name: Camel
+    type: Beast
+    source: Basic Rules
+    key: :camel
+    xp_value: 25
+  :captain_othelstan: !ruby/object:Monster
+    challenge: 5
+    name: Captain Othelstan
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :captain_othelstan
+    xp_value: 1800
+  :carrion_crawler: !ruby/object:Monster
+    challenge: 2
+    name: Carrion Crawler
+    type: Monstrosity
+    source: Monster Manual
+    key: :carrion_crawler
+    xp_value: 450
+  :cat: !ruby/object:Monster
+    challenge: 0
+    name: Cat
+    type: Beast
+    source: Basic Rules
+    key: :cat
+    xp_value: 10
+  :catoblepas: !ruby/object:Monster
+    challenge: 5
+    name: Catoblepas
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :catoblepas
+    xp_value: 1800
+  :cave_bear: !ruby/object:Monster
+    challenge: 2
+    name: Cave Bear
+    type: Beast
+    source: Monster Manual
+    key: :cave_bear
+    xp_value: 450
+  :cave_fisher: !ruby/object:Monster
+    challenge: 3
+    name: Cave Fisher
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :cave_fisher
+    xp_value: 700
+  :centaur: !ruby/object:Monster
+    challenge: 2
+    name: Centaur
+    type: Monstrosity
+    source: Basic Rules
+    key: :centaur
+    xp_value: 450
+  :centaur_mummy: !ruby/object:Monster
+    challenge: 6
+    name: Centaur Mummy
+    type: Undead
+    source: The Hidden Shrine of Tamoachan
+    key: :centaur_mummy
+    xp_value: 2300
+  :chain_devil: !ruby/object:Monster
+    challenge: 8
+    name: Chain Devil
+    type: Fiend
+    source: Basic Rules
+    key: :chain_devil
+    xp_value: 3900
+  :chamberlain_of_zuggtmoy: !ruby/object:Monster
+    challenge: 2
+    name: Chamberlain of Zuggtmoy
+    type: Plant
+    source: Out of the Abyss
+    key: :chamberlain_of_zuggtmoy
+    xp_value: 450
+  :champion: !ruby/object:Monster
+    challenge: 9
+    name: Champion
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :champion
+    xp_value: 5000
+  :chasme: !ruby/object:Monster
+    challenge: 6
+    name: Chasme
+    type: Fiend
+    source: Monster Manual
+    key: :chasme
+    xp_value: 2300
+  :chimera: !ruby/object:Monster
+    challenge: 6
+    name: Chimera
+    type: Monstrosity
+    source: Basic Rules
+    key: :chimera
+    xp_value: 2300
+  :chitine: !ruby/object:Monster
+    challenge: 0.5
+    name: Chitine
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :chitine
+    xp_value: 100
+  :choker: !ruby/object:Monster
+    challenge: 1
+    name: Choker
+    type: Aberration
+    source: Dead in Thay
+    key: :choker
+    xp_value: 200
+  :choldrith: !ruby/object:Monster
+    challenge: 3
+    name: Choldrith
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :choldrith
+    xp_value: 700
+  :chuul: !ruby/object:Monster
+    challenge: 4
+    name: Chuul
+    type: Aberration
+    source: Basic Rules
+    key: :chuul
+    xp_value: 1100
+  :chuul_spore_servant: !ruby/object:Monster
+    challenge: 4
+    name: Chuul Spore Servant
+    type: Plant
+    source: Out of the Abyss
+    key: :chuul_spore_servant
+    xp_value: 1100
+  :chwinga: !ruby/object:Monster
+    challenge: 0
+    name: Chwinga
+    type: Elemental
+    source: Tomb of Annihilation
+    key: :chwinga
+    xp_value: 10
+  :clay_golem: !ruby/object:Monster
+    challenge: 9
+    name: Clay Golem
+    type: Construct
+    source: Basic Rules
+    key: :clay_golem
+    xp_value: 5000
+  :cloaker: !ruby/object:Monster
+    challenge: 8
+    name: Cloaker
+    type: Aberration
+    source: Basic Rules
+    key: :cloaker
+    xp_value: 3900
+  :cloud_giant: !ruby/object:Monster
+    challenge: 9
+    name: Cloud Giant
+    type: Giant
+    source: Basic Rules
+    key: :cloud_giant
+    xp_value: 5000
+  :cloud_giant_smiling_one: !ruby/object:Monster
+    challenge: 11
+    name: Cloud Giant Smiling One
+    type: Giant
+    source: Volo's Guide to Monsters
+    key: :cloud_giant_smiling_one
+    xp_value: 7200
+  :cockatrice: !ruby/object:Monster
+    challenge: 0.5
+    name: Cockatrice
+    type: Monstrosity
+    source: Basic Rules
+    key: :cockatrice
+    xp_value: 100
+  :commoner: !ruby/object:Monster
+    challenge: 0
+    name: Commoner
+    type: Humanoid
+    source: Basic Rules
+    key: :commoner
+    xp_value: 10
+  :conjurer: !ruby/object:Monster
+    challenge: 6
+    name: Conjurer
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :conjurer
+    xp_value: 2300
+  :constrictor_snake: !ruby/object:Monster
+    challenge: 0.25
+    name: Constrictor Snake
+    type: Beast
+    source: Basic Rules
+    key: :constrictor_snake
+    xp_value: 50
+  :copper_dragon_wyrmling: !ruby/object:Monster
+    challenge: 1
+    name: Copper Dragon Wyrmling
+    type: Dragon
+    source: Basic Rules
+    key: :copper_dragon_wyrmling
+    xp_value: 200
+  :couatl: !ruby/object:Monster
+    challenge: 4
+    name: Couatl
+    type: Celestial
+    source: Basic Rules
+    key: :couatl
+    xp_value: 1100
+  :cow: !ruby/object:Monster
+    challenge: 0.25
+    name: Cow
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :cow
+    xp_value: 50
+  :crab: !ruby/object:Monster
+    challenge: 0
+    name: Crab
+    type: Beast
+    source: Basic Rules
+    key: :crab
+    xp_value: 10
+  :crag_cat: !ruby/object:Monster
+    challenge: 1
+    name: Crag Cat
+    type: Beast
+    source: Storm King's Thunder
+    key: :crag_cat
+    xp_value: 200
+  :cranium_rat: !ruby/object:Monster
+    challenge: 0
+    name: Cranium Rat
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :cranium_rat
+    xp_value: 10
+  :crawling_claw: !ruby/object:Monster
+    challenge: 0
+    name: Crawling Claw
+    type: Undead
+    source: Monster Manual
+    key: :crawling_claw
+    xp_value: 10
+  :crocodile: !ruby/object:Monster
+    challenge: 0.5
+    name: Crocodile
+    type: Beast
+    source: Basic Rules
+    key: :crocodile
+    xp_value: 100
+  :crushing_wave_priest: !ruby/object:Monster
+    challenge: 2
+    name: Crushing Wave Priest
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :crushing_wave_priest
+    xp_value: 450
+  :crushing_wave_reaver: !ruby/object:Monster
+    challenge: 0.5
+    name: Crushing Wave Reaver
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :crushing_wave_reaver
+    xp_value: 100
+  :cult_fanatic: !ruby/object:Monster
+    challenge: 2
+    name: Cult Fanatic
+    type: Humanoid
+    source: Basic Rules
+    key: :cult_fanatic
+    xp_value: 450
+  :cultist: !ruby/object:Monster
+    challenge: 0.125
+    name: Cultist
+    type: Humanoid
+    source: Basic Rules
+    key: :cultist
+    xp_value: 25
+  :cyclops: !ruby/object:Monster
+    challenge: 6
+    name: Cyclops
+    type: Giant
+    source: Basic Rules
+    key: :cyclops
+    xp_value: 2300
+  :dao: !ruby/object:Monster
+    challenge: 11
+    name: Dao
+    type: Elemental
+    source: Monster Manual
+    key: :dao
+    xp_value: 7200
+  :darathra_shendrel: !ruby/object:Monster
+    challenge: 0
+    name: Darathra Shendrel
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :darathra_shendrel
+    xp_value: 10
+  :dark_tide_knight: !ruby/object:Monster
+    challenge: 3
+    name: Dark Tide Knight
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :dark_tide_knight
+    xp_value: 700
+  :darkling: !ruby/object:Monster
+    challenge: 0.5
+    name: Darkling
+    type: Fey
+    source: Volo's Guide to Monsters
+    key: :darkling
+    xp_value: 100
+  :darkling_elder: !ruby/object:Monster
+    challenge: 2
+    name: Darkling Elder
+    type: Fey
+    source: Volo's Guide to Monsters
+    key: :darkling_elder
+    xp_value: 450
+  :darkmantle: !ruby/object:Monster
+    challenge: 0.5
+    name: Darkmantle
+    type: Monstrosity
+    source: Basic Rules
+    key: :darkmantle
+    xp_value: 100
+  :darz_helgar: !ruby/object:Monster
+    challenge: 0
+    name: Darz Helgar
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :darz_helgar
+    xp_value: 10
+  :death_dog: !ruby/object:Monster
+    challenge: 1
+    name: Death Dog
+    type: Monstrosity
+    source: Basic Rules
+    key: :death_dog
+    xp_value: 200
+  :death_kiss: !ruby/object:Monster
+    challenge: 10
+    name: Death Kiss
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :death_kiss
+    xp_value: 5900
+  :death_knight: !ruby/object:Monster
+    challenge: 17
+    name: Death Knight
+    type: Undead
+    source: Monster Manual
+    key: :death_knight
+    xp_value: 18000
+  :death_slaad: !ruby/object:Monster
+    challenge: 10
+    name: Death Slaad
+    type: Aberration
+    source: Monster Manual
+    key: :death_slaad
+    xp_value: 5900
+  :death_tyrant: !ruby/object:Monster
+    challenge: 14
+    name: Death Tyrant
+    type: Undead
+    source: Monster Manual
+    key: :death_tyrant
+    xp_value: 11500
+  :deathlock_wight: !ruby/object:Monster
+    challenge: 3
+    name: Deathlock Wight
+    type: Undead
+    source: Dead in Thay
+    key: :deathlock_wight
+    xp_value: 700
+  :decapus: !ruby/object:Monster
+    challenge: 4
+    name: Decapus
+    type: Monstrosity
+    source: The Tortle Package
+    key: :decapus
+    xp_value: 1100
+  :deep_gnome_(svirfneblin): !ruby/object:Monster
+    challenge: 0.5
+    name: Deep Gnome (Svirfneblin)
+    type: Humanoid
+    source: Basic Rules
+    key: :deep_gnome_(svirfneblin)
+    xp_value: 100
+  :deep_rothé: !ruby/object:Monster
+    challenge: 0.25
+    name: Deep Rothé
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :deep_rothé
+    xp_value: 50
+  :deep_scion: !ruby/object:Monster
+    challenge: 3
+    name: Deep Scion
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :deep_scion
+    xp_value: 700
+  :deer: !ruby/object:Monster
+    challenge: 0
+    name: Deer
+    type: Beast
+    source: Basic Rules
+    key: :deer
+    xp_value: 10
+  :deinonychus: !ruby/object:Monster
+    challenge: 1
+    name: Deinonychus
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :deinonychus
+    xp_value: 200
+  :demilich: !ruby/object:Monster
+    challenge: 18
+    name: Demilich
+    type: Undead
+    source: Monster Manual
+    key: :demilich
+    xp_value: 20000
+  :demogorgon: !ruby/object:Monster
+    challenge: 26
+    name: Demogorgon
+    type: Fiend
+    source: Out of the Abyss
+    key: :demogorgon
+    xp_value: 90000
+  :derro: !ruby/object:Monster
+    challenge: 0.25
+    name: Derro
+    type: Humanoid
+    source: Out of the Abyss
+    key: :derro
+    xp_value: 50
+  :derro_savant: !ruby/object:Monster
+    challenge: 3
+    name: Derro Savant
+    type: Humanoid
+    source: Out of the Abyss
+    key: :derro_savant
+    xp_value: 700
+  :deva: !ruby/object:Monster
+    challenge: 10
+    name: Deva
+    type: Celestial
+    source: Basic Rules
+    key: :deva
+    xp_value: 5900
+  :devourer: !ruby/object:Monster
+    challenge: 13
+    name: Devourer
+    type: Fiend
+    source: Volo's Guide to Monsters
+    key: :devourer
+    xp_value: 10000
+  :dimetrodon: !ruby/object:Monster
+    challenge: 0.25
+    name: Dimetrodon
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :dimetrodon
+    xp_value: 50
+  :dire_wolf: !ruby/object:Monster
+    challenge: 1
+    name: Dire Wolf
+    type: Beast
+    source: Basic Rules
+    key: :dire_wolf
+    xp_value: 200
+  :displacer_beast: !ruby/object:Monster
+    challenge: 3
+    name: Displacer Beast
+    type: Monstrosity
+    source: Monster Manual
+    key: :displacer_beast
+    xp_value: 700
+  :diviner: !ruby/object:Monster
+    challenge: 8
+    name: Diviner
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :diviner
+    xp_value: 3900
+  :djinni: !ruby/object:Monster
+    challenge: 11
+    name: Djinni
+    type: Elemental
+    source: Basic Rules
+    key: :djinni
+    xp_value: 7200
+  :dolphin: !ruby/object:Monster
+    challenge: 0.125
+    name: Dolphin
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :dolphin
+    xp_value: 25
+  :doppelganger: !ruby/object:Monster
+    challenge: 3
+    name: Doppelganger
+    type: Monstrosity
+    source: Basic Rules
+    key: :doppelganger
+    xp_value: 700
+  :draegloth: !ruby/object:Monster
+    challenge: 7
+    name: Draegloth
+    type: Fiend
+    source: Volo's Guide to Monsters
+    key: :draegloth
+    xp_value: 2900
+  :draft_horse: !ruby/object:Monster
+    challenge: 0.25
+    name: Draft Horse
+    type: Beast
+    source: Basic Rules
+    key: :draft_horse
+    xp_value: 50
+  :dragon_turtle: !ruby/object:Monster
+    challenge: 17
+    name: Dragon Turtle
+    type: Dragon
+    source: Basic Rules
+    key: :dragon_turtle
+    xp_value: 18000
+  :dragonbait: !ruby/object:Monster
+    challenge: 5
+    name: Dragonbait
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :dragonbait
+    xp_value: 1800
+  :dragonclaw: !ruby/object:Monster
+    challenge: 1
+    name: Dragonclaw
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :dragonclaw
+    xp_value: 200
+  :dragonfang: !ruby/object:Monster
+    challenge: 5
+    name: Dragonfang
+    type: Humanoid
+    source: Rise of Tiamat
+    key: :dragonfang
+    xp_value: 1800
+  :dragonsoul: !ruby/object:Monster
+    challenge: 7
+    name: Dragonsoul
+    type: Humanoid
+    source: Rise of Tiamat
+    key: :dragonsoul
+    xp_value: 2900
+  :dragonwing: !ruby/object:Monster
+    challenge: 2
+    name: Dragonwing
+    type: Humanoid
+    source: Rise of Tiamat
+    key: :dragonwing
+    xp_value: 450
+  :dralmorrer_borngray: !ruby/object:Monster
+    challenge: 3
+    name: Dralmorrer Borngray
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :dralmorrer_borngray
+    xp_value: 700
+  :drannin_splithelm: !ruby/object:Monster
+    challenge: 7
+    name: Drannin Splithelm
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :drannin_splithelm
+    xp_value: 2900
+  :dread_warrior: !ruby/object:Monster
+    challenge: 1
+    name: Dread Warrior
+    type: Undead
+    source: Dead in Thay
+    key: :dread_warrior
+    xp_value: 200
+  :dretch: !ruby/object:Monster
+    challenge: 0.25
+    name: Dretch
+    type: Fiend
+    source: Basic Rules
+    key: :dretch
+    xp_value: 50
+  :drider: !ruby/object:Monster
+    challenge: 6
+    name: Drider
+    type: Monstrosity
+    source: Basic Rules
+    key: :drider
+    xp_value: 2300
+  :droki: !ruby/object:Monster
+    challenge: 2
+    name: Droki
+    type: Humanoid
+    source: Out of the Abyss
+    key: :droki
+    xp_value: 450
+  :drow: !ruby/object:Monster
+    challenge: 0.25
+    name: Drow
+    type: Humanoid
+    source: Basic Rules
+    key: :drow
+    xp_value: 50
+  :drow_elite_warrior: !ruby/object:Monster
+    challenge: 5
+    name: Drow Elite Warrior
+    type: Humanoid
+    source: Monster Manual
+    key: :drow_elite_warrior
+    xp_value: 1800
+  :drow_mage: !ruby/object:Monster
+    challenge: 7
+    name: Drow Mage
+    type: Humanoid
+    source: Monster Manual
+    key: :drow_mage
+    xp_value: 2900
+  :drow_priestess_of_lolth: !ruby/object:Monster
+    challenge: 8
+    name: Drow Priestess of Lolth
+    type: Humanoid
+    source: Monster Manual
+    key: :drow_priestess_of_lolth
+    xp_value: 3900
+  :drow_spore_servant: !ruby/object:Monster
+    challenge: 0.125
+    name: Drow Spore Servant
+    type: Plant
+    source: Out of the Abyss
+    key: :drow_spore_servant
+    xp_value: 25
+  :druid: !ruby/object:Monster
+    challenge: 2
+    name: Druid
+    type: Humanoid
+    source: Basic Rules
+    key: :druid
+    xp_value: 450
+  :dryad: !ruby/object:Monster
+    challenge: 1
+    name: Dryad
+    type: Fey
+    source: Basic Rules
+    key: :dryad
+    xp_value: 200
+  :duergar: !ruby/object:Monster
+    challenge: 1
+    name: Duergar
+    type: Humanoid
+    source: Basic Rules
+    key: :duergar
+    xp_value: 200
+  :duergar_darkhaft: !ruby/object:Monster
+    challenge: 2
+    name: Duergar Darkhaft
+    type: Humanoid
+    source: Out of the Abyss
+    key: :duergar_darkhaft
+    xp_value: 450
+  :duergar_kavalrachni: !ruby/object:Monster
+    challenge: 2
+    name: Duergar Kavalrachni
+    type: Humanoid
+    source: Out of the Abyss
+    key: :duergar_kavalrachni
+    xp_value: 450
+  :duergar_keeper_of_the_flame: !ruby/object:Monster
+    challenge: 2
+    name: Duergar Keeper of the Flame
+    type: Humanoid
+    source: Out of the Abyss
+    key: :duergar_keeper_of_the_flame
+    xp_value: 450
+  :duergar_soulblade: !ruby/object:Monster
+    challenge: 1
+    name: Duergar Soulblade
+    type: Humanoid
+    source: Out of the Abyss
+    key: :duergar_soulblade
+    xp_value: 200
+  :duergar_spore_servant: !ruby/object:Monster
+    challenge: 0.5
+    name: Duergar Spore Servant
+    type: Plant
+    source: Out of the Abyss
+    key: :duergar_spore_servant
+    xp_value: 100
+  :duergar_spy: !ruby/object:Monster
+    challenge: 2
+    name: Duergar Spy
+    type: Humanoid
+    source: The Forge of Fury
+    key: :duergar_spy
+    xp_value: 450
+  :duergar_stone_guard: !ruby/object:Monster
+    challenge: 2
+    name: Duergar Stone Guard
+    type: Humanoid
+    source: Out of the Abyss
+    key: :duergar_stone_guard
+    xp_value: 450
+  :duergar_xarrorn: !ruby/object:Monster
+    challenge: 2
+    name: Duergar Xarrorn
+    type: Humanoid
+    source: Out of the Abyss
+    key: :duergar_xarrorn
+    xp_value: 450
+  :duodrone: !ruby/object:Monster
+    challenge: 0.25
+    name: Duodrone
+    type: Construct
+    source: Monster Manual
+    key: :duodrone
+    xp_value: 50
+  :dust_mephit: !ruby/object:Monster
+    challenge: 0.5
+    name: Dust Mephit
+    type: Elemental
+    source: Basic Rules
+    key: :dust_mephit
+    xp_value: 100
+  :duvessa_shane: !ruby/object:Monster
+    challenge: 0
+    name: Duvessa Shane
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :duvessa_shane
+    xp_value: 10
+  :eagle: !ruby/object:Monster
+    challenge: 0
+    name: Eagle
+    type: Beast
+    source: Basic Rules
+    key: :eagle
+    xp_value: 10
+  :earth_elemental: !ruby/object:Monster
+    challenge: 5
+    name: Earth Elemental
+    type: Elemental
+    source: Basic Rules
+    key: :earth_elemental
+    xp_value: 1800
+  :earth_elemental_myrmidon: !ruby/object:Monster
+    challenge: 7
+    name: Earth Elemental Myrmidon
+    type: Elemental
+    source: Princes of the Apocalypse
+    key: :earth_elemental_myrmidon
+    xp_value: 2900
+  :eblis: !ruby/object:Monster
+    challenge: 1
+    name: Eblis
+    type: Monstrosity
+    source: Tomb of Annihilation
+    key: :eblis
+    xp_value: 200
+  :efreeti: !ruby/object:Monster
+    challenge: 11
+    name: Efreeti
+    type: Elemental
+    source: Basic Rules
+    key: :efreeti
+    xp_value: 7200
+  :elder_brain: !ruby/object:Monster
+    challenge: 14
+    name: Elder Brain
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :elder_brain
+    xp_value: 11500
+  :elephant: !ruby/object:Monster
+    challenge: 4
+    name: Elephant
+    type: Beast
+    source: Basic Rules
+    key: :elephant
+    xp_value: 1100
+  :elizar_dryflagon: !ruby/object:Monster
+    challenge: 5
+    name: Elizar Dryflagon
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :elizar_dryflagon
+    xp_value: 1800
+  :elk: !ruby/object:Monster
+    challenge: 0.25
+    name: Elk
+    type: Beast
+    source: Basic Rules
+    key: :elk
+    xp_value: 50
+  :emerald_enclave_scout: !ruby/object:Monster
+    challenge: 0.5
+    name: Emerald Enclave Scout
+    type: Humanoid
+    source: Out of the Abyss
+    key: :emerald_enclave_scout
+    xp_value: 100
+  :empyrean: !ruby/object:Monster
+    challenge: 23
+    name: Empyrean
+    type: Celestial
+    source: Monster Manual
+    key: :empyrean
+    xp_value: 50000
+  :enchanter: !ruby/object:Monster
+    challenge: 5
+    name: Enchanter
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :enchanter
+    xp_value: 1800
+  :erinyes: !ruby/object:Monster
+    challenge: 12
+    name: Erinyes
+    type: Fiend
+    source: Basic Rules
+    key: :erinyes
+    xp_value: 8400
+  :eternal_flame_guardian: !ruby/object:Monster
+    challenge: 2
+    name: Eternal Flame Guardian
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :eternal_flame_guardian
+    xp_value: 450
+  :eternal_flame_priest: !ruby/object:Monster
+    challenge: 3
+    name: Eternal Flame Priest
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :eternal_flame_priest
+    xp_value: 700
+  :ettercap: !ruby/object:Monster
+    challenge: 2
+    name: Ettercap
+    type: Monstrosity
+    source: Basic Rules
+    key: :ettercap
+    xp_value: 450
+  :ettin: !ruby/object:Monster
+    challenge: 4
+    name: Ettin
+    type: Giant
+    source: Basic Rules
+    key: :ettin
+    xp_value: 1100
+  :evil_mage: !ruby/object:Monster
+    challenge: 1
+    name: Evil Mage
+    type: Humanoid
+    source: Lost Mine of Phandelver
+    key: :evil_mage
+    xp_value: 200
+  :evoker: !ruby/object:Monster
+    challenge: 9
+    name: Evoker
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :evoker
+    xp_value: 5000
+  :ezmerelda_d’avenir: !ruby/object:Monster
+    challenge: 8
+    name: Ezmerelda d’Avenir
+    type: Humanoid
+    source: Curse of Strahd
+    key: :ezmerelda_d’avenir
+    xp_value: 3900
+  :faerie_dragon_(older): !ruby/object:Monster
+    challenge: 2
+    name: Faerie Dragon (Older)
+    type: Dragon
+    source: Monster Manual
+    key: :faerie_dragon_(older)
+    xp_value: 450
+  :faerie_dragon_(younger): !ruby/object:Monster
+    challenge: 1
+    name: Faerie Dragon (Younger)
+    type: Dragon
+    source: Monster Manual
+    key: :faerie_dragon_(younger)
+    xp_value: 200
+  :fathomer: !ruby/object:Monster
+    challenge: 2
+    name: Fathomer
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :fathomer
+    xp_value: 450
+  :feathergale_knight: !ruby/object:Monster
+    challenge: 1
+    name: Feathergale Knight
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :feathergale_knight
+    xp_value: 200
+  :female_steeder: !ruby/object:Monster
+    challenge: 1
+    name: Female Steeder
+    type: Beast
+    source: Out of the Abyss
+    key: :female_steeder
+    xp_value: 200
+  :fire_elemental: !ruby/object:Monster
+    challenge: 5
+    name: Fire Elemental
+    type: Elemental
+    source: Basic Rules
+    key: :fire_elemental
+    xp_value: 1800
+  :fire_elemental_myrmidon: !ruby/object:Monster
+    challenge: 7
+    name: Fire Elemental Myrmidon
+    type: Elemental
+    source: Princes of the Apocalypse
+    key: :fire_elemental_myrmidon
+    xp_value: 2900
+  :fire_giant: !ruby/object:Monster
+    challenge: 9
+    name: Fire Giant
+    type: Giant
+    source: Basic Rules
+    key: :fire_giant
+    xp_value: 5000
+  :fire_giant_dreadnought: !ruby/object:Monster
+    challenge: 14
+    name: Fire Giant Dreadnought
+    type: Giant
+    source: Volo's Guide to Monsters
+    key: :fire_giant_dreadnought
+    xp_value: 11500
+  :fire_snake: !ruby/object:Monster
+    challenge: 1
+    name: Fire Snake
+    type: Elemental
+    source: Monster Manual
+    key: :fire_snake
+    xp_value: 200
+  :firenewt_warlock_of_imix: !ruby/object:Monster
+    challenge: 1
+    name: Firenewt Warlock of Imix
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :firenewt_warlock_of_imix
+    xp_value: 200
+  :firenewt_warrior: !ruby/object:Monster
+    challenge: 0.5
+    name: Firenewt Warrior
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :firenewt_warrior
+    xp_value: 100
+  :flail_snail: !ruby/object:Monster
+    challenge: 3
+    name: Flail Snail
+    type: Elemental
+    source: Volo's Guide to Monsters
+    key: :flail_snail
+    xp_value: 700
+  :flameskull: !ruby/object:Monster
+    challenge: 4
+    name: Flameskull
+    type: Undead
+    source: Basic Rules
+    key: :flameskull
+    xp_value: 1100
+  :flamewrath: !ruby/object:Monster
+    challenge: 6
+    name: Flamewrath
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :flamewrath
+    xp_value: 2300
+  :flesh_golem: !ruby/object:Monster
+    challenge: 5
+    name: Flesh Golem
+    type: Construct
+    source: Basic Rules
+    key: :flesh_golem
+    xp_value: 1800
+  :flind: !ruby/object:Monster
+    challenge: 9
+    name: Flind
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :flind
+    xp_value: 5000
+  :flumph: !ruby/object:Monster
+    challenge: 0.125
+    name: Flumph
+    type: Aberration
+    source: Monster Manual
+    key: :flumph
+    xp_value: 25
+  :flying_monkey: !ruby/object:Monster
+    challenge: 0
+    name: Flying Monkey
+    type: Beast
+    source: Tomb of Annihilation
+    key: :flying_monkey
+    xp_value: 10
+  :flying_snake: !ruby/object:Monster
+    challenge: 0.125
+    name: Flying Snake
+    type: Beast
+    source: Basic Rules
+    key: :flying_snake
+    xp_value: 25
+  :flying_sword: !ruby/object:Monster
+    challenge: 0.25
+    name: Flying Sword
+    type: Construct
+    source: Basic Rules
+    key: :flying_sword
+    xp_value: 50
+  :fomorian: !ruby/object:Monster
+    challenge: 8
+    name: Fomorian
+    type: Giant
+    source: Monster Manual
+    key: :fomorian
+    xp_value: 3900
+  :four_armed_troll: !ruby/object:Monster
+    challenge: 6
+    name: Four-Armed Troll
+    type: Giant
+    source: Hoard of the Dragon Queen
+    key: :four_armed_troll
+    xp_value: 2300
+  :fraz_urb’luu: !ruby/object:Monster
+    challenge: 23
+    name: Fraz-Urb’luu
+    type: Fiend
+    source: Out of the Abyss
+    key: :fraz_urb’luu
+    xp_value: 50000
+  :frog: !ruby/object:Monster
+    challenge: 0
+    name: Frog
+    type: Beast
+    source: Basic Rules
+    key: :frog
+    xp_value: 10
+  :froghemoth: !ruby/object:Monster
+    challenge: 10
+    name: Froghemoth
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :froghemoth
+    xp_value: 5900
+  :frost_giant: !ruby/object:Monster
+    challenge: 8
+    name: Frost Giant
+    type: Giant
+    source: Basic Rules
+    key: :frost_giant
+    xp_value: 3900
+  :frost_giant_everlasting_one: !ruby/object:Monster
+    challenge: 12
+    name: Frost Giant Everlasting One
+    type: Giant
+    source: Volo's Guide to Monsters
+    key: :frost_giant_everlasting_one
+    xp_value: 8400
+  :frulam_mondath: !ruby/object:Monster
+    challenge: 2
+    name: Frulam Mondath
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :frulam_mondath
+    xp_value: 450
+  :galeb_duhr: !ruby/object:Monster
+    challenge: 6
+    name: Galeb Duhr
+    type: Elemental
+    source: Monster Manual
+    key: :galeb_duhr
+    xp_value: 2300
+  :gar_shatterkeel: !ruby/object:Monster
+    challenge: 9
+    name: Gar Shatterkeel
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :gar_shatterkeel
+    xp_value: 5000
+  :gargoyle: !ruby/object:Monster
+    challenge: 2
+    name: Gargoyle
+    type: Elemental
+    source: Basic Rules
+    key: :gargoyle
+    xp_value: 450
+  :gas_spore: !ruby/object:Monster
+    challenge: 0.5
+    name: Gas Spore
+    type: Plant
+    source: Monster Manual
+    key: :gas_spore
+    xp_value: 100
+  :gauth: !ruby/object:Monster
+    challenge: 6
+    name: Gauth
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :gauth
+    xp_value: 2300
+  :gazer: !ruby/object:Monster
+    challenge: 0.5
+    name: Gazer
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :gazer
+    xp_value: 100
+  :gazer_familiar: !ruby/object:Monster
+    challenge: 0.5
+    name: Gazer Familiar
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :gazer_familiar
+    xp_value: 100
+  :gelatinous_cube: !ruby/object:Monster
+    challenge: 2
+    name: Gelatinous Cube
+    type: Ooze
+    source: Basic Rules
+    key: :gelatinous_cube
+    xp_value: 450
+  :geonid: !ruby/object:Monster
+    challenge: 0.25
+    name: Geonid
+    type: Elemental
+    source: The Tortle Package
+    key: :geonid
+    xp_value: 50
+  :ghald: !ruby/object:Monster
+    challenge: 7
+    name: Ghald
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :ghald
+    xp_value: 2900
+  :ghast: !ruby/object:Monster
+    challenge: 2
+    name: Ghast
+    type: Undead
+    source: Basic Rules
+    key: :ghast
+    xp_value: 450
+  :ghelryn_foehammer: !ruby/object:Monster
+    challenge: 0
+    name: Ghelryn Foehammer
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :ghelryn_foehammer
+    xp_value: 10
+  :ghost: !ruby/object:Monster
+    challenge: 4
+    name: Ghost
+    type: Undead
+    source: Basic Rules
+    key: :ghost
+    xp_value: 1100
+  :ghoul: !ruby/object:Monster
+    challenge: 1
+    name: Ghoul
+    type: Undead
+    source: Basic Rules
+    key: :ghoul
+    xp_value: 200
+  :giant_ape: !ruby/object:Monster
+    challenge: 7
+    name: Giant Ape
+    type: Beast
+    source: Basic Rules
+    key: :giant_ape
+    xp_value: 2900
+  :giant_badger: !ruby/object:Monster
+    challenge: 0.25
+    name: Giant Badger
+    type: Beast
+    source: Basic Rules
+    key: :giant_badger
+    xp_value: 50
+  :giant_bat: !ruby/object:Monster
+    challenge: 0.25
+    name: Giant Bat
+    type: Beast
+    source: Basic Rules
+    key: :giant_bat
+    xp_value: 50
+  :giant_boar: !ruby/object:Monster
+    challenge: 2
+    name: Giant Boar
+    type: Beast
+    source: Basic Rules
+    key: :giant_boar
+    xp_value: 450
+  :giant_centipede: !ruby/object:Monster
+    challenge: 0.25
+    name: Giant Centipede
+    type: Beast
+    source: Basic Rules
+    key: :giant_centipede
+    xp_value: 50
+  :giant_constrictor_snake: !ruby/object:Monster
+    challenge: 2
+    name: Giant Constrictor Snake
+    type: Beast
+    source: Basic Rules
+    key: :giant_constrictor_snake
+    xp_value: 450
+  :giant_crab: !ruby/object:Monster
+    challenge: 0.125
+    name: Giant Crab
+    type: Beast
+    source: Basic Rules
+    key: :giant_crab
+    xp_value: 25
+  :giant_crayfish: !ruby/object:Monster
+    challenge: 2
+    name: Giant Crayfish
+    type: Beast
+    source: The Hidden Shrine of Tamoachan
+    key: :giant_crayfish
+    xp_value: 450
+  :giant_crocodile: !ruby/object:Monster
+    challenge: 5
+    name: Giant Crocodile
+    type: Beast
+    source: Basic Rules
+    key: :giant_crocodile
+    xp_value: 1800
+  :giant_eagle: !ruby/object:Monster
+    challenge: 1
+    name: Giant Eagle
+    type: Beast
+    source: Basic Rules
+    key: :giant_eagle
+    xp_value: 200
+  :giant_elk: !ruby/object:Monster
+    challenge: 2
+    name: Giant Elk
+    type: Beast
+    source: Basic Rules
+    key: :giant_elk
+    xp_value: 450
+  :giant_fire_beetle: !ruby/object:Monster
+    challenge: 0
+    name: Giant Fire Beetle
+    type: Beast
+    source: Basic Rules
+    key: :giant_fire_beetle
+    xp_value: 10
+  :giant_fly: !ruby/object:Monster
+    challenge: 0
+    name: Giant Fly
+    type: Beast
+    source: Dungeon Master's Guide
+    key: :giant_fly
+    xp_value: 10
+  :giant_four_armed_gargoyle: !ruby/object:Monster
+    challenge: 10
+    name: Giant Four-Armed Gargoyle
+    type: Elemental
+    source: Tomb of Annihilation
+    key: :giant_four_armed_gargoyle
+    xp_value: 5900
+  :giant_frog: !ruby/object:Monster
+    challenge: 0.25
+    name: Giant Frog
+    type: Beast
+    source: Basic Rules
+    key: :giant_frog
+    xp_value: 50
+  :giant_goat: !ruby/object:Monster
+    challenge: 0.5
+    name: Giant Goat
+    type: Beast
+    source: Basic Rules
+    key: :giant_goat
+    xp_value: 100
+  :giant_hyena: !ruby/object:Monster
+    challenge: 1
+    name: Giant Hyena
+    type: Beast
+    source: Basic Rules
+    key: :giant_hyena
+    xp_value: 200
+  :giant_ice_toad: !ruby/object:Monster
+    challenge: 3
+    name: Giant Ice Toad
+    type: Monstrosity
+    source: Against the Giants
+    key: :giant_ice_toad
+    xp_value: 700
+  :giant_lightning_eel: !ruby/object:Monster
+    challenge: 3
+    name: Giant Lightning Eel
+    type: Beast
+    source: The Hidden Shrine of Tamoachan
+    key: :giant_lightning_eel
+    xp_value: 700
+  :giant_lizard: !ruby/object:Monster
+    challenge: 0.25
+    name: Giant Lizard
+    type: Beast
+    source: Basic Rules
+    key: :giant_lizard
+    xp_value: 50
+  :giant_octopus: !ruby/object:Monster
+    challenge: 1
+    name: Giant Octopus
+    type: Beast
+    source: Basic Rules
+    key: :giant_octopus
+    xp_value: 200
+  :giant_owl: !ruby/object:Monster
+    challenge: 0.25
+    name: Giant Owl
+    type: Beast
+    source: Basic Rules
+    key: :giant_owl
+    xp_value: 50
+  :giant_poisonous_snake: !ruby/object:Monster
+    challenge: 0.25
+    name: Giant Poisonous Snake
+    type: Beast
+    source: Basic Rules
+    key: :giant_poisonous_snake
+    xp_value: 50
+  :giant_rat: !ruby/object:Monster
+    challenge: 0.125
+    name: Giant Rat
+    type: Beast
+    source: Basic Rules
+    key: :giant_rat
+    xp_value: 25
+  :giant_riding_lizard: !ruby/object:Monster
+    challenge: 0.25
+    name: Giant Riding Lizard
+    type: Beast
+    source: Out of the Abyss
+    key: :giant_riding_lizard
+    xp_value: 50
+  :giant_scorpion: !ruby/object:Monster
+    challenge: 3
+    name: Giant Scorpion
+    type: Beast
+    source: Basic Rules
+    key: :giant_scorpion
+    xp_value: 700
+  :giant_sea_horse: !ruby/object:Monster
+    challenge: 0.5
+    name: Giant Sea Horse
+    type: Beast
+    source: Basic Rules
+    key: :giant_sea_horse
+    xp_value: 100
+  :giant_shark: !ruby/object:Monster
+    challenge: 5
+    name: Giant Shark
+    type: Beast
+    source: Basic Rules
+    key: :giant_shark
+    xp_value: 1800
+  :giant_skeleton: !ruby/object:Monster
+    challenge: 7
+    name: Giant Skeleton
+    type: Undead
+    source: Tomb of Horrors
+    key: :giant_skeleton
+    xp_value: 2900
+  :giant_snapping_turtle: !ruby/object:Monster
+    challenge: 3
+    name: Giant Snapping Turtle
+    type: Beast
+    source: Tomb of Annihilation
+    key: :giant_snapping_turtle
+    xp_value: 700
+  :giant_spider: !ruby/object:Monster
+    challenge: 1
+    name: Giant Spider
+    type: Beast
+    source: Basic Rules
+    key: :giant_spider
+    xp_value: 200
+  :giant_strider: !ruby/object:Monster
+    challenge: 1
+    name: Giant Strider
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :giant_strider
+    xp_value: 200
+  :giant_subterranean_lizard: !ruby/object:Monster
+    challenge: 4
+    name: Giant Subterranean Lizard
+    type: Beast
+    source: The Forge of Fury
+    key: :giant_subterranean_lizard
+    xp_value: 1100
+  :giant_toad: !ruby/object:Monster
+    challenge: 1
+    name: Giant Toad
+    type: Beast
+    source: Basic Rules
+    key: :giant_toad
+    xp_value: 200
+  :giant_vulture: !ruby/object:Monster
+    challenge: 1
+    name: Giant Vulture
+    type: Beast
+    source: Basic Rules
+    key: :giant_vulture
+    xp_value: 200
+  :giant_wasp: !ruby/object:Monster
+    challenge: 0.5
+    name: Giant Wasp
+    type: Beast
+    source: Basic Rules
+    key: :giant_wasp
+    xp_value: 100
+  :giant_weasel: !ruby/object:Monster
+    challenge: 0.125
+    name: Giant Weasel
+    type: Beast
+    source: Basic Rules
+    key: :giant_weasel
+    xp_value: 25
+  :giant_wolf_spider: !ruby/object:Monster
+    challenge: 0.25
+    name: Giant Wolf Spider
+    type: Beast
+    source: Basic Rules
+    key: :giant_wolf_spider
+    xp_value: 50
+  :gibbering_mouther: !ruby/object:Monster
+    challenge: 2
+    name: Gibbering Mouther
+    type: Aberration
+    source: Basic Rules
+    key: :gibbering_mouther
+    xp_value: 450
+  :girallon: !ruby/object:Monster
+    challenge: 4
+    name: Girallon
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :girallon
+    xp_value: 1100
+  :girallon_zombie: !ruby/object:Monster
+    challenge: 3
+    name: Girallon Zombie
+    type: Undead
+    source: Tomb of Annihilation
+    key: :girallon_zombie
+    xp_value: 700
+  :githyanki_knight: !ruby/object:Monster
+    challenge: 8
+    name: Githyanki Knight
+    type: Humanoid
+    source: Monster Manual
+    key: :githyanki_knight
+    xp_value: 3900
+  :githyanki_warrior: !ruby/object:Monster
+    challenge: 3
+    name: Githyanki Warrior
+    type: Humanoid
+    source: Monster Manual
+    key: :githyanki_warrior
+    xp_value: 700
+  :githzerai_monk: !ruby/object:Monster
+    challenge: 2
+    name: Githzerai Monk
+    type: Humanoid
+    source: Monster Manual
+    key: :githzerai_monk
+    xp_value: 450
+  :githzerai_zerth: !ruby/object:Monster
+    challenge: 6
+    name: Githzerai Zerth
+    type: Humanoid
+    source: Monster Manual
+    key: :githzerai_zerth
+    xp_value: 2300
+  :glabrezu: !ruby/object:Monster
+    challenge: 9
+    name: Glabrezu
+    type: Fiend
+    source: Basic Rules
+    key: :glabrezu
+    xp_value: 5000
+  :gladiator: !ruby/object:Monster
+    challenge: 5
+    name: Gladiator
+    type: Humanoid
+    source: Basic Rules
+    key: :gladiator
+    xp_value: 1800
+  :gnoll: !ruby/object:Monster
+    challenge: 0.5
+    name: Gnoll
+    type: Humanoid
+    source: Basic Rules
+    key: :gnoll
+    xp_value: 100
+  :gnoll_fang_of_yeenoghu: !ruby/object:Monster
+    challenge: 4
+    name: Gnoll Fang of Yeenoghu
+    type: Humanoid
+    source: Monster Manual
+    key: :gnoll_fang_of_yeenoghu
+    xp_value: 1100
+  :gnoll_flesh_gnawer: !ruby/object:Monster
+    challenge: 1
+    name: Gnoll Flesh Gnawer
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :gnoll_flesh_gnawer
+    xp_value: 200
+  :gnoll_hunter: !ruby/object:Monster
+    challenge: 0.5
+    name: Gnoll Hunter
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :gnoll_hunter
+    xp_value: 100
+  :gnoll_pack_lord: !ruby/object:Monster
+    challenge: 2
+    name: Gnoll Pack Lord
+    type: Humanoid
+    source: Monster Manual
+    key: :gnoll_pack_lord
+    xp_value: 450
+  :gnoll_witherling: !ruby/object:Monster
+    challenge: 0.25
+    name: Gnoll Witherling
+    type: Undead
+    source: Volo's Guide to Monsters
+    key: :gnoll_witherling
+    xp_value: 50
+  :goat: !ruby/object:Monster
+    challenge: 0
+    name: Goat
+    type: Beast
+    source: Basic Rules
+    key: :goat
+    xp_value: 10
+  :goblin: !ruby/object:Monster
+    challenge: 0.25
+    name: Goblin
+    type: Humanoid
+    source: Basic Rules
+    key: :goblin
+    xp_value: 50
+  :goblin_boss: !ruby/object:Monster
+    challenge: 1
+    name: Goblin Boss
+    type: Humanoid
+    source: Monster Manual
+    key: :goblin_boss
+    xp_value: 200
+  :gold_dragon_wyrmling: !ruby/object:Monster
+    challenge: 3
+    name: Gold Dragon Wyrmling
+    type: Dragon
+    source: Basic Rules
+    key: :gold_dragon_wyrmling
+    xp_value: 700
+  :gorgon: !ruby/object:Monster
+    challenge: 5
+    name: Gorgon
+    type: Monstrosity
+    source: Basic Rules
+    key: :gorgon
+    xp_value: 1800
+  :goristro: !ruby/object:Monster
+    challenge: 17
+    name: Goristro
+    type: Fiend
+    source: Monster Manual
+    key: :goristro
+    xp_value: 18000
+  :gray_ooze: !ruby/object:Monster
+    challenge: 0.5
+    name: Gray Ooze
+    type: Ooze
+    source: Basic Rules
+    key: :gray_ooze
+    xp_value: 100
+  :gray_slaad: !ruby/object:Monster
+    challenge: 9
+    name: Gray Slaad
+    type: Aberration
+    source: Monster Manual
+    key: :gray_slaad
+    xp_value: 5000
+  :graz’zt: !ruby/object:Monster
+    challenge: 24
+    name: Graz’zt
+    type: Fiend
+    source: Out of the Abyss
+    key: :graz’zt
+    xp_value: 62000
+  :greater_zombie: !ruby/object:Monster
+    challenge: 5
+    name: Greater Zombie
+    type: Undead
+    source: Tomb of Horrors
+    key: :greater_zombie
+    xp_value: 1800
+  :green_dragon_wyrmling: !ruby/object:Monster
+    challenge: 2
+    name: Green Dragon Wyrmling
+    type: Dragon
+    source: Basic Rules
+    key: :green_dragon_wyrmling
+    xp_value: 450
+  :green_guard_drake: !ruby/object:Monster
+    challenge: 2
+    name: Green Guard Drake
+    type: Dragon
+    source: Volo's Guide to Monsters
+    key: :green_guard_drake
+    xp_value: 450
+  :green_hag: !ruby/object:Monster
+    challenge: 3
+    name: Green Hag
+    type: Fey
+    source: Basic Rules
+    key: :green_hag
+    xp_value: 700
+  :green_slaad: !ruby/object:Monster
+    challenge: 8
+    name: Green Slaad
+    type: Aberration
+    source: Monster Manual
+    key: :green_slaad
+    xp_value: 3900
+  :grell: !ruby/object:Monster
+    challenge: 3
+    name: Grell
+    type: Aberration
+    source: Monster Manual
+    key: :grell
+    xp_value: 700
+  :grick: !ruby/object:Monster
+    challenge: 2
+    name: Grick
+    type: Monstrosity
+    source: Basic Rules
+    key: :grick
+    xp_value: 450
+  :grick_alpha: !ruby/object:Monster
+    challenge: 7
+    name: Grick Alpha
+    type: Monstrosity
+    source: Monster Manual
+    key: :grick_alpha
+    xp_value: 2900
+  :griffon: !ruby/object:Monster
+    challenge: 2
+    name: Griffon
+    type: Monstrosity
+    source: Basic Rules
+    key: :griffon
+    xp_value: 450
+  :grimlock: !ruby/object:Monster
+    challenge: 0.25
+    name: Grimlock
+    type: Humanoid
+    source: Basic Rules
+    key: :grimlock
+    xp_value: 50
+  :grisha: !ruby/object:Monster
+    challenge: 2
+    name: Grisha
+    type: Humanoid
+    source: Out of the Abyss
+    key: :grisha
+    xp_value: 450
+  :grumink_the_renegade: !ruby/object:Monster
+    challenge: 8
+    name: Grumink the Renegade
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :grumink_the_renegade
+    xp_value: 3900
+  :grung: !ruby/object:Monster
+    challenge: 0.25
+    name: Grung
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :grung
+    xp_value: 50
+  :grung_elite_warrior: !ruby/object:Monster
+    challenge: 2
+    name: Grung Elite Warrior
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :grung_elite_warrior
+    xp_value: 450
+  :grung_wildling: !ruby/object:Monster
+    challenge: 1
+    name: Grung Wildling
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :grung_wildling
+    xp_value: 200
+  :guard: !ruby/object:Monster
+    challenge: 0.125
+    name: Guard
+    type: Humanoid
+    source: Basic Rules
+    key: :guard
+    xp_value: 25
+  :guard_drake: !ruby/object:Monster
+    challenge: 2
+    name: Guard Drake
+    type: Dragon
+    source: Volo's Guide to Monsters
+    key: :guard_drake
+    xp_value: 450
+  :guardian_naga: !ruby/object:Monster
+    challenge: 10
+    name: Guardian Naga
+    type: Monstrosity
+    source: Basic Rules
+    key: :guardian_naga
+    xp_value: 5900
+  :guardian_portrait: !ruby/object:Monster
+    challenge: 1
+    name: Guardian Portrait
+    type: Construct
+    source: Curse of Strahd
+    key: :guardian_portrait
+    xp_value: 200
+  :gynosphinx: !ruby/object:Monster
+    challenge: 11
+    name: Gynosphinx
+    type: Monstrosity
+    source: Basic Rules
+    key: :gynosphinx
+    xp_value: 7200
+  :hadrosaurus: !ruby/object:Monster
+    challenge: 0.25
+    name: Hadrosaurus
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :hadrosaurus
+    xp_value: 50
+  :half_blue_dragon_gladiator: !ruby/object:Monster
+    challenge: 5
+    name: Half-Blue Dragon Gladiator
+    type: Humanoid
+    source: Rise of Tiamat
+    key: :half_blue_dragon_gladiator
+    xp_value: 1800
+  :half_green_dragon_assassin: !ruby/object:Monster
+    challenge: 8
+    name: Half-Green Dragon Assassin
+    type: Humanoid
+    source: Rise of Tiamat
+    key: :half_green_dragon_assassin
+    xp_value: 3900
+  :half_ogre: !ruby/object:Monster
+    challenge: 1
+    name: Half-Ogre
+    type: Giant
+    source: Monster Manual
+    key: :half_ogre
+    xp_value: 200
+  :half_red_dragon_gladiator: !ruby/object:Monster
+    challenge: 6
+    name: Half-Red Dragon Gladiator
+    type: Humanoid
+    source: Rise of Tiamat
+    key: :half_red_dragon_gladiator
+    xp_value: 2300
+  :half_red_dragon_veteran: !ruby/object:Monster
+    challenge: 5
+    name: Half-Red Dragon Veteran
+    type: Humanoid
+    source: Basic Rules
+    key: :half_red_dragon_veteran
+    xp_value: 1800
+  :harpy: !ruby/object:Monster
+    challenge: 1
+    name: Harpy
+    type: Monstrosity
+    source: Basic Rules
+    key: :harpy
+    xp_value: 200
+  :hawk: !ruby/object:Monster
+    challenge: 0
+    name: Hawk
+    type: Beast
+    source: Basic Rules
+    key: :hawk
+    xp_value: 10
+  :hell_hound: !ruby/object:Monster
+    challenge: 3
+    name: Hell Hound
+    type: Fiend
+    source: Basic Rules
+    key: :hell_hound
+    xp_value: 700
+  :hellenrae: !ruby/object:Monster
+    challenge: 5
+    name: Hellenrae
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :hellenrae
+    xp_value: 1800
+  :helmed_horror: !ruby/object:Monster
+    challenge: 4
+    name: Helmed Horror
+    type: Construct
+    source: Monster Manual
+    key: :helmed_horror
+    xp_value: 1100
+  :hezrou: !ruby/object:Monster
+    challenge: 8
+    name: Hezrou
+    type: Fiend
+    source: Basic Rules
+    key: :hezrou
+    xp_value: 3900
+  :hill_giant: !ruby/object:Monster
+    challenge: 5
+    name: Hill Giant
+    type: Giant
+    source: Basic Rules
+    key: :hill_giant
+    xp_value: 1800
+  :hippogriff: !ruby/object:Monster
+    challenge: 1
+    name: Hippogriff
+    type: Monstrosity
+    source: Basic Rules
+    key: :hippogriff
+    xp_value: 200
+  :hobgoblin: !ruby/object:Monster
+    challenge: 0.5
+    name: Hobgoblin
+    type: Humanoid
+    source: Basic Rules
+    key: :hobgoblin
+    xp_value: 100
+  :hobgoblin_captain: !ruby/object:Monster
+    challenge: 3
+    name: Hobgoblin Captain
+    type: Humanoid
+    source: Monster Manual
+    key: :hobgoblin_captain
+    xp_value: 700
+  :hobgoblin_devastator: !ruby/object:Monster
+    challenge: 4
+    name: Hobgoblin Devastator
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :hobgoblin_devastator
+    xp_value: 1100
+  :hobgoblin_iron_shadow: !ruby/object:Monster
+    challenge: 2
+    name: Hobgoblin Iron Shadow
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :hobgoblin_iron_shadow
+    xp_value: 450
+  :hobgoblin_warlord: !ruby/object:Monster
+    challenge: 6
+    name: Hobgoblin Warlord
+    type: Humanoid
+    source: Monster Manual
+    key: :hobgoblin_warlord
+    xp_value: 2300
+  :homunculus: !ruby/object:Monster
+    challenge: 0
+    name: Homunculus
+    type: Construct
+    source: Basic Rules
+    key: :homunculus
+    xp_value: 10
+  :hook_horror: !ruby/object:Monster
+    challenge: 3
+    name: Hook Horror
+    type: Monstrosity
+    source: Monster Manual
+    key: :hook_horror
+    xp_value: 700
+  :hook_horror_spore_servant: !ruby/object:Monster
+    challenge: 3
+    name: Hook Horror Spore Servant
+    type: Plant
+    source: Out of the Abyss
+    key: :hook_horror_spore_servant
+    xp_value: 700
+  :horned_devil: !ruby/object:Monster
+    challenge: 11
+    name: Horned Devil
+    type: Fiend
+    source: Basic Rules
+    key: :horned_devil
+    xp_value: 7200
+  :howling_hatred_initiate: !ruby/object:Monster
+    challenge: 0.125
+    name: Howling Hatred Initiate
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :howling_hatred_initiate
+    xp_value: 25
+  :howling_hatred_priest: !ruby/object:Monster
+    challenge: 2
+    name: Howling Hatred Priest
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :howling_hatred_priest
+    xp_value: 450
+  :hulking_crab: !ruby/object:Monster
+    challenge: 5
+    name: Hulking Crab
+    type: Beast
+    source: Storm King's Thunder
+    key: :hulking_crab
+    xp_value: 1800
+  :hunter_shark: !ruby/object:Monster
+    challenge: 2
+    name: Hunter Shark
+    type: Beast
+    source: Basic Rules
+    key: :hunter_shark
+    xp_value: 450
+  :hurricane: !ruby/object:Monster
+    challenge: 2
+    name: Hurricane
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :hurricane
+    xp_value: 450
+  :hydra: !ruby/object:Monster
+    challenge: 8
+    name: Hydra
+    type: Monstrosity
+    source: Basic Rules
+    key: :hydra
+    xp_value: 3900
+  :hyena: !ruby/object:Monster
+    challenge: 0
+    name: Hyena
+    type: Beast
+    source: Basic Rules
+    key: :hyena
+    xp_value: 10
+  :ice_devil: !ruby/object:Monster
+    challenge: 14
+    name: Ice Devil
+    type: Fiend
+    source: Basic Rules
+    key: :ice_devil
+    xp_value: 11500
+  :ice_mephit: !ruby/object:Monster
+    challenge: 0.5
+    name: Ice Mephit
+    type: Elemental
+    source: Basic Rules
+    key: :ice_mephit
+    xp_value: 100
+  :ice_toad: !ruby/object:Monster
+    challenge: 1
+    name: Ice Toad
+    type: Monstrosity
+    source: Rise of Tiamat
+    key: :ice_toad
+    xp_value: 200
+  :ice_troll: !ruby/object:Monster
+    challenge: 5
+    name: Ice Troll
+    type: Giant
+    source: Rise of Tiamat
+    key: :ice_troll
+    xp_value: 1800
+  :illusionist: !ruby/object:Monster
+    challenge: 3
+    name: Illusionist
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :illusionist
+    xp_value: 700
+  :imix: !ruby/object:Monster
+    challenge: 19
+    name: Imix
+    type: Elemental
+    source: Princes of the Apocalypse
+    key: :imix
+    xp_value: 22000
+  :imp: !ruby/object:Monster
+    challenge: 1
+    name: Imp
+    type: Fiend
+    source: Basic Rules
+    key: :imp
+    xp_value: 200
+  :intellect_devourer: !ruby/object:Monster
+    challenge: 2
+    name: Intellect Devourer
+    type: Aberration
+    source: Monster Manual
+    key: :intellect_devourer
+    xp_value: 450
+  :invisible_stalker: !ruby/object:Monster
+    challenge: 6
+    name: Invisible Stalker
+    type: Elemental
+    source: Basic Rules
+    key: :invisible_stalker
+    xp_value: 2300
+  :iron_golem: !ruby/object:Monster
+    challenge: 16
+    name: Iron Golem
+    type: Construct
+    source: Basic Rules
+    key: :iron_golem
+    xp_value: 15000
+  :ixitxachitl: !ruby/object:Monster
+    challenge: 0.25
+    name: Ixitxachitl
+    type: Aberration
+    source: Out of the Abyss
+    key: :ixitxachitl
+    xp_value: 50
+  :ixitxachitl_cleric: !ruby/object:Monster
+    challenge: 2
+    name: Ixitxachitl Cleric
+    type: Aberration
+    source: Out of the Abyss
+    key: :ixitxachitl_cleric
+    xp_value: 450
+  :iymrith: !ruby/object:Monster
+    challenge: 23
+    name: Iymrith
+    type: Dragon
+    source: Storm King's Thunder
+    key: :iymrith
+    xp_value: 50000
+  :izek_strazni: !ruby/object:Monster
+    challenge: 5
+    name: Izek Strazni
+    type: Humanoid
+    source: Curse of Strahd
+    key: :izek_strazni
+    xp_value: 1800
+  :jackal: !ruby/object:Monster
+    challenge: 0
+    name: Jackal
+    type: Beast
+    source: Basic Rules
+    key: :jackal
+    xp_value: 10
+  :jackalwere: !ruby/object:Monster
+    challenge: 0.5
+    name: Jackalwere
+    type: Humanoid
+    source: Monster Manual
+    key: :jackalwere
+    xp_value: 100
+  :jaculi: !ruby/object:Monster
+    challenge: 0.5
+    name: Jaculi
+    type: Beast
+    source: Tomb of Annihilation
+    key: :jaculi
+    xp_value: 100
+  :jamna_gleamsilver: !ruby/object:Monster
+    challenge: 1
+    name: Jamna Gleamsilver
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :jamna_gleamsilver
+    xp_value: 200
+  :juiblex: !ruby/object:Monster
+    challenge: 23
+    name: Juiblex
+    type: Fiend
+    source: Out of the Abyss
+    key: :juiblex
+    xp_value: 50000
+  :kalka_kylla: !ruby/object:Monster
+    challenge: 3
+    name: Kalka-Kylla
+    type: Monstrosity
+    source: The Hidden Shrine of Tamoachan
+    key: :kalka_kylla
+    xp_value: 700
+  :kamadan: !ruby/object:Monster
+    challenge: 4
+    name: Kamadan
+    type: Monstrosity
+    source: Tomb of Annihilation
+    key: :kamadan
+    xp_value: 1100
+  :kasimir_velikov: !ruby/object:Monster
+    challenge: 6
+    name: Kasimir Velikov
+    type: Humanoid
+    source: Curse of Strahd
+    key: :kasimir_velikov
+    xp_value: 2300
+  :kelpie: !ruby/object:Monster
+    challenge: 4
+    name: Kelpie
+    type: Plant
+    source: White Plume Mountain
+    key: :kelpie
+    xp_value: 1100
+  :kenku: !ruby/object:Monster
+    challenge: 0.25
+    name: Kenku
+    type: Humanoid
+    source: Monster Manual
+    key: :kenku
+    xp_value: 50
+  :killer_whale: !ruby/object:Monster
+    challenge: 3
+    name: Killer Whale
+    type: Beast
+    source: Basic Rules
+    key: :killer_whale
+    xp_value: 700
+  :ki_rin: !ruby/object:Monster
+    challenge: 12
+    name: Ki-rin
+    type: Celestial
+    source: Volo's Guide to Monsters
+    key: :ki_rin
+    xp_value: 8400
+  :knight: !ruby/object:Monster
+    challenge: 3
+    name: Knight
+    type: Humanoid
+    source: Basic Rules
+    key: :knight
+    xp_value: 700
+  :kobold: !ruby/object:Monster
+    challenge: 0.125
+    name: Kobold
+    type: Humanoid
+    source: Basic Rules
+    key: :kobold
+    xp_value: 25
+  :kobold_dragonshield: !ruby/object:Monster
+    challenge: 1
+    name: Kobold Dragonshield
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :kobold_dragonshield
+    xp_value: 200
+  :kobold_inventor: !ruby/object:Monster
+    challenge: 0.25
+    name: Kobold Inventor
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :kobold_inventor
+    xp_value: 50
+  :kobold_scale_sorcerer: !ruby/object:Monster
+    challenge: 1
+    name: Kobold Scale Sorcerer
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :kobold_scale_sorcerer
+    xp_value: 200
+  :korred: !ruby/object:Monster
+    challenge: 7
+    name: Korred
+    type: Fey
+    source: Volo's Guide to Monsters
+    key: :korred
+    xp_value: 2900
+  :kraken: !ruby/object:Monster
+    challenge: 23
+    name: Kraken
+    type: Monstrosity
+    source: Basic Rules
+    key: :kraken
+    xp_value: 50000
+  :kraken_priest: !ruby/object:Monster
+    challenge: 5
+    name: Kraken Priest
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :kraken_priest
+    xp_value: 1800
+  :kuo_toa: !ruby/object:Monster
+    challenge: 0.25
+    name: Kuo-toa
+    type: Humanoid
+    source: Monster Manual
+    key: :kuo_toa
+    xp_value: 50
+  :kuo_toa_archpriest: !ruby/object:Monster
+    challenge: 6
+    name: Kuo-toa Archpriest
+    type: Humanoid
+    source: Monster Manual
+    key: :kuo_toa_archpriest
+    xp_value: 2300
+  :kuo_toa_monitor: !ruby/object:Monster
+    challenge: 3
+    name: Kuo-toa Monitor
+    type: Humanoid
+    source: Monster Manual
+    key: :kuo_toa_monitor
+    xp_value: 700
+  :kuo_toa_whip: !ruby/object:Monster
+    challenge: 1
+    name: Kuo-toa Whip
+    type: Humanoid
+    source: Monster Manual
+    key: :kuo_toa_whip
+    xp_value: 200
+  :lamia: !ruby/object:Monster
+    challenge: 4
+    name: Lamia
+    type: Monstrosity
+    source: Basic Rules
+    key: :lamia
+    xp_value: 1100
+  :langdedrosa_cyanwrath: !ruby/object:Monster
+    challenge: 4
+    name: Langdedrosa Cyanwrath
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :langdedrosa_cyanwrath
+    xp_value: 1100
+  :larva: !ruby/object:Monster
+    challenge: 0
+    name: Larva
+    type: Fiend
+    source: Dungeon Master's Guide
+    key: :larva
+    xp_value: 10
+  :lemure: !ruby/object:Monster
+    challenge: 0
+    name: Lemure
+    type: Fiend
+    source: Basic Rules
+    key: :lemure
+    xp_value: 10
+  :leucrotta: !ruby/object:Monster
+    challenge: 3
+    name: Leucrotta
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :leucrotta
+    xp_value: 700
+  :liara_portyr: !ruby/object:Monster
+    challenge: 4
+    name: Liara Portyr
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :liara_portyr
+    xp_value: 1100
+  :lich: !ruby/object:Monster
+    challenge: 21
+    name: Lich
+    type: Undead
+    source: Basic Rules
+    key: :lich
+    xp_value: 33000
+  :lifferlas: !ruby/object:Monster
+    challenge: 0
+    name: Lifferlas
+    type: Plant
+    source: Storm King's Thunder
+    key: :lifferlas
+    xp_value: 10
+  :lion: !ruby/object:Monster
+    challenge: 1
+    name: Lion
+    type: Beast
+    source: Basic Rules
+    key: :lion
+    xp_value: 200
+  :lizard: !ruby/object:Monster
+    challenge: 0
+    name: Lizard
+    type: Beast
+    source: Basic Rules
+    key: :lizard
+    xp_value: 10
+  :lizard_king/queen: !ruby/object:Monster
+    challenge: 4
+    name: Lizard King/Queen
+    type: Humanoid
+    source: Monster Manual
+    key: :lizard_king/queen
+    xp_value: 1100
+  :lizardfolk: !ruby/object:Monster
+    challenge: 0.5
+    name: Lizardfolk
+    type: Humanoid
+    source: Basic Rules
+    key: :lizardfolk
+    xp_value: 100
+  :lizardfolk_shaman: !ruby/object:Monster
+    challenge: 2
+    name: Lizardfolk Shaman
+    type: Humanoid
+    source: Monster Manual
+    key: :lizardfolk_shaman
+    xp_value: 450
+  :lords’_alliance_guard: !ruby/object:Monster
+    challenge: 0.25
+    name: Lords’ Alliance Guard
+    type: Humanoid
+    source: Out of the Abyss
+    key: :lords’_alliance_guard
+    xp_value: 50
+  :lords’_alliance_spy: !ruby/object:Monster
+    challenge: 1
+    name: Lords’ Alliance Spy
+    type: Humanoid
+    source: Out of the Abyss
+    key: :lords’_alliance_spy
+    xp_value: 200
+  :madam_eva: !ruby/object:Monster
+    challenge: 10
+    name: Madam Eva
+    type: Humanoid
+    source: Curse of Strahd
+    key: :madam_eva
+    xp_value: 5900
+  :maegera_the_dawn_titan: !ruby/object:Monster
+    challenge: 23
+    name: Maegera the Dawn Titan
+    type: Elemental
+    source: Storm King's Thunder
+    key: :maegera_the_dawn_titan
+    xp_value: 50000
+  :mage: !ruby/object:Monster
+    challenge: 6
+    name: Mage
+    type: Humanoid
+    source: Basic Rules
+    key: :mage
+    xp_value: 2300
+  :magma_mephit: !ruby/object:Monster
+    challenge: 0.5
+    name: Magma Mephit
+    type: Elemental
+    source: Basic Rules
+    key: :magma_mephit
+    xp_value: 100
+  :magmin: !ruby/object:Monster
+    challenge: 0.5
+    name: Magmin
+    type: Elemental
+    source: Basic Rules
+    key: :magmin
+    xp_value: 100
+  :male_steeder: !ruby/object:Monster
+    challenge: 0.25
+    name: Male Steeder
+    type: Beast
+    source: Out of the Abyss
+    key: :male_steeder
+    xp_value: 50
+  :malformed_kraken: !ruby/object:Monster
+    challenge: 10
+    name: Malformed Kraken
+    type: Monstrosity
+    source: Dead in Thay
+    key: :malformed_kraken
+    xp_value: 5900
+  :mammoth: !ruby/object:Monster
+    challenge: 6
+    name: Mammoth
+    type: Beast
+    source: Basic Rules
+    key: :mammoth
+    xp_value: 2300
+  :manes: !ruby/object:Monster
+    challenge: 0.125
+    name: Manes
+    type: Fiend
+    source: Monster Manual
+    key: :manes
+    xp_value: 25
+  :manticore: !ruby/object:Monster
+    challenge: 3
+    name: Manticore
+    type: Monstrosity
+    source: Basic Rules
+    key: :manticore
+    xp_value: 700
+  :mantrap: !ruby/object:Monster
+    challenge: 1
+    name: Mantrap
+    type: Plant
+    source: Tomb of Annihilation
+    key: :mantrap
+    xp_value: 200
+  :marid: !ruby/object:Monster
+    challenge: 11
+    name: Marid
+    type: Elemental
+    source: Monster Manual
+    key: :marid
+    xp_value: 7200
+  :marilith: !ruby/object:Monster
+    challenge: 16
+    name: Marilith
+    type: Fiend
+    source: Basic Rules
+    key: :marilith
+    xp_value: 15000
+  :markham_southwell: !ruby/object:Monster
+    challenge: 0
+    name: Markham Southwell
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :markham_southwell
+    xp_value: 10
+  :marlos_urnrayle: !ruby/object:Monster
+    challenge: 8
+    name: Marlos Urnrayle
+    type: Monstrosity
+    source: Princes of the Apocalypse
+    key: :marlos_urnrayle
+    xp_value: 3900
+  :martial_arts_adept: !ruby/object:Monster
+    challenge: 3
+    name: Martial Arts Adept
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :martial_arts_adept
+    xp_value: 700
+  :master_thief: !ruby/object:Monster
+    challenge: 5
+    name: Master Thief
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :master_thief
+    xp_value: 1800
+  :mastiff: !ruby/object:Monster
+    challenge: 0.125
+    name: Mastiff
+    type: Beast
+    source: Basic Rules
+    key: :mastiff
+    xp_value: 25
+  :maw_demon: !ruby/object:Monster
+    challenge: 1
+    name: Maw Demon
+    type: Fiend
+    source: Volo's Guide to Monsters
+    key: :maw_demon
+    xp_value: 200
+  :medusa: !ruby/object:Monster
+    challenge: 6
+    name: Medusa
+    type: Monstrosity
+    source: Basic Rules
+    key: :medusa
+    xp_value: 2300
+  :meenlock: !ruby/object:Monster
+    challenge: 2
+    name: Meenlock
+    type: Fey
+    source: Volo's Guide to Monsters
+    key: :meenlock
+    xp_value: 450
+  :merfolk: !ruby/object:Monster
+    challenge: 0.125
+    name: Merfolk
+    type: Humanoid
+    source: Basic Rules
+    key: :merfolk
+    xp_value: 25
+  :merrow: !ruby/object:Monster
+    challenge: 2
+    name: Merrow
+    type: Monstrosity
+    source: Basic Rules
+    key: :merrow
+    xp_value: 450
+  :mezzoloth: !ruby/object:Monster
+    challenge: 5
+    name: Mezzoloth
+    type: Fiend
+    source: Monster Manual
+    key: :mezzoloth
+    xp_value: 1800
+  :mimic: !ruby/object:Monster
+    challenge: 2
+    name: Mimic
+    type: Monstrosity
+    source: Basic Rules
+    key: :mimic
+    xp_value: 450
+  :mind_flayer: !ruby/object:Monster
+    challenge: 7
+    name: Mind Flayer
+    type: Aberration
+    source: Monster Manual
+    key: :mind_flayer
+    xp_value: 2900
+  :mind_flayer_arcanist: !ruby/object:Monster
+    challenge: 8
+    name: Mind Flayer Arcanist
+    type: Aberration
+    source: Monster Manual
+    key: :mind_flayer_arcanist
+    xp_value: 3900
+  :mind_flayer_lich_(illithilich): !ruby/object:Monster
+    challenge: 22
+    name: Mind Flayer Lich (Illithilich)
+    type: Undead
+    source: Volo's Guide to Monsters
+    key: :mind_flayer_lich_(illithilich)
+    xp_value: 41000
+  :mindwitness: !ruby/object:Monster
+    challenge: 5
+    name: Mindwitness
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :mindwitness
+    xp_value: 1800
+  :minotaur: !ruby/object:Monster
+    challenge: 3
+    name: Minotaur
+    type: Monstrosity
+    source: Basic Rules
+    key: :minotaur
+    xp_value: 700
+  :minotaur_skeleton: !ruby/object:Monster
+    challenge: 2
+    name: Minotaur Skeleton
+    type: Undead
+    source: Basic Rules
+    key: :minotaur_skeleton
+    xp_value: 450
+  :miraj_vizann: !ruby/object:Monster
+    challenge: 6
+    name: Miraj Vizann
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :miraj_vizann
+    xp_value: 2300
+  :miros_xelbrin: !ruby/object:Monster
+    challenge: 0
+    name: Miros Xelbrin
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :miros_xelbrin
+    xp_value: 10
+  :mongrelfolk: !ruby/object:Monster
+    challenge: 0.25
+    name: Mongrelfolk
+    type: Humanoid
+    source: Curse of Strahd
+    key: :mongrelfolk
+    xp_value: 50
+  :monodrone: !ruby/object:Monster
+    challenge: 0.125
+    name: Monodrone
+    type: Construct
+    source: Monster Manual
+    key: :monodrone
+    xp_value: 25
+  :morkoth: !ruby/object:Monster
+    challenge: 11
+    name: Morkoth
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :morkoth
+    xp_value: 7200
+  :mormesk_the_wraith: !ruby/object:Monster
+    challenge: 3
+    name: Mormesk the Wraith
+    type: Undead
+    source: Lost Mine of Phandelver
+    key: :mormesk_the_wraith
+    xp_value: 700
+  :mouth_of_grolantor: !ruby/object:Monster
+    challenge: 6
+    name: Mouth of Grolantor
+    type: Giant
+    source: Volo's Guide to Monsters
+    key: :mouth_of_grolantor
+    xp_value: 2300
+  :mud_mephit: !ruby/object:Monster
+    challenge: 0.25
+    name: Mud Mephit
+    type: Elemental
+    source: Monster Manual
+    key: :mud_mephit
+    xp_value: 50
+  :mule: !ruby/object:Monster
+    challenge: 0.125
+    name: Mule
+    type: Beast
+    source: Basic Rules
+    key: :mule
+    xp_value: 25
+  :mummy: !ruby/object:Monster
+    challenge: 3
+    name: Mummy
+    type: Undead
+    source: Basic Rules
+    key: :mummy
+    xp_value: 700
+  :mummy_lord: !ruby/object:Monster
+    challenge: 15
+    name: Mummy Lord
+    type: Undead
+    source: Basic Rules
+    key: :mummy_lord
+    xp_value: 13000
+  :mwaxanaré: !ruby/object:Monster
+    challenge: 0.125
+    name: Mwaxanaré
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :mwaxanaré
+    xp_value: 25
+  :myconid_adult: !ruby/object:Monster
+    challenge: 0.5
+    name: Myconid Adult
+    type: Plant
+    source: Monster Manual
+    key: :myconid_adult
+    xp_value: 100
+  :myconid_sovereign: !ruby/object:Monster
+    challenge: 2
+    name: Myconid Sovereign
+    type: Plant
+    source: Monster Manual
+    key: :myconid_sovereign
+    xp_value: 450
+  :myconid_sprout: !ruby/object:Monster
+    challenge: 0
+    name: Myconid Sprout
+    type: Plant
+    source: Monster Manual
+    key: :myconid_sprout
+    xp_value: 10
+  :naergoth_bladelord: !ruby/object:Monster
+    challenge: 11
+    name: Naergoth Bladelord
+    type: Undead
+    source: Rise of Tiamat
+    key: :naergoth_bladelord
+    xp_value: 7200
+  :nalfeshnee: !ruby/object:Monster
+    challenge: 13
+    name: Nalfeshnee
+    type: Fiend
+    source: Basic Rules
+    key: :nalfeshnee
+    xp_value: 10000
+  :narrak: !ruby/object:Monster
+    challenge: 2
+    name: Narrak
+    type: Humanoid
+    source: Out of the Abyss
+    key: :narrak
+    xp_value: 450
+  :narth_tezrin: !ruby/object:Monster
+    challenge: 0
+    name: Narth Tezrin
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :narth_tezrin
+    xp_value: 10
+  :naxene_drathkala: !ruby/object:Monster
+    challenge: 0
+    name: Naxene Drathkala
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :naxene_drathkala
+    xp_value: 10
+  :necromancer: !ruby/object:Monster
+    challenge: 9
+    name: Necromancer
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :necromancer
+    xp_value: 5000
+  :needle_blight: !ruby/object:Monster
+    challenge: 0.25
+    name: Needle Blight
+    type: Plant
+    source: Monster Manual
+    key: :needle_blight
+    xp_value: 50
+  :neogi: !ruby/object:Monster
+    challenge: 3
+    name: Neogi
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :neogi
+    xp_value: 700
+  :neogi_hatchling: !ruby/object:Monster
+    challenge: 0.125
+    name: Neogi Hatchling
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :neogi_hatchling
+    xp_value: 25
+  :neogi_master: !ruby/object:Monster
+    challenge: 4
+    name: Neogi Master
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :neogi_master
+    xp_value: 1100
+  :neothelid: !ruby/object:Monster
+    challenge: 13
+    name: Neothelid
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :neothelid
+    xp_value: 10000
+  :nereid: !ruby/object:Monster
+    challenge: 2
+    name: Nereid
+    type: Fey
+    source: The Hidden Shrine of Tamoachan
+    key: :nereid
+    xp_value: 450
+  :neronvain: !ruby/object:Monster
+    challenge: 9
+    name: Neronvain
+    type: Humanoid
+    source: Rise of Tiamat
+    key: :neronvain
+    xp_value: 5000
+  :nezznar_the_black_spider: !ruby/object:Monster
+    challenge: 2
+    name: Nezznar the Black Spider
+    type: Humanoid
+    source: Lost Mine of Phandelver
+    key: :nezznar_the_black_spider
+    xp_value: 450
+  :night_hag: !ruby/object:Monster
+    challenge: 5
+    name: Night Hag
+    type: Fiend
+    source: Basic Rules
+    key: :night_hag
+    xp_value: 1800
+  :nightmare: !ruby/object:Monster
+    challenge: 3
+    name: Nightmare
+    type: Fiend
+    source: Basic Rules
+    key: :nightmare
+    xp_value: 700
+  :nilbog: !ruby/object:Monster
+    challenge: 1
+    name: Nilbog
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :nilbog
+    xp_value: 200
+  :nimir: !ruby/object:Monster
+    challenge: 13
+    name: Nimir
+    type: Giant
+    source: Storm King's Thunder
+    key: :nimir
+    xp_value: 10000
+  :noble: !ruby/object:Monster
+    challenge: 0.125
+    name: Noble
+    type: Humanoid
+    source: Basic Rules
+    key: :noble
+    xp_value: 25
+  :nothic: !ruby/object:Monster
+    challenge: 2
+    name: Nothic
+    type: Aberration
+    source: Basic Rules
+    key: :nothic
+    xp_value: 450
+  :nycaloth: !ruby/object:Monster
+    challenge: 9
+    name: Nycaloth
+    type: Fiend
+    source: Monster Manual
+    key: :nycaloth
+    xp_value: 5000
+  :ochre_jelly: !ruby/object:Monster
+    challenge: 2
+    name: Ochre Jelly
+    type: Ooze
+    source: Basic Rules
+    key: :ochre_jelly
+    xp_value: 450
+  :octopus: !ruby/object:Monster
+    challenge: 0
+    name: Octopus
+    type: Beast
+    source: Basic Rules
+    key: :octopus
+    xp_value: 10
+  :ogre: !ruby/object:Monster
+    challenge: 2
+    name: Ogre
+    type: Giant
+    source: Basic Rules
+    key: :ogre
+    xp_value: 450
+  :ogre_zombie: !ruby/object:Monster
+    challenge: 2
+    name: Ogre Zombie
+    type: Undead
+    source: Basic Rules
+    key: :ogre_zombie
+    xp_value: 450
+  :ogrémoch: !ruby/object:Monster
+    challenge: 20
+    name: Ogrémoch
+    type: Elemental
+    source: Princes of the Apocalypse
+    key: :ogrémoch
+    xp_value: 25000
+  :olhydra: !ruby/object:Monster
+    challenge: 18
+    name: Olhydra
+    type: Elemental
+    source: Princes of the Apocalypse
+    key: :olhydra
+    xp_value: 20000
+  :one_eyed_shiver: !ruby/object:Monster
+    challenge: 3
+    name: One-Eyed Shiver
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :one_eyed_shiver
+    xp_value: 700
+  :oni: !ruby/object:Monster
+    challenge: 7
+    name: Oni
+    type: Giant
+    source: Basic Rules
+    key: :oni
+    xp_value: 2900
+  :ooze_master: !ruby/object:Monster
+    challenge: 10
+    name: Ooze Master
+    type: Undead
+    source: Dead in Thay
+    key: :ooze_master
+    xp_value: 5900
+  :orc: !ruby/object:Monster
+    challenge: 0.5
+    name: Orc
+    type: Humanoid
+    source: Basic Rules
+    key: :orc
+    xp_value: 100
+  :orc_blade_of_ilneval: !ruby/object:Monster
+    challenge: 4
+    name: Orc Blade of Ilneval
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :orc_blade_of_ilneval
+    xp_value: 1100
+  :orc_claw_of_luthic: !ruby/object:Monster
+    challenge: 2
+    name: Orc Claw of Luthic
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :orc_claw_of_luthic
+    xp_value: 450
+  :orc_eye_of_gruumsh: !ruby/object:Monster
+    challenge: 2
+    name: Orc Eye of Gruumsh
+    type: Humanoid
+    source: Monster Manual
+    key: :orc_eye_of_gruumsh
+    xp_value: 450
+  :orc_hand_of_yurtrus: !ruby/object:Monster
+    challenge: 2
+    name: Orc Hand of Yurtrus
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :orc_hand_of_yurtrus
+    xp_value: 450
+  :orc_nurtured_one_of_yurtrus: !ruby/object:Monster
+    challenge: 0.5
+    name: Orc Nurtured One of Yurtrus
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :orc_nurtured_one_of_yurtrus
+    xp_value: 100
+  :orc_red_fang_of_shargaas: !ruby/object:Monster
+    challenge: 3
+    name: Orc Red Fang of Shargaas
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :orc_red_fang_of_shargaas
+    xp_value: 700
+  :orc_war_chief: !ruby/object:Monster
+    challenge: 4
+    name: Orc War Chief
+    type: Humanoid
+    source: Monster Manual
+    key: :orc_war_chief
+    xp_value: 1100
+  :orcus: !ruby/object:Monster
+    challenge: 26
+    name: Orcus
+    type: Fiend
+    source: Out of the Abyss
+    key: :orcus
+    xp_value: 90000
+  :oreioth: !ruby/object:Monster
+    challenge: 2
+    name: Oreioth
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :oreioth
+    xp_value: 450
+  :oren_yogilvy: !ruby/object:Monster
+    challenge: 0
+    name: Oren Yogilvy
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :oren_yogilvy
+    xp_value: 10
+  :orlekto: !ruby/object:Monster
+    challenge: 13
+    name: Orlekto
+    type: Giant
+    source: Storm King's Thunder
+    key: :orlekto
+    xp_value: 10000
+  :orog: !ruby/object:Monster
+    challenge: 2
+    name: Orog
+    type: Humanoid
+    source: Monster Manual
+    key: :orog
+    xp_value: 450
+  :othovir: !ruby/object:Monster
+    challenge: 0
+    name: Othovir
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :othovir
+    xp_value: 10
+  :otyugh: !ruby/object:Monster
+    challenge: 5
+    name: Otyugh
+    type: Aberration
+    source: Basic Rules
+    key: :otyugh
+    xp_value: 1800
+  :owl: !ruby/object:Monster
+    challenge: 0
+    name: Owl
+    type: Beast
+    source: Basic Rules
+    key: :owl
+    xp_value: 10
+  :owlbear: !ruby/object:Monster
+    challenge: 3
+    name: Owlbear
+    type: Monstrosity
+    source: Basic Rules
+    key: :owlbear
+    xp_value: 700
+  :ox: !ruby/object:Monster
+    challenge: 0.25
+    name: Ox
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :ox
+    xp_value: 50
+  :panther: !ruby/object:Monster
+    challenge: 0.25
+    name: Panther
+    type: Beast
+    source: Basic Rules
+    key: :panther
+    xp_value: 50
+  :pegasus: !ruby/object:Monster
+    challenge: 2
+    name: Pegasus
+    type: Celestial
+    source: Basic Rules
+    key: :pegasus
+    xp_value: 450
+  :pentadrone: !ruby/object:Monster
+    challenge: 2
+    name: Pentadrone
+    type: Construct
+    source: Monster Manual
+    key: :pentadrone
+    xp_value: 450
+  :peryton: !ruby/object:Monster
+    challenge: 2
+    name: Peryton
+    type: Monstrosity
+    source: Monster Manual
+    key: :peryton
+    xp_value: 450
+  :phantom_warrior: !ruby/object:Monster
+    challenge: 3
+    name: Phantom Warrior
+    type: Undead
+    source: Curse of Strahd
+    key: :phantom_warrior
+    xp_value: 700
+  :pharblex_spattergoo: !ruby/object:Monster
+    challenge: 3
+    name: Pharblex Spattergoo
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :pharblex_spattergoo
+    xp_value: 700
+  :phase_spider: !ruby/object:Monster
+    challenge: 3
+    name: Phase Spider
+    type: Monstrosity
+    source: Basic Rules
+    key: :phase_spider
+    xp_value: 700
+  :pidlwick_ii: !ruby/object:Monster
+    challenge: 0.25
+    name: Pidlwick II
+    type: Construct
+    source: Curse of Strahd
+    key: :pidlwick_ii
+    xp_value: 50
+  :piercer: !ruby/object:Monster
+    challenge: 0.5
+    name: Piercer
+    type: Monstrosity
+    source: Monster Manual
+    key: :piercer
+    xp_value: 100
+  :pit_fiend: !ruby/object:Monster
+    challenge: 20
+    name: Pit Fiend
+    type: Fiend
+    source: Basic Rules
+    key: :pit_fiend
+    xp_value: 25000
+  :pixie: !ruby/object:Monster
+    challenge: 0.25
+    name: Pixie
+    type: Fey
+    source: Monster Manual
+    key: :pixie
+    xp_value: 50
+  :planetar: !ruby/object:Monster
+    challenge: 16
+    name: Planetar
+    type: Celestial
+    source: Basic Rules
+    key: :planetar
+    xp_value: 15000
+  :plesiosaurus: !ruby/object:Monster
+    challenge: 2
+    name: Plesiosaurus
+    type: Beast
+    source: Basic Rules
+    key: :plesiosaurus
+    xp_value: 450
+  :poisonous_snake: !ruby/object:Monster
+    challenge: 0.125
+    name: Poisonous Snake
+    type: Beast
+    source: Basic Rules
+    key: :poisonous_snake
+    xp_value: 25
+  :polar_bear: !ruby/object:Monster
+    challenge: 2
+    name: Polar Bear
+    type: Beast
+    source: Basic Rules
+    key: :polar_bear
+    xp_value: 450
+  :poltergeist: !ruby/object:Monster
+    challenge: 2
+    name: Poltergeist
+    type: Undead
+    source: Monster Manual
+    key: :poltergeist
+    xp_value: 450
+  :pony: !ruby/object:Monster
+    challenge: 0.125
+    name: Pony
+    type: Beast
+    source: Basic Rules
+    key: :pony
+    xp_value: 25
+  :priest: !ruby/object:Monster
+    challenge: 2
+    name: Priest
+    type: Humanoid
+    source: Basic Rules
+    key: :priest
+    xp_value: 450
+  :pseudodragon: !ruby/object:Monster
+    challenge: 0.25
+    name: Pseudodragon
+    type: Dragon
+    source: Basic Rules
+    key: :pseudodragon
+    xp_value: 50
+  :psychic_gray_ooze: !ruby/object:Monster
+    challenge: 0.5
+    name: Psychic Gray Ooze
+    type: Ooze
+    source: Monster Manual
+    key: :psychic_gray_ooze
+    xp_value: 100
+  :pterafolk: !ruby/object:Monster
+    challenge: 1
+    name: Pterafolk
+    type: Monstrosity
+    source: Tomb of Annihilation
+    key: :pterafolk
+    xp_value: 200
+  :pteranodon: !ruby/object:Monster
+    challenge: 0.25
+    name: Pteranodon
+    type: Beast
+    source: Basic Rules
+    key: :pteranodon
+    xp_value: 50
+  :pudding_king: !ruby/object:Monster
+    challenge: 4
+    name: Pudding King
+    type: Humanoid
+    source: Out of the Abyss
+    key: :pudding_king
+    xp_value: 1100
+  :purple_worm: !ruby/object:Monster
+    challenge: 15
+    name: Purple Worm
+    type: Monstrosity
+    source: Basic Rules
+    key: :purple_worm
+    xp_value: 13000
+  :purple_wormling: !ruby/object:Monster
+    challenge: 2
+    name: Purple Wormling
+    type: Monstrosity
+    source: Storm King's Thunder
+    key: :purple_wormling
+    xp_value: 450
+  :quadrone: !ruby/object:Monster
+    challenge: 1
+    name: Quadrone
+    type: Construct
+    source: Monster Manual
+    key: :quadrone
+    xp_value: 200
+  :quaggoth: !ruby/object:Monster
+    challenge: 2
+    name: Quaggoth
+    type: Humanoid
+    source: Monster Manual
+    key: :quaggoth
+    xp_value: 450
+  :quaggoth_spore_servant: !ruby/object:Monster
+    challenge: 1
+    name: Quaggoth Spore Servant
+    type: Plant
+    source: Monster Manual
+    key: :quaggoth_spore_servant
+    xp_value: 200
+  :quaggoth_thonot: !ruby/object:Monster
+    challenge: 3
+    name: Quaggoth Thonot
+    type: Humanoid
+    source: Monster Manual
+    key: :quaggoth_thonot
+    xp_value: 700
+  :quasit: !ruby/object:Monster
+    challenge: 1
+    name: Quasit
+    type: Fiend
+    source: Basic Rules
+    key: :quasit
+    xp_value: 200
+  :quetzalcoatlus: !ruby/object:Monster
+    challenge: 2
+    name: Quetzalcoatlus
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :quetzalcoatlus
+    xp_value: 450
+  :quickling: !ruby/object:Monster
+    challenge: 1
+    name: Quickling
+    type: Fey
+    source: Volo's Guide to Monsters
+    key: :quickling
+    xp_value: 200
+  :quipper: !ruby/object:Monster
+    challenge: 0
+    name: Quipper
+    type: Beast
+    source: Basic Rules
+    key: :quipper
+    xp_value: 10
+  :rahadin: !ruby/object:Monster
+    challenge: 10
+    name: Rahadin
+    type: Humanoid
+    source: Curse of Strahd
+    key: :rahadin
+    xp_value: 5900
+  :rakshasa: !ruby/object:Monster
+    challenge: 13
+    name: Rakshasa
+    type: Fiend
+    source: Basic Rules
+    key: :rakshasa
+    xp_value: 10000
+  :ras_nsi: !ruby/object:Monster
+    challenge: 7
+    name: Ras Nsi
+    type: Monstrosity
+    source: Tomb of Annihilation
+    key: :ras_nsi
+    xp_value: 2900
+  :rat: !ruby/object:Monster
+    challenge: 0
+    name: Rat
+    type: Beast
+    source: Basic Rules
+    key: :rat
+    xp_value: 10
+  :rath_modar: !ruby/object:Monster
+    challenge: 6
+    name: Rath Modar
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :rath_modar
+    xp_value: 2300
+  :raven: !ruby/object:Monster
+    challenge: 0
+    name: Raven
+    type: Beast
+    source: Basic Rules
+    key: :raven
+    xp_value: 10
+  :razerblast: !ruby/object:Monster
+    challenge: 5
+    name: Razerblast
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :razerblast
+    xp_value: 1800
+  :red_dragon_wyrmling: !ruby/object:Monster
+    challenge: 4
+    name: Red Dragon Wyrmling
+    type: Dragon
+    source: Basic Rules
+    key: :red_dragon_wyrmling
+    xp_value: 1100
+  :red_guard_drake: !ruby/object:Monster
+    challenge: 2
+    name: Red Guard Drake
+    type: Dragon
+    source: Volo's Guide to Monsters
+    key: :red_guard_drake
+    xp_value: 450
+  :red_slaad: !ruby/object:Monster
+    challenge: 5
+    name: Red Slaad
+    type: Aberration
+    source: Monster Manual
+    key: :red_slaad
+    xp_value: 1800
+  :redbrand_ruffian: !ruby/object:Monster
+    challenge: 0.5
+    name: Redbrand Ruffian
+    type: Humanoid
+    source: Lost Mine of Phandelver
+    key: :redbrand_ruffian
+    xp_value: 100
+  :redcap: !ruby/object:Monster
+    challenge: 3
+    name: Redcap
+    type: Fey
+    source: Volo's Guide to Monsters
+    key: :redcap
+    xp_value: 700
+  :reef_shark: !ruby/object:Monster
+    challenge: 0.5
+    name: Reef Shark
+    type: Beast
+    source: Basic Rules
+    key: :reef_shark
+    xp_value: 100
+  :remorhaz: !ruby/object:Monster
+    challenge: 11
+    name: Remorhaz
+    type: Monstrosity
+    source: Basic Rules
+    key: :remorhaz
+    xp_value: 7200
+  :revenant: !ruby/object:Monster
+    challenge: 5
+    name: Revenant
+    type: Undead
+    source: Monster Manual
+    key: :revenant
+    xp_value: 1800
+  :rezmir: !ruby/object:Monster
+    challenge: 7
+    name: Rezmir
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :rezmir
+    xp_value: 2900
+  :rhinoceros: !ruby/object:Monster
+    challenge: 2
+    name: Rhinoceros
+    type: Beast
+    source: Basic Rules
+    key: :rhinoceros
+    xp_value: 450
+  :rictavio: !ruby/object:Monster
+    challenge: 5
+    name: Rictavio
+    type: Humanoid
+    source: Curse of Strahd
+    key: :rictavio
+    xp_value: 1800
+  :riding_horse: !ruby/object:Monster
+    challenge: 0.25
+    name: Riding Horse
+    type: Beast
+    source: Basic Rules
+    key: :riding_horse
+    xp_value: 50
+  :roc: !ruby/object:Monster
+    challenge: 11
+    name: Roc
+    type: Monstrosity
+    source: Basic Rules
+    key: :roc
+    xp_value: 7200
+  :roper: !ruby/object:Monster
+    challenge: 5
+    name: Roper
+    type: Monstrosity
+    source: Basic Rules
+    key: :roper
+    xp_value: 1800
+  :rothé: !ruby/object:Monster
+    challenge: 0.25
+    name: Rothé
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :rothé
+    xp_value: 50
+  :rug_of_smothering: !ruby/object:Monster
+    challenge: 2
+    name: Rug of Smothering
+    type: Construct
+    source: Basic Rules
+    key: :rug_of_smothering
+    xp_value: 450
+  :rust_monster: !ruby/object:Monster
+    challenge: 0.5
+    name: Rust Monster
+    type: Monstrosity
+    source: Basic Rules
+    key: :rust_monster
+    xp_value: 100
+  :saber_toothed_tiger: !ruby/object:Monster
+    challenge: 2
+    name: Saber-Toothed Tiger
+    type: Beast
+    source: Basic Rules
+    key: :saber_toothed_tiger
+    xp_value: 450
+  :sacred_stone_monk: !ruby/object:Monster
+    challenge: 0.5
+    name: Sacred Stone Monk
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :sacred_stone_monk
+    xp_value: 100
+  :sahuagin: !ruby/object:Monster
+    challenge: 0.5
+    name: Sahuagin
+    type: Humanoid
+    source: Basic Rules
+    key: :sahuagin
+    xp_value: 100
+  :sahuagin_baron: !ruby/object:Monster
+    challenge: 5
+    name: Sahuagin Baron
+    type: Humanoid
+    source: Monster Manual
+    key: :sahuagin_baron
+    xp_value: 1800
+  :sahuagin_priestess: !ruby/object:Monster
+    challenge: 2
+    name: Sahuagin Priestess
+    type: Humanoid
+    source: Monster Manual
+    key: :sahuagin_priestess
+    xp_value: 450
+  :salamander: !ruby/object:Monster
+    challenge: 5
+    name: Salamander
+    type: Elemental
+    source: Basic Rules
+    key: :salamander
+    xp_value: 1800
+  :satyr: !ruby/object:Monster
+    challenge: 0.5
+    name: Satyr
+    type: Fey
+    source: Basic Rules
+    key: :satyr
+    xp_value: 100
+  :scarecrow: !ruby/object:Monster
+    challenge: 1
+    name: Scarecrow
+    type: Construct
+    source: Monster Manual
+    key: :scarecrow
+    xp_value: 200
+  :scorpion: !ruby/object:Monster
+    challenge: 0
+    name: Scorpion
+    type: Beast
+    source: Basic Rules
+    key: :scorpion
+    xp_value: 10
+  :scout: !ruby/object:Monster
+    challenge: 0.5
+    name: Scout
+    type: Humanoid
+    source: Basic Rules
+    key: :scout
+    xp_value: 100
+  :scrag: !ruby/object:Monster
+    challenge: 5
+    name: Scrag
+    type: Giant
+    source: Rise of Tiamat
+    key: :scrag
+    xp_value: 1800
+  :sea_hag: !ruby/object:Monster
+    challenge: 2
+    name: Sea Hag
+    type: Fey
+    source: Basic Rules
+    key: :sea_hag
+    xp_value: 450
+  :sea_horse: !ruby/object:Monster
+    challenge: 0
+    name: Sea Horse
+    type: Beast
+    source: Basic Rules
+    key: :sea_horse
+    xp_value: 10
+  :sea_lion: !ruby/object:Monster
+    challenge: 5
+    name: Sea Lion
+    type: Monstrosity
+    source: White Plume Mountain
+    key: :sea_lion
+    xp_value: 1800
+  :sea_spawn: !ruby/object:Monster
+    challenge: 1
+    name: Sea Spawn
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :sea_spawn
+    xp_value: 200
+  :severin: !ruby/object:Monster
+    challenge: 11
+    name: Severin
+    type: Humanoid
+    source: Rise of Tiamat
+    key: :severin
+    xp_value: 7200
+  :shadow: !ruby/object:Monster
+    challenge: 0.5
+    name: Shadow
+    type: Undead
+    source: Basic Rules
+    key: :shadow
+    xp_value: 100
+  :shadow_demon: !ruby/object:Monster
+    challenge: 4
+    name: Shadow Demon
+    type: Fiend
+    source: Monster Manual
+    key: :shadow_demon
+    xp_value: 1100
+  :shadow_mastiff: !ruby/object:Monster
+    challenge: 2
+    name: Shadow Mastiff
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :shadow_mastiff
+    xp_value: 450
+  :shadow_mastiff_alpha: !ruby/object:Monster
+    challenge: 2
+    name: Shadow Mastiff Alpha
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :shadow_mastiff_alpha
+    xp_value: 450
+  :shaldoor: !ruby/object:Monster
+    challenge: 13
+    name: Shaldoor
+    type: Giant
+    source: Storm King's Thunder
+    key: :shaldoor
+    xp_value: 10000
+  :shalvus_martholio: !ruby/object:Monster
+    challenge: 0
+    name: Shalvus Martholio
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :shalvus_martholio
+    xp_value: 10
+  :shambling_mound: !ruby/object:Monster
+    challenge: 5
+    name: Shambling Mound
+    type: Plant
+    source: Basic Rules
+    key: :shambling_mound
+    xp_value: 1800
+  :sharwyn_hucrele: !ruby/object:Monster
+    challenge: 0.5
+    name: Sharwyn Hucrele
+    type: Humanoid
+    source: The Sunless Citadel
+    key: :sharwyn_hucrele
+    xp_value: 100
+  :shield_guardian: !ruby/object:Monster
+    challenge: 7
+    name: Shield Guardian
+    type: Construct
+    source: Basic Rules
+    key: :shield_guardian
+    xp_value: 2900
+  :shoalar_quanderil: !ruby/object:Monster
+    challenge: 4
+    name: Shoalar Quanderil
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :shoalar_quanderil
+    xp_value: 1100
+  :shoosuva: !ruby/object:Monster
+    challenge: 8
+    name: Shoosuva
+    type: Fiend
+    source: Volo's Guide to Monsters
+    key: :shoosuva
+    xp_value: 3900
+  :shrieker: !ruby/object:Monster
+    challenge: 0
+    name: Shrieker
+    type: Plant
+    source: Basic Rules
+    key: :shrieker
+    xp_value: 10
+  :sildar_hallwinter: !ruby/object:Monster
+    challenge: 1
+    name: Sildar Hallwinter
+    type: Humanoid
+    source: Lost Mine of Phandelver
+    key: :sildar_hallwinter
+    xp_value: 200
+  :silver_dragon_wyrmling: !ruby/object:Monster
+    challenge: 2
+    name: Silver Dragon Wyrmling
+    type: Dragon
+    source: Basic Rules
+    key: :silver_dragon_wyrmling
+    xp_value: 450
+  :sir_baric_nylef: !ruby/object:Monster
+    challenge: 0
+    name: Sir Baric Nylef
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :sir_baric_nylef
+    xp_value: 10
+  :sir_braford: !ruby/object:Monster
+    challenge: 0.5
+    name: Sir Braford
+    type: Humanoid
+    source: The Sunless Citadel
+    key: :sir_braford
+    xp_value: 100
+  :sirac_of_suzail: !ruby/object:Monster
+    challenge: 0
+    name: Sirac of Suzail
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :sirac_of_suzail
+    xp_value: 10
+  :siren: !ruby/object:Monster
+    challenge: 3
+    name: Siren
+    type: Fey
+    source: Tomb of Horrors
+    key: :siren
+    xp_value: 700
+  :skeleton: !ruby/object:Monster
+    challenge: 0.25
+    name: Skeleton
+    type: Undead
+    source: Basic Rules
+    key: :skeleton
+    xp_value: 50
+  :skyweaver: !ruby/object:Monster
+    challenge: 3
+    name: Skyweaver
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :skyweaver
+    xp_value: 700
+  :slaad_tadpole: !ruby/object:Monster
+    challenge: 0.125
+    name: Slaad Tadpole
+    type: Aberration
+    source: Monster Manual
+    key: :slaad_tadpole
+    xp_value: 25
+  :slithering_tracker: !ruby/object:Monster
+    challenge: 3
+    name: Slithering Tracker
+    type: Ooze
+    source: Volo's Guide to Monsters
+    key: :slithering_tracker
+    xp_value: 700
+  :smoke_mephit: !ruby/object:Monster
+    challenge: 0.25
+    name: Smoke Mephit
+    type: Elemental
+    source: Monster Manual
+    key: :smoke_mephit
+    xp_value: 50
+  :solar: !ruby/object:Monster
+    challenge: 21
+    name: Solar
+    type: Celestial
+    source: Basic Rules
+    key: :solar
+    xp_value: 33000
+  :spawn_of_kyuss: !ruby/object:Monster
+    challenge: 5
+    name: Spawn of Kyuss
+    type: Undead
+    source: Volo's Guide to Monsters
+    key: :spawn_of_kyuss
+    xp_value: 1800
+  :spectator: !ruby/object:Monster
+    challenge: 3
+    name: Spectator
+    type: Aberration
+    source: Basic Rules
+    key: :spectator
+    xp_value: 700
+  :specter: !ruby/object:Monster
+    challenge: 1
+    name: Specter
+    type: Undead
+    source: Basic Rules
+    key: :specter
+    xp_value: 200
+  :spider: !ruby/object:Monster
+    challenge: 0
+    name: Spider
+    type: Beast
+    source: Basic Rules
+    key: :spider
+    xp_value: 10
+  :spined_devil: !ruby/object:Monster
+    challenge: 2
+    name: Spined Devil
+    type: Fiend
+    source: Monster Manual
+    key: :spined_devil
+    xp_value: 450
+  :spirit_naga: !ruby/object:Monster
+    challenge: 8
+    name: Spirit Naga
+    type: Monstrosity
+    source: Basic Rules
+    key: :spirit_naga
+    xp_value: 3900
+  :sprite: !ruby/object:Monster
+    challenge: 0.25
+    name: Sprite
+    type: Fey
+    source: Basic Rules
+    key: :sprite
+    xp_value: 50
+  :spy: !ruby/object:Monster
+    challenge: 1
+    name: Spy
+    type: Humanoid
+    source: Basic Rules
+    key: :spy
+    xp_value: 200
+  :steam_mephit: !ruby/object:Monster
+    challenge: 0.25
+    name: Steam Mephit
+    type: Elemental
+    source: Basic Rules
+    key: :steam_mephit
+    xp_value: 50
+  :stegosaurus: !ruby/object:Monster
+    challenge: 4
+    name: Stegosaurus
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :stegosaurus
+    xp_value: 1100
+  :stench_kow: !ruby/object:Monster
+    challenge: 0.25
+    name: Stench Kow
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :stench_kow
+    xp_value: 50
+  :stirge: !ruby/object:Monster
+    challenge: 0.125
+    name: Stirge
+    type: Beast
+    source: Basic Rules
+    key: :stirge
+    xp_value: 25
+  :stone_giant: !ruby/object:Monster
+    challenge: 7
+    name: Stone Giant
+    type: Giant
+    source: Basic Rules
+    key: :stone_giant
+    xp_value: 2900
+  :stone_giant_dreamwalker: !ruby/object:Monster
+    challenge: 10
+    name: Stone Giant Dreamwalker
+    type: Giant
+    source: Volo's Guide to Monsters
+    key: :stone_giant_dreamwalker
+    xp_value: 5900
+  :stone_golem: !ruby/object:Monster
+    challenge: 10
+    name: Stone Golem
+    type: Construct
+    source: Basic Rules
+    key: :stone_golem
+    xp_value: 5900
+  :stone_juggernaut: !ruby/object:Monster
+    challenge: 12
+    name: Stone Juggernaut
+    type: Construct
+    source: Tomb of Annihilation
+    key: :stone_juggernaut
+    xp_value: 8400
+  :stonemelder: !ruby/object:Monster
+    challenge: 4
+    name: Stonemelder
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :stonemelder
+    xp_value: 1100
+  :storm_giant: !ruby/object:Monster
+    challenge: 13
+    name: Storm Giant
+    type: Giant
+    source: Basic Rules
+    key: :storm_giant
+    xp_value: 10000
+  :storm_giant_quintessent: !ruby/object:Monster
+    challenge: 16
+    name: Storm Giant Quintessent
+    type: Giant
+    source: Volo's Guide to Monsters
+    key: :storm_giant_quintessent
+    xp_value: 15000
+  :strahd_von_zarovich: !ruby/object:Monster
+    challenge: 15
+    name: Strahd von Zarovich
+    type: Undead
+    source: Curse of Strahd
+    key: :strahd_von_zarovich
+    xp_value: 13000
+  :strahd_zombie: !ruby/object:Monster
+    challenge: 1
+    name: Strahd Zombie
+    type: Undead
+    source: Curse of Strahd
+    key: :strahd_zombie
+    xp_value: 200
+  :strahd’s_animated_armor: !ruby/object:Monster
+    challenge: 6
+    name: Strahd’s Animated Armor
+    type: Construct
+    source: Curse of Strahd
+    key: :strahd’s_animated_armor
+    xp_value: 2300
+  :succubus/incubus: !ruby/object:Monster
+    challenge: 4
+    name: Succubus/Incubus
+    type: Fiend
+    source: Basic Rules
+    key: :succubus/incubus
+    xp_value: 1100
+  :su_monster: !ruby/object:Monster
+    challenge: 1
+    name: Su-monster
+    type: Monstrosity
+    source: Tomb of Annihilation
+    key: :su_monster
+    xp_value: 200
+  :swarm_of_bats: !ruby/object:Monster
+    challenge: 0.25
+    name: Swarm of Bats
+    type: Beast
+    source: Basic Rules
+    key: :swarm_of_bats
+    xp_value: 50
+  :swarm_of_cranium_rats: !ruby/object:Monster
+    challenge: 5
+    name: Swarm of Cranium Rats
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :swarm_of_cranium_rats
+    xp_value: 1800
+  :swarm_of_insects: !ruby/object:Monster
+    challenge: 0.5
+    name: Swarm of Insects
+    type: Beast
+    source: Basic Rules
+    key: :swarm_of_insects
+    xp_value: 100
+  :swarm_of_poisonous_snakes: !ruby/object:Monster
+    challenge: 2
+    name: Swarm of Poisonous Snakes
+    type: Beast
+    source: Basic Rules
+    key: :swarm_of_poisonous_snakes
+    xp_value: 450
+  :swarm_of_quippers: !ruby/object:Monster
+    challenge: 1
+    name: Swarm of Quippers
+    type: Beast
+    source: Basic Rules
+    key: :swarm_of_quippers
+    xp_value: 200
+  :swarm_of_rats: !ruby/object:Monster
+    challenge: 0.25
+    name: Swarm of Rats
+    type: Beast
+    source: Basic Rules
+    key: :swarm_of_rats
+    xp_value: 50
+  :swarm_of_ravens: !ruby/object:Monster
+    challenge: 0.25
+    name: Swarm of Ravens
+    type: Beast
+    source: Basic Rules
+    key: :swarm_of_ravens
+    xp_value: 50
+  :swarm_of_rot_grubs: !ruby/object:Monster
+    challenge: 0.5
+    name: Swarm of Rot Grubs
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :swarm_of_rot_grubs
+    xp_value: 100
+  :swashbuckler: !ruby/object:Monster
+    challenge: 3
+    name: Swashbuckler
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :swashbuckler
+    xp_value: 700
+  :tabaxi_hunter: !ruby/object:Monster
+    challenge: 1
+    name: Tabaxi Hunter
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :tabaxi_hunter
+    xp_value: 200
+  :tabaxi_minstrel: !ruby/object:Monster
+    challenge: 0.25
+    name: Tabaxi Minstrel
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :tabaxi_minstrel
+    xp_value: 50
+  :talis_the_white: !ruby/object:Monster
+    challenge: 5
+    name: Talis the White
+    type: Humanoid
+    source: Hoard of the Dragon Queen
+    key: :talis_the_white
+    xp_value: 1800
+  :tanarukk: !ruby/object:Monster
+    challenge: 5
+    name: Tanarukk
+    type: Fiend
+    source: Volo's Guide to Monsters
+    key: :tanarukk
+    xp_value: 1800
+  :tarrasque: !ruby/object:Monster
+    challenge: 30
+    name: Tarrasque
+    type: Monstrosity
+    source: Basic Rules
+    key: :tarrasque
+    xp_value: 155000
+  :tarul_var: !ruby/object:Monster
+    challenge: 13
+    name: Tarul Var
+    type: Undead
+    source: Dead in Thay
+    key: :tarul_var
+    xp_value: 10000
+  :tecuziztecatl: !ruby/object:Monster
+    challenge: 4
+    name: Tecuziztecatl
+    type: Monstrosity
+    source: The Hidden Shrine of Tamoachan
+    key: :tecuziztecatl
+    xp_value: 1100
+  :thayan_apprentice: !ruby/object:Monster
+    challenge: 2
+    name: Thayan Apprentice
+    type: Humanoid
+    source: Dead in Thay
+    key: :thayan_apprentice
+    xp_value: 450
+  :thayan_warrior: !ruby/object:Monster
+    challenge: 2
+    name: Thayan Warrior
+    type: Humanoid
+    source: Dead in Thay
+    key: :thayan_warrior
+    xp_value: 450
+  :the_abbot: !ruby/object:Monster
+    challenge: 10
+    name: The Abbot
+    type: Celestial
+    source: Curse of Strahd
+    key: :the_abbot
+    xp_value: 5900
+  :thorn_slinger: !ruby/object:Monster
+    challenge: 0.5
+    name: Thorn Slinger
+    type: Plant
+    source: The Hidden Shrine of Tamoachan
+    key: :thorn_slinger
+    xp_value: 100
+  :thorny: !ruby/object:Monster
+    challenge: 1
+    name: Thorny
+    type: Plant
+    source: Volo's Guide to Monsters
+    key: :thorny
+    xp_value: 200
+  :thri_kreen: !ruby/object:Monster
+    challenge: 1
+    name: Thri-kreen
+    type: Humanoid
+    source: Monster Manual
+    key: :thri_kreen
+    xp_value: 200
+  :thug: !ruby/object:Monster
+    challenge: 0.5
+    name: Thug
+    type: Humanoid
+    source: Basic Rules
+    key: :thug
+    xp_value: 100
+  :thurl_merosska: !ruby/object:Monster
+    challenge: 3
+    name: Thurl Merosska
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :thurl_merosska
+    xp_value: 700
+  :tiamat: !ruby/object:Monster
+    challenge: 30
+    name: Tiamat
+    type: Fiend
+    source: Rise of Tiamat
+    key: :tiamat
+    xp_value: 155000
+  :tiger: !ruby/object:Monster
+    challenge: 1
+    name: Tiger
+    type: Beast
+    source: Basic Rules
+    key: :tiger
+    xp_value: 200
+  :tiny_servant: !ruby/object:Monster
+    challenge: 0
+    name: Tiny Servant
+    type: Construct
+    source: Xanathar's Guide to Everything
+    key: :tiny_servant
+    xp_value: 10
+  :tlincalli: !ruby/object:Monster
+    challenge: 5
+    name: Tlincalli
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :tlincalli
+    xp_value: 1800
+  :topi: !ruby/object:Monster
+    challenge: 0.5
+    name: Topi
+    type: Undead
+    source: The Tortle Package
+    key: :topi
+    xp_value: 100
+  :tortle: !ruby/object:Monster
+    challenge: 0.25
+    name: Tortle
+    type: Humanoid
+    source: The Tortle Package
+    key: :tortle
+    xp_value: 50
+  :tortle_druid: !ruby/object:Monster
+    challenge: 2
+    name: Tortle Druid
+    type: Humanoid
+    source: The Tortle Package
+    key: :tortle_druid
+    xp_value: 450
+  :transmuter: !ruby/object:Monster
+    challenge: 5
+    name: Transmuter
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :transmuter
+    xp_value: 1800
+  :trapper: !ruby/object:Monster
+    challenge: 3
+    name: Trapper
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :trapper
+    xp_value: 700
+  :treant: !ruby/object:Monster
+    challenge: 9
+    name: Treant
+    type: Plant
+    source: Basic Rules
+    key: :treant
+    xp_value: 5000
+  :tree_blight: !ruby/object:Monster
+    challenge: 7
+    name: Tree Blight
+    type: Plant
+    source: Curse of Strahd
+    key: :tree_blight
+    xp_value: 2900
+  :tressym: !ruby/object:Monster
+    challenge: 0
+    name: Tressym
+    type: Beast
+    source: Storm King's Thunder
+    key: :tressym
+    xp_value: 10
+  :tribal_warrior: !ruby/object:Monster
+    challenge: 0.125
+    name: Tribal Warrior
+    type: Humanoid
+    source: Basic Rules
+    key: :tribal_warrior
+    xp_value: 25
+  :triceratops: !ruby/object:Monster
+    challenge: 5
+    name: Triceratops
+    type: Beast
+    source: Basic Rules
+    key: :triceratops
+    xp_value: 1800
+  :tridrone: !ruby/object:Monster
+    challenge: 0.5
+    name: Tridrone
+    type: Construct
+    source: Monster Manual
+    key: :tridrone
+    xp_value: 100
+  :tri_flower_frond: !ruby/object:Monster
+    challenge: 0.5
+    name: Tri-flower Frond
+    type: Plant
+    source: Tomb of Annihilation
+    key: :tri_flower_frond
+    xp_value: 100
+  :troglodyte: !ruby/object:Monster
+    challenge: 0.25
+    name: Troglodyte
+    type: Humanoid
+    source: Monster Manual
+    key: :troglodyte
+    xp_value: 50
+  :troglodyte_champion_of_laogzed: !ruby/object:Monster
+    challenge: 3
+    name: Troglodyte Champion of Laogzed
+    type: Humanoid
+    source: Out of the Abyss
+    key: :troglodyte_champion_of_laogzed
+    xp_value: 700
+  :troll: !ruby/object:Monster
+    challenge: 5
+    name: Troll
+    type: Giant
+    source: Basic Rules
+    key: :troll
+    xp_value: 1800
+  :twig_blight: !ruby/object:Monster
+    challenge: 0.125
+    name: Twig Blight
+    type: Plant
+    source: Basic Rules
+    key: :twig_blight
+    xp_value: 25
+  :tyrannosaurus_rex: !ruby/object:Monster
+    challenge: 8
+    name: Tyrannosaurus Rex
+    type: Beast
+    source: Basic Rules
+    key: :tyrannosaurus_rex
+    xp_value: 3900
+  :tyrannosaurus_zombie: !ruby/object:Monster
+    challenge: 8
+    name: Tyrannosaurus Zombie
+    type: Undead
+    source: Tomb of Annihilation
+    key: :tyrannosaurus_zombie
+    xp_value: 3900
+  :ulitharid: !ruby/object:Monster
+    challenge: 9
+    name: Ulitharid
+    type: Aberration
+    source: Volo's Guide to Monsters
+    key: :ulitharid
+    xp_value: 5000
+  :ultroloth: !ruby/object:Monster
+    challenge: 13
+    name: Ultroloth
+    type: Fiend
+    source: Monster Manual
+    key: :ultroloth
+    xp_value: 10000
+  :umber_hulk: !ruby/object:Monster
+    challenge: 5
+    name: Umber Hulk
+    type: Monstrosity
+    source: Monster Manual
+    key: :umber_hulk
+    xp_value: 1800
+  :unicorn: !ruby/object:Monster
+    challenge: 5
+    name: Unicorn
+    type: Celestial
+    source: Basic Rules
+    key: :unicorn
+    xp_value: 1800
+  :urgala_meltimer: !ruby/object:Monster
+    challenge: 0
+    name: Urgala Meltimer
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :urgala_meltimer
+    xp_value: 10
+  :uthgardt_shaman: !ruby/object:Monster
+    challenge: 2
+    name: Uthgardt Shaman
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :uthgardt_shaman
+    xp_value: 450
+  :vaasha: !ruby/object:Monster
+    challenge: 13
+    name: Vaasha
+    type: Giant
+    source: Storm King's Thunder
+    key: :vaasha
+    xp_value: 10000
+  :vampire: !ruby/object:Monster
+    challenge: 13
+    name: Vampire
+    type: Undead
+    source: Basic Rules
+    key: :vampire
+    xp_value: 10000
+  :vampire_spawn: !ruby/object:Monster
+    challenge: 5
+    name: Vampire Spawn
+    type: Undead
+    source: Basic Rules
+    key: :vampire_spawn
+    xp_value: 1800
+  :vampire_spellcaster: !ruby/object:Monster
+    challenge: 15
+    name: Vampire Spellcaster
+    type: Undead
+    source: Monster Manual
+    key: :vampire_spellcaster
+    xp_value: 13000
+  :vampire_warrior: !ruby/object:Monster
+    challenge: 15
+    name: Vampire Warrior
+    type: Undead
+    source: Monster Manual
+    key: :vampire_warrior
+    xp_value: 13000
+  :vampiric_ixitxachitl: !ruby/object:Monster
+    challenge: 2
+    name: Vampiric Ixitxachitl
+    type: Aberration
+    source: Out of the Abyss
+    key: :vampiric_ixitxachitl
+    xp_value: 450
+  :vampiric_mist: !ruby/object:Monster
+    challenge: 3
+    name: Vampiric Mist
+    type: Undead
+    source: Dead in Thay
+    key: :vampiric_mist
+    xp_value: 700
+  :vanifer: !ruby/object:Monster
+    challenge: 9
+    name: Vanifer
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :vanifer
+    xp_value: 5000
+  :vargouille: !ruby/object:Monster
+    challenge: 1
+    name: Vargouille
+    type: Fiend
+    source: Volo's Guide to Monsters
+    key: :vargouille
+    xp_value: 200
+  :vegepygmy: !ruby/object:Monster
+    challenge: 0.25
+    name: Vegepygmy
+    type: Plant
+    source: Volo's Guide to Monsters
+    key: :vegepygmy
+    xp_value: 50
+  :vegepygmy_chief: !ruby/object:Monster
+    challenge: 2
+    name: Vegepygmy Chief
+    type: Plant
+    source: Volo's Guide to Monsters
+    key: :vegepygmy_chief
+    xp_value: 450
+  :velociraptor: !ruby/object:Monster
+    challenge: 0.25
+    name: Velociraptor
+    type: Beast
+    source: Volo's Guide to Monsters
+    key: :velociraptor
+    xp_value: 50
+  :veteran: !ruby/object:Monster
+    challenge: 3
+    name: Veteran
+    type: Humanoid
+    source: Basic Rules
+    key: :veteran
+    xp_value: 700
+  :veteran_of_the_gauntlet: !ruby/object:Monster
+    challenge: 3
+    name: Veteran of the Gauntlet
+    type: Humanoid
+    source: Out of the Abyss
+    key: :veteran_of_the_gauntlet
+    xp_value: 700
+  :vine_blight: !ruby/object:Monster
+    challenge: 0.5
+    name: Vine Blight
+    type: Plant
+    source: Monster Manual
+    key: :vine_blight
+    xp_value: 100
+  :violet_fungus: !ruby/object:Monster
+    challenge: 0.25
+    name: Violet Fungus
+    type: Plant
+    source: Basic Rules
+    key: :violet_fungus
+    xp_value: 50
+  :vladimir_horngaard: !ruby/object:Monster
+    challenge: 7
+    name: Vladimir Horngaard
+    type: Undead
+    source: Curse of Strahd
+    key: :vladimir_horngaard
+    xp_value: 2900
+  :volothamp_“volo”_geddarm: !ruby/object:Monster
+    challenge: 0.25
+    name: Volothamp “Volo” Geddarm
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :volothamp_“volo”_geddarm
+    xp_value: 50
+  :vrock: !ruby/object:Monster
+    challenge: 6
+    name: Vrock
+    type: Fiend
+    source: Basic Rules
+    key: :vrock
+    xp_value: 2300
+  :vulture: !ruby/object:Monster
+    challenge: 0
+    name: Vulture
+    type: Beast
+    source: Basic Rules
+    key: :vulture
+    xp_value: 10
+  :war_priest: !ruby/object:Monster
+    challenge: 9
+    name: War Priest
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :war_priest
+    xp_value: 5000
+  :warhorse: !ruby/object:Monster
+    challenge: 0.5
+    name: Warhorse
+    type: Beast
+    source: Basic Rules
+    key: :warhorse
+    xp_value: 100
+  :warhorse_skeleton: !ruby/object:Monster
+    challenge: 0.5
+    name: Warhorse Skeleton
+    type: Undead
+    source: Basic Rules
+    key: :warhorse_skeleton
+    xp_value: 100
+  :warlock_of_the_archfey: !ruby/object:Monster
+    challenge: 4
+    name: Warlock of the Archfey
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :warlock_of_the_archfey
+    xp_value: 1100
+  :warlock_of_the_fiend: !ruby/object:Monster
+    challenge: 7
+    name: Warlock of the Fiend
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :warlock_of_the_fiend
+    xp_value: 2900
+  :warlock_of_the_great_old_one: !ruby/object:Monster
+    challenge: 6
+    name: Warlock of the Great Old One
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :warlock_of_the_great_old_one
+    xp_value: 2300
+  :warlord: !ruby/object:Monster
+    challenge: 12
+    name: Warlord
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :warlord
+    xp_value: 8400
+  :water_elemental: !ruby/object:Monster
+    challenge: 5
+    name: Water Elemental
+    type: Elemental
+    source: Basic Rules
+    key: :water_elemental
+    xp_value: 1800
+  :water_elemental_myrmidon: !ruby/object:Monster
+    challenge: 7
+    name: Water Elemental Myrmidon
+    type: Elemental
+    source: Princes of the Apocalypse
+    key: :water_elemental_myrmidon
+    xp_value: 2900
+  :water_weird: !ruby/object:Monster
+    challenge: 3
+    name: Water Weird
+    type: Elemental
+    source: Monster Manual
+    key: :water_weird
+    xp_value: 700
+  :weasel: !ruby/object:Monster
+    challenge: 0
+    name: Weasel
+    type: Beast
+    source: Basic Rules
+    key: :weasel
+    xp_value: 10
+  :werebear: !ruby/object:Monster
+    challenge: 5
+    name: Werebear
+    type: Humanoid
+    source: Basic Rules
+    key: :werebear
+    xp_value: 1800
+  :wereboar: !ruby/object:Monster
+    challenge: 4
+    name: Wereboar
+    type: Humanoid
+    source: Basic Rules
+    key: :wereboar
+    xp_value: 1100
+  :wererat: !ruby/object:Monster
+    challenge: 2
+    name: Wererat
+    type: Humanoid
+    source: Basic Rules
+    key: :wererat
+    xp_value: 450
+  :wereraven: !ruby/object:Monster
+    challenge: 2
+    name: Wereraven
+    type: Humanoid
+    source: Curse of Strahd
+    key: :wereraven
+    xp_value: 450
+  :weretiger: !ruby/object:Monster
+    challenge: 4
+    name: Weretiger
+    type: Humanoid
+    source: Basic Rules
+    key: :weretiger
+    xp_value: 1100
+  :werewolf: !ruby/object:Monster
+    challenge: 3
+    name: Werewolf
+    type: Humanoid
+    source: Basic Rules
+    key: :werewolf
+    xp_value: 700
+  :white_dragon_wyrmling: !ruby/object:Monster
+    challenge: 2
+    name: White Dragon Wyrmling
+    type: Dragon
+    source: Basic Rules
+    key: :white_dragon_wyrmling
+    xp_value: 450
+  :white_guard_drake: !ruby/object:Monster
+    challenge: 2
+    name: White Guard Drake
+    type: Dragon
+    source: Volo's Guide to Monsters
+    key: :white_guard_drake
+    xp_value: 450
+  :white_maw: !ruby/object:Monster
+    challenge: 10
+    name: White Maw
+    type: Ooze
+    source: Dead in Thay
+    key: :white_maw
+    xp_value: 5900
+  :wiggan_nettlebee: !ruby/object:Monster
+    challenge: 2
+    name: Wiggan Nettlebee
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :wiggan_nettlebee
+    xp_value: 450
+  :wight: !ruby/object:Monster
+    challenge: 3
+    name: Wight
+    type: Undead
+    source: Basic Rules
+    key: :wight
+    xp_value: 700
+  :will_o_wisp: !ruby/object:Monster
+    challenge: 2
+    name: Will-o'-Wisp
+    type: Undead
+    source: Basic Rules
+    key: :will_o_wisp
+    xp_value: 450
+  :windharrow: !ruby/object:Monster
+    challenge: 3
+    name: Windharrow
+    type: Humanoid
+    source: Princes of the Apocalypse
+    key: :windharrow
+    xp_value: 700
+  :winged_kobold: !ruby/object:Monster
+    challenge: 0.25
+    name: Winged Kobold
+    type: Humanoid
+    source: Monster Manual
+    key: :winged_kobold
+    xp_value: 50
+  :winter_wolf: !ruby/object:Monster
+    challenge: 3
+    name: Winter Wolf
+    type: Monstrosity
+    source: Basic Rules
+    key: :winter_wolf
+    xp_value: 700
+  :wolf: !ruby/object:Monster
+    challenge: 0.25
+    name: Wolf
+    type: Beast
+    source: Basic Rules
+    key: :wolf
+    xp_value: 50
+  :wood_woad: !ruby/object:Monster
+    challenge: 5
+    name: Wood Woad
+    type: Plant
+    source: Volo's Guide to Monsters
+    key: :wood_woad
+    xp_value: 1800
+  :worg: !ruby/object:Monster
+    challenge: 0.5
+    name: Worg
+    type: Monstrosity
+    source: Basic Rules
+    key: :worg
+    xp_value: 100
+  :wraith: !ruby/object:Monster
+    challenge: 5
+    name: Wraith
+    type: Undead
+    source: Basic Rules
+    key: :wraith
+    xp_value: 1800
+  :wyvern: !ruby/object:Monster
+    challenge: 6
+    name: Wyvern
+    type: Dragon
+    source: Basic Rules
+    key: :wyvern
+    xp_value: 2300
+  :xandala: !ruby/object:Monster
+    challenge: 7
+    name: Xandala
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :xandala
+    xp_value: 2900
+  :xorn: !ruby/object:Monster
+    challenge: 5
+    name: Xorn
+    type: Elemental
+    source: Basic Rules
+    key: :xorn
+    xp_value: 1800
+  :xvart: !ruby/object:Monster
+    challenge: 0.125
+    name: Xvart
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :xvart
+    xp_value: 25
+  :xvart_speaker: !ruby/object:Monster
+    challenge: 0.125
+    name: Xvart Speaker
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :xvart_speaker
+    xp_value: 25
+  :xvart_warlock_of_raxivort: !ruby/object:Monster
+    challenge: 1
+    name: Xvart Warlock of Raxivort
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :xvart_warlock_of_raxivort
+    xp_value: 200
+  :yakfolk_priest: !ruby/object:Monster
+    challenge: 4
+    name: Yakfolk Priest
+    type: Monstrosity
+    source: Storm King's Thunder
+    key: :yakfolk_priest
+    xp_value: 1100
+  :yakfolk_warrior: !ruby/object:Monster
+    challenge: 3
+    name: Yakfolk Warrior
+    type: Monstrosity
+    source: Storm King's Thunder
+    key: :yakfolk_warrior
+    xp_value: 700
+  :yan_c_bin: !ruby/object:Monster
+    challenge: 18
+    name: Yan-C-Bin
+    type: Elemental
+    source: Princes of the Apocalypse
+    key: :yan_c_bin
+    xp_value: 20000
+  :yeenoghu: !ruby/object:Monster
+    challenge: 24
+    name: Yeenoghu
+    type: Fiend
+    source: Out of the Abyss
+    key: :yeenoghu
+    xp_value: 62000
+  :yellow_musk_creeper: !ruby/object:Monster
+    challenge: 2
+    name: Yellow Musk Creeper
+    type: Plant
+    source: Tomb of Annihilation
+    key: :yellow_musk_creeper
+    xp_value: 450
+  :yellow_musk_zombie: !ruby/object:Monster
+    challenge: 0.25
+    name: Yellow Musk Zombie
+    type: Undead
+    source: Tomb of Annihilation
+    key: :yellow_musk_zombie
+    xp_value: 50
+  :yestabrod: !ruby/object:Monster
+    challenge: 4
+    name: Yestabrod
+    type: Monstrosity
+    source: Out of the Abyss
+    key: :yestabrod
+    xp_value: 1100
+  :yeth_hound: !ruby/object:Monster
+    challenge: 4
+    name: Yeth Hound
+    type: Fey
+    source: Volo's Guide to Monsters
+    key: :yeth_hound
+    xp_value: 1100
+  :yeti: !ruby/object:Monster
+    challenge: 3
+    name: Yeti
+    type: Monstrosity
+    source: Basic Rules
+    key: :yeti
+    xp_value: 700
+  :yochlol: !ruby/object:Monster
+    challenge: 10
+    name: Yochlol
+    type: Fiend
+    source: Monster Manual
+    key: :yochlol
+    xp_value: 5900
+  :young_black_dragon: !ruby/object:Monster
+    challenge: 7
+    name: Young Black Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :young_black_dragon
+    xp_value: 2900
+  :young_blue_dragon: !ruby/object:Monster
+    challenge: 9
+    name: Young Blue Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :young_blue_dragon
+    xp_value: 5000
+  :young_brass_dragon: !ruby/object:Monster
+    challenge: 6
+    name: Young Brass Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :young_brass_dragon
+    xp_value: 2300
+  :young_bronze_dragon: !ruby/object:Monster
+    challenge: 8
+    name: Young Bronze Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :young_bronze_dragon
+    xp_value: 3900
+  :young_copper_dragon: !ruby/object:Monster
+    challenge: 7
+    name: Young Copper Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :young_copper_dragon
+    xp_value: 2900
+  :young_gold_dragon: !ruby/object:Monster
+    challenge: 10
+    name: Young Gold Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :young_gold_dragon
+    xp_value: 5900
+  :young_green_dragon: !ruby/object:Monster
+    challenge: 8
+    name: Young Green Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :young_green_dragon
+    xp_value: 3900
+  :young_red_dragon: !ruby/object:Monster
+    challenge: 10
+    name: Young Red Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :young_red_dragon
+    xp_value: 5900
+  :young_red_shadow_dragon: !ruby/object:Monster
+    challenge: 13
+    name: Young Red Shadow Dragon
+    type: Dragon
+    source: Monster Manual
+    key: :young_red_shadow_dragon
+    xp_value: 10000
+  :young_remorhaz: !ruby/object:Monster
+    challenge: 5
+    name: Young Remorhaz
+    type: Monstrosity
+    source: Monster Manual
+    key: :young_remorhaz
+    xp_value: 1800
+  :young_silver_dragon: !ruby/object:Monster
+    challenge: 9
+    name: Young Silver Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :young_silver_dragon
+    xp_value: 5000
+  :young_white_dragon: !ruby/object:Monster
+    challenge: 6
+    name: Young White Dragon
+    type: Dragon
+    source: Basic Rules
+    key: :young_white_dragon
+    xp_value: 2300
+  :yuan_ti_abomination: !ruby/object:Monster
+    challenge: 7
+    name: Yuan-ti Abomination
+    type: Monstrosity
+    source: Monster Manual
+    key: :yuan_ti_abomination
+    xp_value: 2900
+  :yuan_ti_anathema: !ruby/object:Monster
+    challenge: 12
+    name: Yuan-ti Anathema
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :yuan_ti_anathema
+    xp_value: 8400
+  :yuan_ti_broodguard: !ruby/object:Monster
+    challenge: 2
+    name: Yuan-ti Broodguard
+    type: Humanoid
+    source: Volo's Guide to Monsters
+    key: :yuan_ti_broodguard
+    xp_value: 450
+  :yuan_ti_malison: !ruby/object:Monster
+    challenge: 3
+    name: Yuan-ti Malison
+    type: Monstrosity
+    source: Monster Manual
+    key: :yuan_ti_malison
+    xp_value: 700
+  :yuan_ti_mind_whisperer: !ruby/object:Monster
+    challenge: 4
+    name: Yuan-ti Mind Whisperer
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :yuan_ti_mind_whisperer
+    xp_value: 1100
+  :yuan_ti_nightmare_speaker: !ruby/object:Monster
+    challenge: 4
+    name: Yuan-ti Nightmare Speaker
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :yuan_ti_nightmare_speaker
+    xp_value: 1100
+  :yuan_ti_pit_master: !ruby/object:Monster
+    challenge: 5
+    name: Yuan-ti Pit Master
+    type: Monstrosity
+    source: Volo's Guide to Monsters
+    key: :yuan_ti_pit_master
+    xp_value: 1800
+  :yuan_ti_pureblood: !ruby/object:Monster
+    challenge: 1
+    name: Yuan-ti Pureblood
+    type: Humanoid
+    source: Monster Manual
+    key: :yuan_ti_pureblood
+    xp_value: 200
+  :yusdrayl: !ruby/object:Monster
+    challenge: 1
+    name: Yusdrayl
+    type: Humanoid
+    source: The Sunless Citadel
+    key: :yusdrayl
+    xp_value: 200
+  :zhentarim_thug: !ruby/object:Monster
+    challenge: 0.5
+    name: Zhentarim Thug
+    type: Humanoid
+    source: Out of the Abyss
+    key: :zhentarim_thug
+    xp_value: 100
+  :zi_liang: !ruby/object:Monster
+    challenge: 0
+    name: Zi Liang
+    type: Humanoid
+    source: Storm King's Thunder
+    key: :zi_liang
+    xp_value: 10
+  :zindar: !ruby/object:Monster
+    challenge: 8
+    name: Zindar
+    type: Humanoid
+    source: Tomb of Annihilation
+    key: :zindar
+    xp_value: 3900
+  :zombie: !ruby/object:Monster
+    challenge: 0.25
+    name: Zombie
+    type: Undead
+    source: Basic Rules
+    key: :zombie
+    xp_value: 50
+  :zorbo: !ruby/object:Monster
+    challenge: 0.5
+    name: Zorbo
+    type: Monstrosity
+    source: Tomb of Annihilation
+    key: :zorbo
+    xp_value: 100
+  :zuggtmoy: !ruby/object:Monster
+    challenge: 23
+    name: Zuggtmoy
+    type: Fiend
+    source: Out of the Abyss
+    key: :zuggtmoy
+    xp_value: 50000
+:sources:
+  Monster Manual:
+  - :aarakocra
+  - :abominable_yeti
+  - :adult_blue_dracolich
+  - :arcanaloth
+  - :barlgura
+  - :beholder
+  - :beholder_zombie
+  - :blue_slaad
+  - :bone_naga
+  - :bugbear_chief
+  - :bullywug
+  - :cambion
+  - :carrion_crawler
+  - :cave_bear
+  - :chasme
+  - :crawling_claw
+  - :dao
+  - :death_knight
+  - :death_slaad
+  - :death_tyrant
+  - :demilich
+  - :displacer_beast
+  - :drow_elite_warrior
+  - :drow_mage
+  - :drow_priestess_of_lolth
+  - :duodrone
+  - :empyrean
+  - :faerie_dragon_(older)
+  - :faerie_dragon_(younger)
+  - :fire_snake
+  - :flumph
+  - :fomorian
+  - :galeb_duhr
+  - :gas_spore
+  - :githyanki_knight
+  - :githyanki_warrior
+  - :githzerai_monk
+  - :githzerai_zerth
+  - :gnoll_fang_of_yeenoghu
+  - :gnoll_pack_lord
+  - :goblin_boss
+  - :goristro
+  - :gray_slaad
+  - :green_slaad
+  - :grell
+  - :grick_alpha
+  - :half_ogre
+  - :helmed_horror
+  - :hobgoblin_captain
+  - :hobgoblin_warlord
+  - :hook_horror
+  - :intellect_devourer
+  - :jackalwere
+  - :kenku
+  - :kuo_toa
+  - :kuo_toa_archpriest
+  - :kuo_toa_monitor
+  - :kuo_toa_whip
+  - :lizard_king/queen
+  - :lizardfolk_shaman
+  - :manes
+  - :marid
+  - :mezzoloth
+  - :mind_flayer
+  - :mind_flayer_arcanist
+  - :monodrone
+  - :mud_mephit
+  - :myconid_adult
+  - :myconid_sovereign
+  - :myconid_sprout
+  - :needle_blight
+  - :nycaloth
+  - :orc_eye_of_gruumsh
+  - :orc_war_chief
+  - :orog
+  - :pentadrone
+  - :peryton
+  - :piercer
+  - :pixie
+  - :poltergeist
+  - :psychic_gray_ooze
+  - :quadrone
+  - :quaggoth
+  - :quaggoth_spore_servant
+  - :quaggoth_thonot
+  - :red_slaad
+  - :revenant
+  - :sahuagin_baron
+  - :sahuagin_priestess
+  - :scarecrow
+  - :shadow_demon
+  - :slaad_tadpole
+  - :smoke_mephit
+  - :spined_devil
+  - :thri_kreen
+  - :tridrone
+  - :troglodyte
+  - :ultroloth
+  - :umber_hulk
+  - :vampire_spellcaster
+  - :vampire_warrior
+  - :vine_blight
+  - :water_weird
+  - :winged_kobold
+  - :yochlol
+  - :young_red_shadow_dragon
+  - :young_remorhaz
+  - :yuan_ti_abomination
+  - :yuan_ti_malison
+  - :yuan_ti_pureblood
+  Volo's Guide to Monsters:
+  - :abjurer
+  - :alhoon
+  - :annis_hag
+  - :apprentice_wizard
+  - :archdruid
+  - :archer
+  - :aurochs
+  - :babau
+  - :banderhobb
+  - :bard
+  - :barghest
+  - :bheur_hag
+  - :black_guard_drake
+  - :blackguard
+  - :blue_guard_drake
+  - :bodak
+  - :boggle
+  - :brontosaurus
+  - :catoblepas
+  - :cave_fisher
+  - :champion
+  - :chitine
+  - :choldrith
+  - :cloud_giant_smiling_one
+  - :conjurer
+  - :cow
+  - :cranium_rat
+  - :darkling
+  - :darkling_elder
+  - :death_kiss
+  - :deep_rothé
+  - :deep_scion
+  - :deinonychus
+  - :devourer
+  - :dimetrodon
+  - :diviner
+  - :dolphin
+  - :draegloth
+  - :elder_brain
+  - :enchanter
+  - :evoker
+  - :fire_giant_dreadnought
+  - :firenewt_warlock_of_imix
+  - :firenewt_warrior
+  - :flail_snail
+  - :flind
+  - :froghemoth
+  - :frost_giant_everlasting_one
+  - :gauth
+  - :gazer
+  - :gazer_familiar
+  - :giant_strider
+  - :girallon
+  - :gnoll_flesh_gnawer
+  - :gnoll_hunter
+  - :gnoll_witherling
+  - :green_guard_drake
+  - :grung
+  - :grung_elite_warrior
+  - :grung_wildling
+  - :guard_drake
+  - :hadrosaurus
+  - :hobgoblin_devastator
+  - :hobgoblin_iron_shadow
+  - :illusionist
+  - :ki_rin
+  - :kobold_dragonshield
+  - :kobold_inventor
+  - :kobold_scale_sorcerer
+  - :korred
+  - :kraken_priest
+  - :leucrotta
+  - :martial_arts_adept
+  - :master_thief
+  - :maw_demon
+  - :meenlock
+  - :mind_flayer_lich_(illithilich)
+  - :mindwitness
+  - :morkoth
+  - :mouth_of_grolantor
+  - :necromancer
+  - :neogi
+  - :neogi_hatchling
+  - :neogi_master
+  - :neothelid
+  - :nilbog
+  - :orc_blade_of_ilneval
+  - :orc_claw_of_luthic
+  - :orc_hand_of_yurtrus
+  - :orc_nurtured_one_of_yurtrus
+  - :orc_red_fang_of_shargaas
+  - :ox
+  - :quetzalcoatlus
+  - :quickling
+  - :red_guard_drake
+  - :redcap
+  - :rothé
+  - :sea_spawn
+  - :shadow_mastiff
+  - :shadow_mastiff_alpha
+  - :shoosuva
+  - :slithering_tracker
+  - :spawn_of_kyuss
+  - :stegosaurus
+  - :stench_kow
+  - :stone_giant_dreamwalker
+  - :storm_giant_quintessent
+  - :swarm_of_cranium_rats
+  - :swarm_of_rot_grubs
+  - :swashbuckler
+  - :tanarukk
+  - :thorny
+  - :tlincalli
+  - :transmuter
+  - :trapper
+  - :ulitharid
+  - :vargouille
+  - :vegepygmy
+  - :vegepygmy_chief
+  - :velociraptor
+  - :war_priest
+  - :warlock_of_the_archfey
+  - :warlock_of_the_fiend
+  - :warlock_of_the_great_old_one
+  - :warlord
+  - :white_guard_drake
+  - :wood_woad
+  - :xvart
+  - :xvart_speaker
+  - :xvart_warlock_of_raxivort
+  - :yeth_hound
+  - :yuan_ti_anathema
+  - :yuan_ti_broodguard
+  - :yuan_ti_mind_whisperer
+  - :yuan_ti_nightmare_speaker
+  - :yuan_ti_pit_master
+  Basic Rules:
+  - :aboleth
+  - :acolyte
+  - :adult_black_dragon
+  - :adult_blue_dragon
+  - :adult_brass_dragon
+  - :adult_bronze_dragon
+  - :adult_copper_dragon
+  - :adult_gold_dragon
+  - :adult_green_dragon
+  - :adult_red_dragon
+  - :adult_silver_dragon
+  - :adult_white_dragon
+  - :air_elemental
+  - :allosaurus
+  - :ancient_black_dragon
+  - :ancient_blue_dragon
+  - :ancient_brass_dragon
+  - :ancient_bronze_dragon
+  - :ancient_copper_dragon
+  - :ancient_gold_dragon
+  - :ancient_green_dragon
+  - :ancient_red_dragon
+  - :ancient_silver_dragon
+  - :ancient_white_dragon
+  - :androsphinx
+  - :animated_armor
+  - :ankheg
+  - :ankylosaurus
+  - :ape
+  - :archmage
+  - :assassin
+  - :awakened_shrub
+  - :awakened_tree
+  - :axe_beak
+  - :azer
+  - :baboon
+  - :badger
+  - :balor
+  - :bandit
+  - :bandit_captain
+  - :banshee
+  - :barbed_devil
+  - :basilisk
+  - :bat
+  - :bearded_devil
+  - :behir
+  - :berserker
+  - :black_bear
+  - :black_dragon_wyrmling
+  - :black_pudding
+  - :blink_dog
+  - :blood_hawk
+  - :blue_dragon_wyrmling
+  - :boar
+  - :bone_devil
+  - :brass_dragon_wyrmling
+  - :bronze_dragon_wyrmling
+  - :brown_bear
+  - :bugbear
+  - :bulette
+  - :camel
+  - :cat
+  - :centaur
+  - :chain_devil
+  - :chimera
+  - :chuul
+  - :clay_golem
+  - :cloaker
+  - :cloud_giant
+  - :cockatrice
+  - :commoner
+  - :constrictor_snake
+  - :copper_dragon_wyrmling
+  - :couatl
+  - :crab
+  - :crocodile
+  - :cult_fanatic
+  - :cultist
+  - :cyclops
+  - :darkmantle
+  - :death_dog
+  - :deep_gnome_(svirfneblin)
+  - :deer
+  - :deva
+  - :dire_wolf
+  - :djinni
+  - :doppelganger
+  - :draft_horse
+  - :dragon_turtle
+  - :dretch
+  - :drider
+  - :drow
+  - :druid
+  - :dryad
+  - :duergar
+  - :dust_mephit
+  - :eagle
+  - :earth_elemental
+  - :efreeti
+  - :elephant
+  - :elk
+  - :erinyes
+  - :ettercap
+  - :ettin
+  - :fire_elemental
+  - :fire_giant
+  - :flameskull
+  - :flesh_golem
+  - :flying_snake
+  - :flying_sword
+  - :frog
+  - :frost_giant
+  - :gargoyle
+  - :gelatinous_cube
+  - :ghast
+  - :ghost
+  - :ghoul
+  - :giant_ape
+  - :giant_badger
+  - :giant_bat
+  - :giant_boar
+  - :giant_centipede
+  - :giant_constrictor_snake
+  - :giant_crab
+  - :giant_crocodile
+  - :giant_eagle
+  - :giant_elk
+  - :giant_fire_beetle
+  - :giant_frog
+  - :giant_goat
+  - :giant_hyena
+  - :giant_lizard
+  - :giant_octopus
+  - :giant_owl
+  - :giant_poisonous_snake
+  - :giant_rat
+  - :giant_scorpion
+  - :giant_sea_horse
+  - :giant_shark
+  - :giant_spider
+  - :giant_toad
+  - :giant_vulture
+  - :giant_wasp
+  - :giant_weasel
+  - :giant_wolf_spider
+  - :gibbering_mouther
+  - :glabrezu
+  - :gladiator
+  - :gnoll
+  - :goat
+  - :goblin
+  - :gold_dragon_wyrmling
+  - :gorgon
+  - :gray_ooze
+  - :green_dragon_wyrmling
+  - :green_hag
+  - :grick
+  - :griffon
+  - :grimlock
+  - :guard
+  - :guardian_naga
+  - :gynosphinx
+  - :half_red_dragon_veteran
+  - :harpy
+  - :hawk
+  - :hell_hound
+  - :hezrou
+  - :hill_giant
+  - :hippogriff
+  - :hobgoblin
+  - :homunculus
+  - :horned_devil
+  - :hunter_shark
+  - :hydra
+  - :hyena
+  - :ice_devil
+  - :ice_mephit
+  - :imp
+  - :invisible_stalker
+  - :iron_golem
+  - :jackal
+  - :killer_whale
+  - :knight
+  - :kobold
+  - :kraken
+  - :lamia
+  - :lemure
+  - :lich
+  - :lion
+  - :lizard
+  - :lizardfolk
+  - :mage
+  - :magma_mephit
+  - :magmin
+  - :mammoth
+  - :manticore
+  - :marilith
+  - :mastiff
+  - :medusa
+  - :merfolk
+  - :merrow
+  - :mimic
+  - :minotaur
+  - :minotaur_skeleton
+  - :mule
+  - :mummy
+  - :mummy_lord
+  - :nalfeshnee
+  - :night_hag
+  - :nightmare
+  - :noble
+  - :nothic
+  - :ochre_jelly
+  - :octopus
+  - :ogre
+  - :ogre_zombie
+  - :oni
+  - :orc
+  - :otyugh
+  - :owl
+  - :owlbear
+  - :panther
+  - :pegasus
+  - :phase_spider
+  - :pit_fiend
+  - :planetar
+  - :plesiosaurus
+  - :poisonous_snake
+  - :polar_bear
+  - :pony
+  - :priest
+  - :pseudodragon
+  - :pteranodon
+  - :purple_worm
+  - :quasit
+  - :quipper
+  - :rakshasa
+  - :rat
+  - :raven
+  - :red_dragon_wyrmling
+  - :reef_shark
+  - :remorhaz
+  - :rhinoceros
+  - :riding_horse
+  - :roc
+  - :roper
+  - :rug_of_smothering
+  - :rust_monster
+  - :saber_toothed_tiger
+  - :sahuagin
+  - :salamander
+  - :satyr
+  - :scorpion
+  - :scout
+  - :sea_hag
+  - :sea_horse
+  - :shadow
+  - :shambling_mound
+  - :shield_guardian
+  - :shrieker
+  - :silver_dragon_wyrmling
+  - :skeleton
+  - :solar
+  - :spectator
+  - :specter
+  - :spider
+  - :spirit_naga
+  - :sprite
+  - :spy
+  - :steam_mephit
+  - :stirge
+  - :stone_giant
+  - :stone_golem
+  - :storm_giant
+  - :succubus/incubus
+  - :swarm_of_bats
+  - :swarm_of_insects
+  - :swarm_of_poisonous_snakes
+  - :swarm_of_quippers
+  - :swarm_of_rats
+  - :swarm_of_ravens
+  - :tarrasque
+  - :thug
+  - :tiger
+  - :treant
+  - :tribal_warrior
+  - :triceratops
+  - :troll
+  - :twig_blight
+  - :tyrannosaurus_rex
+  - :unicorn
+  - :vampire
+  - :vampire_spawn
+  - :veteran
+  - :violet_fungus
+  - :vrock
+  - :vulture
+  - :warhorse
+  - :warhorse_skeleton
+  - :water_elemental
+  - :weasel
+  - :werebear
+  - :wereboar
+  - :wererat
+  - :weretiger
+  - :werewolf
+  - :white_dragon_wyrmling
+  - :wight
+  - :will_o_wisp
+  - :winter_wolf
+  - :wolf
+  - :worg
+  - :wraith
+  - :wyvern
+  - :xorn
+  - :yeti
+  - :young_black_dragon
+  - :young_blue_dragon
+  - :young_brass_dragon
+  - :young_bronze_dragon
+  - :young_copper_dragon
+  - :young_gold_dragon
+  - :young_green_dragon
+  - :young_red_dragon
+  - :young_silver_dragon
+  - :young_white_dragon
+  - :zombie
+  Tomb of Annihilation:
+  - :acererak
+  - :albino_dwarf_spirit_warrior
+  - :albino_dwarf_warrior
+  - :aldani_(lobsterfolk)
+  - :almiraj
+  - :ankylosaurus_zombie
+  - :artus_cimber
+  - :assassin_vine
+  - :atropal
+  - :chwinga
+  - :dragonbait
+  - :eblis
+  - :flying_monkey
+  - :giant_four_armed_gargoyle
+  - :giant_snapping_turtle
+  - :girallon_zombie
+  - :jaculi
+  - :kamadan
+  - :liara_portyr
+  - :mantrap
+  - :mwaxanaré
+  - :pterafolk
+  - :ras_nsi
+  - :stone_juggernaut
+  - :su_monster
+  - :tabaxi_hunter
+  - :tabaxi_minstrel
+  - :tri_flower_frond
+  - :tyrannosaurus_zombie
+  - :volothamp_“volo”_geddarm
+  - :xandala
+  - :yellow_musk_creeper
+  - :yellow_musk_zombie
+  - :zindar
+  - :zorbo
+  Princes of the Apocalypse:
+  - :aerisi_kalinoth
+  - :air_elemental_myrmidon
+  - :bastian_thermandar
+  - :black_earth_guard
+  - :black_earth_priest
+  - :burrowshark
+  - :crushing_wave_priest
+  - :crushing_wave_reaver
+  - :dark_tide_knight
+  - :drannin_splithelm
+  - :earth_elemental_myrmidon
+  - :elizar_dryflagon
+  - :eternal_flame_guardian
+  - :eternal_flame_priest
+  - :fathomer
+  - :feathergale_knight
+  - :fire_elemental_myrmidon
+  - :flamewrath
+  - :gar_shatterkeel
+  - :ghald
+  - :grumink_the_renegade
+  - :hellenrae
+  - :howling_hatred_initiate
+  - :howling_hatred_priest
+  - :hurricane
+  - :imix
+  - :marlos_urnrayle
+  - :miraj_vizann
+  - :ogrémoch
+  - :olhydra
+  - :one_eyed_shiver
+  - :oreioth
+  - :razerblast
+  - :sacred_stone_monk
+  - :shoalar_quanderil
+  - :skyweaver
+  - :stonemelder
+  - :thurl_merosska
+  - :vanifer
+  - :water_elemental_myrmidon
+  - :wiggan_nettlebee
+  - :windharrow
+  - :yan_c_bin
+  Hoard of the Dragon Queen:
+  - :ambush_drake
+  - :azbara_jos
+  - :blagothkus
+  - :captain_othelstan
+  - :dragonclaw
+  - :dralmorrer_borngray
+  - :four_armed_troll
+  - :frulam_mondath
+  - :jamna_gleamsilver
+  - :langdedrosa_cyanwrath
+  - :pharblex_spattergoo
+  - :rath_modar
+  - :rezmir
+  - :talis_the_white
+  The Forge of Fury:
+  - :animated_table
+  - :duergar_spy
+  - :giant_subterranean_lizard
+  Storm King's Thunder:
+  - :augrek_brighthelm
+  - :beldora
+  - :crag_cat
+  - :darathra_shendrel
+  - :darz_helgar
+  - :duvessa_shane
+  - :ghelryn_foehammer
+  - :hulking_crab
+  - :iymrith
+  - :lifferlas
+  - :maegera_the_dawn_titan
+  - :markham_southwell
+  - :miros_xelbrin
+  - :narth_tezrin
+  - :naxene_drathkala
+  - :nimir
+  - :oren_yogilvy
+  - :orlekto
+  - :othovir
+  - :purple_wormling
+  - :shaldoor
+  - :shalvus_martholio
+  - :sir_baric_nylef
+  - :sirac_of_suzail
+  - :tressym
+  - :urgala_meltimer
+  - :uthgardt_shaman
+  - :vaasha
+  - :yakfolk_priest
+  - :yakfolk_warrior
+  - :zi_liang
+  Dungeon Master's Guide:
+  - :avatar_of_death
+  - :giant_fly
+  - :larva
+  Out of the Abyss:
+  - :awakened_zurkhwood
+  - :baphomet
+  - :bridesmaid_of_zuggtmoy
+  - :chamberlain_of_zuggtmoy
+  - :chuul_spore_servant
+  - :demogorgon
+  - :derro
+  - :derro_savant
+  - :droki
+  - :drow_spore_servant
+  - :duergar_darkhaft
+  - :duergar_kavalrachni
+  - :duergar_keeper_of_the_flame
+  - :duergar_soulblade
+  - :duergar_spore_servant
+  - :duergar_stone_guard
+  - :duergar_xarrorn
+  - :emerald_enclave_scout
+  - :female_steeder
+  - :fraz_urb’luu
+  - :giant_riding_lizard
+  - :graz’zt
+  - :grisha
+  - :hook_horror_spore_servant
+  - :ixitxachitl
+  - :ixitxachitl_cleric
+  - :juiblex
+  - :lords’_alliance_guard
+  - :lords’_alliance_spy
+  - :male_steeder
+  - :narrak
+  - :orcus
+  - :pudding_king
+  - :troglodyte_champion_of_laogzed
+  - :vampiric_ixitxachitl
+  - :veteran_of_the_gauntlet
+  - :yeenoghu
+  - :yestabrod
+  - :zhentarim_thug
+  - :zuggtmoy
+  Curse of Strahd:
+  - :baba_lysaga
+  - :baba_lysaga’s_creeping_hut
+  - :barovian_witch
+  - :broom_of_animated_attack
+  - :ezmerelda_d’avenir
+  - :guardian_portrait
+  - :izek_strazni
+  - :kasimir_velikov
+  - :madam_eva
+  - :mongrelfolk
+  - :phantom_warrior
+  - :pidlwick_ii
+  - :rahadin
+  - :rictavio
+  - :strahd_von_zarovich
+  - :strahd_zombie
+  - :strahd’s_animated_armor
+  - :the_abbot
+  - :tree_blight
+  - :vladimir_horngaard
+  - :wereraven
+  The Hidden Shrine of Tamoachan:
+  - :centaur_mummy
+  - :giant_crayfish
+  - :giant_lightning_eel
+  - :kalka_kylla
+  - :nereid
+  - :tecuziztecatl
+  - :thorn_slinger
+  Dead in Thay:
+  - :choker
+  - :deathlock_wight
+  - :dread_warrior
+  - :malformed_kraken
+  - :ooze_master
+  - :tarul_var
+  - :thayan_apprentice
+  - :thayan_warrior
+  - :vampiric_mist
+  - :white_maw
+  The Tortle Package:
+  - :decapus
+  - :geonid
+  - :topi
+  - :tortle
+  - :tortle_druid
+  Rise of Tiamat:
+  - :dragonfang
+  - :dragonsoul
+  - :dragonwing
+  - :half_blue_dragon_gladiator
+  - :half_green_dragon_assassin
+  - :half_red_dragon_gladiator
+  - :ice_toad
+  - :ice_troll
+  - :naergoth_bladelord
+  - :neronvain
+  - :scrag
+  - :severin
+  - :tiamat
+  Lost Mine of Phandelver:
+  - :evil_mage
+  - :mormesk_the_wraith
+  - :nezznar_the_black_spider
+  - :redbrand_ruffian
+  - :sildar_hallwinter
+  Against the Giants:
+  - :giant_ice_toad
+  Tomb of Horrors:
+  - :giant_skeleton
+  - :greater_zombie
+  - :siren
+  White Plume Mountain:
+  - :kelpie
+  - :sea_lion
+  The Sunless Citadel:
+  - :sharwyn_hucrele
+  - :sir_braford
+  - :yusdrayl
+  Xanathar's Guide to Everything:
+  - :tiny_servant
+:challenges:
+  0.25:
+  - :aarakocra
+  - :acolyte
+  - :albino_dwarf_warrior
+  - :apprentice_wizard
+  - :axe_beak
+  - :blink_dog
+  - :boar
+  - :broom_of_animated_attack
+  - :bullywug
+  - :constrictor_snake
+  - :cow
+  - :deep_rothé
+  - :derro
+  - :dimetrodon
+  - :draft_horse
+  - :dretch
+  - :drow
+  - :duodrone
+  - :elk
+  - :flying_sword
+  - :geonid
+  - :giant_badger
+  - :giant_bat
+  - :giant_centipede
+  - :giant_frog
+  - :giant_lizard
+  - :giant_owl
+  - :giant_poisonous_snake
+  - :giant_riding_lizard
+  - :giant_wolf_spider
+  - :gnoll_witherling
+  - :goblin
+  - :grimlock
+  - :grung
+  - :hadrosaurus
+  - :ixitxachitl
+  - :kenku
+  - :kobold_inventor
+  - :kuo_toa
+  - :lords’_alliance_guard
+  - :male_steeder
+  - :mongrelfolk
+  - :mud_mephit
+  - :needle_blight
+  - :ox
+  - :panther
+  - :pidlwick_ii
+  - :pixie
+  - :pseudodragon
+  - :pteranodon
+  - :riding_horse
+  - :rothé
+  - :skeleton
+  - :smoke_mephit
+  - :sprite
+  - :steam_mephit
+  - :stench_kow
+  - :swarm_of_bats
+  - :swarm_of_rats
+  - :swarm_of_ravens
+  - :tabaxi_minstrel
+  - :tortle
+  - :troglodyte
+  - :vegepygmy
+  - :velociraptor
+  - :violet_fungus
+  - :volothamp_“volo”_geddarm
+  - :winged_kobold
+  - :wolf
+  - :yellow_musk_zombie
+  - :zombie
+  9:
+  - :abjurer
+  - :abominable_yeti
+  - :blagothkus
+  - :bone_devil
+  - :champion
+  - :clay_golem
+  - :cloud_giant
+  - :evoker
+  - :fire_giant
+  - :flind
+  - :gar_shatterkeel
+  - :glabrezu
+  - :gray_slaad
+  - :necromancer
+  - :neronvain
+  - :nycaloth
+  - :treant
+  - :ulitharid
+  - :vanifer
+  - :war_priest
+  - :young_blue_dragon
+  - :young_silver_dragon
+  10:
+  - :aboleth
+  - :alhoon
+  - :death_kiss
+  - :death_slaad
+  - :deva
+  - :froghemoth
+  - :giant_four_armed_gargoyle
+  - :guardian_naga
+  - :madam_eva
+  - :malformed_kraken
+  - :ooze_master
+  - :rahadin
+  - :stone_giant_dreamwalker
+  - :stone_golem
+  - :the_abbot
+  - :white_maw
+  - :yochlol
+  - :young_gold_dragon
+  - :young_red_dragon
+  23:
+  - :acererak
+  - :ancient_blue_dragon
+  - :ancient_silver_dragon
+  - :baphomet
+  - :empyrean
+  - :fraz_urb’luu
+  - :iymrith
+  - :juiblex
+  - :kraken
+  - :maegera_the_dawn_titan
+  - :zuggtmoy
+  14:
+  - :adult_black_dragon
+  - :adult_copper_dragon
+  - :death_tyrant
+  - :elder_brain
+  - :fire_giant_dreadnought
+  - :ice_devil
+  17:
+  - :adult_blue_dracolich
+  - :adult_gold_dragon
+  - :adult_red_dragon
+  - :androsphinx
+  - :death_knight
+  - :dragon_turtle
+  - :goristro
+  16:
+  - :adult_blue_dragon
+  - :adult_silver_dragon
+  - :iron_golem
+  - :marilith
+  - :planetar
+  - :storm_giant_quintessent
+  13:
+  - :adult_brass_dragon
+  - :adult_white_dragon
+  - :atropal
+  - :beholder
+  - :devourer
+  - :nalfeshnee
+  - :neothelid
+  - :nimir
+  - :orlekto
+  - :rakshasa
+  - :shaldoor
+  - :storm_giant
+  - :tarul_var
+  - :ultroloth
+  - :vaasha
+  - :vampire
+  - :young_red_shadow_dragon
+  15:
+  - :adult_bronze_dragon
+  - :adult_green_dragon
+  - :mummy_lord
+  - :purple_worm
+  - :strahd_von_zarovich
+  - :vampire_spellcaster
+  - :vampire_warrior
+  7:
+  - :aerisi_kalinoth
+  - :air_elemental_myrmidon
+  - :artus_cimber
+  - :bheur_hag
+  - :blue_slaad
+  - :draegloth
+  - :dragonsoul
+  - :drannin_splithelm
+  - :drow_mage
+  - :earth_elemental_myrmidon
+  - :fire_elemental_myrmidon
+  - :ghald
+  - :giant_ape
+  - :giant_skeleton
+  - :grick_alpha
+  - :korred
+  - :mind_flayer
+  - :oni
+  - :ras_nsi
+  - :rezmir
+  - :shield_guardian
+  - :stone_giant
+  - :tree_blight
+  - :vladimir_horngaard
+  - :warlock_of_the_fiend
+  - :water_elemental_myrmidon
+  - :xandala
+  - :young_black_dragon
+  - :young_copper_dragon
+  - :yuan_ti_abomination
+  5:
+  - :air_elemental
+  - :banderhobb
+  - :barbed_devil
+  - :barlgura
+  - :beholder_zombie
+  - :brontosaurus
+  - :bulette
+  - :cambion
+  - :captain_othelstan
+  - :catoblepas
+  - :dragonbait
+  - :dragonfang
+  - :drow_elite_warrior
+  - :earth_elemental
+  - :elizar_dryflagon
+  - :enchanter
+  - :fire_elemental
+  - :flesh_golem
+  - :giant_crocodile
+  - :giant_shark
+  - :gladiator
+  - :gorgon
+  - :greater_zombie
+  - :half_blue_dragon_gladiator
+  - :half_red_dragon_veteran
+  - :hellenrae
+  - :hill_giant
+  - :hulking_crab
+  - :ice_troll
+  - :izek_strazni
+  - :kraken_priest
+  - :master_thief
+  - :mezzoloth
+  - :mindwitness
+  - :night_hag
+  - :otyugh
+  - :razerblast
+  - :red_slaad
+  - :revenant
+  - :rictavio
+  - :roper
+  - :sahuagin_baron
+  - :salamander
+  - :scrag
+  - :sea_lion
+  - :shambling_mound
+  - :spawn_of_kyuss
+  - :swarm_of_cranium_rats
+  - :talis_the_white
+  - :tanarukk
+  - :tlincalli
+  - :transmuter
+  - :triceratops
+  - :troll
+  - :umber_hulk
+  - :unicorn
+  - :vampire_spawn
+  - :water_elemental
+  - :werebear
+  - :wood_woad
+  - :wraith
+  - :xorn
+  - :young_remorhaz
+  - :yuan_ti_pit_master
+  1:
+  - :albino_dwarf_spirit_warrior
+  - :aldani_(lobsterfolk)
+  - :animated_armor
+  - :brass_dragon_wyrmling
+  - :brown_bear
+  - :bugbear
+  - :choker
+  - :copper_dragon_wyrmling
+  - :crag_cat
+  - :death_dog
+  - :deinonychus
+  - :dire_wolf
+  - :dragonclaw
+  - :dread_warrior
+  - :dryad
+  - :duergar
+  - :duergar_soulblade
+  - :eblis
+  - :evil_mage
+  - :faerie_dragon_(younger)
+  - :feathergale_knight
+  - :female_steeder
+  - :fire_snake
+  - :firenewt_warlock_of_imix
+  - :ghoul
+  - :giant_eagle
+  - :giant_hyena
+  - :giant_octopus
+  - :giant_spider
+  - :giant_strider
+  - :giant_toad
+  - :giant_vulture
+  - :gnoll_flesh_gnawer
+  - :goblin_boss
+  - :grung_wildling
+  - :guardian_portrait
+  - :half_ogre
+  - :harpy
+  - :hippogriff
+  - :ice_toad
+  - :imp
+  - :jamna_gleamsilver
+  - :kobold_dragonshield
+  - :kobold_scale_sorcerer
+  - :kuo_toa_whip
+  - :lion
+  - :lords’_alliance_spy
+  - :mantrap
+  - :maw_demon
+  - :nilbog
+  - :pterafolk
+  - :quadrone
+  - :quaggoth_spore_servant
+  - :quasit
+  - :quickling
+  - :scarecrow
+  - :sea_spawn
+  - :sildar_hallwinter
+  - :specter
+  - :spy
+  - :strahd_zombie
+  - :su_monster
+  - :swarm_of_quippers
+  - :tabaxi_hunter
+  - :thorny
+  - :thri_kreen
+  - :tiger
+  - :vargouille
+  - :xvart_warlock_of_raxivort
+  - :yuan_ti_pureblood
+  - :yusdrayl
+  2:
+  - :allosaurus
+  - :animated_table
+  - :ankheg
+  - :aurochs
+  - :awakened_tree
+  - :awakened_zurkhwood
+  - :azer
+  - :bandit_captain
+  - :bard
+  - :berserker
+  - :black_dragon_wyrmling
+  - :black_earth_guard
+  - :black_guard_drake
+  - :blue_guard_drake
+  - :bronze_dragon_wyrmling
+  - :carrion_crawler
+  - :cave_bear
+  - :centaur
+  - :chamberlain_of_zuggtmoy
+  - :crushing_wave_priest
+  - :cult_fanatic
+  - :darkling_elder
+  - :dragonwing
+  - :droki
+  - :druid
+  - :duergar_darkhaft
+  - :duergar_kavalrachni
+  - :duergar_keeper_of_the_flame
+  - :duergar_spy
+  - :duergar_stone_guard
+  - :duergar_xarrorn
+  - :eternal_flame_guardian
+  - :ettercap
+  - :faerie_dragon_(older)
+  - :fathomer
+  - :frulam_mondath
+  - :gargoyle
+  - :gelatinous_cube
+  - :ghast
+  - :giant_boar
+  - :giant_constrictor_snake
+  - :giant_crayfish
+  - :giant_elk
+  - :gibbering_mouther
+  - :githzerai_monk
+  - :gnoll_pack_lord
+  - :green_dragon_wyrmling
+  - :green_guard_drake
+  - :grick
+  - :griffon
+  - :grisha
+  - :grung_elite_warrior
+  - :guard_drake
+  - :hobgoblin_iron_shadow
+  - :howling_hatred_priest
+  - :hunter_shark
+  - :hurricane
+  - :intellect_devourer
+  - :ixitxachitl_cleric
+  - :lizardfolk_shaman
+  - :meenlock
+  - :merrow
+  - :mimic
+  - :minotaur_skeleton
+  - :myconid_sovereign
+  - :narrak
+  - :nereid
+  - :nezznar_the_black_spider
+  - :nothic
+  - :ochre_jelly
+  - :ogre
+  - :ogre_zombie
+  - :orc_claw_of_luthic
+  - :orc_eye_of_gruumsh
+  - :orc_hand_of_yurtrus
+  - :oreioth
+  - :orog
+  - :pegasus
+  - :pentadrone
+  - :peryton
+  - :plesiosaurus
+  - :polar_bear
+  - :poltergeist
+  - :priest
+  - :purple_wormling
+  - :quaggoth
+  - :quetzalcoatlus
+  - :red_guard_drake
+  - :rhinoceros
+  - :rug_of_smothering
+  - :saber_toothed_tiger
+  - :sahuagin_priestess
+  - :sea_hag
+  - :shadow_mastiff
+  - :shadow_mastiff_alpha
+  - :silver_dragon_wyrmling
+  - :spined_devil
+  - :swarm_of_poisonous_snakes
+  - :thayan_apprentice
+  - :thayan_warrior
+  - :tortle_druid
+  - :uthgardt_shaman
+  - :vampiric_ixitxachitl
+  - :vegepygmy_chief
+  - :wererat
+  - :wereraven
+  - :white_dragon_wyrmling
+  - :white_guard_drake
+  - :wiggan_nettlebee
+  - :will_o_wisp
+  - :yellow_musk_creeper
+  - :yuan_ti_broodguard
+  0:
+  - :almiraj
+  - :augrek_brighthelm
+  - :avatar_of_death
+  - :awakened_shrub
+  - :baboon
+  - :badger
+  - :bat
+  - :beldora
+  - :cat
+  - :chwinga
+  - :commoner
+  - :crab
+  - :cranium_rat
+  - :crawling_claw
+  - :darathra_shendrel
+  - :darz_helgar
+  - :deer
+  - :duvessa_shane
+  - :eagle
+  - :flying_monkey
+  - :frog
+  - :ghelryn_foehammer
+  - :giant_fire_beetle
+  - :giant_fly
+  - :goat
+  - :hawk
+  - :homunculus
+  - :hyena
+  - :jackal
+  - :larva
+  - :lemure
+  - :lifferlas
+  - :lizard
+  - :markham_southwell
+  - :miros_xelbrin
+  - :myconid_sprout
+  - :narth_tezrin
+  - :naxene_drathkala
+  - :octopus
+  - :oren_yogilvy
+  - :othovir
+  - :owl
+  - :quipper
+  - :rat
+  - :raven
+  - :scorpion
+  - :sea_horse
+  - :shalvus_martholio
+  - :shrieker
+  - :sir_baric_nylef
+  - :sirac_of_suzail
+  - :spider
+  - :tiny_servant
+  - :tressym
+  - :urgala_meltimer
+  - :vulture
+  - :weasel
+  - :zi_liang
+  0.5:
+  - :ambush_drake
+  - :ape
+  - :barovian_witch
+  - :black_bear
+  - :chitine
+  - :cockatrice
+  - :crocodile
+  - :crushing_wave_reaver
+  - :darkling
+  - :darkmantle
+  - :deep_gnome_(svirfneblin)
+  - :duergar_spore_servant
+  - :dust_mephit
+  - :emerald_enclave_scout
+  - :firenewt_warrior
+  - :gas_spore
+  - :gazer
+  - :gazer_familiar
+  - :giant_goat
+  - :giant_sea_horse
+  - :giant_wasp
+  - :gnoll
+  - :gnoll_hunter
+  - :gray_ooze
+  - :hobgoblin
+  - :ice_mephit
+  - :jackalwere
+  - :jaculi
+  - :lizardfolk
+  - :magma_mephit
+  - :magmin
+  - :myconid_adult
+  - :orc
+  - :orc_nurtured_one_of_yurtrus
+  - :piercer
+  - :psychic_gray_ooze
+  - :redbrand_ruffian
+  - :reef_shark
+  - :rust_monster
+  - :sacred_stone_monk
+  - :sahuagin
+  - :satyr
+  - :scout
+  - :shadow
+  - :sharwyn_hucrele
+  - :sir_braford
+  - :swarm_of_insects
+  - :swarm_of_rot_grubs
+  - :thorn_slinger
+  - :thug
+  - :topi
+  - :tridrone
+  - :tri_flower_frond
+  - :vine_blight
+  - :warhorse
+  - :warhorse_skeleton
+  - :worg
+  - :zhentarim_thug
+  - :zorbo
+  21:
+  - :ancient_black_dragon
+  - :ancient_copper_dragon
+  - :lich
+  - :solar
+  20:
+  - :ancient_brass_dragon
+  - :ancient_white_dragon
+  - :ogrémoch
+  - :pit_fiend
+  22:
+  - :ancient_bronze_dragon
+  - :ancient_green_dragon
+  - :mind_flayer_lich_(illithilich)
+  24:
+  - :ancient_gold_dragon
+  - :ancient_red_dragon
+  - :graz’zt
+  - :yeenoghu
+  3:
+  - :ankylosaurus
+  - :ankylosaurus_zombie
+  - :archer
+  - :assassin_vine
+  - :basilisk
+  - :bearded_devil
+  - :black_earth_priest
+  - :blue_dragon_wyrmling
+  - :bugbear_chief
+  - :cave_fisher
+  - :choldrith
+  - :dark_tide_knight
+  - :deathlock_wight
+  - :deep_scion
+  - :derro_savant
+  - :displacer_beast
+  - :doppelganger
+  - :dralmorrer_borngray
+  - :eternal_flame_priest
+  - :flail_snail
+  - :giant_ice_toad
+  - :giant_lightning_eel
+  - :giant_scorpion
+  - :giant_snapping_turtle
+  - :girallon_zombie
+  - :githyanki_warrior
+  - :gold_dragon_wyrmling
+  - :green_hag
+  - :grell
+  - :hell_hound
+  - :hobgoblin_captain
+  - :hook_horror
+  - :hook_horror_spore_servant
+  - :illusionist
+  - :kalka_kylla
+  - :killer_whale
+  - :knight
+  - :kuo_toa_monitor
+  - :leucrotta
+  - :manticore
+  - :martial_arts_adept
+  - :minotaur
+  - :mormesk_the_wraith
+  - :mummy
+  - :neogi
+  - :nightmare
+  - :one_eyed_shiver
+  - :orc_red_fang_of_shargaas
+  - :owlbear
+  - :phantom_warrior
+  - :pharblex_spattergoo
+  - :phase_spider
+  - :quaggoth_thonot
+  - :redcap
+  - :siren
+  - :skyweaver
+  - :slithering_tracker
+  - :spectator
+  - :swashbuckler
+  - :thurl_merosska
+  - :trapper
+  - :troglodyte_champion_of_laogzed
+  - :vampiric_mist
+  - :veteran
+  - :veteran_of_the_gauntlet
+  - :water_weird
+  - :werewolf
+  - :wight
+  - :windharrow
+  - :winter_wolf
+  - :yakfolk_warrior
+  - :yeti
+  - :yuan_ti_malison
+  6:
+  - :annis_hag
+  - :bodak
+  - :centaur_mummy
+  - :chasme
+  - :chimera
+  - :conjurer
+  - :cyclops
+  - :drider
+  - :flamewrath
+  - :four_armed_troll
+  - :galeb_duhr
+  - :gauth
+  - :githzerai_zerth
+  - :half_red_dragon_gladiator
+  - :hobgoblin_warlord
+  - :invisible_stalker
+  - :kasimir_velikov
+  - :kuo_toa_archpriest
+  - :mage
+  - :mammoth
+  - :medusa
+  - :miraj_vizann
+  - :mouth_of_grolantor
+  - :rath_modar
+  - :strahd’s_animated_armor
+  - :vrock
+  - :warlock_of_the_great_old_one
+  - :wyvern
+  - :young_brass_dragon
+  - :young_white_dragon
+  12:
+  - :arcanaloth
+  - :archdruid
+  - :archmage
+  - :erinyes
+  - :frost_giant_everlasting_one
+  - :ki_rin
+  - :stone_juggernaut
+  - :warlord
+  - :yuan_ti_anathema
+  8:
+  - :assassin
+  - :bastian_thermandar
+  - :blackguard
+  - :chain_devil
+  - :cloaker
+  - :diviner
+  - :drow_priestess_of_lolth
+  - :ezmerelda_d’avenir
+  - :fomorian
+  - :frost_giant
+  - :githyanki_knight
+  - :green_slaad
+  - :grumink_the_renegade
+  - :half_green_dragon_assassin
+  - :hezrou
+  - :hydra
+  - :marlos_urnrayle
+  - :mind_flayer_arcanist
+  - :shoosuva
+  - :spirit_naga
+  - :tyrannosaurus_rex
+  - :tyrannosaurus_zombie
+  - :young_bronze_dragon
+  - :young_green_dragon
+  - :zindar
+  4:
+  - :azbara_jos
+  - :babau
+  - :banshee
+  - :barghest
+  - :black_pudding
+  - :bone_naga
+  - :burrowshark
+  - :chuul
+  - :chuul_spore_servant
+  - :couatl
+  - :decapus
+  - :elephant
+  - :ettin
+  - :flameskull
+  - :ghost
+  - :giant_subterranean_lizard
+  - :girallon
+  - :gnoll_fang_of_yeenoghu
+  - :helmed_horror
+  - :hobgoblin_devastator
+  - :kamadan
+  - :kelpie
+  - :lamia
+  - :langdedrosa_cyanwrath
+  - :liara_portyr
+  - :lizard_king/queen
+  - :neogi_master
+  - :orc_blade_of_ilneval
+  - :orc_war_chief
+  - :pudding_king
+  - :red_dragon_wyrmling
+  - :shadow_demon
+  - :shoalar_quanderil
+  - :stegosaurus
+  - :stonemelder
+  - :succubus/incubus
+  - :tecuziztecatl
+  - :warlock_of_the_archfey
+  - :wereboar
+  - :weretiger
+  - :yakfolk_priest
+  - :yestabrod
+  - :yeth_hound
+  - :yuan_ti_mind_whisperer
+  - :yuan_ti_nightmare_speaker
+  11:
+  - :baba_lysaga
+  - :baba_lysaga’s_creeping_hut
+  - :behir
+  - :cloud_giant_smiling_one
+  - :dao
+  - :djinni
+  - :efreeti
+  - :gynosphinx
+  - :horned_devil
+  - :marid
+  - :morkoth
+  - :naergoth_bladelord
+  - :remorhaz
+  - :roc
+  - :severin
+  19:
+  - :balor
+  - :imix
+  0.125:
+  - :bandit
+  - :blood_hawk
+  - :boggle
+  - :bridesmaid_of_zuggtmoy
+  - :camel
+  - :cultist
+  - :dolphin
+  - :drow_spore_servant
+  - :flumph
+  - :flying_snake
+  - :giant_crab
+  - :giant_rat
+  - :giant_weasel
+  - :guard
+  - :howling_hatred_initiate
+  - :kobold
+  - :manes
+  - :mastiff
+  - :merfolk
+  - :monodrone
+  - :mule
+  - :mwaxanaré
+  - :neogi_hatchling
+  - :noble
+  - :poisonous_snake
+  - :pony
+  - :slaad_tadpole
+  - :stirge
+  - :tribal_warrior
+  - :twig_blight
+  - :xvart
+  - :xvart_speaker
+  18:
+  - :demilich
+  - :olhydra
+  - :yan_c_bin
+  26:
+  - :demogorgon
+  - :orcus
+  30:
+  - :tarrasque
+  - :tiamat
+:types:
+  Humanoid:
+  - :aarakocra
+  - :abjurer
+  - :acolyte
+  - :aerisi_kalinoth
+  - :albino_dwarf_spirit_warrior
+  - :albino_dwarf_warrior
+  - :apprentice_wizard
+  - :archdruid
+  - :archer
+  - :archmage
+  - :artus_cimber
+  - :assassin
+  - :augrek_brighthelm
+  - :azbara_jos
+  - :baba_lysaga
+  - :bandit
+  - :bandit_captain
+  - :bard
+  - :barovian_witch
+  - :bastian_thermandar
+  - :beldora
+  - :berserker
+  - :black_earth_guard
+  - :black_earth_priest
+  - :blackguard
+  - :bugbear
+  - :bugbear_chief
+  - :bullywug
+  - :burrowshark
+  - :captain_othelstan
+  - :champion
+  - :commoner
+  - :conjurer
+  - :crushing_wave_priest
+  - :crushing_wave_reaver
+  - :cult_fanatic
+  - :cultist
+  - :darathra_shendrel
+  - :dark_tide_knight
+  - :darz_helgar
+  - :deep_gnome_(svirfneblin)
+  - :deep_scion
+  - :derro
+  - :derro_savant
+  - :diviner
+  - :dragonbait
+  - :dragonclaw
+  - :dragonfang
+  - :dragonsoul
+  - :dragonwing
+  - :dralmorrer_borngray
+  - :drannin_splithelm
+  - :droki
+  - :drow
+  - :drow_elite_warrior
+  - :drow_mage
+  - :drow_priestess_of_lolth
+  - :druid
+  - :duergar
+  - :duergar_darkhaft
+  - :duergar_kavalrachni
+  - :duergar_keeper_of_the_flame
+  - :duergar_soulblade
+  - :duergar_spy
+  - :duergar_stone_guard
+  - :duergar_xarrorn
+  - :duvessa_shane
+  - :elizar_dryflagon
+  - :emerald_enclave_scout
+  - :enchanter
+  - :eternal_flame_guardian
+  - :eternal_flame_priest
+  - :evil_mage
+  - :evoker
+  - :ezmerelda_d’avenir
+  - :fathomer
+  - :feathergale_knight
+  - :firenewt_warlock_of_imix
+  - :firenewt_warrior
+  - :flamewrath
+  - :flind
+  - :frulam_mondath
+  - :gar_shatterkeel
+  - :ghald
+  - :ghelryn_foehammer
+  - :githyanki_knight
+  - :githyanki_warrior
+  - :githzerai_monk
+  - :githzerai_zerth
+  - :gladiator
+  - :gnoll
+  - :gnoll_fang_of_yeenoghu
+  - :gnoll_flesh_gnawer
+  - :gnoll_hunter
+  - :gnoll_pack_lord
+  - :goblin
+  - :goblin_boss
+  - :grimlock
+  - :grisha
+  - :grumink_the_renegade
+  - :grung
+  - :grung_elite_warrior
+  - :grung_wildling
+  - :guard
+  - :half_blue_dragon_gladiator
+  - :half_green_dragon_assassin
+  - :half_red_dragon_gladiator
+  - :half_red_dragon_veteran
+  - :hellenrae
+  - :hobgoblin
+  - :hobgoblin_captain
+  - :hobgoblin_devastator
+  - :hobgoblin_iron_shadow
+  - :hobgoblin_warlord
+  - :howling_hatred_initiate
+  - :howling_hatred_priest
+  - :hurricane
+  - :illusionist
+  - :izek_strazni
+  - :jackalwere
+  - :jamna_gleamsilver
+  - :kasimir_velikov
+  - :kenku
+  - :knight
+  - :kobold
+  - :kobold_dragonshield
+  - :kobold_inventor
+  - :kobold_scale_sorcerer
+  - :kraken_priest
+  - :kuo_toa
+  - :kuo_toa_archpriest
+  - :kuo_toa_monitor
+  - :kuo_toa_whip
+  - :langdedrosa_cyanwrath
+  - :liara_portyr
+  - :lizard_king/queen
+  - :lizardfolk
+  - :lizardfolk_shaman
+  - :lords’_alliance_guard
+  - :lords’_alliance_spy
+  - :madam_eva
+  - :mage
+  - :markham_southwell
+  - :martial_arts_adept
+  - :master_thief
+  - :merfolk
+  - :miraj_vizann
+  - :miros_xelbrin
+  - :mongrelfolk
+  - :mwaxanaré
+  - :narrak
+  - :narth_tezrin
+  - :naxene_drathkala
+  - :necromancer
+  - :neronvain
+  - :nezznar_the_black_spider
+  - :nilbog
+  - :noble
+  - :one_eyed_shiver
+  - :orc
+  - :orc_blade_of_ilneval
+  - :orc_claw_of_luthic
+  - :orc_eye_of_gruumsh
+  - :orc_hand_of_yurtrus
+  - :orc_nurtured_one_of_yurtrus
+  - :orc_red_fang_of_shargaas
+  - :orc_war_chief
+  - :oreioth
+  - :oren_yogilvy
+  - :orog
+  - :othovir
+  - :pharblex_spattergoo
+  - :priest
+  - :pudding_king
+  - :quaggoth
+  - :quaggoth_thonot
+  - :rahadin
+  - :rath_modar
+  - :razerblast
+  - :redbrand_ruffian
+  - :rezmir
+  - :rictavio
+  - :sacred_stone_monk
+  - :sahuagin
+  - :sahuagin_baron
+  - :sahuagin_priestess
+  - :scout
+  - :sea_spawn
+  - :severin
+  - :shalvus_martholio
+  - :sharwyn_hucrele
+  - :shoalar_quanderil
+  - :sildar_hallwinter
+  - :sir_baric_nylef
+  - :sir_braford
+  - :sirac_of_suzail
+  - :skyweaver
+  - :spy
+  - :stonemelder
+  - :swashbuckler
+  - :tabaxi_hunter
+  - :tabaxi_minstrel
+  - :talis_the_white
+  - :thayan_apprentice
+  - :thayan_warrior
+  - :thri_kreen
+  - :thug
+  - :thurl_merosska
+  - :tortle
+  - :tortle_druid
+  - :transmuter
+  - :tribal_warrior
+  - :troglodyte
+  - :troglodyte_champion_of_laogzed
+  - :urgala_meltimer
+  - :uthgardt_shaman
+  - :vanifer
+  - :veteran
+  - :veteran_of_the_gauntlet
+  - :volothamp_“volo”_geddarm
+  - :war_priest
+  - :warlock_of_the_archfey
+  - :warlock_of_the_fiend
+  - :warlock_of_the_great_old_one
+  - :warlord
+  - :werebear
+  - :wereboar
+  - :wererat
+  - :wereraven
+  - :weretiger
+  - :werewolf
+  - :wiggan_nettlebee
+  - :windharrow
+  - :winged_kobold
+  - :xandala
+  - :xvart
+  - :xvart_speaker
+  - :xvart_warlock_of_raxivort
+  - :yuan_ti_broodguard
+  - :yuan_ti_pureblood
+  - :yusdrayl
+  - :zhentarim_thug
+  - :zi_liang
+  - :zindar
+  Aberration:
+  - :aboleth
+  - :beholder
+  - :blue_slaad
+  - :choker
+  - :chuul
+  - :cloaker
+  - :death_kiss
+  - :death_slaad
+  - :elder_brain
+  - :flumph
+  - :gauth
+  - :gazer
+  - :gazer_familiar
+  - :gibbering_mouther
+  - :gray_slaad
+  - :green_slaad
+  - :grell
+  - :intellect_devourer
+  - :ixitxachitl
+  - :ixitxachitl_cleric
+  - :mind_flayer
+  - :mind_flayer_arcanist
+  - :mindwitness
+  - :morkoth
+  - :neogi
+  - :neogi_hatchling
+  - :neogi_master
+  - :neothelid
+  - :nothic
+  - :otyugh
+  - :red_slaad
+  - :slaad_tadpole
+  - :spectator
+  - :ulitharid
+  - :vampiric_ixitxachitl
+  Monstrosity:
+  - :abominable_yeti
+  - :aldani_(lobsterfolk)
+  - :androsphinx
+  - :ankheg
+  - :banderhobb
+  - :basilisk
+  - :behir
+  - :bulette
+  - :carrion_crawler
+  - :catoblepas
+  - :cave_fisher
+  - :centaur
+  - :chimera
+  - :chitine
+  - :choldrith
+  - :cockatrice
+  - :darkmantle
+  - :death_dog
+  - :decapus
+  - :displacer_beast
+  - :doppelganger
+  - :drider
+  - :eblis
+  - :ettercap
+  - :froghemoth
+  - :giant_ice_toad
+  - :giant_strider
+  - :girallon
+  - :gorgon
+  - :grick
+  - :grick_alpha
+  - :griffon
+  - :guardian_naga
+  - :gynosphinx
+  - :harpy
+  - :hippogriff
+  - :hook_horror
+  - :hydra
+  - :ice_toad
+  - :kalka_kylla
+  - :kamadan
+  - :kraken
+  - :lamia
+  - :leucrotta
+  - :malformed_kraken
+  - :manticore
+  - :marlos_urnrayle
+  - :medusa
+  - :merrow
+  - :mimic
+  - :minotaur
+  - :owlbear
+  - :peryton
+  - :phase_spider
+  - :piercer
+  - :pterafolk
+  - :purple_worm
+  - :purple_wormling
+  - :ras_nsi
+  - :remorhaz
+  - :roc
+  - :roper
+  - :rust_monster
+  - :sea_lion
+  - :shadow_mastiff
+  - :shadow_mastiff_alpha
+  - :spirit_naga
+  - :su_monster
+  - :tarrasque
+  - :tecuziztecatl
+  - :tlincalli
+  - :trapper
+  - :umber_hulk
+  - :winter_wolf
+  - :worg
+  - :yakfolk_priest
+  - :yakfolk_warrior
+  - :yestabrod
+  - :yeti
+  - :young_remorhaz
+  - :yuan_ti_abomination
+  - :yuan_ti_anathema
+  - :yuan_ti_malison
+  - :yuan_ti_mind_whisperer
+  - :yuan_ti_nightmare_speaker
+  - :yuan_ti_pit_master
+  - :zorbo
+  Undead:
+  - :acererak
+  - :adult_blue_dracolich
+  - :alhoon
+  - :ankylosaurus_zombie
+  - :atropal
+  - :avatar_of_death
+  - :banshee
+  - :beholder_zombie
+  - :bodak
+  - :bone_naga
+  - :centaur_mummy
+  - :crawling_claw
+  - :death_knight
+  - :death_tyrant
+  - :deathlock_wight
+  - :demilich
+  - :dread_warrior
+  - :flameskull
+  - :ghast
+  - :ghost
+  - :ghoul
+  - :giant_skeleton
+  - :girallon_zombie
+  - :gnoll_witherling
+  - :greater_zombie
+  - :lich
+  - :mind_flayer_lich_(illithilich)
+  - :minotaur_skeleton
+  - :mormesk_the_wraith
+  - :mummy
+  - :mummy_lord
+  - :naergoth_bladelord
+  - :ogre_zombie
+  - :ooze_master
+  - :phantom_warrior
+  - :poltergeist
+  - :revenant
+  - :shadow
+  - :skeleton
+  - :spawn_of_kyuss
+  - :specter
+  - :strahd_von_zarovich
+  - :strahd_zombie
+  - :tarul_var
+  - :topi
+  - :tyrannosaurus_zombie
+  - :vampire
+  - :vampire_spawn
+  - :vampire_spellcaster
+  - :vampire_warrior
+  - :vampiric_mist
+  - :vladimir_horngaard
+  - :warhorse_skeleton
+  - :wight
+  - :will_o_wisp
+  - :wraith
+  - :yellow_musk_zombie
+  - :zombie
+  Dragon:
+  - :adult_black_dragon
+  - :adult_blue_dragon
+  - :adult_brass_dragon
+  - :adult_bronze_dragon
+  - :adult_copper_dragon
+  - :adult_gold_dragon
+  - :adult_green_dragon
+  - :adult_red_dragon
+  - :adult_silver_dragon
+  - :adult_white_dragon
+  - :ambush_drake
+  - :ancient_black_dragon
+  - :ancient_blue_dragon
+  - :ancient_brass_dragon
+  - :ancient_bronze_dragon
+  - :ancient_copper_dragon
+  - :ancient_gold_dragon
+  - :ancient_green_dragon
+  - :ancient_red_dragon
+  - :ancient_silver_dragon
+  - :ancient_white_dragon
+  - :black_dragon_wyrmling
+  - :black_guard_drake
+  - :blue_dragon_wyrmling
+  - :blue_guard_drake
+  - :brass_dragon_wyrmling
+  - :bronze_dragon_wyrmling
+  - :copper_dragon_wyrmling
+  - :dragon_turtle
+  - :faerie_dragon_(older)
+  - :faerie_dragon_(younger)
+  - :gold_dragon_wyrmling
+  - :green_dragon_wyrmling
+  - :green_guard_drake
+  - :guard_drake
+  - :iymrith
+  - :pseudodragon
+  - :red_dragon_wyrmling
+  - :red_guard_drake
+  - :silver_dragon_wyrmling
+  - :white_dragon_wyrmling
+  - :white_guard_drake
+  - :wyvern
+  - :young_black_dragon
+  - :young_blue_dragon
+  - :young_brass_dragon
+  - :young_bronze_dragon
+  - :young_copper_dragon
+  - :young_gold_dragon
+  - :young_green_dragon
+  - :young_red_dragon
+  - :young_red_shadow_dragon
+  - :young_silver_dragon
+  - :young_white_dragon
+  Elemental:
+  - :air_elemental
+  - :air_elemental_myrmidon
+  - :azer
+  - :chwinga
+  - :dao
+  - :djinni
+  - :dust_mephit
+  - :earth_elemental
+  - :earth_elemental_myrmidon
+  - :efreeti
+  - :fire_elemental
+  - :fire_elemental_myrmidon
+  - :fire_snake
+  - :flail_snail
+  - :galeb_duhr
+  - :gargoyle
+  - :geonid
+  - :giant_four_armed_gargoyle
+  - :ice_mephit
+  - :imix
+  - :invisible_stalker
+  - :maegera_the_dawn_titan
+  - :magma_mephit
+  - :magmin
+  - :marid
+  - :mud_mephit
+  - :ogrémoch
+  - :olhydra
+  - :salamander
+  - :smoke_mephit
+  - :steam_mephit
+  - :water_elemental
+  - :water_elemental_myrmidon
+  - :water_weird
+  - :xorn
+  - :yan_c_bin
+  Beast:
+  - :allosaurus
+  - :almiraj
+  - :ankylosaurus
+  - :ape
+  - :aurochs
+  - :axe_beak
+  - :baboon
+  - :badger
+  - :bat
+  - :black_bear
+  - :blood_hawk
+  - :boar
+  - :brontosaurus
+  - :brown_bear
+  - :camel
+  - :cat
+  - :cave_bear
+  - :constrictor_snake
+  - :cow
+  - :crab
+  - :crag_cat
+  - :cranium_rat
+  - :crocodile
+  - :deep_rothé
+  - :deer
+  - :deinonychus
+  - :dimetrodon
+  - :dire_wolf
+  - :dolphin
+  - :draft_horse
+  - :eagle
+  - :elephant
+  - :elk
+  - :female_steeder
+  - :flying_monkey
+  - :flying_snake
+  - :frog
+  - :giant_ape
+  - :giant_badger
+  - :giant_bat
+  - :giant_boar
+  - :giant_centipede
+  - :giant_constrictor_snake
+  - :giant_crab
+  - :giant_crayfish
+  - :giant_crocodile
+  - :giant_eagle
+  - :giant_elk
+  - :giant_fire_beetle
+  - :giant_fly
+  - :giant_frog
+  - :giant_goat
+  - :giant_hyena
+  - :giant_lightning_eel
+  - :giant_lizard
+  - :giant_octopus
+  - :giant_owl
+  - :giant_poisonous_snake
+  - :giant_rat
+  - :giant_riding_lizard
+  - :giant_scorpion
+  - :giant_sea_horse
+  - :giant_shark
+  - :giant_snapping_turtle
+  - :giant_spider
+  - :giant_subterranean_lizard
+  - :giant_toad
+  - :giant_vulture
+  - :giant_wasp
+  - :giant_weasel
+  - :giant_wolf_spider
+  - :goat
+  - :hadrosaurus
+  - :hawk
+  - :hulking_crab
+  - :hunter_shark
+  - :hyena
+  - :jackal
+  - :jaculi
+  - :killer_whale
+  - :lion
+  - :lizard
+  - :male_steeder
+  - :mammoth
+  - :mastiff
+  - :mule
+  - :octopus
+  - :owl
+  - :ox
+  - :panther
+  - :plesiosaurus
+  - :poisonous_snake
+  - :polar_bear
+  - :pony
+  - :pteranodon
+  - :quetzalcoatlus
+  - :quipper
+  - :rat
+  - :raven
+  - :reef_shark
+  - :rhinoceros
+  - :riding_horse
+  - :rothé
+  - :saber_toothed_tiger
+  - :scorpion
+  - :sea_horse
+  - :spider
+  - :stegosaurus
+  - :stench_kow
+  - :stirge
+  - :swarm_of_bats
+  - :swarm_of_cranium_rats
+  - :swarm_of_insects
+  - :swarm_of_poisonous_snakes
+  - :swarm_of_quippers
+  - :swarm_of_rats
+  - :swarm_of_ravens
+  - :swarm_of_rot_grubs
+  - :tiger
+  - :tressym
+  - :triceratops
+  - :tyrannosaurus_rex
+  - :velociraptor
+  - :vulture
+  - :warhorse
+  - :weasel
+  - :wolf
+  Construct:
+  - :animated_armor
+  - :animated_table
+  - :baba_lysaga’s_creeping_hut
+  - :broom_of_animated_attack
+  - :clay_golem
+  - :duodrone
+  - :flesh_golem
+  - :flying_sword
+  - :guardian_portrait
+  - :helmed_horror
+  - :homunculus
+  - :iron_golem
+  - :monodrone
+  - :pentadrone
+  - :pidlwick_ii
+  - :quadrone
+  - :rug_of_smothering
+  - :scarecrow
+  - :shield_guardian
+  - :stone_golem
+  - :stone_juggernaut
+  - :strahd’s_animated_armor
+  - :tiny_servant
+  - :tridrone
+  Fey:
+  - :annis_hag
+  - :bheur_hag
+  - :blink_dog
+  - :boggle
+  - :darkling
+  - :darkling_elder
+  - :dryad
+  - :green_hag
+  - :korred
+  - :meenlock
+  - :nereid
+  - :pixie
+  - :quickling
+  - :redcap
+  - :satyr
+  - :sea_hag
+  - :siren
+  - :sprite
+  - :yeth_hound
+  Fiend:
+  - :arcanaloth
+  - :babau
+  - :balor
+  - :baphomet
+  - :barbed_devil
+  - :barghest
+  - :barlgura
+  - :bearded_devil
+  - :bone_devil
+  - :cambion
+  - :chain_devil
+  - :chasme
+  - :demogorgon
+  - :devourer
+  - :draegloth
+  - :dretch
+  - :erinyes
+  - :fraz_urb’luu
+  - :glabrezu
+  - :goristro
+  - :graz’zt
+  - :hell_hound
+  - :hezrou
+  - :horned_devil
+  - :ice_devil
+  - :imp
+  - :juiblex
+  - :larva
+  - :lemure
+  - :manes
+  - :marilith
+  - :maw_demon
+  - :mezzoloth
+  - :nalfeshnee
+  - :night_hag
+  - :nightmare
+  - :nycaloth
+  - :orcus
+  - :pit_fiend
+  - :quasit
+  - :rakshasa
+  - :shadow_demon
+  - :shoosuva
+  - :spined_devil
+  - :succubus/incubus
+  - :tanarukk
+  - :tiamat
+  - :ultroloth
+  - :vargouille
+  - :vrock
+  - :yeenoghu
+  - :yochlol
+  - :zuggtmoy
+  Plant:
+  - :assassin_vine
+  - :awakened_shrub
+  - :awakened_tree
+  - :awakened_zurkhwood
+  - :bridesmaid_of_zuggtmoy
+  - :chamberlain_of_zuggtmoy
+  - :chuul_spore_servant
+  - :drow_spore_servant
+  - :duergar_spore_servant
+  - :gas_spore
+  - :hook_horror_spore_servant
+  - :kelpie
+  - :lifferlas
+  - :mantrap
+  - :myconid_adult
+  - :myconid_sovereign
+  - :myconid_sprout
+  - :needle_blight
+  - :quaggoth_spore_servant
+  - :shambling_mound
+  - :shrieker
+  - :thorn_slinger
+  - :thorny
+  - :treant
+  - :tree_blight
+  - :tri_flower_frond
+  - :twig_blight
+  - :vegepygmy
+  - :vegepygmy_chief
+  - :vine_blight
+  - :violet_fungus
+  - :wood_woad
+  - :yellow_musk_creeper
+  Ooze:
+  - :black_pudding
+  - :gelatinous_cube
+  - :gray_ooze
+  - :ochre_jelly
+  - :psychic_gray_ooze
+  - :slithering_tracker
+  - :white_maw
+  Giant:
+  - :blagothkus
+  - :cloud_giant
+  - :cloud_giant_smiling_one
+  - :cyclops
+  - :ettin
+  - :fire_giant
+  - :fire_giant_dreadnought
+  - :fomorian
+  - :four_armed_troll
+  - :frost_giant
+  - :frost_giant_everlasting_one
+  - :half_ogre
+  - :hill_giant
+  - :ice_troll
+  - :mouth_of_grolantor
+  - :nimir
+  - :ogre
+  - :oni
+  - :orlekto
+  - :scrag
+  - :shaldoor
+  - :stone_giant
+  - :stone_giant_dreamwalker
+  - :storm_giant
+  - :storm_giant_quintessent
+  - :troll
+  - :vaasha
+  Celestial:
+  - :couatl
+  - :deva
+  - :empyrean
+  - :ki_rin
+  - :pegasus
+  - :planetar
+  - :solar
+  - :the_abbot
+  - :unicorn
