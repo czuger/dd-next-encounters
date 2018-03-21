@@ -14,6 +14,7 @@ end
 class Monster
 
   attr_reader :challenge, :name, :type, :source, :key
+  attr_accessor :xp_value
 
   def initialize( challenge, name, type, source )
     set_instance_variables(binding, *local_variables)
