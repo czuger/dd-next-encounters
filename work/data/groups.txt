@@ -9,4 +9,4 @@ gobelin goblin_boss goblin hobgoblin_captain hobgoblin_warlord hobgoblin bugbear
 hobgobelin hobgoblin_captain hobgoblin_warlord hobgoblin 
 bugbear bugbear_chief bugbear
 
-orc_basic orc_war_chief orc_eye_of_gruumsh orc 
+orc orc_war_chief orc_eye_of_gruumsh orc

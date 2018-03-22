@@ -1,0 +1,81 @@
+---
+:zombie:
+  :groups:
+  - :undead
+  - :undead_mythical
+  - :undead_vampire
+:skeleton:
+  :groups:
+  - :undead
+  - :undead_mythical
+  - :undead_vampire
+:ghoul:
+  :groups:
+  - :undead
+  - :undead_mythical
+  - :undead_vampire
+:shadow:
+  :groups:
+  - :undead
+:specter:
+  :groups:
+  - :undead
+:ghast:
+  :groups:
+  - :undead
+:minotaur_skeleton:
+  :groups:
+  - :undead_mythical
+:mummy:
+  :groups:
+  - :undead_mythical
+:mummy_lord:
+  :groups:
+  - :undead_mythical
+:vampire:
+  :groups:
+  - :undead_vampire
+:vampire_spawn:
+  :groups:
+  - :undead_vampire
+:vampire_spellcaster:
+  :groups:
+  - :undead_vampire
+:vampire_warrior:
+  :groups:
+  - :undead_vampire
+:goblin_boss:
+  :groups:
+  - :gobelin
+:goblin:
+  :groups:
+  - :gobelin
+:hobgoblin_captain:
+  :groups:
+  - :gobelin
+  - :hobgobelin
+:hobgoblin_warlord:
+  :groups:
+  - :gobelin
+  - :hobgobelin
+:hobgoblin:
+  :groups:
+  - :gobelin
+  - :hobgobelin
+:bugbear_chief:
+  :groups:
+  - :gobelin
+  - :bugbear
+:bugbear:
+  :groups:
+  - :gobelin
+  - :bugbear
+:orc_war_chief:
+  :groups:
+  - :orc
+:orc_eye_of_gruumsh:
+  :groups:
+  - :orc
+:orc:
+  :groups:
+  - :orc
