@@ -4,7 +4,7 @@ xp_table = {}
 
 difficulties = [ :easy, :medium, :hard, :deadly ]
 
-File.open( 'xp_tables.txt', 'r' ) do |f|
+File.open( 'data/xp_tables.txt', 'r' ) do |f|
   f.readlines.each_with_index do |line, index|
     next if index == 0
     l_data = line.split.map{ |e| e.to_i }
@@ -17,4 +17,4 @@ File.open( 'xp_tables.txt', 'r' ) do |f|
   end
 end
 
-File.open( 'xp_difficulty_table.yml', 'w' ){ |f| f.write xp_table.to_yaml }
+File.open( '../db/xp_difficulty_table.yml', 'w' ){ |f| f.write xp_table.to_yaml }

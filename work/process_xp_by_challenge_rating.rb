@@ -2,7 +2,7 @@ require 'yaml'
 
 xp_by_challenge_rating = {}
 
-File.open( 'xp_by_challenge_rating.txt', 'r' ) do |f|
+File.open( 'data/xp_by_challenge_rating.txt', 'r' ) do |f|
   f.readlines.each_with_index do |line, index|
     next if index == 0
     l_data = line.split
@@ -17,4 +17,4 @@ File.open( 'xp_by_challenge_rating.txt', 'r' ) do |f|
   end
 end
 
-File.open( 'xp_by_challenge_rating.yml', 'w' ){ |f| f.write xp_by_challenge_rating.to_yaml }
+File.open( 'data/xp_by_challenge_rating.yml', 'w' ){ |f| f.write xp_by_challenge_rating.to_yaml }

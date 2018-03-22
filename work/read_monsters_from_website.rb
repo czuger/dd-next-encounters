@@ -53,5 +53,5 @@ end
 
 # pp monsters
 
-File.open('../db/monsters.yml', 'w') {|f| f.write monsters.to_yaml }
+File.open('data/monsters.yml', 'w') {|f| f.write monsters.to_yaml }
 
