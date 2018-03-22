@@ -1,9 +1,8 @@
 require 'yaml'
-require_relative '../lib/monsters_manual'
 
 xp_by_challenge_rating = {}
 
-File.open( 'work/xp_by_challenge_rating.txt', 'r' ) do |f|
+File.open( 'xp_by_challenge_rating.txt', 'r' ) do |f|
   f.readlines.each_with_index do |line, index|
     next if index == 0
     l_data = line.split
@@ -18,9 +17,4 @@ File.open( 'work/xp_by_challenge_rating.txt', 'r' ) do |f|
   end
 end
 
-m = MonstersManual.new
-m.load
-m.rebuild
-m.set_xp( xp_by_challenge_rating )
-
-m.save
+File.open( 'xp_by_challenge_rating.yml', 'w' ){ |f| f.write xp_by_challenge_rating.to_yaml }
