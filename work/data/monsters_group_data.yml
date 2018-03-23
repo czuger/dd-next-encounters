@@ -4,78 +4,135 @@
   - :undead
   - :undead_mythical
   - :undead_vampire
+  :boss: false
+  :superior_to: []
 :skeleton:
   :groups:
   - :undead
   - :undead_mythical
   - :undead_vampire
+  :boss: false
+  :superior_to: []
 :ghoul:
   :groups:
   - :undead
   - :undead_mythical
   - :undead_vampire
+  :boss: false
+  :superior_to: []
 :shadow:
   :groups:
   - :undead
+  :boss: false
+  :superior_to: []
 :specter:
   :groups:
   - :undead
+  :boss: false
+  :superior_to: []
 :ghast:
   :groups:
   - :undead
+  :boss: false
+  :superior_to: []
 :minotaur_skeleton:
   :groups:
   - :undead_mythical
+  :boss: false
+  :superior_to: []
 :mummy:
   :groups:
   - :undead_mythical
+  :boss: false
+  :superior_to: []
 :mummy_lord:
   :groups:
   - :undead_mythical
+  :boss: true
+  :superior_to: []
 :vampire:
   :groups:
   - :undead_vampire
+  :boss: false
+  :superior_to: []
 :vampire_spawn:
   :groups:
   - :undead_vampire
+  :boss: false
+  :superior_to: []
 :vampire_spellcaster:
   :groups:
   - :undead_vampire
+  :boss: false
+  :superior_to: []
 :vampire_warrior:
   :groups:
   - :undead_vampire
+  :boss: false
+  :superior_to: []
 :goblin_boss:
   :groups:
   - :gobelin
+  :boss: true
+  :superior_to: []
 :goblin:
   :groups:
   - :gobelin
+  :boss: false
+  :superior_to: []
 :hobgoblin_captain:
   :groups:
   - :gobelin
   - :hobgobelin
+  :boss: true
+  :superior_to: []
 :hobgoblin_warlord:
   :groups:
   - :gobelin
   - :hobgobelin
+  :boss: true
+  :superior_to: []
 :hobgoblin:
   :groups:
   - :gobelin
   - :hobgobelin
+  :boss: false
+  :superior_to: []
 :bugbear_chief:
   :groups:
   - :gobelin
   - :bugbear
+  :boss: true
+  :superior_to: []
 :bugbear:
   :groups:
   - :gobelin
   - :bugbear
+  :boss: false
+  :superior_to: []
 :orc_war_chief:
   :groups:
   - :orc
+  :boss: true
+  :superior_to: []
 :orc_eye_of_gruumsh:
   :groups:
   - :orc
+  :boss: true
+  :superior_to: []
 :orc:
   :groups:
   - :orc
+  :boss: true
+  :superior_to: []
+:bugbears:
+  :groups: []
+  :boss: false
+  :superior_to:
+  - goblins
+  - hobgoblins
+:hobgoblins:
+  :groups: []
+  :boss: false
+  :superior_to:
+  - goblins
