@@ -10,6 +10,7 @@ class MonstersManual
     @sources = {}
     @challenges = {}
     @types = {}
+    @groups = {}
   end
 
   def load
@@ -18,6 +19,7 @@ class MonstersManual
     @sources = monster_manual[:sources]
     @challenges = monster_manual[:challenges]
     @types = monster_manual[:types]
+    @groups = monster_manual[:groups]
   end
 
   def save( filename )
@@ -25,7 +27,8 @@ class MonstersManual
         monsters: @monsters,
         sources: @sources,
         challenges: @challenges,
-        types: @types
+        types: @types,
+        groups: @groups
     }
     File.open( filename, 'w' ){ |f| f.write monster_manual.to_yaml }
   end
@@ -66,6 +69,11 @@ class MonstersManual
 
     @types[monster.type] ||= []
     @types[monster.type] << monster
+
+    monster.groups.each do |group|
+      @groups[group] ||= []
+      @groups[group] << monster
+    end
   end
 
 end

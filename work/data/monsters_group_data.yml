@@ -129,10 +129,10 @@
   :groups: []
   :boss: false
   :superior_to:
-  - goblins
-  - hobgoblins
+  - :goblins
+  - :hobgoblins
 :hobgoblins:
   :groups: []
   :boss: false
   :superior_to:
-  - goblins
+  - :goblins

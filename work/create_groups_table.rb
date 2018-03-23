@@ -36,7 +36,7 @@ File.open( 'data/hierarchy.txt', 'r' ) do |f|
     next if line.empty?
     superior, _, inferior = line
     monsters_group_data[ superior.to_sym ] ||= eval( default_group_entry.clone )
-    monsters_group_data[ superior.to_sym ][ :superior_to ] << inferior
+    monsters_group_data[ superior.to_sym ][ :superior_to ] << inferior.to_sym
   end
 end
 

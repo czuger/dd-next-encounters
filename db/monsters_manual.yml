@@ -7,6 +7,8 @@
     source: Monster Manual
     key: :aarakocra
     xp_value: 50
+    boss: false
+    groups: []
   :abjurer: &111 !ruby/object:Monster
     challenge: 9
     name: Abjurer
@@ -14,6 +16,8 @@
     source: Volo's Guide to Monsters
     key: :abjurer
     xp_value: 5000
+    boss: false
+    groups: []
   :aboleth: &247 !ruby/object:Monster
     challenge: 10
     name: Aboleth
@@ -21,6 +25,8 @@
     source: Basic Rules
     key: :aboleth
     xp_value: 5900
+    boss: false
+    groups: []
   :abominable_yeti: &2 !ruby/object:Monster
     challenge: 9
     name: Abominable Yeti
@@ -28,6 +34,8 @@
     source: Monster Manual
     key: :abominable_yeti
     xp_value: 5000
+    boss: false
+    groups: []
   :acererak: &574 !ruby/object:Monster
     challenge: 23
     name: Acererak
@@ -35,6 +43,8 @@
     source: Tomb of Annihilation
     key: :acererak
     xp_value: 50000
+    boss: false
+    groups: []
   :acolyte: &248 !ruby/object:Monster
     challenge: 0.25
     name: Acolyte
@@ -42,6 +52,8 @@
     source: Basic Rules
     key: :acolyte
     xp_value: 50
+    boss: false
+    groups: []
   :adult_black_dragon: &249 !ruby/object:Monster
     challenge: 14
     name: Adult Black Dragon
@@ -49,6 +61,8 @@
     source: Basic Rules
     key: :adult_black_dragon
     xp_value: 11500
+    boss: false
+    groups: []
   :adult_blue_dracolich: &3 !ruby/object:Monster
     challenge: 17
     name: Adult Blue Dracolich
@@ -56,6 +70,8 @@
     source: Monster Manual
     key: :adult_blue_dracolich
     xp_value: 18000
+    boss: false
+    groups: []
   :adult_blue_dragon: &250 !ruby/object:Monster
     challenge: 16
     name: Adult Blue Dragon
@@ -63,6 +79,8 @@
     source: Basic Rules
     key: :adult_blue_dragon
     xp_value: 15000
+    boss: false
+    groups: []
   :adult_brass_dragon: &251 !ruby/object:Monster
     challenge: 13
     name: Adult Brass Dragon
@@ -70,6 +88,8 @@
     source: Basic Rules
     key: :adult_brass_dragon
     xp_value: 10000
+    boss: false
+    groups: []
   :adult_bronze_dragon: &252 !ruby/object:Monster
     challenge: 15
     name: Adult Bronze Dragon
@@ -77,6 +97,8 @@
     source: Basic Rules
     key: :adult_bronze_dragon
     xp_value: 13000
+    boss: false
+    groups: []
   :adult_copper_dragon: &253 !ruby/object:Monster
     challenge: 14
     name: Adult Copper Dragon
@@ -84,6 +106,8 @@
     source: Basic Rules
     key: :adult_copper_dragon
     xp_value: 11500
+    boss: false
+    groups: []
   :adult_gold_dragon: &254 !ruby/object:Monster
     challenge: 17
     name: Adult Gold Dragon
@@ -91,6 +115,8 @@
     source: Basic Rules
     key: :adult_gold_dragon
     xp_value: 18000
+    boss: false
+    groups: []
   :adult_green_dragon: &255 !ruby/object:Monster
     challenge: 15
     name: Adult Green Dragon
@@ -98,6 +124,8 @@
     source: Basic Rules
     key: :adult_green_dragon
     xp_value: 13000
+    boss: false
+    groups: []
   :adult_red_dragon: &256 !ruby/object:Monster
     challenge: 17
     name: Adult Red Dragon
@@ -105,6 +133,8 @@
     source: Basic Rules
     key: :adult_red_dragon
     xp_value: 18000
+    boss: false
+    groups: []
   :adult_silver_dragon: &257 !ruby/object:Monster
     challenge: 16
     name: Adult Silver Dragon
@@ -112,6 +142,8 @@
     source: Basic Rules
     key: :adult_silver_dragon
     xp_value: 15000
+    boss: false
+    groups: []
   :adult_white_dragon: &258 !ruby/object:Monster
     challenge: 13
     name: Adult White Dragon
@@ -119,6 +151,8 @@
     source: Basic Rules
     key: :adult_white_dragon
     xp_value: 10000
+    boss: false
+    groups: []
   :aerisi_kalinoth: &609 !ruby/object:Monster
     challenge: 7
     name: Aerisi Kalinoth
@@ -126,6 +160,8 @@
     source: Princes of the Apocalypse
     key: :aerisi_kalinoth
     xp_value: 2900
+    boss: false
+    groups: []
   :air_elemental: &259 !ruby/object:Monster
     challenge: 5
     name: Air Elemental
@@ -133,6 +169,8 @@
     source: Basic Rules
     key: :air_elemental
     xp_value: 1800
+    boss: false
+    groups: []
   :air_elemental_myrmidon: &610 !ruby/object:Monster
     challenge: 7
     name: Air Elemental Myrmidon
@@ -140,6 +178,8 @@
     source: Princes of the Apocalypse
     key: :air_elemental_myrmidon
     xp_value: 2900
+    boss: false
+    groups: []
   :albino_dwarf_spirit_warrior: &575 !ruby/object:Monster
     challenge: 1
     name: Albino Dwarf Spirit Warrior
@@ -147,6 +187,8 @@
     source: Tomb of Annihilation
     key: :albino_dwarf_spirit_warrior
     xp_value: 200
+    boss: false
+    groups: []
   :albino_dwarf_warrior: &576 !ruby/object:Monster
     challenge: 0.25
     name: Albino Dwarf Warrior
@@ -154,6 +196,8 @@
     source: Tomb of Annihilation
     key: :albino_dwarf_warrior
     xp_value: 50
+    boss: false
+    groups: []
   :aldani_lobsterfolk: &577 !ruby/object:Monster
     challenge: 1
     name: Aldani (Lobsterfolk)
@@ -161,6 +205,8 @@
     source: Tomb of Annihilation
     key: :aldani_lobsterfolk
     xp_value: 200
+    boss: false
+    groups: []
   :alhoon: &112 !ruby/object:Monster
     challenge: 10
     name: Alhoon
@@ -168,6 +214,8 @@
     source: Volo's Guide to Monsters
     key: :alhoon
     xp_value: 5900
+    boss: false
+    groups: []
   :allosaurus: &260 !ruby/object:Monster
     challenge: 2
     name: Allosaurus
@@ -175,6 +223,8 @@
     source: Basic Rules
     key: :allosaurus
     xp_value: 450
+    boss: false
+    groups: []
   :almiraj: &578 !ruby/object:Monster
     challenge: 0
     name: Almiraj
@@ -182,6 +232,8 @@
     source: Tomb of Annihilation
     key: :almiraj
     xp_value: 10
+    boss: false
+    groups: []
   :ambush_drake: &652 !ruby/object:Monster
     challenge: 0.5
     name: Ambush Drake
@@ -189,6 +241,8 @@
     source: Hoard of the Dragon Queen
     key: :ambush_drake
     xp_value: 100
+    boss: false
+    groups: []
   :ancient_black_dragon: &261 !ruby/object:Monster
     challenge: 21
     name: Ancient Black Dragon
@@ -196,6 +250,8 @@
     source: Basic Rules
     key: :ancient_black_dragon
     xp_value: 33000
+    boss: false
+    groups: []
   :ancient_blue_dragon: &262 !ruby/object:Monster
     challenge: 23
     name: Ancient Blue Dragon
@@ -203,6 +259,8 @@
     source: Basic Rules
     key: :ancient_blue_dragon
     xp_value: 50000
+    boss: false
+    groups: []
   :ancient_brass_dragon: &263 !ruby/object:Monster
     challenge: 20
     name: Ancient Brass Dragon
@@ -210,6 +268,8 @@
     source: Basic Rules
     key: :ancient_brass_dragon
     xp_value: 25000
+    boss: false
+    groups: []
   :ancient_bronze_dragon: &264 !ruby/object:Monster
     challenge: 22
     name: Ancient Bronze Dragon
@@ -217,6 +277,8 @@
     source: Basic Rules
     key: :ancient_bronze_dragon
     xp_value: 41000
+    boss: false
+    groups: []
   :ancient_copper_dragon: &265 !ruby/object:Monster
     challenge: 21
     name: Ancient Copper Dragon
@@ -224,6 +286,8 @@
     source: Basic Rules
     key: :ancient_copper_dragon
     xp_value: 33000
+    boss: false
+    groups: []
   :ancient_gold_dragon: &266 !ruby/object:Monster
     challenge: 24
     name: Ancient Gold Dragon
@@ -231,6 +295,8 @@
     source: Basic Rules
     key: :ancient_gold_dragon
     xp_value: 62000
+    boss: false
+    groups: []
   :ancient_green_dragon: &267 !ruby/object:Monster
     challenge: 22
     name: Ancient Green Dragon
@@ -238,6 +304,8 @@
     source: Basic Rules
     key: :ancient_green_dragon
     xp_value: 41000
+    boss: false
+    groups: []
   :ancient_red_dragon: &268 !ruby/object:Monster
     challenge: 24
     name: Ancient Red Dragon
@@ -245,6 +313,8 @@
     source: Basic Rules
     key: :ancient_red_dragon
     xp_value: 62000
+    boss: false
+    groups: []
   :ancient_silver_dragon: &269 !ruby/object:Monster
     challenge: 23
     name: Ancient Silver Dragon
@@ -252,6 +322,8 @@
     source: Basic Rules
     key: :ancient_silver_dragon
     xp_value: 50000
+    boss: false
+    groups: []
   :ancient_white_dragon: &270 !ruby/object:Monster
     challenge: 20
     name: Ancient White Dragon
@@ -259,6 +331,8 @@
     source: Basic Rules
     key: :ancient_white_dragon
     xp_value: 25000
+    boss: false
+    groups: []
   :androsphinx: &271 !ruby/object:Monster
     challenge: 17
     name: Androsphinx
@@ -266,6 +340,8 @@
     source: Basic Rules
     key: :androsphinx
     xp_value: 18000
+    boss: false
+    groups: []
   :animated_armor: &272 !ruby/object:Monster
     challenge: 1
     name: Animated Armor
@@ -273,6 +349,8 @@
     source: Basic Rules
     key: :animated_armor
     xp_value: 200
+    boss: false
+    groups: []
   :animated_table: &666 !ruby/object:Monster
     challenge: 2
     name: Animated Table
@@ -280,6 +358,8 @@
     source: The Forge of Fury
     key: :animated_table
     xp_value: 450
+    boss: false
+    groups: []
   :ankheg: &273 !ruby/object:Monster
     challenge: 2
     name: Ankheg
@@ -287,6 +367,8 @@
     source: Basic Rules
     key: :ankheg
     xp_value: 450
+    boss: false
+    groups: []
   :ankylosaurus: &274 !ruby/object:Monster
     challenge: 3
     name: Ankylosaurus
@@ -294,6 +376,8 @@
     source: Basic Rules
     key: :ankylosaurus
     xp_value: 700
+    boss: false
+    groups: []
   :ankylosaurus_zombie: &579 !ruby/object:Monster
     challenge: 3
     name: Ankylosaurus Zombie
@@ -301,6 +385,8 @@
     source: Tomb of Annihilation
     key: :ankylosaurus_zombie
     xp_value: 700
+    boss: false
+    groups: []
   :annis_hag: &113 !ruby/object:Monster
     challenge: 6
     name: Annis Hag
@@ -308,6 +394,8 @@
     source: Volo's Guide to Monsters
     key: :annis_hag
     xp_value: 2300
+    boss: false
+    groups: []
   :ape: &275 !ruby/object:Monster
     challenge: 0.5
     name: Ape
@@ -315,6 +403,8 @@
     source: Basic Rules
     key: :ape
     xp_value: 100
+    boss: false
+    groups: []
   :apprentice_wizard: &114 !ruby/object:Monster
     challenge: 0.25
     name: Apprentice Wizard
@@ -322,6 +412,8 @@
     source: Volo's Guide to Monsters
     key: :apprentice_wizard
     xp_value: 50
+    boss: false
+    groups: []
   :arcanaloth: &4 !ruby/object:Monster
     challenge: 12
     name: Arcanaloth
@@ -329,6 +421,8 @@
     source: Monster Manual
     key: :arcanaloth
     xp_value: 8400
+    boss: false
+    groups: []
   :archdruid: &115 !ruby/object:Monster
     challenge: 12
     name: Archdruid
@@ -336,6 +430,8 @@
     source: Volo's Guide to Monsters
     key: :archdruid
     xp_value: 8400
+    boss: false
+    groups: []
   :archer: &116 !ruby/object:Monster
     challenge: 3
     name: Archer
@@ -343,6 +439,8 @@
     source: Volo's Guide to Monsters
     key: :archer
     xp_value: 700
+    boss: false
+    groups: []
   :archmage: &276 !ruby/object:Monster
     challenge: 12
     name: Archmage
@@ -350,6 +448,8 @@
     source: Basic Rules
     key: :archmage
     xp_value: 8400
+    boss: false
+    groups: []
   :artus_cimber: &580 !ruby/object:Monster
     challenge: 7
     name: Artus Cimber
@@ -357,6 +457,8 @@
     source: Tomb of Annihilation
     key: :artus_cimber
     xp_value: 2900
+    boss: false
+    groups: []
   :assassin: &277 !ruby/object:Monster
     challenge: 8
     name: Assassin
@@ -364,6 +466,8 @@
     source: Basic Rules
     key: :assassin
     xp_value: 3900
+    boss: false
+    groups: []
   :assassin_vine: &581 !ruby/object:Monster
     challenge: 3
     name: Assassin Vine
@@ -371,6 +475,8 @@
     source: Tomb of Annihilation
     key: :assassin_vine
     xp_value: 700
+    boss: false
+    groups: []
   :atropal: &582 !ruby/object:Monster
     challenge: 13
     name: Atropal
@@ -378,6 +484,8 @@
     source: Tomb of Annihilation
     key: :atropal
     xp_value: 10000
+    boss: false
+    groups: []
   :augrek_brighthelm: &669 !ruby/object:Monster
     challenge: 0
     name: Augrek Brighthelm
@@ -385,6 +493,8 @@
     source: Storm King's Thunder
     key: :augrek_brighthelm
     xp_value: 10
+    boss: false
+    groups: []
   :aurochs: &117 !ruby/object:Monster
     challenge: 2
     name: Aurochs
@@ -392,6 +502,8 @@
     source: Volo's Guide to Monsters
     key: :aurochs
     xp_value: 450
+    boss: false
+    groups: []
   :avatar_of_death: &700 !ruby/object:Monster
     challenge: 0
     name: Avatar of Death
@@ -399,6 +511,8 @@
     source: Dungeon Master's Guide
     key: :avatar_of_death
     xp_value: 10
+    boss: false
+    groups: []
   :awakened_shrub: &278 !ruby/object:Monster
     challenge: 0
     name: Awakened Shrub
@@ -406,6 +520,8 @@
     source: Basic Rules
     key: :awakened_shrub
     xp_value: 10
+    boss: false
+    groups: []
   :awakened_tree: &279 !ruby/object:Monster
     challenge: 2
     name: Awakened Tree
@@ -413,6 +529,8 @@
     source: Basic Rules
     key: :awakened_tree
     xp_value: 450
+    boss: false
+    groups: []
   :awakened_zurkhwood: &703 !ruby/object:Monster
     challenge: 2
     name: Awakened Zurkhwood
@@ -420,6 +538,8 @@
     source: Out of the Abyss
     key: :awakened_zurkhwood
     xp_value: 450
+    boss: false
+    groups: []
   :axe_beak: &280 !ruby/object:Monster
     challenge: 0.25
     name: Axe Beak
@@ -427,6 +547,8 @@
     source: Basic Rules
     key: :axe_beak
     xp_value: 50
+    boss: false
+    groups: []
   :azbara_jos: &653 !ruby/object:Monster
     challenge: 4
     name: Azbara Jos
@@ -434,6 +556,8 @@
     source: Hoard of the Dragon Queen
     key: :azbara_jos
     xp_value: 1100
+    boss: false
+    groups: []
   :azer: &281 !ruby/object:Monster
     challenge: 2
     name: Azer
@@ -441,6 +565,8 @@
     source: Basic Rules
     key: :azer
     xp_value: 450
+    boss: false
+    groups: []
   :baba_lysaga: &743 !ruby/object:Monster
     challenge: 11
     name: Baba Lysaga
@@ -448,6 +574,8 @@
     source: Curse of Strahd
     key: :baba_lysaga
     xp_value: 7200
+    boss: false
+    groups: []
   :baba_lysagas_creeping_hut: &744 !ruby/object:Monster
     challenge: 11
     name: Baba Lysaga’s Creeping Hut
@@ -455,6 +583,8 @@
     source: Curse of Strahd
     key: :baba_lysagas_creeping_hut
     xp_value: 7200
+    boss: false
+    groups: []
   :babau: &118 !ruby/object:Monster
     challenge: 4
     name: Babau
@@ -462,6 +592,8 @@
     source: Volo's Guide to Monsters
     key: :babau
     xp_value: 1100
+    boss: false
+    groups: []
   :baboon: &282 !ruby/object:Monster
     challenge: 0
     name: Baboon
@@ -469,6 +601,8 @@
     source: Basic Rules
     key: :baboon
     xp_value: 10
+    boss: false
+    groups: []
   :badger: &283 !ruby/object:Monster
     challenge: 0
     name: Badger
@@ -476,6 +610,8 @@
     source: Basic Rules
     key: :badger
     xp_value: 10
+    boss: false
+    groups: []
   :balor: &284 !ruby/object:Monster
     challenge: 19
     name: Balor
@@ -483,6 +619,8 @@
     source: Basic Rules
     key: :balor
     xp_value: 22000
+    boss: false
+    groups: []
   :banderhobb: &119 !ruby/object:Monster
     challenge: 5
     name: Banderhobb
@@ -490,6 +628,8 @@
     source: Volo's Guide to Monsters
     key: :banderhobb
     xp_value: 1800
+    boss: false
+    groups: []
   :bandit: &285 !ruby/object:Monster
     challenge: 0.125
     name: Bandit
@@ -497,6 +637,8 @@
     source: Basic Rules
     key: :bandit
     xp_value: 25
+    boss: false
+    groups: []
   :bandit_captain: &286 !ruby/object:Monster
     challenge: 2
     name: Bandit Captain
@@ -504,6 +646,8 @@
     source: Basic Rules
     key: :bandit_captain
     xp_value: 450
+    boss: false
+    groups: []
   :banshee: &287 !ruby/object:Monster
     challenge: 4
     name: Banshee
@@ -511,6 +655,8 @@
     source: Basic Rules
     key: :banshee
     xp_value: 1100
+    boss: false
+    groups: []
   :baphomet: &704 !ruby/object:Monster
     challenge: 23
     name: Baphomet
@@ -518,6 +664,8 @@
     source: Out of the Abyss
     key: :baphomet
     xp_value: 50000
+    boss: false
+    groups: []
   :barbed_devil: &288 !ruby/object:Monster
     challenge: 5
     name: Barbed Devil
@@ -525,6 +673,8 @@
     source: Basic Rules
     key: :barbed_devil
     xp_value: 1800
+    boss: false
+    groups: []
   :bard: &120 !ruby/object:Monster
     challenge: 2
     name: Bard
@@ -532,6 +682,8 @@
     source: Volo's Guide to Monsters
     key: :bard
     xp_value: 450
+    boss: false
+    groups: []
   :barghest: &121 !ruby/object:Monster
     challenge: 4
     name: Barghest
@@ -539,6 +691,8 @@
     source: Volo's Guide to Monsters
     key: :barghest
     xp_value: 1100
+    boss: false
+    groups: []
   :barlgura: &5 !ruby/object:Monster
     challenge: 5
     name: Barlgura
@@ -546,6 +700,8 @@
     source: Monster Manual
     key: :barlgura
     xp_value: 1800
+    boss: false
+    groups: []
   :barovian_witch: &745 !ruby/object:Monster
     challenge: 0.5
     name: Barovian Witch
@@ -553,6 +709,8 @@
     source: Curse of Strahd
     key: :barovian_witch
     xp_value: 100
+    boss: false
+    groups: []
   :basilisk: &289 !ruby/object:Monster
     challenge: 3
     name: Basilisk
@@ -560,6 +718,8 @@
     source: Basic Rules
     key: :basilisk
     xp_value: 700
+    boss: false
+    groups: []
   :bastian_thermandar: &611 !ruby/object:Monster
     challenge: 8
     name: Bastian Thermandar
@@ -567,6 +727,8 @@
     source: Princes of the Apocalypse
     key: :bastian_thermandar
     xp_value: 3900
+    boss: false
+    groups: []
   :bat: &290 !ruby/object:Monster
     challenge: 0
     name: Bat
@@ -574,6 +736,8 @@
     source: Basic Rules
     key: :bat
     xp_value: 10
+    boss: false
+    groups: []
   :bearded_devil: &291 !ruby/object:Monster
     challenge: 3
     name: Bearded Devil
@@ -581,6 +745,8 @@
     source: Basic Rules
     key: :bearded_devil
     xp_value: 700
+    boss: false
+    groups: []
   :behir: &292 !ruby/object:Monster
     challenge: 11
     name: Behir
@@ -588,6 +754,8 @@
     source: Basic Rules
     key: :behir
     xp_value: 7200
+    boss: false
+    groups: []
   :beholder: &6 !ruby/object:Monster
     challenge: 13
     name: Beholder
@@ -595,6 +763,8 @@
     source: Monster Manual
     key: :beholder
     xp_value: 10000
+    boss: false
+    groups: []
   :beholder_zombie: &7 !ruby/object:Monster
     challenge: 5
     name: Beholder Zombie
@@ -602,6 +772,8 @@
     source: Monster Manual
     key: :beholder_zombie
     xp_value: 1800
+    boss: false
+    groups: []
   :beldora: &670 !ruby/object:Monster
     challenge: 0
     name: Beldora
@@ -609,6 +781,8 @@
     source: Storm King's Thunder
     key: :beldora
     xp_value: 10
+    boss: false
+    groups: []
   :berserker: &293 !ruby/object:Monster
     challenge: 2
     name: Berserker
@@ -616,6 +790,8 @@
     source: Basic Rules
     key: :berserker
     xp_value: 450
+    boss: false
+    groups: []
   :bheur_hag: &122 !ruby/object:Monster
     challenge: 7
     name: Bheur Hag
@@ -623,6 +799,8 @@
     source: Volo's Guide to Monsters
     key: :bheur_hag
     xp_value: 2900
+    boss: false
+    groups: []
   :black_bear: &294 !ruby/object:Monster
     challenge: 0.5
     name: Black Bear
@@ -630,6 +808,8 @@
     source: Basic Rules
     key: :black_bear
     xp_value: 100
+    boss: false
+    groups: []
   :black_dragon_wyrmling: &295 !ruby/object:Monster
     challenge: 2
     name: Black Dragon Wyrmling
@@ -637,6 +817,8 @@
     source: Basic Rules
     key: :black_dragon_wyrmling
     xp_value: 450
+    boss: false
+    groups: []
   :black_earth_guard: &612 !ruby/object:Monster
     challenge: 2
     name: Black Earth Guard
@@ -644,6 +826,8 @@
     source: Princes of the Apocalypse
     key: :black_earth_guard
     xp_value: 450
+    boss: false
+    groups: []
   :black_earth_priest: &613 !ruby/object:Monster
     challenge: 3
     name: Black Earth Priest
@@ -651,6 +835,8 @@
     source: Princes of the Apocalypse
     key: :black_earth_priest
     xp_value: 700
+    boss: false
+    groups: []
   :black_guard_drake: &123 !ruby/object:Monster
     challenge: 2
     name: Black Guard Drake
@@ -658,6 +844,8 @@
     source: Volo's Guide to Monsters
     key: :black_guard_drake
     xp_value: 450
+    boss: false
+    groups: []
   :black_pudding: &296 !ruby/object:Monster
     challenge: 4
     name: Black Pudding
@@ -665,6 +853,8 @@
     source: Basic Rules
     key: :black_pudding
     xp_value: 1100
+    boss: false
+    groups: []
   :blackguard: &124 !ruby/object:Monster
     challenge: 8
     name: Blackguard
@@ -672,6 +862,8 @@
     source: Volo's Guide to Monsters
     key: :blackguard
     xp_value: 3900
+    boss: false
+    groups: []
   :blagothkus: &654 !ruby/object:Monster
     challenge: 9
     name: Blagothkus
@@ -679,6 +871,8 @@
     source: Hoard of the Dragon Queen
     key: :blagothkus
     xp_value: 5000
+    boss: false
+    groups: []
   :blink_dog: &297 !ruby/object:Monster
     challenge: 0.25
     name: Blink Dog
@@ -686,6 +880,8 @@
     source: Basic Rules
     key: :blink_dog
     xp_value: 50
+    boss: false
+    groups: []
   :blood_hawk: &298 !ruby/object:Monster
     challenge: 0.125
     name: Blood Hawk
@@ -693,6 +889,8 @@
     source: Basic Rules
     key: :blood_hawk
     xp_value: 25
+    boss: false
+    groups: []
   :blue_dragon_wyrmling: &299 !ruby/object:Monster
     challenge: 3
     name: Blue Dragon Wyrmling
@@ -700,6 +898,8 @@
     source: Basic Rules
     key: :blue_dragon_wyrmling
     xp_value: 700
+    boss: false
+    groups: []
   :blue_guard_drake: &125 !ruby/object:Monster
     challenge: 2
     name: Blue Guard Drake
@@ -707,6 +907,8 @@
     source: Volo's Guide to Monsters
     key: :blue_guard_drake
     xp_value: 450
+    boss: false
+    groups: []
   :blue_slaad: &8 !ruby/object:Monster
     challenge: 7
     name: Blue Slaad
@@ -714,6 +916,8 @@
     source: Monster Manual
     key: :blue_slaad
     xp_value: 2900
+    boss: false
+    groups: []
   :boar: &300 !ruby/object:Monster
     challenge: 0.25
     name: Boar
@@ -721,6 +925,8 @@
     source: Basic Rules
     key: :boar
     xp_value: 50
+    boss: false
+    groups: []
   :bodak: &126 !ruby/object:Monster
     challenge: 6
     name: Bodak
@@ -728,6 +934,8 @@
     source: Volo's Guide to Monsters
     key: :bodak
     xp_value: 2300
+    boss: false
+    groups: []
   :boggle: &127 !ruby/object:Monster
     challenge: 0.125
     name: Boggle
@@ -735,6 +943,8 @@
     source: Volo's Guide to Monsters
     key: :boggle
     xp_value: 25
+    boss: false
+    groups: []
   :bone_devil: &301 !ruby/object:Monster
     challenge: 9
     name: Bone Devil
@@ -742,6 +952,8 @@
     source: Basic Rules
     key: :bone_devil
     xp_value: 5000
+    boss: false
+    groups: []
   :bone_naga: &9 !ruby/object:Monster
     challenge: 4
     name: Bone Naga
@@ -749,6 +961,8 @@
     source: Monster Manual
     key: :bone_naga
     xp_value: 1100
+    boss: false
+    groups: []
   :brass_dragon_wyrmling: &302 !ruby/object:Monster
     challenge: 1
     name: Brass Dragon Wyrmling
@@ -756,6 +970,8 @@
     source: Basic Rules
     key: :brass_dragon_wyrmling
     xp_value: 200
+    boss: false
+    groups: []
   :bridesmaid_of_zuggtmoy: &705 !ruby/object:Monster
     challenge: 0.125
     name: Bridesmaid of Zuggtmoy
@@ -763,6 +979,8 @@
     source: Out of the Abyss
     key: :bridesmaid_of_zuggtmoy
     xp_value: 25
+    boss: false
+    groups: []
   :brontosaurus: &128 !ruby/object:Monster
     challenge: 5
     name: Brontosaurus
@@ -770,6 +988,8 @@
     source: Volo's Guide to Monsters
     key: :brontosaurus
     xp_value: 1800
+    boss: false
+    groups: []
   :bronze_dragon_wyrmling: &303 !ruby/object:Monster
     challenge: 2
     name: Bronze Dragon Wyrmling
@@ -777,6 +997,8 @@
     source: Basic Rules
     key: :bronze_dragon_wyrmling
     xp_value: 450
+    boss: false
+    groups: []
   :broom_of_animated_attack: &746 !ruby/object:Monster
     challenge: 0.25
     name: Broom of Animated Attack
@@ -784,6 +1006,8 @@
     source: Curse of Strahd
     key: :broom_of_animated_attack
     xp_value: 50
+    boss: false
+    groups: []
   :brown_bear: &304 !ruby/object:Monster
     challenge: 1
     name: Brown Bear
@@ -791,6 +1015,8 @@
     source: Basic Rules
     key: :brown_bear
     xp_value: 200
+    boss: false
+    groups: []
   :bugbear: &305 !ruby/object:Monster
     challenge: 1
     name: Bugbear
@@ -798,6 +1024,10 @@
     source: Basic Rules
     key: :bugbear
     xp_value: 200
+    boss: false
+    groups:
+    - :gobelin
+    - :bugbear
   :bugbear_chief: &10 !ruby/object:Monster
     challenge: 3
     name: Bugbear Chief
@@ -805,6 +1035,10 @@
     source: Monster Manual
     key: :bugbear_chief
     xp_value: 700
+    boss: true
+    groups:
+    - :gobelin
+    - :bugbear
   :bulette: &306 !ruby/object:Monster
     challenge: 5
     name: Bulette
@@ -812,6 +1046,8 @@
     source: Basic Rules
     key: :bulette
     xp_value: 1800
+    boss: false
+    groups: []
   :bullywug: &11 !ruby/object:Monster
     challenge: 0.25
     name: Bullywug
@@ -819,6 +1055,8 @@
     source: Monster Manual
     key: :bullywug
     xp_value: 50
+    boss: false
+    groups: []
   :burrowshark: &614 !ruby/object:Monster
     challenge: 4
     name: Burrowshark
@@ -826,6 +1064,8 @@
     source: Princes of the Apocalypse
     key: :burrowshark
     xp_value: 1100
+    boss: false
+    groups: []
   :cambion: &12 !ruby/object:Monster
     challenge: 5
     name: Cambion
@@ -833,6 +1073,8 @@
     source: Monster Manual
     key: :cambion
     xp_value: 1800
+    boss: false
+    groups: []
   :camel: &307 !ruby/object:Monster
     challenge: 0.125
     name: Camel
@@ -840,6 +1082,8 @@
     source: Basic Rules
     key: :camel
     xp_value: 25
+    boss: false
+    groups: []
   :captain_othelstan: &655 !ruby/object:Monster
     challenge: 5
     name: Captain Othelstan
@@ -847,6 +1091,8 @@
     source: Hoard of the Dragon Queen
     key: :captain_othelstan
     xp_value: 1800
+    boss: false
+    groups: []
   :carrion_crawler: &13 !ruby/object:Monster
     challenge: 2
     name: Carrion Crawler
@@ -854,6 +1100,8 @@
     source: Monster Manual
     key: :carrion_crawler
     xp_value: 450
+    boss: false
+    groups: []
   :cat: &308 !ruby/object:Monster
     challenge: 0
     name: Cat
@@ -861,6 +1109,8 @@
     source: Basic Rules
     key: :cat
     xp_value: 10
+    boss: false
+    groups: []
   :catoblepas: &129 !ruby/object:Monster
     challenge: 5
     name: Catoblepas
@@ -868,6 +1118,8 @@
     source: Volo's Guide to Monsters
     key: :catoblepas
     xp_value: 1800
+    boss: false
+    groups: []
   :cave_bear: &14 !ruby/object:Monster
     challenge: 2
     name: Cave Bear
@@ -875,6 +1127,8 @@
     source: Monster Manual
     key: :cave_bear
     xp_value: 450
+    boss: false
+    groups: []
   :cave_fisher: &130 !ruby/object:Monster
     challenge: 3
     name: Cave Fisher
@@ -882,6 +1136,8 @@
     source: Volo's Guide to Monsters
     key: :cave_fisher
     xp_value: 700
+    boss: false
+    groups: []
   :centaur: &309 !ruby/object:Monster
     challenge: 2
     name: Centaur
@@ -889,6 +1145,8 @@
     source: Basic Rules
     key: :centaur
     xp_value: 450
+    boss: false
+    groups: []
   :centaur_mummy: &764 !ruby/object:Monster
     challenge: 6
     name: Centaur Mummy
@@ -896,6 +1154,8 @@
     source: The Hidden Shrine of Tamoachan
     key: :centaur_mummy
     xp_value: 2300
+    boss: false
+    groups: []
   :chain_devil: &310 !ruby/object:Monster
     challenge: 8
     name: Chain Devil
@@ -903,6 +1163,8 @@
     source: Basic Rules
     key: :chain_devil
     xp_value: 3900
+    boss: false
+    groups: []
   :chamberlain_of_zuggtmoy: &706 !ruby/object:Monster
     challenge: 2
     name: Chamberlain of Zuggtmoy
@@ -910,6 +1172,8 @@
     source: Out of the Abyss
     key: :chamberlain_of_zuggtmoy
     xp_value: 450
+    boss: false
+    groups: []
   :champion: &131 !ruby/object:Monster
     challenge: 9
     name: Champion
@@ -917,6 +1181,8 @@
     source: Volo's Guide to Monsters
     key: :champion
     xp_value: 5000
+    boss: false
+    groups: []
   :chasme: &15 !ruby/object:Monster
     challenge: 6
     name: Chasme
@@ -924,6 +1190,8 @@
     source: Monster Manual
     key: :chasme
     xp_value: 2300
+    boss: false
+    groups: []
   :chimera: &311 !ruby/object:Monster
     challenge: 6
     name: Chimera
@@ -931,6 +1199,8 @@
     source: Basic Rules
     key: :chimera
     xp_value: 2300
+    boss: false
+    groups: []
   :chitine: &132 !ruby/object:Monster
     challenge: 0.5
     name: Chitine
@@ -938,6 +1208,8 @@
     source: Volo's Guide to Monsters
     key: :chitine
     xp_value: 100
+    boss: false
+    groups: []
   :choker: &771 !ruby/object:Monster
     challenge: 1
     name: Choker
@@ -945,6 +1217,8 @@
     source: Dead in Thay
     key: :choker
     xp_value: 200
+    boss: false
+    groups: []
   :choldrith: &133 !ruby/object:Monster
     challenge: 3
     name: Choldrith
@@ -952,6 +1226,8 @@
     source: Volo's Guide to Monsters
     key: :choldrith
     xp_value: 700
+    boss: false
+    groups: []
   :chuul: &312 !ruby/object:Monster
     challenge: 4
     name: Chuul
@@ -959,6 +1235,8 @@
     source: Basic Rules
     key: :chuul
     xp_value: 1100
+    boss: false
+    groups: []
   :chuul_spore_servant: &707 !ruby/object:Monster
     challenge: 4
     name: Chuul Spore Servant
@@ -966,6 +1244,8 @@
     source: Out of the Abyss
     key: :chuul_spore_servant
     xp_value: 1100
+    boss: false
+    groups: []
   :chwinga: &583 !ruby/object:Monster
     challenge: 0
     name: Chwinga
@@ -973,6 +1253,8 @@
     source: Tomb of Annihilation
     key: :chwinga
     xp_value: 10
+    boss: false
+    groups: []
   :clay_golem: &313 !ruby/object:Monster
     challenge: 9
     name: Clay Golem
@@ -980,6 +1262,8 @@
     source: Basic Rules
     key: :clay_golem
     xp_value: 5000
+    boss: false
+    groups: []
   :cloaker: &314 !ruby/object:Monster
     challenge: 8
     name: Cloaker
@@ -987,6 +1271,8 @@
     source: Basic Rules
     key: :cloaker
     xp_value: 3900
+    boss: false
+    groups: []
   :cloud_giant: &315 !ruby/object:Monster
     challenge: 9
     name: Cloud Giant
@@ -994,6 +1280,8 @@
     source: Basic Rules
     key: :cloud_giant
     xp_value: 5000
+    boss: false
+    groups: []
   :cloud_giant_smiling_one: &134 !ruby/object:Monster
     challenge: 11
     name: Cloud Giant Smiling One
@@ -1001,6 +1289,8 @@
     source: Volo's Guide to Monsters
     key: :cloud_giant_smiling_one
     xp_value: 7200
+    boss: false
+    groups: []
   :cockatrice: &316 !ruby/object:Monster
     challenge: 0.5
     name: Cockatrice
@@ -1008,6 +1298,8 @@
     source: Basic Rules
     key: :cockatrice
     xp_value: 100
+    boss: false
+    groups: []
   :commoner: &317 !ruby/object:Monster
     challenge: 0
     name: Commoner
@@ -1015,6 +1307,8 @@
     source: Basic Rules
     key: :commoner
     xp_value: 10
+    boss: false
+    groups: []
   :conjurer: &135 !ruby/object:Monster
     challenge: 6
     name: Conjurer
@@ -1022,6 +1316,8 @@
     source: Volo's Guide to Monsters
     key: :conjurer
     xp_value: 2300
+    boss: false
+    groups: []
   :constrictor_snake: &318 !ruby/object:Monster
     challenge: 0.25
     name: Constrictor Snake
@@ -1029,6 +1325,8 @@
     source: Basic Rules
     key: :constrictor_snake
     xp_value: 50
+    boss: false
+    groups: []
   :copper_dragon_wyrmling: &319 !ruby/object:Monster
     challenge: 1
     name: Copper Dragon Wyrmling
@@ -1036,6 +1334,8 @@
     source: Basic Rules
     key: :copper_dragon_wyrmling
     xp_value: 200
+    boss: false
+    groups: []
   :couatl: &320 !ruby/object:Monster
     challenge: 4
     name: Couatl
@@ -1043,6 +1343,8 @@
     source: Basic Rules
     key: :couatl
     xp_value: 1100
+    boss: false
+    groups: []
   :cow: &136 !ruby/object:Monster
     challenge: 0.25
     name: Cow
@@ -1050,6 +1352,8 @@
     source: Volo's Guide to Monsters
     key: :cow
     xp_value: 50
+    boss: false
+    groups: []
   :crab: &321 !ruby/object:Monster
     challenge: 0
     name: Crab
@@ -1057,6 +1361,8 @@
     source: Basic Rules
     key: :crab
     xp_value: 10
+    boss: false
+    groups: []
   :crag_cat: &671 !ruby/object:Monster
     challenge: 1
     name: Crag Cat
@@ -1064,6 +1370,8 @@
     source: Storm King's Thunder
     key: :crag_cat
     xp_value: 200
+    boss: false
+    groups: []
   :cranium_rat: &137 !ruby/object:Monster
     challenge: 0
     name: Cranium Rat
@@ -1071,6 +1379,8 @@
     source: Volo's Guide to Monsters
     key: :cranium_rat
     xp_value: 10
+    boss: false
+    groups: []
   :crawling_claw: &16 !ruby/object:Monster
     challenge: 0
     name: Crawling Claw
@@ -1078,6 +1388,8 @@
     source: Monster Manual
     key: :crawling_claw
     xp_value: 10
+    boss: false
+    groups: []
   :crocodile: &322 !ruby/object:Monster
     challenge: 0.5
     name: Crocodile
@@ -1085,6 +1397,8 @@
     source: Basic Rules
     key: :crocodile
     xp_value: 100
+    boss: false
+    groups: []
   :crushing_wave_priest: &615 !ruby/object:Monster
     challenge: 2
     name: Crushing Wave Priest
@@ -1092,6 +1406,8 @@
     source: Princes of the Apocalypse
     key: :crushing_wave_priest
     xp_value: 450
+    boss: false
+    groups: []
   :crushing_wave_reaver: &616 !ruby/object:Monster
     challenge: 0.5
     name: Crushing Wave Reaver
@@ -1099,6 +1415,8 @@
     source: Princes of the Apocalypse
     key: :crushing_wave_reaver
     xp_value: 100
+    boss: false
+    groups: []
   :cult_fanatic: &323 !ruby/object:Monster
     challenge: 2
     name: Cult Fanatic
@@ -1106,6 +1424,8 @@
     source: Basic Rules
     key: :cult_fanatic
     xp_value: 450
+    boss: false
+    groups: []
   :cultist: &324 !ruby/object:Monster
     challenge: 0.125
     name: Cultist
@@ -1113,6 +1433,8 @@
     source: Basic Rules
     key: :cultist
     xp_value: 25
+    boss: false
+    groups: []
   :cyclops: &325 !ruby/object:Monster
     challenge: 6
     name: Cyclops
@@ -1120,6 +1442,8 @@
     source: Basic Rules
     key: :cyclops
     xp_value: 2300
+    boss: false
+    groups: []
   :dao: &17 !ruby/object:Monster
     challenge: 11
     name: Dao
@@ -1127,6 +1451,8 @@
     source: Monster Manual
     key: :dao
     xp_value: 7200
+    boss: false
+    groups: []
   :darathra_shendrel: &672 !ruby/object:Monster
     challenge: 0
     name: Darathra Shendrel
@@ -1134,6 +1460,8 @@
     source: Storm King's Thunder
     key: :darathra_shendrel
     xp_value: 10
+    boss: false
+    groups: []
   :dark_tide_knight: &617 !ruby/object:Monster
     challenge: 3
     name: Dark Tide Knight
@@ -1141,6 +1469,8 @@
     source: Princes of the Apocalypse
     key: :dark_tide_knight
     xp_value: 700
+    boss: false
+    groups: []
   :darkling: &138 !ruby/object:Monster
     challenge: 0.5
     name: Darkling
@@ -1148,6 +1478,8 @@
     source: Volo's Guide to Monsters
     key: :darkling
     xp_value: 100
+    boss: false
+    groups: []
   :darkling_elder: &139 !ruby/object:Monster
     challenge: 2
     name: Darkling Elder
@@ -1155,6 +1487,8 @@
     source: Volo's Guide to Monsters
     key: :darkling_elder
     xp_value: 450
+    boss: false
+    groups: []
   :darkmantle: &326 !ruby/object:Monster
     challenge: 0.5
     name: Darkmantle
@@ -1162,6 +1496,8 @@
     source: Basic Rules
     key: :darkmantle
     xp_value: 100
+    boss: false
+    groups: []
   :darz_helgar: &673 !ruby/object:Monster
     challenge: 0
     name: Darz Helgar
@@ -1169,6 +1505,8 @@
     source: Storm King's Thunder
     key: :darz_helgar
     xp_value: 10
+    boss: false
+    groups: []
   :death_dog: &327 !ruby/object:Monster
     challenge: 1
     name: Death Dog
@@ -1176,6 +1514,8 @@
     source: Basic Rules
     key: :death_dog
     xp_value: 200
+    boss: false
+    groups: []
   :death_kiss: &140 !ruby/object:Monster
     challenge: 10
     name: Death Kiss
@@ -1183,6 +1523,8 @@
     source: Volo's Guide to Monsters
     key: :death_kiss
     xp_value: 5900
+    boss: false
+    groups: []
   :death_knight: &18 !ruby/object:Monster
     challenge: 17
     name: Death Knight
@@ -1190,6 +1532,8 @@
     source: Monster Manual
     key: :death_knight
     xp_value: 18000
+    boss: false
+    groups: []
   :death_slaad: &19 !ruby/object:Monster
     challenge: 10
     name: Death Slaad
@@ -1197,6 +1541,8 @@
     source: Monster Manual
     key: :death_slaad
     xp_value: 5900
+    boss: false
+    groups: []
   :death_tyrant: &20 !ruby/object:Monster
     challenge: 14
     name: Death Tyrant
@@ -1204,6 +1550,8 @@
     source: Monster Manual
     key: :death_tyrant
     xp_value: 11500
+    boss: false
+    groups: []
   :deathlock_wight: &772 !ruby/object:Monster
     challenge: 3
     name: Deathlock Wight
@@ -1211,6 +1559,8 @@
     source: Dead in Thay
     key: :deathlock_wight
     xp_value: 700
+    boss: false
+    groups: []
   :decapus: &781 !ruby/object:Monster
     challenge: 4
     name: Decapus
@@ -1218,6 +1568,8 @@
     source: The Tortle Package
     key: :decapus
     xp_value: 1100
+    boss: false
+    groups: []
   :deep_gnome_svirfneblin: &328 !ruby/object:Monster
     challenge: 0.5
     name: Deep Gnome (Svirfneblin)
@@ -1225,6 +1577,8 @@
     source: Basic Rules
     key: :deep_gnome_svirfneblin
     xp_value: 100
+    boss: false
+    groups: []
   :deep_rothe: &141 !ruby/object:Monster
     challenge: 0.25
     name: Deep Rothé
@@ -1232,6 +1586,8 @@
     source: Volo's Guide to Monsters
     key: :deep_rothe
     xp_value: 50
+    boss: false
+    groups: []
   :deep_scion: &142 !ruby/object:Monster
     challenge: 3
     name: Deep Scion
@@ -1239,6 +1595,8 @@
     source: Volo's Guide to Monsters
     key: :deep_scion
     xp_value: 700
+    boss: false
+    groups: []
   :deer: &329 !ruby/object:Monster
     challenge: 0
     name: Deer
@@ -1246,6 +1604,8 @@
     source: Basic Rules
     key: :deer
     xp_value: 10
+    boss: false
+    groups: []
   :deinonychus: &143 !ruby/object:Monster
     challenge: 1
     name: Deinonychus
@@ -1253,6 +1613,8 @@
     source: Volo's Guide to Monsters
     key: :deinonychus
     xp_value: 200
+    boss: false
+    groups: []
   :demilich: &21 !ruby/object:Monster
     challenge: 18
     name: Demilich
@@ -1260,6 +1622,8 @@
     source: Monster Manual
     key: :demilich
     xp_value: 20000
+    boss: false
+    groups: []
   :demogorgon: &708 !ruby/object:Monster
     challenge: 26
     name: Demogorgon
@@ -1267,6 +1631,8 @@
     source: Out of the Abyss
     key: :demogorgon
     xp_value: 90000
+    boss: false
+    groups: []
   :derro: &709 !ruby/object:Monster
     challenge: 0.25
     name: Derro
@@ -1274,6 +1640,8 @@
     source: Out of the Abyss
     key: :derro
     xp_value: 50
+    boss: false
+    groups: []
   :derro_savant: &710 !ruby/object:Monster
     challenge: 3
     name: Derro Savant
@@ -1281,6 +1649,8 @@
     source: Out of the Abyss
     key: :derro_savant
     xp_value: 700
+    boss: false
+    groups: []
   :deva: &330 !ruby/object:Monster
     challenge: 10
     name: Deva
@@ -1288,6 +1658,8 @@
     source: Basic Rules
     key: :deva
     xp_value: 5900
+    boss: false
+    groups: []
   :devourer: &144 !ruby/object:Monster
     challenge: 13
     name: Devourer
@@ -1295,6 +1667,8 @@
     source: Volo's Guide to Monsters
     key: :devourer
     xp_value: 10000
+    boss: false
+    groups: []
   :dimetrodon: &145 !ruby/object:Monster
     challenge: 0.25
     name: Dimetrodon
@@ -1302,6 +1676,8 @@
     source: Volo's Guide to Monsters
     key: :dimetrodon
     xp_value: 50
+    boss: false
+    groups: []
   :dire_wolf: &331 !ruby/object:Monster
     challenge: 1
     name: Dire Wolf
@@ -1309,6 +1685,8 @@
     source: Basic Rules
     key: :dire_wolf
     xp_value: 200
+    boss: false
+    groups: []
   :displacer_beast: &22 !ruby/object:Monster
     challenge: 3
     name: Displacer Beast
@@ -1316,6 +1694,8 @@
     source: Monster Manual
     key: :displacer_beast
     xp_value: 700
+    boss: false
+    groups: []
   :diviner: &146 !ruby/object:Monster
     challenge: 8
     name: Diviner
@@ -1323,6 +1703,8 @@
     source: Volo's Guide to Monsters
     key: :diviner
     xp_value: 3900
+    boss: false
+    groups: []
   :djinni: &332 !ruby/object:Monster
     challenge: 11
     name: Djinni
@@ -1330,6 +1712,8 @@
     source: Basic Rules
     key: :djinni
     xp_value: 7200
+    boss: false
+    groups: []
   :dolphin: &147 !ruby/object:Monster
     challenge: 0.125
     name: Dolphin
@@ -1337,6 +1721,8 @@
     source: Volo's Guide to Monsters
     key: :dolphin
     xp_value: 25
+    boss: false
+    groups: []
   :doppelganger: &333 !ruby/object:Monster
     challenge: 3
     name: Doppelganger
@@ -1344,6 +1730,8 @@
     source: Basic Rules
     key: :doppelganger
     xp_value: 700
+    boss: false
+    groups: []
   :draegloth: &148 !ruby/object:Monster
     challenge: 7
     name: Draegloth
@@ -1351,6 +1739,8 @@
     source: Volo's Guide to Monsters
     key: :draegloth
     xp_value: 2900
+    boss: false
+    groups: []
   :draft_horse: &334 !ruby/object:Monster
     challenge: 0.25
     name: Draft Horse
@@ -1358,6 +1748,8 @@
     source: Basic Rules
     key: :draft_horse
     xp_value: 50
+    boss: false
+    groups: []
   :dragon_turtle: &335 !ruby/object:Monster
     challenge: 17
     name: Dragon Turtle
@@ -1365,6 +1757,8 @@
     source: Basic Rules
     key: :dragon_turtle
     xp_value: 18000
+    boss: false
+    groups: []
   :dragonbait: &584 !ruby/object:Monster
     challenge: 5
     name: Dragonbait
@@ -1372,6 +1766,8 @@
     source: Tomb of Annihilation
     key: :dragonbait
     xp_value: 1800
+    boss: false
+    groups: []
   :dragonclaw: &656 !ruby/object:Monster
     challenge: 1
     name: Dragonclaw
@@ -1379,6 +1775,8 @@
     source: Hoard of the Dragon Queen
     key: :dragonclaw
     xp_value: 200
+    boss: false
+    groups: []
   :dragonfang: &786 !ruby/object:Monster
     challenge: 5
     name: Dragonfang
@@ -1386,6 +1784,8 @@
     source: Rise of Tiamat
     key: :dragonfang
     xp_value: 1800
+    boss: false
+    groups: []
   :dragonsoul: &787 !ruby/object:Monster
     challenge: 7
     name: Dragonsoul
@@ -1393,6 +1793,8 @@
     source: Rise of Tiamat
     key: :dragonsoul
     xp_value: 2900
+    boss: false
+    groups: []
   :dragonwing: &788 !ruby/object:Monster
     challenge: 2
     name: Dragonwing
@@ -1400,6 +1802,8 @@
     source: Rise of Tiamat
     key: :dragonwing
     xp_value: 450
+    boss: false
+    groups: []
   :dralmorrer_borngray: &657 !ruby/object:Monster
     challenge: 3
     name: Dralmorrer Borngray
@@ -1407,6 +1811,8 @@
     source: Hoard of the Dragon Queen
     key: :dralmorrer_borngray
     xp_value: 700
+    boss: false
+    groups: []
   :drannin_splithelm: &618 !ruby/object:Monster
     challenge: 7
     name: Drannin Splithelm
@@ -1414,6 +1820,8 @@
     source: Princes of the Apocalypse
     key: :drannin_splithelm
     xp_value: 2900
+    boss: false
+    groups: []
   :dread_warrior: &773 !ruby/object:Monster
     challenge: 1
     name: Dread Warrior
@@ -1421,6 +1829,8 @@
     source: Dead in Thay
     key: :dread_warrior
     xp_value: 200
+    boss: false
+    groups: []
   :dretch: &336 !ruby/object:Monster
     challenge: 0.25
     name: Dretch
@@ -1428,6 +1838,8 @@
     source: Basic Rules
     key: :dretch
     xp_value: 50
+    boss: false
+    groups: []
   :drider: &337 !ruby/object:Monster
     challenge: 6
     name: Drider
@@ -1435,6 +1847,8 @@
     source: Basic Rules
     key: :drider
     xp_value: 2300
+    boss: false
+    groups: []
   :droki: &711 !ruby/object:Monster
     challenge: 2
     name: Droki
@@ -1442,6 +1856,8 @@
     source: Out of the Abyss
     key: :droki
     xp_value: 450
+    boss: false
+    groups: []
   :drow: &338 !ruby/object:Monster
     challenge: 0.25
     name: Drow
@@ -1449,6 +1865,8 @@
     source: Basic Rules
     key: :drow
     xp_value: 50
+    boss: false
+    groups: []
   :drow_elite_warrior: &23 !ruby/object:Monster
     challenge: 5
     name: Drow Elite Warrior
@@ -1456,6 +1874,8 @@
     source: Monster Manual
     key: :drow_elite_warrior
     xp_value: 1800
+    boss: false
+    groups: []
   :drow_mage: &24 !ruby/object:Monster
     challenge: 7
     name: Drow Mage
@@ -1463,6 +1883,8 @@
     source: Monster Manual
     key: :drow_mage
     xp_value: 2900
+    boss: false
+    groups: []
   :drow_priestess_of_lolth: &25 !ruby/object:Monster
     challenge: 8
     name: Drow Priestess of Lolth
@@ -1470,6 +1892,8 @@
     source: Monster Manual
     key: :drow_priestess_of_lolth
     xp_value: 3900
+    boss: false
+    groups: []
   :drow_spore_servant: &712 !ruby/object:Monster
     challenge: 0.125
     name: Drow Spore Servant
@@ -1477,6 +1901,8 @@
     source: Out of the Abyss
     key: :drow_spore_servant
     xp_value: 25
+    boss: false
+    groups: []
   :druid: &339 !ruby/object:Monster
     challenge: 2
     name: Druid
@@ -1484,6 +1910,8 @@
     source: Basic Rules
     key: :druid
     xp_value: 450
+    boss: false
+    groups: []
   :dryad: &340 !ruby/object:Monster
     challenge: 1
     name: Dryad
@@ -1491,6 +1919,8 @@
     source: Basic Rules
     key: :dryad
     xp_value: 200
+    boss: false
+    groups: []
   :duergar: &341 !ruby/object:Monster
     challenge: 1
     name: Duergar
@@ -1498,6 +1928,8 @@
     source: Basic Rules
     key: :duergar
     xp_value: 200
+    boss: false
+    groups: []
   :duergar_darkhaft: &713 !ruby/object:Monster
     challenge: 2
     name: Duergar Darkhaft
@@ -1505,6 +1937,8 @@
     source: Out of the Abyss
     key: :duergar_darkhaft
     xp_value: 450
+    boss: false
+    groups: []
   :duergar_kavalrachni: &714 !ruby/object:Monster
     challenge: 2
     name: Duergar Kavalrachni
@@ -1512,6 +1946,8 @@
     source: Out of the Abyss
     key: :duergar_kavalrachni
     xp_value: 450
+    boss: false
+    groups: []
   :duergar_keeper_of_the_flame: &715 !ruby/object:Monster
     challenge: 2
     name: Duergar Keeper of the Flame
@@ -1519,6 +1955,8 @@
     source: Out of the Abyss
     key: :duergar_keeper_of_the_flame
     xp_value: 450
+    boss: false
+    groups: []
   :duergar_soulblade: &716 !ruby/object:Monster
     challenge: 1
     name: Duergar Soulblade
@@ -1526,6 +1964,8 @@
     source: Out of the Abyss
     key: :duergar_soulblade
     xp_value: 200
+    boss: false
+    groups: []
   :duergar_spore_servant: &717 !ruby/object:Monster
     challenge: 0.5
     name: Duergar Spore Servant
@@ -1533,6 +1973,8 @@
     source: Out of the Abyss
     key: :duergar_spore_servant
     xp_value: 100
+    boss: false
+    groups: []
   :duergar_spy: &667 !ruby/object:Monster
     challenge: 2
     name: Duergar Spy
@@ -1540,6 +1982,8 @@
     source: The Forge of Fury
     key: :duergar_spy
     xp_value: 450
+    boss: false
+    groups: []
   :duergar_stone_guard: &718 !ruby/object:Monster
     challenge: 2
     name: Duergar Stone Guard
@@ -1547,6 +1991,8 @@
     source: Out of the Abyss
     key: :duergar_stone_guard
     xp_value: 450
+    boss: false
+    groups: []
   :duergar_xarrorn: &719 !ruby/object:Monster
     challenge: 2
     name: Duergar Xarrorn
@@ -1554,6 +2000,8 @@
     source: Out of the Abyss
     key: :duergar_xarrorn
     xp_value: 450
+    boss: false
+    groups: []
   :duodrone: &26 !ruby/object:Monster
     challenge: 0.25
     name: Duodrone
@@ -1561,6 +2009,8 @@
     source: Monster Manual
     key: :duodrone
     xp_value: 50
+    boss: false
+    groups: []
   :dust_mephit: &342 !ruby/object:Monster
     challenge: 0.5
     name: Dust Mephit
@@ -1568,6 +2018,8 @@
     source: Basic Rules
     key: :dust_mephit
     xp_value: 100
+    boss: false
+    groups: []
   :duvessa_shane: &674 !ruby/object:Monster
     challenge: 0
     name: Duvessa Shane
@@ -1575,6 +2027,8 @@
     source: Storm King's Thunder
     key: :duvessa_shane
     xp_value: 10
+    boss: false
+    groups: []
   :eagle: &343 !ruby/object:Monster
     challenge: 0
     name: Eagle
@@ -1582,6 +2036,8 @@
     source: Basic Rules
     key: :eagle
     xp_value: 10
+    boss: false
+    groups: []
   :earth_elemental: &344 !ruby/object:Monster
     challenge: 5
     name: Earth Elemental
@@ -1589,6 +2045,8 @@
     source: Basic Rules
     key: :earth_elemental
     xp_value: 1800
+    boss: false
+    groups: []
   :earth_elemental_myrmidon: &619 !ruby/object:Monster
     challenge: 7
     name: Earth Elemental Myrmidon
@@ -1596,6 +2054,8 @@
     source: Princes of the Apocalypse
     key: :earth_elemental_myrmidon
     xp_value: 2900
+    boss: false
+    groups: []
   :eblis: &585 !ruby/object:Monster
     challenge: 1
     name: Eblis
@@ -1603,6 +2063,8 @@
     source: Tomb of Annihilation
     key: :eblis
     xp_value: 200
+    boss: false
+    groups: []
   :efreeti: &345 !ruby/object:Monster
     challenge: 11
     name: Efreeti
@@ -1610,6 +2072,8 @@
     source: Basic Rules
     key: :efreeti
     xp_value: 7200
+    boss: false
+    groups: []
   :elder_brain: &149 !ruby/object:Monster
     challenge: 14
     name: Elder Brain
@@ -1617,6 +2081,8 @@
     source: Volo's Guide to Monsters
     key: :elder_brain
     xp_value: 11500
+    boss: false
+    groups: []
   :elephant: &346 !ruby/object:Monster
     challenge: 4
     name: Elephant
@@ -1624,6 +2090,8 @@
     source: Basic Rules
     key: :elephant
     xp_value: 1100
+    boss: false
+    groups: []
   :elizar_dryflagon: &620 !ruby/object:Monster
     challenge: 5
     name: Elizar Dryflagon
@@ -1631,6 +2099,8 @@
     source: Princes of the Apocalypse
     key: :elizar_dryflagon
     xp_value: 1800
+    boss: false
+    groups: []
   :elk: &347 !ruby/object:Monster
     challenge: 0.25
     name: Elk
@@ -1638,6 +2108,8 @@
     source: Basic Rules
     key: :elk
     xp_value: 50
+    boss: false
+    groups: []
   :emerald_enclave_scout: &720 !ruby/object:Monster
     challenge: 0.5
     name: Emerald Enclave Scout
@@ -1645,6 +2117,8 @@
     source: Out of the Abyss
     key: :emerald_enclave_scout
     xp_value: 100
+    boss: false
+    groups: []
   :empyrean: &27 !ruby/object:Monster
     challenge: 23
     name: Empyrean
@@ -1652,6 +2126,8 @@
     source: Monster Manual
     key: :empyrean
     xp_value: 50000
+    boss: false
+    groups: []
   :enchanter: &150 !ruby/object:Monster
     challenge: 5
     name: Enchanter
@@ -1659,6 +2135,8 @@
     source: Volo's Guide to Monsters
     key: :enchanter
     xp_value: 1800
+    boss: false
+    groups: []
   :erinyes: &348 !ruby/object:Monster
     challenge: 12
     name: Erinyes
@@ -1666,6 +2144,8 @@
     source: Basic Rules
     key: :erinyes
     xp_value: 8400
+    boss: false
+    groups: []
   :eternal_flame_guardian: &621 !ruby/object:Monster
     challenge: 2
     name: Eternal Flame Guardian
@@ -1673,6 +2153,8 @@
     source: Princes of the Apocalypse
     key: :eternal_flame_guardian
     xp_value: 450
+    boss: false
+    groups: []
   :eternal_flame_priest: &622 !ruby/object:Monster
     challenge: 3
     name: Eternal Flame Priest
@@ -1680,6 +2162,8 @@
     source: Princes of the Apocalypse
     key: :eternal_flame_priest
     xp_value: 700
+    boss: false
+    groups: []
   :ettercap: &349 !ruby/object:Monster
     challenge: 2
     name: Ettercap
@@ -1687,6 +2171,8 @@
     source: Basic Rules
     key: :ettercap
     xp_value: 450
+    boss: false
+    groups: []
   :ettin: &350 !ruby/object:Monster
     challenge: 4
     name: Ettin
@@ -1694,6 +2180,8 @@
     source: Basic Rules
     key: :ettin
     xp_value: 1100
+    boss: false
+    groups: []
   :evil_mage: &799 !ruby/object:Monster
     challenge: 1
     name: Evil Mage
@@ -1701,6 +2189,8 @@
     source: Lost Mine of Phandelver
     key: :evil_mage
     xp_value: 200
+    boss: false
+    groups: []
   :evoker: &151 !ruby/object:Monster
     challenge: 9
     name: Evoker
@@ -1708,6 +2198,8 @@
     source: Volo's Guide to Monsters
     key: :evoker
     xp_value: 5000
+    boss: false
+    groups: []
   :ezmerelda_davenir: &747 !ruby/object:Monster
     challenge: 8
     name: Ezmerelda d’Avenir
@@ -1715,6 +2207,8 @@
     source: Curse of Strahd
     key: :ezmerelda_davenir
     xp_value: 3900
+    boss: false
+    groups: []
   :faerie_dragon_older: &28 !ruby/object:Monster
     challenge: 2
     name: Faerie Dragon (Older)
@@ -1722,6 +2216,8 @@
     source: Monster Manual
     key: :faerie_dragon_older
     xp_value: 450
+    boss: false
+    groups: []
   :faerie_dragon_younger: &29 !ruby/object:Monster
     challenge: 1
     name: Faerie Dragon (Younger)
@@ -1729,6 +2225,8 @@
     source: Monster Manual
     key: :faerie_dragon_younger
     xp_value: 200
+    boss: false
+    groups: []
   :fathomer: &623 !ruby/object:Monster
     challenge: 2
     name: Fathomer
@@ -1736,6 +2234,8 @@
     source: Princes of the Apocalypse
     key: :fathomer
     xp_value: 450
+    boss: false
+    groups: []
   :feathergale_knight: &624 !ruby/object:Monster
     challenge: 1
     name: Feathergale Knight
@@ -1743,6 +2243,8 @@
     source: Princes of the Apocalypse
     key: :feathergale_knight
     xp_value: 200
+    boss: false
+    groups: []
   :female_steeder: &721 !ruby/object:Monster
     challenge: 1
     name: Female Steeder
@@ -1750,6 +2252,8 @@
     source: Out of the Abyss
     key: :female_steeder
     xp_value: 200
+    boss: false
+    groups: []
   :fire_elemental: &351 !ruby/object:Monster
     challenge: 5
     name: Fire Elemental
@@ -1757,6 +2261,8 @@
     source: Basic Rules
     key: :fire_elemental
     xp_value: 1800
+    boss: false
+    groups: []
   :fire_elemental_myrmidon: &625 !ruby/object:Monster
     challenge: 7
     name: Fire Elemental Myrmidon
@@ -1764,6 +2270,8 @@
     source: Princes of the Apocalypse
     key: :fire_elemental_myrmidon
     xp_value: 2900
+    boss: false
+    groups: []
   :fire_giant: &352 !ruby/object:Monster
     challenge: 9
     name: Fire Giant
@@ -1771,6 +2279,8 @@
     source: Basic Rules
     key: :fire_giant
     xp_value: 5000
+    boss: false
+    groups: []
   :fire_giant_dreadnought: &152 !ruby/object:Monster
     challenge: 14
     name: Fire Giant Dreadnought
@@ -1778,6 +2288,8 @@
     source: Volo's Guide to Monsters
     key: :fire_giant_dreadnought
     xp_value: 11500
+    boss: false
+    groups: []
   :fire_snake: &30 !ruby/object:Monster
     challenge: 1
     name: Fire Snake
@@ -1785,6 +2297,8 @@
     source: Monster Manual
     key: :fire_snake
     xp_value: 200
+    boss: false
+    groups: []
   :firenewt_warlock_of_imix: &153 !ruby/object:Monster
     challenge: 1
     name: Firenewt Warlock of Imix
@@ -1792,6 +2306,8 @@
     source: Volo's Guide to Monsters
     key: :firenewt_warlock_of_imix
     xp_value: 200
+    boss: false
+    groups: []
   :firenewt_warrior: &154 !ruby/object:Monster
     challenge: 0.5
     name: Firenewt Warrior
@@ -1799,6 +2315,8 @@
     source: Volo's Guide to Monsters
     key: :firenewt_warrior
     xp_value: 100
+    boss: false
+    groups: []
   :flail_snail: &155 !ruby/object:Monster
     challenge: 3
     name: Flail Snail
@@ -1806,6 +2324,8 @@
     source: Volo's Guide to Monsters
     key: :flail_snail
     xp_value: 700
+    boss: false
+    groups: []
   :flameskull: &353 !ruby/object:Monster
     challenge: 4
     name: Flameskull
@@ -1813,6 +2333,8 @@
     source: Basic Rules
     key: :flameskull
     xp_value: 1100
+    boss: false
+    groups: []
   :flamewrath: &626 !ruby/object:Monster
     challenge: 6
     name: Flamewrath
@@ -1820,6 +2342,8 @@
     source: Princes of the Apocalypse
     key: :flamewrath
     xp_value: 2300
+    boss: false
+    groups: []
   :flesh_golem: &354 !ruby/object:Monster
     challenge: 5
     name: Flesh Golem
@@ -1827,6 +2351,8 @@
     source: Basic Rules
     key: :flesh_golem
     xp_value: 1800
+    boss: false
+    groups: []
   :flind: &156 !ruby/object:Monster
     challenge: 9
     name: Flind
@@ -1834,6 +2360,8 @@
     source: Volo's Guide to Monsters
     key: :flind
     xp_value: 5000
+    boss: false
+    groups: []
   :flumph: &31 !ruby/object:Monster
     challenge: 0.125
     name: Flumph
@@ -1841,6 +2369,8 @@
     source: Monster Manual
     key: :flumph
     xp_value: 25
+    boss: false
+    groups: []
   :flying_monkey: &586 !ruby/object:Monster
     challenge: 0
     name: Flying Monkey
@@ -1848,6 +2378,8 @@
     source: Tomb of Annihilation
     key: :flying_monkey
     xp_value: 10
+    boss: false
+    groups: []
   :flying_snake: &355 !ruby/object:Monster
     challenge: 0.125
     name: Flying Snake
@@ -1855,6 +2387,8 @@
     source: Basic Rules
     key: :flying_snake
     xp_value: 25
+    boss: false
+    groups: []
   :flying_sword: &356 !ruby/object:Monster
     challenge: 0.25
     name: Flying Sword
@@ -1862,6 +2396,8 @@
     source: Basic Rules
     key: :flying_sword
     xp_value: 50
+    boss: false
+    groups: []
   :fomorian: &32 !ruby/object:Monster
     challenge: 8
     name: Fomorian
@@ -1869,6 +2405,8 @@
     source: Monster Manual
     key: :fomorian
     xp_value: 3900
+    boss: false
+    groups: []
   :four_armed_troll: &658 !ruby/object:Monster
     challenge: 6
     name: Four-Armed Troll
@@ -1876,6 +2414,8 @@
     source: Hoard of the Dragon Queen
     key: :four_armed_troll
     xp_value: 2300
+    boss: false
+    groups: []
   :fraz_urbluu: &722 !ruby/object:Monster
     challenge: 23
     name: Fraz-Urb’luu
@@ -1883,6 +2423,8 @@
     source: Out of the Abyss
     key: :fraz_urbluu
     xp_value: 50000
+    boss: false
+    groups: []
   :frog: &357 !ruby/object:Monster
     challenge: 0
     name: Frog
@@ -1890,6 +2432,8 @@
     source: Basic Rules
     key: :frog
     xp_value: 10
+    boss: false
+    groups: []
   :froghemoth: &157 !ruby/object:Monster
     challenge: 10
     name: Froghemoth
@@ -1897,6 +2441,8 @@
     source: Volo's Guide to Monsters
     key: :froghemoth
     xp_value: 5900
+    boss: false
+    groups: []
   :frost_giant: &358 !ruby/object:Monster
     challenge: 8
     name: Frost Giant
@@ -1904,6 +2450,8 @@
     source: Basic Rules
     key: :frost_giant
     xp_value: 3900
+    boss: false
+    groups: []
   :frost_giant_everlasting_one: &158 !ruby/object:Monster
     challenge: 12
     name: Frost Giant Everlasting One
@@ -1911,6 +2459,8 @@
     source: Volo's Guide to Monsters
     key: :frost_giant_everlasting_one
     xp_value: 8400
+    boss: false
+    groups: []
   :frulam_mondath: &659 !ruby/object:Monster
     challenge: 2
     name: Frulam Mondath
@@ -1918,6 +2468,8 @@
     source: Hoard of the Dragon Queen
     key: :frulam_mondath
     xp_value: 450
+    boss: false
+    groups: []
   :galeb_duhr: &33 !ruby/object:Monster
     challenge: 6
     name: Galeb Duhr
@@ -1925,6 +2477,8 @@
     source: Monster Manual
     key: :galeb_duhr
     xp_value: 2300
+    boss: false
+    groups: []
   :gar_shatterkeel: &627 !ruby/object:Monster
     challenge: 9
     name: Gar Shatterkeel
@@ -1932,6 +2486,8 @@
     source: Princes of the Apocalypse
     key: :gar_shatterkeel
     xp_value: 5000
+    boss: false
+    groups: []
   :gargoyle: &359 !ruby/object:Monster
     challenge: 2
     name: Gargoyle
@@ -1939,6 +2495,8 @@
     source: Basic Rules
     key: :gargoyle
     xp_value: 450
+    boss: false
+    groups: []
   :gas_spore: &34 !ruby/object:Monster
     challenge: 0.5
     name: Gas Spore
@@ -1946,6 +2504,8 @@
     source: Monster Manual
     key: :gas_spore
     xp_value: 100
+    boss: false
+    groups: []
   :gauth: &159 !ruby/object:Monster
     challenge: 6
     name: Gauth
@@ -1953,6 +2513,8 @@
     source: Volo's Guide to Monsters
     key: :gauth
     xp_value: 2300
+    boss: false
+    groups: []
   :gazer: &160 !ruby/object:Monster
     challenge: 0.5
     name: Gazer
@@ -1960,6 +2522,8 @@
     source: Volo's Guide to Monsters
     key: :gazer
     xp_value: 100
+    boss: false
+    groups: []
   :gazer_familiar: &161 !ruby/object:Monster
     challenge: 0.5
     name: Gazer Familiar
@@ -1967,6 +2531,8 @@
     source: Volo's Guide to Monsters
     key: :gazer_familiar
     xp_value: 100
+    boss: false
+    groups: []
   :gelatinous_cube: &360 !ruby/object:Monster
     challenge: 2
     name: Gelatinous Cube
@@ -1974,6 +2540,8 @@
     source: Basic Rules
     key: :gelatinous_cube
     xp_value: 450
+    boss: false
+    groups: []
   :geonid: &782 !ruby/object:Monster
     challenge: 0.25
     name: Geonid
@@ -1981,6 +2549,8 @@
     source: The Tortle Package
     key: :geonid
     xp_value: 50
+    boss: false
+    groups: []
   :ghald: &628 !ruby/object:Monster
     challenge: 7
     name: Ghald
@@ -1988,6 +2558,8 @@
     source: Princes of the Apocalypse
     key: :ghald
     xp_value: 2900
+    boss: false
+    groups: []
   :ghast: &361 !ruby/object:Monster
     challenge: 2
     name: Ghast
@@ -1995,6 +2567,9 @@
     source: Basic Rules
     key: :ghast
     xp_value: 450
+    boss: false
+    groups:
+    - :undead
   :ghelryn_foehammer: &675 !ruby/object:Monster
     challenge: 0
     name: Ghelryn Foehammer
@@ -2002,6 +2577,8 @@
     source: Storm King's Thunder
     key: :ghelryn_foehammer
     xp_value: 10
+    boss: false
+    groups: []
   :ghost: &362 !ruby/object:Monster
     challenge: 4
     name: Ghost
@@ -2009,6 +2586,8 @@
     source: Basic Rules
     key: :ghost
     xp_value: 1100
+    boss: false
+    groups: []
   :ghoul: &363 !ruby/object:Monster
     challenge: 1
     name: Ghoul
@@ -2016,6 +2595,11 @@
     source: Basic Rules
     key: :ghoul
     xp_value: 200
+    boss: false
+    groups:
+    - :undead
+    - :undead_mythical
+    - :undead_vampire
   :giant_ape: &364 !ruby/object:Monster
     challenge: 7
     name: Giant Ape
@@ -2023,6 +2607,8 @@
     source: Basic Rules
     key: :giant_ape
     xp_value: 2900
+    boss: false
+    groups: []
   :giant_badger: &365 !ruby/object:Monster
     challenge: 0.25
     name: Giant Badger
@@ -2030,6 +2616,8 @@
     source: Basic Rules
     key: :giant_badger
     xp_value: 50
+    boss: false
+    groups: []
   :giant_bat: &366 !ruby/object:Monster
     challenge: 0.25
     name: Giant Bat
@@ -2037,6 +2625,8 @@
     source: Basic Rules
     key: :giant_bat
     xp_value: 50
+    boss: false
+    groups: []
   :giant_boar: &367 !ruby/object:Monster
     challenge: 2
     name: Giant Boar
@@ -2044,6 +2634,8 @@
     source: Basic Rules
     key: :giant_boar
     xp_value: 450
+    boss: false
+    groups: []
   :giant_centipede: &368 !ruby/object:Monster
     challenge: 0.25
     name: Giant Centipede
@@ -2051,6 +2643,8 @@
     source: Basic Rules
     key: :giant_centipede
     xp_value: 50
+    boss: false
+    groups: []
   :giant_constrictor_snake: &369 !ruby/object:Monster
     challenge: 2
     name: Giant Constrictor Snake
@@ -2058,6 +2652,8 @@
     source: Basic Rules
     key: :giant_constrictor_snake
     xp_value: 450
+    boss: false
+    groups: []
   :giant_crab: &370 !ruby/object:Monster
     challenge: 0.125
     name: Giant Crab
@@ -2065,6 +2661,8 @@
     source: Basic Rules
     key: :giant_crab
     xp_value: 25
+    boss: false
+    groups: []
   :giant_crayfish: &765 !ruby/object:Monster
     challenge: 2
     name: Giant Crayfish
@@ -2072,6 +2670,8 @@
     source: The Hidden Shrine of Tamoachan
     key: :giant_crayfish
     xp_value: 450
+    boss: false
+    groups: []
   :giant_crocodile: &371 !ruby/object:Monster
     challenge: 5
     name: Giant Crocodile
@@ -2079,6 +2679,8 @@
     source: Basic Rules
     key: :giant_crocodile
     xp_value: 1800
+    boss: false
+    groups: []
   :giant_eagle: &372 !ruby/object:Monster
     challenge: 1
     name: Giant Eagle
@@ -2086,6 +2688,8 @@
     source: Basic Rules
     key: :giant_eagle
     xp_value: 200
+    boss: false
+    groups: []
   :giant_elk: &373 !ruby/object:Monster
     challenge: 2
     name: Giant Elk
@@ -2093,6 +2697,8 @@
     source: Basic Rules
     key: :giant_elk
     xp_value: 450
+    boss: false
+    groups: []
   :giant_fire_beetle: &374 !ruby/object:Monster
     challenge: 0
     name: Giant Fire Beetle
@@ -2100,6 +2706,8 @@
     source: Basic Rules
     key: :giant_fire_beetle
     xp_value: 10
+    boss: false
+    groups: []
   :giant_fly: &701 !ruby/object:Monster
     challenge: 0
     name: Giant Fly
@@ -2107,6 +2715,8 @@
     source: Dungeon Master's Guide
     key: :giant_fly
     xp_value: 10
+    boss: false
+    groups: []
   :giant_four_armed_gargoyle: &587 !ruby/object:Monster
     challenge: 10
     name: Giant Four-Armed Gargoyle
@@ -2114,6 +2724,8 @@
     source: Tomb of Annihilation
     key: :giant_four_armed_gargoyle
     xp_value: 5900
+    boss: false
+    groups: []
   :giant_frog: &375 !ruby/object:Monster
     challenge: 0.25
     name: Giant Frog
@@ -2121,6 +2733,8 @@
     source: Basic Rules
     key: :giant_frog
     xp_value: 50
+    boss: false
+    groups: []
   :giant_goat: &376 !ruby/object:Monster
     challenge: 0.5
     name: Giant Goat
@@ -2128,6 +2742,8 @@
     source: Basic Rules
     key: :giant_goat
     xp_value: 100
+    boss: false
+    groups: []
   :giant_hyena: &377 !ruby/object:Monster
     challenge: 1
     name: Giant Hyena
@@ -2135,6 +2751,8 @@
     source: Basic Rules
     key: :giant_hyena
     xp_value: 200
+    boss: false
+    groups: []
   :giant_ice_toad: &804 !ruby/object:Monster
     challenge: 3
     name: Giant Ice Toad
@@ -2142,6 +2760,8 @@
     source: Against the Giants
     key: :giant_ice_toad
     xp_value: 700
+    boss: false
+    groups: []
   :giant_lightning_eel: &766 !ruby/object:Monster
     challenge: 3
     name: Giant Lightning Eel
@@ -2149,6 +2769,8 @@
     source: The Hidden Shrine of Tamoachan
     key: :giant_lightning_eel
     xp_value: 700
+    boss: false
+    groups: []
   :giant_lizard: &378 !ruby/object:Monster
     challenge: 0.25
     name: Giant Lizard
@@ -2156,6 +2778,8 @@
     source: Basic Rules
     key: :giant_lizard
     xp_value: 50
+    boss: false
+    groups: []
   :giant_octopus: &379 !ruby/object:Monster
     challenge: 1
     name: Giant Octopus
@@ -2163,6 +2787,8 @@
     source: Basic Rules
     key: :giant_octopus
     xp_value: 200
+    boss: false
+    groups: []
   :giant_owl: &380 !ruby/object:Monster
     challenge: 0.25
     name: Giant Owl
@@ -2170,6 +2796,8 @@
     source: Basic Rules
     key: :giant_owl
     xp_value: 50
+    boss: false
+    groups: []
   :giant_poisonous_snake: &381 !ruby/object:Monster
     challenge: 0.25
     name: Giant Poisonous Snake
@@ -2177,6 +2805,8 @@
     source: Basic Rules
     key: :giant_poisonous_snake
     xp_value: 50
+    boss: false
+    groups: []
   :giant_rat: &382 !ruby/object:Monster
     challenge: 0.125
     name: Giant Rat
@@ -2184,6 +2814,8 @@
     source: Basic Rules
     key: :giant_rat
     xp_value: 25
+    boss: false
+    groups: []
   :giant_riding_lizard: &723 !ruby/object:Monster
     challenge: 0.25
     name: Giant Riding Lizard
@@ -2191,6 +2823,8 @@
     source: Out of the Abyss
     key: :giant_riding_lizard
     xp_value: 50
+    boss: false
+    groups: []
   :giant_scorpion: &383 !ruby/object:Monster
     challenge: 3
     name: Giant Scorpion
@@ -2198,6 +2832,8 @@
     source: Basic Rules
     key: :giant_scorpion
     xp_value: 700
+    boss: false
+    groups: []
   :giant_sea_horse: &384 !ruby/object:Monster
     challenge: 0.5
     name: Giant Sea Horse
@@ -2205,6 +2841,8 @@
     source: Basic Rules
     key: :giant_sea_horse
     xp_value: 100
+    boss: false
+    groups: []
   :giant_shark: &385 !ruby/object:Monster
     challenge: 5
     name: Giant Shark
@@ -2212,6 +2850,8 @@
     source: Basic Rules
     key: :giant_shark
     xp_value: 1800
+    boss: false
+    groups: []
   :giant_skeleton: &805 !ruby/object:Monster
     challenge: 7
     name: Giant Skeleton
@@ -2219,6 +2859,8 @@
     source: Tomb of Horrors
     key: :giant_skeleton
     xp_value: 2900
+    boss: false
+    groups: []
   :giant_snapping_turtle: &588 !ruby/object:Monster
     challenge: 3
     name: Giant Snapping Turtle
@@ -2226,6 +2868,8 @@
     source: Tomb of Annihilation
     key: :giant_snapping_turtle
     xp_value: 700
+    boss: false
+    groups: []
   :giant_spider: &386 !ruby/object:Monster
     challenge: 1
     name: Giant Spider
@@ -2233,6 +2877,8 @@
     source: Basic Rules
     key: :giant_spider
     xp_value: 200
+    boss: false
+    groups: []
   :giant_strider: &162 !ruby/object:Monster
     challenge: 1
     name: Giant Strider
@@ -2240,6 +2886,8 @@
     source: Volo's Guide to Monsters
     key: :giant_strider
     xp_value: 200
+    boss: false
+    groups: []
   :giant_subterranean_lizard: &668 !ruby/object:Monster
     challenge: 4
     name: Giant Subterranean Lizard
@@ -2247,6 +2895,8 @@
     source: The Forge of Fury
     key: :giant_subterranean_lizard
     xp_value: 1100
+    boss: false
+    groups: []
   :giant_toad: &387 !ruby/object:Monster
     challenge: 1
     name: Giant Toad
@@ -2254,6 +2904,8 @@
     source: Basic Rules
     key: :giant_toad
     xp_value: 200
+    boss: false
+    groups: []
   :giant_vulture: &388 !ruby/object:Monster
     challenge: 1
     name: Giant Vulture
@@ -2261,6 +2913,8 @@
     source: Basic Rules
     key: :giant_vulture
     xp_value: 200
+    boss: false
+    groups: []
   :giant_wasp: &389 !ruby/object:Monster
     challenge: 0.5
     name: Giant Wasp
@@ -2268,6 +2922,8 @@
     source: Basic Rules
     key: :giant_wasp
     xp_value: 100
+    boss: false
+    groups: []
   :giant_weasel: &390 !ruby/object:Monster
     challenge: 0.125
     name: Giant Weasel
@@ -2275,6 +2931,8 @@
     source: Basic Rules
     key: :giant_weasel
     xp_value: 25
+    boss: false
+    groups: []
   :giant_wolf_spider: &391 !ruby/object:Monster
     challenge: 0.25
     name: Giant Wolf Spider
@@ -2282,6 +2940,8 @@
     source: Basic Rules
     key: :giant_wolf_spider
     xp_value: 50
+    boss: false
+    groups: []
   :gibbering_mouther: &392 !ruby/object:Monster
     challenge: 2
     name: Gibbering Mouther
@@ -2289,6 +2949,8 @@
     source: Basic Rules
     key: :gibbering_mouther
     xp_value: 450
+    boss: false
+    groups: []
   :girallon: &163 !ruby/object:Monster
     challenge: 4
     name: Girallon
@@ -2296,6 +2958,8 @@
     source: Volo's Guide to Monsters
     key: :girallon
     xp_value: 1100
+    boss: false
+    groups: []
   :girallon_zombie: &589 !ruby/object:Monster
     challenge: 3
     name: Girallon Zombie
@@ -2303,6 +2967,8 @@
     source: Tomb of Annihilation
     key: :girallon_zombie
     xp_value: 700
+    boss: false
+    groups: []
   :githyanki_knight: &35 !ruby/object:Monster
     challenge: 8
     name: Githyanki Knight
@@ -2310,6 +2976,8 @@
     source: Monster Manual
     key: :githyanki_knight
     xp_value: 3900
+    boss: false
+    groups: []
   :githyanki_warrior: &36 !ruby/object:Monster
     challenge: 3
     name: Githyanki Warrior
@@ -2317,6 +2985,8 @@
     source: Monster Manual
     key: :githyanki_warrior
     xp_value: 700
+    boss: false
+    groups: []
   :githzerai_monk: &37 !ruby/object:Monster
     challenge: 2
     name: Githzerai Monk
@@ -2324,6 +2994,8 @@
     source: Monster Manual
     key: :githzerai_monk
     xp_value: 450
+    boss: false
+    groups: []
   :githzerai_zerth: &38 !ruby/object:Monster
     challenge: 6
     name: Githzerai Zerth
@@ -2331,6 +3003,8 @@
     source: Monster Manual
     key: :githzerai_zerth
     xp_value: 2300
+    boss: false
+    groups: []
   :glabrezu: &393 !ruby/object:Monster
     challenge: 9
     name: Glabrezu
@@ -2338,6 +3012,8 @@
     source: Basic Rules
     key: :glabrezu
     xp_value: 5000
+    boss: false
+    groups: []
   :gladiator: &394 !ruby/object:Monster
     challenge: 5
     name: Gladiator
@@ -2345,6 +3021,8 @@
     source: Basic Rules
     key: :gladiator
     xp_value: 1800
+    boss: false
+    groups: []
   :gnoll: &395 !ruby/object:Monster
     challenge: 0.5
     name: Gnoll
@@ -2352,6 +3030,8 @@
     source: Basic Rules
     key: :gnoll
     xp_value: 100
+    boss: false
+    groups: []
   :gnoll_fang_of_yeenoghu: &39 !ruby/object:Monster
     challenge: 4
     name: Gnoll Fang of Yeenoghu
@@ -2359,6 +3039,8 @@
     source: Monster Manual
     key: :gnoll_fang_of_yeenoghu
     xp_value: 1100
+    boss: false
+    groups: []
   :gnoll_flesh_gnawer: &164 !ruby/object:Monster
     challenge: 1
     name: Gnoll Flesh Gnawer
@@ -2366,6 +3048,8 @@
     source: Volo's Guide to Monsters
     key: :gnoll_flesh_gnawer
     xp_value: 200
+    boss: false
+    groups: []
   :gnoll_hunter: &165 !ruby/object:Monster
     challenge: 0.5
     name: Gnoll Hunter
@@ -2373,6 +3057,8 @@
     source: Volo's Guide to Monsters
     key: :gnoll_hunter
     xp_value: 100
+    boss: false
+    groups: []
   :gnoll_pack_lord: &40 !ruby/object:Monster
     challenge: 2
     name: Gnoll Pack Lord
@@ -2380,6 +3066,8 @@
     source: Monster Manual
     key: :gnoll_pack_lord
     xp_value: 450
+    boss: false
+    groups: []
   :gnoll_witherling: &166 !ruby/object:Monster
     challenge: 0.25
     name: Gnoll Witherling
@@ -2387,6 +3075,8 @@
     source: Volo's Guide to Monsters
     key: :gnoll_witherling
     xp_value: 50
+    boss: false
+    groups: []
   :goat: &396 !ruby/object:Monster
     challenge: 0
     name: Goat
@@ -2394,6 +3084,8 @@
     source: Basic Rules
     key: :goat
     xp_value: 10
+    boss: false
+    groups: []
   :goblin: &397 !ruby/object:Monster
     challenge: 0.25
     name: Goblin
@@ -2401,6 +3093,9 @@
     source: Basic Rules
     key: :goblin
     xp_value: 50
+    boss: false
+    groups:
+    - :gobelin
   :goblin_boss: &41 !ruby/object:Monster
     challenge: 1
     name: Goblin Boss
@@ -2408,6 +3103,9 @@
     source: Monster Manual
     key: :goblin_boss
     xp_value: 200
+    boss: true
+    groups:
+    - :gobelin
   :gold_dragon_wyrmling: &398 !ruby/object:Monster
     challenge: 3
     name: Gold Dragon Wyrmling
@@ -2415,6 +3113,8 @@
     source: Basic Rules
     key: :gold_dragon_wyrmling
     xp_value: 700
+    boss: false
+    groups: []
   :gorgon: &399 !ruby/object:Monster
     challenge: 5
     name: Gorgon
@@ -2422,6 +3122,8 @@
     source: Basic Rules
     key: :gorgon
     xp_value: 1800
+    boss: false
+    groups: []
   :goristro: &42 !ruby/object:Monster
     challenge: 17
     name: Goristro
@@ -2429,6 +3131,8 @@
     source: Monster Manual
     key: :goristro
     xp_value: 18000
+    boss: false
+    groups: []
   :gray_ooze: &400 !ruby/object:Monster
     challenge: 0.5
     name: Gray Ooze
@@ -2436,6 +3140,8 @@
     source: Basic Rules
     key: :gray_ooze
     xp_value: 100
+    boss: false
+    groups: []
   :gray_slaad: &43 !ruby/object:Monster
     challenge: 9
     name: Gray Slaad
@@ -2443,6 +3149,8 @@
     source: Monster Manual
     key: :gray_slaad
     xp_value: 5000
+    boss: false
+    groups: []
   :grazzt: &724 !ruby/object:Monster
     challenge: 24
     name: Graz’zt
@@ -2450,6 +3158,8 @@
     source: Out of the Abyss
     key: :grazzt
     xp_value: 62000
+    boss: false
+    groups: []
   :greater_zombie: &806 !ruby/object:Monster
     challenge: 5
     name: Greater Zombie
@@ -2457,6 +3167,8 @@
     source: Tomb of Horrors
     key: :greater_zombie
     xp_value: 1800
+    boss: false
+    groups: []
   :green_dragon_wyrmling: &401 !ruby/object:Monster
     challenge: 2
     name: Green Dragon Wyrmling
@@ -2464,6 +3176,8 @@
     source: Basic Rules
     key: :green_dragon_wyrmling
     xp_value: 450
+    boss: false
+    groups: []
   :green_guard_drake: &167 !ruby/object:Monster
     challenge: 2
     name: Green Guard Drake
@@ -2471,6 +3185,8 @@
     source: Volo's Guide to Monsters
     key: :green_guard_drake
     xp_value: 450
+    boss: false
+    groups: []
   :green_hag: &402 !ruby/object:Monster
     challenge: 3
     name: Green Hag
@@ -2478,6 +3194,8 @@
     source: Basic Rules
     key: :green_hag
     xp_value: 700
+    boss: false
+    groups: []
   :green_slaad: &44 !ruby/object:Monster
     challenge: 8
     name: Green Slaad
@@ -2485,6 +3203,8 @@
     source: Monster Manual
     key: :green_slaad
     xp_value: 3900
+    boss: false
+    groups: []
   :grell: &45 !ruby/object:Monster
     challenge: 3
     name: Grell
@@ -2492,6 +3212,8 @@
     source: Monster Manual
     key: :grell
     xp_value: 700
+    boss: false
+    groups: []
   :grick: &403 !ruby/object:Monster
     challenge: 2
     name: Grick
@@ -2499,6 +3221,8 @@
     source: Basic Rules
     key: :grick
     xp_value: 450
+    boss: false
+    groups: []
   :grick_alpha: &46 !ruby/object:Monster
     challenge: 7
     name: Grick Alpha
@@ -2506,6 +3230,8 @@
     source: Monster Manual
     key: :grick_alpha
     xp_value: 2900
+    boss: false
+    groups: []
   :griffon: &404 !ruby/object:Monster
     challenge: 2
     name: Griffon
@@ -2513,6 +3239,8 @@
     source: Basic Rules
     key: :griffon
     xp_value: 450
+    boss: false
+    groups: []
   :grimlock: &405 !ruby/object:Monster
     challenge: 0.25
     name: Grimlock
@@ -2520,6 +3248,8 @@
     source: Basic Rules
     key: :grimlock
     xp_value: 50
+    boss: false
+    groups: []
   :grisha: &725 !ruby/object:Monster
     challenge: 2
     name: Grisha
@@ -2527,6 +3257,8 @@
     source: Out of the Abyss
     key: :grisha
     xp_value: 450
+    boss: false
+    groups: []
   :grumink_the_renegade: &629 !ruby/object:Monster
     challenge: 8
     name: Grumink the Renegade
@@ -2534,6 +3266,8 @@
     source: Princes of the Apocalypse
     key: :grumink_the_renegade
     xp_value: 3900
+    boss: false
+    groups: []
   :grung: &168 !ruby/object:Monster
     challenge: 0.25
     name: Grung
@@ -2541,6 +3275,8 @@
     source: Volo's Guide to Monsters
     key: :grung
     xp_value: 50
+    boss: false
+    groups: []
   :grung_elite_warrior: &169 !ruby/object:Monster
     challenge: 2
     name: Grung Elite Warrior
@@ -2548,6 +3284,8 @@
     source: Volo's Guide to Monsters
     key: :grung_elite_warrior
     xp_value: 450
+    boss: false
+    groups: []
   :grung_wildling: &170 !ruby/object:Monster
     challenge: 1
     name: Grung Wildling
@@ -2555,6 +3293,8 @@
     source: Volo's Guide to Monsters
     key: :grung_wildling
     xp_value: 200
+    boss: false
+    groups: []
   :guard: &406 !ruby/object:Monster
     challenge: 0.125
     name: Guard
@@ -2562,6 +3302,8 @@
     source: Basic Rules
     key: :guard
     xp_value: 25
+    boss: false
+    groups: []
   :guard_drake: &171 !ruby/object:Monster
     challenge: 2
     name: Guard Drake
@@ -2569,6 +3311,8 @@
     source: Volo's Guide to Monsters
     key: :guard_drake
     xp_value: 450
+    boss: false
+    groups: []
   :guardian_naga: &407 !ruby/object:Monster
     challenge: 10
     name: Guardian Naga
@@ -2576,6 +3320,8 @@
     source: Basic Rules
     key: :guardian_naga
     xp_value: 5900
+    boss: false
+    groups: []
   :guardian_portrait: &748 !ruby/object:Monster
     challenge: 1
     name: Guardian Portrait
@@ -2583,6 +3329,8 @@
     source: Curse of Strahd
     key: :guardian_portrait
     xp_value: 200
+    boss: false
+    groups: []
   :gynosphinx: &408 !ruby/object:Monster
     challenge: 11
     name: Gynosphinx
@@ -2590,6 +3338,8 @@
     source: Basic Rules
     key: :gynosphinx
     xp_value: 7200
+    boss: false
+    groups: []
   :hadrosaurus: &172 !ruby/object:Monster
     challenge: 0.25
     name: Hadrosaurus
@@ -2597,6 +3347,8 @@
     source: Volo's Guide to Monsters
     key: :hadrosaurus
     xp_value: 50
+    boss: false
+    groups: []
   :half_blue_dragon_gladiator: &789 !ruby/object:Monster
     challenge: 5
     name: Half-Blue Dragon Gladiator
@@ -2604,6 +3356,8 @@
     source: Rise of Tiamat
     key: :half_blue_dragon_gladiator
     xp_value: 1800
+    boss: false
+    groups: []
   :half_green_dragon_assassin: &790 !ruby/object:Monster
     challenge: 8
     name: Half-Green Dragon Assassin
@@ -2611,6 +3365,8 @@
     source: Rise of Tiamat
     key: :half_green_dragon_assassin
     xp_value: 3900
+    boss: false
+    groups: []
   :half_ogre: &47 !ruby/object:Monster
     challenge: 1
     name: Half-Ogre
@@ -2618,6 +3374,8 @@
     source: Monster Manual
     key: :half_ogre
     xp_value: 200
+    boss: false
+    groups: []
   :half_red_dragon_gladiator: &791 !ruby/object:Monster
     challenge: 6
     name: Half-Red Dragon Gladiator
@@ -2625,6 +3383,8 @@
     source: Rise of Tiamat
     key: :half_red_dragon_gladiator
     xp_value: 2300
+    boss: false
+    groups: []
   :half_red_dragon_veteran: &409 !ruby/object:Monster
     challenge: 5
     name: Half-Red Dragon Veteran
@@ -2632,6 +3392,8 @@
     source: Basic Rules
     key: :half_red_dragon_veteran
     xp_value: 1800
+    boss: false
+    groups: []
   :harpy: &410 !ruby/object:Monster
     challenge: 1
     name: Harpy
@@ -2639,6 +3401,8 @@
     source: Basic Rules
     key: :harpy
     xp_value: 200
+    boss: false
+    groups: []
   :hawk: &411 !ruby/object:Monster
     challenge: 0
     name: Hawk
@@ -2646,6 +3410,8 @@
     source: Basic Rules
     key: :hawk
     xp_value: 10
+    boss: false
+    groups: []
   :hell_hound: &412 !ruby/object:Monster
     challenge: 3
     name: Hell Hound
@@ -2653,6 +3419,8 @@
     source: Basic Rules
     key: :hell_hound
     xp_value: 700
+    boss: false
+    groups: []
   :hellenrae: &630 !ruby/object:Monster
     challenge: 5
     name: Hellenrae
@@ -2660,6 +3428,8 @@
     source: Princes of the Apocalypse
     key: :hellenrae
     xp_value: 1800
+    boss: false
+    groups: []
   :helmed_horror: &48 !ruby/object:Monster
     challenge: 4
     name: Helmed Horror
@@ -2667,6 +3437,8 @@
     source: Monster Manual
     key: :helmed_horror
     xp_value: 1100
+    boss: false
+    groups: []
   :hezrou: &413 !ruby/object:Monster
     challenge: 8
     name: Hezrou
@@ -2674,6 +3446,8 @@
     source: Basic Rules
     key: :hezrou
     xp_value: 3900
+    boss: false
+    groups: []
   :hill_giant: &414 !ruby/object:Monster
     challenge: 5
     name: Hill Giant
@@ -2681,6 +3455,8 @@
     source: Basic Rules
     key: :hill_giant
     xp_value: 1800
+    boss: false
+    groups: []
   :hippogriff: &415 !ruby/object:Monster
     challenge: 1
     name: Hippogriff
@@ -2688,6 +3464,8 @@
     source: Basic Rules
     key: :hippogriff
     xp_value: 200
+    boss: false
+    groups: []
   :hobgoblin: &416 !ruby/object:Monster
     challenge: 0.5
     name: Hobgoblin
@@ -2695,6 +3473,10 @@
     source: Basic Rules
     key: :hobgoblin
     xp_value: 100
+    boss: false
+    groups:
+    - :gobelin
+    - :hobgobelin
   :hobgoblin_captain: &49 !ruby/object:Monster
     challenge: 3
     name: Hobgoblin Captain
@@ -2702,6 +3484,10 @@
     source: Monster Manual
     key: :hobgoblin_captain
     xp_value: 700
+    boss: true
+    groups:
+    - :gobelin
+    - :hobgobelin
   :hobgoblin_devastator: &173 !ruby/object:Monster
     challenge: 4
     name: Hobgoblin Devastator
@@ -2709,6 +3495,8 @@
     source: Volo's Guide to Monsters
     key: :hobgoblin_devastator
     xp_value: 1100
+    boss: false
+    groups: []
   :hobgoblin_iron_shadow: &174 !ruby/object:Monster
     challenge: 2
     name: Hobgoblin Iron Shadow
@@ -2716,6 +3504,8 @@
     source: Volo's Guide to Monsters
     key: :hobgoblin_iron_shadow
     xp_value: 450
+    boss: false
+    groups: []
   :hobgoblin_warlord: &50 !ruby/object:Monster
     challenge: 6
     name: Hobgoblin Warlord
@@ -2723,6 +3513,10 @@
     source: Monster Manual
     key: :hobgoblin_warlord
     xp_value: 2300
+    boss: true
+    groups:
+    - :gobelin
+    - :hobgobelin
   :homunculus: &417 !ruby/object:Monster
     challenge: 0
     name: Homunculus
@@ -2730,6 +3524,8 @@
     source: Basic Rules
     key: :homunculus
     xp_value: 10
+    boss: false
+    groups: []
   :hook_horror: &51 !ruby/object:Monster
     challenge: 3
     name: Hook Horror
@@ -2737,6 +3533,8 @@
     source: Monster Manual
     key: :hook_horror
     xp_value: 700
+    boss: false
+    groups: []
   :hook_horror_spore_servant: &726 !ruby/object:Monster
     challenge: 3
     name: Hook Horror Spore Servant
@@ -2744,6 +3542,8 @@
     source: Out of the Abyss
     key: :hook_horror_spore_servant
     xp_value: 700
+    boss: false
+    groups: []
   :horned_devil: &418 !ruby/object:Monster
     challenge: 11
     name: Horned Devil
@@ -2751,6 +3551,8 @@
     source: Basic Rules
     key: :horned_devil
     xp_value: 7200
+    boss: false
+    groups: []
   :howling_hatred_initiate: &631 !ruby/object:Monster
     challenge: 0.125
     name: Howling Hatred Initiate
@@ -2758,6 +3560,8 @@
     source: Princes of the Apocalypse
     key: :howling_hatred_initiate
     xp_value: 25
+    boss: false
+    groups: []
   :howling_hatred_priest: &632 !ruby/object:Monster
     challenge: 2
     name: Howling Hatred Priest
@@ -2765,6 +3569,8 @@
     source: Princes of the Apocalypse
     key: :howling_hatred_priest
     xp_value: 450
+    boss: false
+    groups: []
   :hulking_crab: &676 !ruby/object:Monster
     challenge: 5
     name: Hulking Crab
@@ -2772,6 +3578,8 @@
     source: Storm King's Thunder
     key: :hulking_crab
     xp_value: 1800
+    boss: false
+    groups: []
   :hunter_shark: &419 !ruby/object:Monster
     challenge: 2
     name: Hunter Shark
@@ -2779,6 +3587,8 @@
     source: Basic Rules
     key: :hunter_shark
     xp_value: 450
+    boss: false
+    groups: []
   :hurricane: &633 !ruby/object:Monster
     challenge: 2
     name: Hurricane
@@ -2786,6 +3596,8 @@
     source: Princes of the Apocalypse
     key: :hurricane
     xp_value: 450
+    boss: false
+    groups: []
   :hydra: &420 !ruby/object:Monster
     challenge: 8
     name: Hydra
@@ -2793,6 +3605,8 @@
     source: Basic Rules
     key: :hydra
     xp_value: 3900
+    boss: false
+    groups: []
   :hyena: &421 !ruby/object:Monster
     challenge: 0
     name: Hyena
@@ -2800,6 +3614,8 @@
     source: Basic Rules
     key: :hyena
     xp_value: 10
+    boss: false
+    groups: []
   :ice_devil: &422 !ruby/object:Monster
     challenge: 14
     name: Ice Devil
@@ -2807,6 +3623,8 @@
     source: Basic Rules
     key: :ice_devil
     xp_value: 11500
+    boss: false
+    groups: []
   :ice_mephit: &423 !ruby/object:Monster
     challenge: 0.5
     name: Ice Mephit
@@ -2814,6 +3632,8 @@
     source: Basic Rules
     key: :ice_mephit
     xp_value: 100
+    boss: false
+    groups: []
   :ice_toad: &792 !ruby/object:Monster
     challenge: 1
     name: Ice Toad
@@ -2821,6 +3641,8 @@
     source: Rise of Tiamat
     key: :ice_toad
     xp_value: 200
+    boss: false
+    groups: []
   :ice_troll: &793 !ruby/object:Monster
     challenge: 5
     name: Ice Troll
@@ -2828,6 +3650,8 @@
     source: Rise of Tiamat
     key: :ice_troll
     xp_value: 1800
+    boss: false
+    groups: []
   :illusionist: &175 !ruby/object:Monster
     challenge: 3
     name: Illusionist
@@ -2835,6 +3659,8 @@
     source: Volo's Guide to Monsters
     key: :illusionist
     xp_value: 700
+    boss: false
+    groups: []
   :imix: &634 !ruby/object:Monster
     challenge: 19
     name: Imix
@@ -2842,6 +3668,8 @@
     source: Princes of the Apocalypse
     key: :imix
     xp_value: 22000
+    boss: false
+    groups: []
   :imp: &424 !ruby/object:Monster
     challenge: 1
     name: Imp
@@ -2849,6 +3677,8 @@
     source: Basic Rules
     key: :imp
     xp_value: 200
+    boss: false
+    groups: []
   :intellect_devourer: &52 !ruby/object:Monster
     challenge: 2
     name: Intellect Devourer
@@ -2856,6 +3686,8 @@
     source: Monster Manual
     key: :intellect_devourer
     xp_value: 450
+    boss: false
+    groups: []
   :invisible_stalker: &425 !ruby/object:Monster
     challenge: 6
     name: Invisible Stalker
@@ -2863,6 +3695,8 @@
     source: Basic Rules
     key: :invisible_stalker
     xp_value: 2300
+    boss: false
+    groups: []
   :iron_golem: &426 !ruby/object:Monster
     challenge: 16
     name: Iron Golem
@@ -2870,6 +3704,8 @@
     source: Basic Rules
     key: :iron_golem
     xp_value: 15000
+    boss: false
+    groups: []
   :ixitxachitl: &727 !ruby/object:Monster
     challenge: 0.25
     name: Ixitxachitl
@@ -2877,6 +3713,8 @@
     source: Out of the Abyss
     key: :ixitxachitl
     xp_value: 50
+    boss: false
+    groups: []
   :ixitxachitl_cleric: &728 !ruby/object:Monster
     challenge: 2
     name: Ixitxachitl Cleric
@@ -2884,6 +3722,8 @@
     source: Out of the Abyss
     key: :ixitxachitl_cleric
     xp_value: 450
+    boss: false
+    groups: []
   :iymrith: &677 !ruby/object:Monster
     challenge: 23
     name: Iymrith
@@ -2891,6 +3731,8 @@
     source: Storm King's Thunder
     key: :iymrith
     xp_value: 50000
+    boss: false
+    groups: []
   :izek_strazni: &749 !ruby/object:Monster
     challenge: 5
     name: Izek Strazni
@@ -2898,6 +3740,8 @@
     source: Curse of Strahd
     key: :izek_strazni
     xp_value: 1800
+    boss: false
+    groups: []
   :jackal: &427 !ruby/object:Monster
     challenge: 0
     name: Jackal
@@ -2905,6 +3749,8 @@
     source: Basic Rules
     key: :jackal
     xp_value: 10
+    boss: false
+    groups: []
   :jackalwere: &53 !ruby/object:Monster
     challenge: 0.5
     name: Jackalwere
@@ -2912,6 +3758,8 @@
     source: Monster Manual
     key: :jackalwere
     xp_value: 100
+    boss: false
+    groups: []
   :jaculi: &590 !ruby/object:Monster
     challenge: 0.5
     name: Jaculi
@@ -2919,6 +3767,8 @@
     source: Tomb of Annihilation
     key: :jaculi
     xp_value: 100
+    boss: false
+    groups: []
   :jamna_gleamsilver: &660 !ruby/object:Monster
     challenge: 1
     name: Jamna Gleamsilver
@@ -2926,6 +3776,8 @@
     source: Hoard of the Dragon Queen
     key: :jamna_gleamsilver
     xp_value: 200
+    boss: false
+    groups: []
   :juiblex: &729 !ruby/object:Monster
     challenge: 23
     name: Juiblex
@@ -2933,6 +3785,8 @@
     source: Out of the Abyss
     key: :juiblex
     xp_value: 50000
+    boss: false
+    groups: []
   :kalka_kylla: &767 !ruby/object:Monster
     challenge: 3
     name: Kalka-Kylla
@@ -2940,6 +3794,8 @@
     source: The Hidden Shrine of Tamoachan
     key: :kalka_kylla
     xp_value: 700
+    boss: false
+    groups: []
   :kamadan: &591 !ruby/object:Monster
     challenge: 4
     name: Kamadan
@@ -2947,6 +3803,8 @@
     source: Tomb of Annihilation
     key: :kamadan
     xp_value: 1100
+    boss: false
+    groups: []
   :kasimir_velikov: &750 !ruby/object:Monster
     challenge: 6
     name: Kasimir Velikov
@@ -2954,6 +3812,8 @@
     source: Curse of Strahd
     key: :kasimir_velikov
     xp_value: 2300
+    boss: false
+    groups: []
   :kelpie: &808 !ruby/object:Monster
     challenge: 4
     name: Kelpie
@@ -2961,6 +3821,8 @@
     source: White Plume Mountain
     key: :kelpie
     xp_value: 1100
+    boss: false
+    groups: []
   :kenku: &54 !ruby/object:Monster
     challenge: 0.25
     name: Kenku
@@ -2968,6 +3830,8 @@
     source: Monster Manual
     key: :kenku
     xp_value: 50
+    boss: false
+    groups: []
   :killer_whale: &428 !ruby/object:Monster
     challenge: 3
     name: Killer Whale
@@ -2975,6 +3839,8 @@
     source: Basic Rules
     key: :killer_whale
     xp_value: 700
+    boss: false
+    groups: []
   :ki_rin: &176 !ruby/object:Monster
     challenge: 12
     name: Ki-rin
@@ -2982,6 +3848,8 @@
     source: Volo's Guide to Monsters
     key: :ki_rin
     xp_value: 8400
+    boss: false
+    groups: []
   :knight: &429 !ruby/object:Monster
     challenge: 3
     name: Knight
@@ -2989,6 +3857,8 @@
     source: Basic Rules
     key: :knight
     xp_value: 700
+    boss: false
+    groups: []
   :kobold: &430 !ruby/object:Monster
     challenge: 0.125
     name: Kobold
@@ -2996,6 +3866,8 @@
     source: Basic Rules
     key: :kobold
     xp_value: 25
+    boss: false
+    groups: []
   :kobold_dragonshield: &177 !ruby/object:Monster
     challenge: 1
     name: Kobold Dragonshield
@@ -3003,6 +3875,8 @@
     source: Volo's Guide to Monsters
     key: :kobold_dragonshield
     xp_value: 200
+    boss: false
+    groups: []
   :kobold_inventor: &178 !ruby/object:Monster
     challenge: 0.25
     name: Kobold Inventor
@@ -3010,6 +3884,8 @@
     source: Volo's Guide to Monsters
     key: :kobold_inventor
     xp_value: 50
+    boss: false
+    groups: []
   :kobold_scale_sorcerer: &179 !ruby/object:Monster
     challenge: 1
     name: Kobold Scale Sorcerer
@@ -3017,6 +3893,8 @@
     source: Volo's Guide to Monsters
     key: :kobold_scale_sorcerer
     xp_value: 200
+    boss: false
+    groups: []
   :korred: &180 !ruby/object:Monster
     challenge: 7
     name: Korred
@@ -3024,6 +3902,8 @@
     source: Volo's Guide to Monsters
     key: :korred
     xp_value: 2900
+    boss: false
+    groups: []
   :kraken: &431 !ruby/object:Monster
     challenge: 23
     name: Kraken
@@ -3031,6 +3911,8 @@
     source: Basic Rules
     key: :kraken
     xp_value: 50000
+    boss: false
+    groups: []
   :kraken_priest: &181 !ruby/object:Monster
     challenge: 5
     name: Kraken Priest
@@ -3038,6 +3920,8 @@
     source: Volo's Guide to Monsters
     key: :kraken_priest
     xp_value: 1800
+    boss: false
+    groups: []
   :kuo_toa: &55 !ruby/object:Monster
     challenge: 0.25
     name: Kuo-toa
@@ -3045,6 +3929,8 @@
     source: Monster Manual
     key: :kuo_toa
     xp_value: 50
+    boss: false
+    groups: []
   :kuo_toa_archpriest: &56 !ruby/object:Monster
     challenge: 6
     name: Kuo-toa Archpriest
@@ -3052,6 +3938,8 @@
     source: Monster Manual
     key: :kuo_toa_archpriest
     xp_value: 2300
+    boss: false
+    groups: []
   :kuo_toa_monitor: &57 !ruby/object:Monster
     challenge: 3
     name: Kuo-toa Monitor
@@ -3059,6 +3947,8 @@
     source: Monster Manual
     key: :kuo_toa_monitor
     xp_value: 700
+    boss: false
+    groups: []
   :kuo_toa_whip: &58 !ruby/object:Monster
     challenge: 1
     name: Kuo-toa Whip
@@ -3066,6 +3956,8 @@
     source: Monster Manual
     key: :kuo_toa_whip
     xp_value: 200
+    boss: false
+    groups: []
   :lamia: &432 !ruby/object:Monster
     challenge: 4
     name: Lamia
@@ -3073,6 +3965,8 @@
     source: Basic Rules
     key: :lamia
     xp_value: 1100
+    boss: false
+    groups: []
   :langdedrosa_cyanwrath: &661 !ruby/object:Monster
     challenge: 4
     name: Langdedrosa Cyanwrath
@@ -3080,6 +3974,8 @@
     source: Hoard of the Dragon Queen
     key: :langdedrosa_cyanwrath
     xp_value: 1100
+    boss: false
+    groups: []
   :larva: &702 !ruby/object:Monster
     challenge: 0
     name: Larva
@@ -3087,6 +3983,8 @@
     source: Dungeon Master's Guide
     key: :larva
     xp_value: 10
+    boss: false
+    groups: []
   :lemure: &433 !ruby/object:Monster
     challenge: 0
     name: Lemure
@@ -3094,6 +3992,8 @@
     source: Basic Rules
     key: :lemure
     xp_value: 10
+    boss: false
+    groups: []
   :leucrotta: &182 !ruby/object:Monster
     challenge: 3
     name: Leucrotta
@@ -3101,6 +4001,8 @@
     source: Volo's Guide to Monsters
     key: :leucrotta
     xp_value: 700
+    boss: false
+    groups: []
   :liara_portyr: &592 !ruby/object:Monster
     challenge: 4
     name: Liara Portyr
@@ -3108,6 +4010,8 @@
     source: Tomb of Annihilation
     key: :liara_portyr
     xp_value: 1100
+    boss: false
+    groups: []
   :lich: &434 !ruby/object:Monster
     challenge: 21
     name: Lich
@@ -3115,6 +4019,8 @@
     source: Basic Rules
     key: :lich
     xp_value: 33000
+    boss: false
+    groups: []
   :lifferlas: &678 !ruby/object:Monster
     challenge: 0
     name: Lifferlas
@@ -3122,6 +4028,8 @@
     source: Storm King's Thunder
     key: :lifferlas
     xp_value: 10
+    boss: false
+    groups: []
   :lion: &435 !ruby/object:Monster
     challenge: 1
     name: Lion
@@ -3129,6 +4037,8 @@
     source: Basic Rules
     key: :lion
     xp_value: 200
+    boss: false
+    groups: []
   :lizard: &436 !ruby/object:Monster
     challenge: 0
     name: Lizard
@@ -3136,6 +4046,8 @@
     source: Basic Rules
     key: :lizard
     xp_value: 10
+    boss: false
+    groups: []
   :lizard_king/queen: &59 !ruby/object:Monster
     challenge: 4
     name: Lizard King/Queen
@@ -3143,6 +4055,8 @@
     source: Monster Manual
     key: :lizard_king/queen
     xp_value: 1100
+    boss: false
+    groups: []
   :lizardfolk: &437 !ruby/object:Monster
     challenge: 0.5
     name: Lizardfolk
@@ -3150,6 +4064,8 @@
     source: Basic Rules
     key: :lizardfolk
     xp_value: 100
+    boss: false
+    groups: []
   :lizardfolk_shaman: &60 !ruby/object:Monster
     challenge: 2
     name: Lizardfolk Shaman
@@ -3157,6 +4073,8 @@
     source: Monster Manual
     key: :lizardfolk_shaman
     xp_value: 450
+    boss: false
+    groups: []
   :lords_alliance_guard: &730 !ruby/object:Monster
     challenge: 0.25
     name: Lords’ Alliance Guard
@@ -3164,6 +4082,8 @@
     source: Out of the Abyss
     key: :lords_alliance_guard
     xp_value: 50
+    boss: false
+    groups: []
   :lords_alliance_spy: &731 !ruby/object:Monster
     challenge: 1
     name: Lords’ Alliance Spy
@@ -3171,6 +4091,8 @@
     source: Out of the Abyss
     key: :lords_alliance_spy
     xp_value: 200
+    boss: false
+    groups: []
   :madam_eva: &751 !ruby/object:Monster
     challenge: 10
     name: Madam Eva
@@ -3178,6 +4100,8 @@
     source: Curse of Strahd
     key: :madam_eva
     xp_value: 5900
+    boss: false
+    groups: []
   :maegera_the_dawn_titan: &679 !ruby/object:Monster
     challenge: 23
     name: Maegera the Dawn Titan
@@ -3185,6 +4109,8 @@
     source: Storm King's Thunder
     key: :maegera_the_dawn_titan
     xp_value: 50000
+    boss: false
+    groups: []
   :mage: &438 !ruby/object:Monster
     challenge: 6
     name: Mage
@@ -3192,6 +4118,8 @@
     source: Basic Rules
     key: :mage
     xp_value: 2300
+    boss: false
+    groups: []
   :magma_mephit: &439 !ruby/object:Monster
     challenge: 0.5
     name: Magma Mephit
@@ -3199,6 +4127,8 @@
     source: Basic Rules
     key: :magma_mephit
     xp_value: 100
+    boss: false
+    groups: []
   :magmin: &440 !ruby/object:Monster
     challenge: 0.5
     name: Magmin
@@ -3206,6 +4136,8 @@
     source: Basic Rules
     key: :magmin
     xp_value: 100
+    boss: false
+    groups: []
   :male_steeder: &732 !ruby/object:Monster
     challenge: 0.25
     name: Male Steeder
@@ -3213,6 +4145,8 @@
     source: Out of the Abyss
     key: :male_steeder
     xp_value: 50
+    boss: false
+    groups: []
   :malformed_kraken: &774 !ruby/object:Monster
     challenge: 10
     name: Malformed Kraken
@@ -3220,6 +4154,8 @@
     source: Dead in Thay
     key: :malformed_kraken
     xp_value: 5900
+    boss: false
+    groups: []
   :mammoth: &441 !ruby/object:Monster
     challenge: 6
     name: Mammoth
@@ -3227,6 +4163,8 @@
     source: Basic Rules
     key: :mammoth
     xp_value: 2300
+    boss: false
+    groups: []
   :manes: &61 !ruby/object:Monster
     challenge: 0.125
     name: Manes
@@ -3234,6 +4172,8 @@
     source: Monster Manual
     key: :manes
     xp_value: 25
+    boss: false
+    groups: []
   :manticore: &442 !ruby/object:Monster
     challenge: 3
     name: Manticore
@@ -3241,6 +4181,8 @@
     source: Basic Rules
     key: :manticore
     xp_value: 700
+    boss: false
+    groups: []
   :mantrap: &593 !ruby/object:Monster
     challenge: 1
     name: Mantrap
@@ -3248,6 +4190,8 @@
     source: Tomb of Annihilation
     key: :mantrap
     xp_value: 200
+    boss: false
+    groups: []
   :marid: &62 !ruby/object:Monster
     challenge: 11
     name: Marid
@@ -3255,6 +4199,8 @@
     source: Monster Manual
     key: :marid
     xp_value: 7200
+    boss: false
+    groups: []
   :marilith: &443 !ruby/object:Monster
     challenge: 16
     name: Marilith
@@ -3262,6 +4208,8 @@
     source: Basic Rules
     key: :marilith
     xp_value: 15000
+    boss: false
+    groups: []
   :markham_southwell: &680 !ruby/object:Monster
     challenge: 0
     name: Markham Southwell
@@ -3269,6 +4217,8 @@
     source: Storm King's Thunder
     key: :markham_southwell
     xp_value: 10
+    boss: false
+    groups: []
   :marlos_urnrayle: &635 !ruby/object:Monster
     challenge: 8
     name: Marlos Urnrayle
@@ -3276,6 +4226,8 @@
     source: Princes of the Apocalypse
     key: :marlos_urnrayle
     xp_value: 3900
+    boss: false
+    groups: []
   :martial_arts_adept: &183 !ruby/object:Monster
     challenge: 3
     name: Martial Arts Adept
@@ -3283,6 +4235,8 @@
     source: Volo's Guide to Monsters
     key: :martial_arts_adept
     xp_value: 700
+    boss: false
+    groups: []
   :master_thief: &184 !ruby/object:Monster
     challenge: 5
     name: Master Thief
@@ -3290,6 +4244,8 @@
     source: Volo's Guide to Monsters
     key: :master_thief
     xp_value: 1800
+    boss: false
+    groups: []
   :mastiff: &444 !ruby/object:Monster
     challenge: 0.125
     name: Mastiff
@@ -3297,6 +4253,8 @@
     source: Basic Rules
     key: :mastiff
     xp_value: 25
+    boss: false
+    groups: []
   :maw_demon: &185 !ruby/object:Monster
     challenge: 1
     name: Maw Demon
@@ -3304,6 +4262,8 @@
     source: Volo's Guide to Monsters
     key: :maw_demon
     xp_value: 200
+    boss: false
+    groups: []
   :medusa: &445 !ruby/object:Monster
     challenge: 6
     name: Medusa
@@ -3311,6 +4271,8 @@
     source: Basic Rules
     key: :medusa
     xp_value: 2300
+    boss: false
+    groups: []
   :meenlock: &186 !ruby/object:Monster
     challenge: 2
     name: Meenlock
@@ -3318,6 +4280,8 @@
     source: Volo's Guide to Monsters
     key: :meenlock
     xp_value: 450
+    boss: false
+    groups: []
   :merfolk: &446 !ruby/object:Monster
     challenge: 0.125
     name: Merfolk
@@ -3325,6 +4289,8 @@
     source: Basic Rules
     key: :merfolk
     xp_value: 25
+    boss: false
+    groups: []
   :merrow: &447 !ruby/object:Monster
     challenge: 2
     name: Merrow
@@ -3332,6 +4298,8 @@
     source: Basic Rules
     key: :merrow
     xp_value: 450
+    boss: false
+    groups: []
   :mezzoloth: &63 !ruby/object:Monster
     challenge: 5
     name: Mezzoloth
@@ -3339,6 +4307,8 @@
     source: Monster Manual
     key: :mezzoloth
     xp_value: 1800
+    boss: false
+    groups: []
   :mimic: &448 !ruby/object:Monster
     challenge: 2
     name: Mimic
@@ -3346,6 +4316,8 @@
     source: Basic Rules
     key: :mimic
     xp_value: 450
+    boss: false
+    groups: []
   :mind_flayer: &64 !ruby/object:Monster
     challenge: 7
     name: Mind Flayer
@@ -3353,6 +4325,8 @@
     source: Monster Manual
     key: :mind_flayer
     xp_value: 2900
+    boss: false
+    groups: []
   :mind_flayer_arcanist: &65 !ruby/object:Monster
     challenge: 8
     name: Mind Flayer Arcanist
@@ -3360,6 +4334,8 @@
     source: Monster Manual
     key: :mind_flayer_arcanist
     xp_value: 3900
+    boss: false
+    groups: []
   :mind_flayer_lich_illithilich: &187 !ruby/object:Monster
     challenge: 22
     name: Mind Flayer Lich (Illithilich)
@@ -3367,6 +4343,8 @@
     source: Volo's Guide to Monsters
     key: :mind_flayer_lich_illithilich
     xp_value: 41000
+    boss: false
+    groups: []
   :mindwitness: &188 !ruby/object:Monster
     challenge: 5
     name: Mindwitness
@@ -3374,6 +4352,8 @@
     source: Volo's Guide to Monsters
     key: :mindwitness
     xp_value: 1800
+    boss: false
+    groups: []
   :minotaur: &449 !ruby/object:Monster
     challenge: 3
     name: Minotaur
@@ -3381,6 +4361,8 @@
     source: Basic Rules
     key: :minotaur
     xp_value: 700
+    boss: false
+    groups: []
   :minotaur_skeleton: &450 !ruby/object:Monster
     challenge: 2
     name: Minotaur Skeleton
@@ -3388,6 +4370,9 @@
     source: Basic Rules
     key: :minotaur_skeleton
     xp_value: 450
+    boss: false
+    groups:
+    - :undead_mythical
   :miraj_vizann: &636 !ruby/object:Monster
     challenge: 6
     name: Miraj Vizann
@@ -3395,6 +4380,8 @@
     source: Princes of the Apocalypse
     key: :miraj_vizann
     xp_value: 2300
+    boss: false
+    groups: []
   :miros_xelbrin: &681 !ruby/object:Monster
     challenge: 0
     name: Miros Xelbrin
@@ -3402,6 +4389,8 @@
     source: Storm King's Thunder
     key: :miros_xelbrin
     xp_value: 10
+    boss: false
+    groups: []
   :mongrelfolk: &752 !ruby/object:Monster
     challenge: 0.25
     name: Mongrelfolk
@@ -3409,6 +4398,8 @@
     source: Curse of Strahd
     key: :mongrelfolk
     xp_value: 50
+    boss: false
+    groups: []
   :monodrone: &66 !ruby/object:Monster
     challenge: 0.125
     name: Monodrone
@@ -3416,6 +4407,8 @@
     source: Monster Manual
     key: :monodrone
     xp_value: 25
+    boss: false
+    groups: []
   :morkoth: &189 !ruby/object:Monster
     challenge: 11
     name: Morkoth
@@ -3423,6 +4416,8 @@
     source: Volo's Guide to Monsters
     key: :morkoth
     xp_value: 7200
+    boss: false
+    groups: []
   :mormesk_the_wraith: &800 !ruby/object:Monster
     challenge: 3
     name: Mormesk the Wraith
@@ -3430,6 +4425,8 @@
     source: Lost Mine of Phandelver
     key: :mormesk_the_wraith
     xp_value: 700
+    boss: false
+    groups: []
   :mouth_of_grolantor: &190 !ruby/object:Monster
     challenge: 6
     name: Mouth of Grolantor
@@ -3437,6 +4434,8 @@
     source: Volo's Guide to Monsters
     key: :mouth_of_grolantor
     xp_value: 2300
+    boss: false
+    groups: []
   :mud_mephit: &67 !ruby/object:Monster
     challenge: 0.25
     name: Mud Mephit
@@ -3444,6 +4443,8 @@
     source: Monster Manual
     key: :mud_mephit
     xp_value: 50
+    boss: false
+    groups: []
   :mule: &451 !ruby/object:Monster
     challenge: 0.125
     name: Mule
@@ -3451,6 +4452,8 @@
     source: Basic Rules
     key: :mule
     xp_value: 25
+    boss: false
+    groups: []
   :mummy: &452 !ruby/object:Monster
     challenge: 3
     name: Mummy
@@ -3458,6 +4461,9 @@
     source: Basic Rules
     key: :mummy
     xp_value: 700
+    boss: false
+    groups:
+    - :undead_mythical
   :mummy_lord: &453 !ruby/object:Monster
     challenge: 15
     name: Mummy Lord
@@ -3465,6 +4471,9 @@
     source: Basic Rules
     key: :mummy_lord
     xp_value: 13000
+    boss: true
+    groups:
+    - :undead_mythical
   :mwaxanare: &594 !ruby/object:Monster
     challenge: 0.125
     name: Mwaxanaré
@@ -3472,6 +4481,8 @@
     source: Tomb of Annihilation
     key: :mwaxanare
     xp_value: 25
+    boss: false
+    groups: []
   :myconid_adult: &68 !ruby/object:Monster
     challenge: 0.5
     name: Myconid Adult
@@ -3479,6 +4490,8 @@
     source: Monster Manual
     key: :myconid_adult
     xp_value: 100
+    boss: false
+    groups: []
   :myconid_sovereign: &69 !ruby/object:Monster
     challenge: 2
     name: Myconid Sovereign
@@ -3486,6 +4499,8 @@
     source: Monster Manual
     key: :myconid_sovereign
     xp_value: 450
+    boss: false
+    groups: []
   :myconid_sprout: &70 !ruby/object:Monster
     challenge: 0
     name: Myconid Sprout
@@ -3493,6 +4508,8 @@
     source: Monster Manual
     key: :myconid_sprout
     xp_value: 10
+    boss: false
+    groups: []
   :naergoth_bladelord: &794 !ruby/object:Monster
     challenge: 11
     name: Naergoth Bladelord
@@ -3500,6 +4517,8 @@
     source: Rise of Tiamat
     key: :naergoth_bladelord
     xp_value: 7200
+    boss: false
+    groups: []
   :nalfeshnee: &454 !ruby/object:Monster
     challenge: 13
     name: Nalfeshnee
@@ -3507,6 +4526,8 @@
     source: Basic Rules
     key: :nalfeshnee
     xp_value: 10000
+    boss: false
+    groups: []
   :narrak: &733 !ruby/object:Monster
     challenge: 2
     name: Narrak
@@ -3514,6 +4535,8 @@
     source: Out of the Abyss
     key: :narrak
     xp_value: 450
+    boss: false
+    groups: []
   :narth_tezrin: &682 !ruby/object:Monster
     challenge: 0
     name: Narth Tezrin
@@ -3521,6 +4544,8 @@
     source: Storm King's Thunder
     key: :narth_tezrin
     xp_value: 10
+    boss: false
+    groups: []
   :naxene_drathkala: &683 !ruby/object:Monster
     challenge: 0
     name: Naxene Drathkala
@@ -3528,6 +4553,8 @@
     source: Storm King's Thunder
     key: :naxene_drathkala
     xp_value: 10
+    boss: false
+    groups: []
   :necromancer: &191 !ruby/object:Monster
     challenge: 9
     name: Necromancer
@@ -3535,6 +4562,8 @@
     source: Volo's Guide to Monsters
     key: :necromancer
     xp_value: 5000
+    boss: false
+    groups: []
   :needle_blight: &71 !ruby/object:Monster
     challenge: 0.25
     name: Needle Blight
@@ -3542,6 +4571,8 @@
     source: Monster Manual
     key: :needle_blight
     xp_value: 50
+    boss: false
+    groups: []
   :neogi: &192 !ruby/object:Monster
     challenge: 3
     name: Neogi
@@ -3549,6 +4580,8 @@
     source: Volo's Guide to Monsters
     key: :neogi
     xp_value: 700
+    boss: false
+    groups: []
   :neogi_hatchling: &193 !ruby/object:Monster
     challenge: 0.125
     name: Neogi Hatchling
@@ -3556,6 +4589,8 @@
     source: Volo's Guide to Monsters
     key: :neogi_hatchling
     xp_value: 25
+    boss: false
+    groups: []
   :neogi_master: &194 !ruby/object:Monster
     challenge: 4
     name: Neogi Master
@@ -3563,6 +4598,8 @@
     source: Volo's Guide to Monsters
     key: :neogi_master
     xp_value: 1100
+    boss: false
+    groups: []
   :neothelid: &195 !ruby/object:Monster
     challenge: 13
     name: Neothelid
@@ -3570,6 +4607,8 @@
     source: Volo's Guide to Monsters
     key: :neothelid
     xp_value: 10000
+    boss: false
+    groups: []
   :nereid: &768 !ruby/object:Monster
     challenge: 2
     name: Nereid
@@ -3577,6 +4616,8 @@
     source: The Hidden Shrine of Tamoachan
     key: :nereid
     xp_value: 450
+    boss: false
+    groups: []
   :neronvain: &795 !ruby/object:Monster
     challenge: 9
     name: Neronvain
@@ -3584,6 +4625,8 @@
     source: Rise of Tiamat
     key: :neronvain
     xp_value: 5000
+    boss: false
+    groups: []
   :nezznar_the_black_spider: &801 !ruby/object:Monster
     challenge: 2
     name: Nezznar the Black Spider
@@ -3591,6 +4634,8 @@
     source: Lost Mine of Phandelver
     key: :nezznar_the_black_spider
     xp_value: 450
+    boss: false
+    groups: []
   :night_hag: &455 !ruby/object:Monster
     challenge: 5
     name: Night Hag
@@ -3598,6 +4643,8 @@
     source: Basic Rules
     key: :night_hag
     xp_value: 1800
+    boss: false
+    groups: []
   :nightmare: &456 !ruby/object:Monster
     challenge: 3
     name: Nightmare
@@ -3605,6 +4652,8 @@
     source: Basic Rules
     key: :nightmare
     xp_value: 700
+    boss: false
+    groups: []
   :nilbog: &196 !ruby/object:Monster
     challenge: 1
     name: Nilbog
@@ -3612,6 +4661,8 @@
     source: Volo's Guide to Monsters
     key: :nilbog
     xp_value: 200
+    boss: false
+    groups: []
   :nimir: &684 !ruby/object:Monster
     challenge: 13
     name: Nimir
@@ -3619,6 +4670,8 @@
     source: Storm King's Thunder
     key: :nimir
     xp_value: 10000
+    boss: false
+    groups: []
   :noble: &457 !ruby/object:Monster
     challenge: 0.125
     name: Noble
@@ -3626,6 +4679,8 @@
     source: Basic Rules
     key: :noble
     xp_value: 25
+    boss: false
+    groups: []
   :nothic: &458 !ruby/object:Monster
     challenge: 2
     name: Nothic
@@ -3633,6 +4688,8 @@
     source: Basic Rules
     key: :nothic
     xp_value: 450
+    boss: false
+    groups: []
   :nycaloth: &72 !ruby/object:Monster
     challenge: 9
     name: Nycaloth
@@ -3640,6 +4697,8 @@
     source: Monster Manual
     key: :nycaloth
     xp_value: 5000
+    boss: false
+    groups: []
   :ochre_jelly: &459 !ruby/object:Monster
     challenge: 2
     name: Ochre Jelly
@@ -3647,6 +4706,8 @@
     source: Basic Rules
     key: :ochre_jelly
     xp_value: 450
+    boss: false
+    groups: []
   :octopus: &460 !ruby/object:Monster
     challenge: 0
     name: Octopus
@@ -3654,6 +4715,8 @@
     source: Basic Rules
     key: :octopus
     xp_value: 10
+    boss: false
+    groups: []
   :ogre: &461 !ruby/object:Monster
     challenge: 2
     name: Ogre
@@ -3661,6 +4724,8 @@
     source: Basic Rules
     key: :ogre
     xp_value: 450
+    boss: false
+    groups: []
   :ogre_zombie: &462 !ruby/object:Monster
     challenge: 2
     name: Ogre Zombie
@@ -3668,6 +4733,8 @@
     source: Basic Rules
     key: :ogre_zombie
     xp_value: 450
+    boss: false
+    groups: []
   :ogremoch: &637 !ruby/object:Monster
     challenge: 20
     name: Ogrémoch
@@ -3675,6 +4742,8 @@
     source: Princes of the Apocalypse
     key: :ogremoch
     xp_value: 25000
+    boss: false
+    groups: []
   :olhydra: &638 !ruby/object:Monster
     challenge: 18
     name: Olhydra
@@ -3682,6 +4751,8 @@
     source: Princes of the Apocalypse
     key: :olhydra
     xp_value: 20000
+    boss: false
+    groups: []
   :one_eyed_shiver: &639 !ruby/object:Monster
     challenge: 3
     name: One-Eyed Shiver
@@ -3689,6 +4760,8 @@
     source: Princes of the Apocalypse
     key: :one_eyed_shiver
     xp_value: 700
+    boss: false
+    groups: []
   :oni: &463 !ruby/object:Monster
     challenge: 7
     name: Oni
@@ -3696,6 +4769,8 @@
     source: Basic Rules
     key: :oni
     xp_value: 2900
+    boss: false
+    groups: []
   :ooze_master: &775 !ruby/object:Monster
     challenge: 10
     name: Ooze Master
@@ -3703,6 +4778,8 @@
     source: Dead in Thay
     key: :ooze_master
     xp_value: 5900
+    boss: false
+    groups: []
   :orc: &464 !ruby/object:Monster
     challenge: 0.5
     name: Orc
@@ -3710,6 +4787,9 @@
     source: Basic Rules
     key: :orc
     xp_value: 100
+    boss: true
+    groups:
+    - :orc
   :orc_blade_of_ilneval: &197 !ruby/object:Monster
     challenge: 4
     name: Orc Blade of Ilneval
@@ -3717,6 +4797,8 @@
     source: Volo's Guide to Monsters
     key: :orc_blade_of_ilneval
     xp_value: 1100
+    boss: false
+    groups: []
   :orc_claw_of_luthic: &198 !ruby/object:Monster
     challenge: 2
     name: Orc Claw of Luthic
@@ -3724,6 +4806,8 @@
     source: Volo's Guide to Monsters
     key: :orc_claw_of_luthic
     xp_value: 450
+    boss: false
+    groups: []
   :orc_eye_of_gruumsh: &73 !ruby/object:Monster
     challenge: 2
     name: Orc Eye of Gruumsh
@@ -3731,6 +4815,9 @@
     source: Monster Manual
     key: :orc_eye_of_gruumsh
     xp_value: 450
+    boss: true
+    groups:
+    - :orc
   :orc_hand_of_yurtrus: &199 !ruby/object:Monster
     challenge: 2
     name: Orc Hand of Yurtrus
@@ -3738,6 +4825,8 @@
     source: Volo's Guide to Monsters
     key: :orc_hand_of_yurtrus
     xp_value: 450
+    boss: false
+    groups: []
   :orc_nurtured_one_of_yurtrus: &200 !ruby/object:Monster
     challenge: 0.5
     name: Orc Nurtured One of Yurtrus
@@ -3745,6 +4834,8 @@
     source: Volo's Guide to Monsters
     key: :orc_nurtured_one_of_yurtrus
     xp_value: 100
+    boss: false
+    groups: []
   :orc_red_fang_of_shargaas: &201 !ruby/object:Monster
     challenge: 3
     name: Orc Red Fang of Shargaas
@@ -3752,6 +4843,8 @@
     source: Volo's Guide to Monsters
     key: :orc_red_fang_of_shargaas
     xp_value: 700
+    boss: false
+    groups: []
   :orc_war_chief: &74 !ruby/object:Monster
     challenge: 4
     name: Orc War Chief
@@ -3759,6 +4852,9 @@
     source: Monster Manual
     key: :orc_war_chief
     xp_value: 1100
+    boss: true
+    groups:
+    - :orc
   :orcus: &734 !ruby/object:Monster
     challenge: 26
     name: Orcus
@@ -3766,6 +4862,8 @@
     source: Out of the Abyss
     key: :orcus
     xp_value: 90000
+    boss: false
+    groups: []
   :oreioth: &640 !ruby/object:Monster
     challenge: 2
     name: Oreioth
@@ -3773,6 +4871,8 @@
     source: Princes of the Apocalypse
     key: :oreioth
     xp_value: 450
+    boss: false
+    groups: []
   :oren_yogilvy: &685 !ruby/object:Monster
     challenge: 0
     name: Oren Yogilvy
@@ -3780,6 +4880,8 @@
     source: Storm King's Thunder
     key: :oren_yogilvy
     xp_value: 10
+    boss: false
+    groups: []
   :orlekto: &686 !ruby/object:Monster
     challenge: 13
     name: Orlekto
@@ -3787,6 +4889,8 @@
     source: Storm King's Thunder
     key: :orlekto
     xp_value: 10000
+    boss: false
+    groups: []
   :orog: &75 !ruby/object:Monster
     challenge: 2
     name: Orog
@@ -3794,6 +4898,8 @@
     source: Monster Manual
     key: :orog
     xp_value: 450
+    boss: false
+    groups: []
   :othovir: &687 !ruby/object:Monster
     challenge: 0
     name: Othovir
@@ -3801,6 +4907,8 @@
     source: Storm King's Thunder
     key: :othovir
     xp_value: 10
+    boss: false
+    groups: []
   :otyugh: &465 !ruby/object:Monster
     challenge: 5
     name: Otyugh
@@ -3808,6 +4916,8 @@
     source: Basic Rules
     key: :otyugh
     xp_value: 1800
+    boss: false
+    groups: []
   :owl: &466 !ruby/object:Monster
     challenge: 0
     name: Owl
@@ -3815,6 +4925,8 @@
     source: Basic Rules
     key: :owl
     xp_value: 10
+    boss: false
+    groups: []
   :owlbear: &467 !ruby/object:Monster
     challenge: 3
     name: Owlbear
@@ -3822,6 +4934,8 @@
     source: Basic Rules
     key: :owlbear
     xp_value: 700
+    boss: false
+    groups: []
   :ox: &202 !ruby/object:Monster
     challenge: 0.25
     name: Ox
@@ -3829,6 +4943,8 @@
     source: Volo's Guide to Monsters
     key: :ox
     xp_value: 50
+    boss: false
+    groups: []
   :panther: &468 !ruby/object:Monster
     challenge: 0.25
     name: Panther
@@ -3836,6 +4952,8 @@
     source: Basic Rules
     key: :panther
     xp_value: 50
+    boss: false
+    groups: []
   :pegasus: &469 !ruby/object:Monster
     challenge: 2
     name: Pegasus
@@ -3843,6 +4961,8 @@
     source: Basic Rules
     key: :pegasus
     xp_value: 450
+    boss: false
+    groups: []
   :pentadrone: &76 !ruby/object:Monster
     challenge: 2
     name: Pentadrone
@@ -3850,6 +4970,8 @@
     source: Monster Manual
     key: :pentadrone
     xp_value: 450
+    boss: false
+    groups: []
   :peryton: &77 !ruby/object:Monster
     challenge: 2
     name: Peryton
@@ -3857,6 +4979,8 @@
     source: Monster Manual
     key: :peryton
     xp_value: 450
+    boss: false
+    groups: []
   :phantom_warrior: &753 !ruby/object:Monster
     challenge: 3
     name: Phantom Warrior
@@ -3864,6 +4988,8 @@
     source: Curse of Strahd
     key: :phantom_warrior
     xp_value: 700
+    boss: false
+    groups: []
   :pharblex_spattergoo: &662 !ruby/object:Monster
     challenge: 3
     name: Pharblex Spattergoo
@@ -3871,6 +4997,8 @@
     source: Hoard of the Dragon Queen
     key: :pharblex_spattergoo
     xp_value: 700
+    boss: false
+    groups: []
   :phase_spider: &470 !ruby/object:Monster
     challenge: 3
     name: Phase Spider
@@ -3878,6 +5006,8 @@
     source: Basic Rules
     key: :phase_spider
     xp_value: 700
+    boss: false
+    groups: []
   :pidlwick_ii: &754 !ruby/object:Monster
     challenge: 0.25
     name: Pidlwick II
@@ -3885,6 +5015,8 @@
     source: Curse of Strahd
     key: :pidlwick_ii
     xp_value: 50
+    boss: false
+    groups: []
   :piercer: &78 !ruby/object:Monster
     challenge: 0.5
     name: Piercer
@@ -3892,6 +5024,8 @@
     source: Monster Manual
     key: :piercer
     xp_value: 100
+    boss: false
+    groups: []
   :pit_fiend: &471 !ruby/object:Monster
     challenge: 20
     name: Pit Fiend
@@ -3899,6 +5033,8 @@
     source: Basic Rules
     key: :pit_fiend
     xp_value: 25000
+    boss: false
+    groups: []
   :pixie: &79 !ruby/object:Monster
     challenge: 0.25
     name: Pixie
@@ -3906,6 +5042,8 @@
     source: Monster Manual
     key: :pixie
     xp_value: 50
+    boss: false
+    groups: []
   :planetar: &472 !ruby/object:Monster
     challenge: 16
     name: Planetar
@@ -3913,6 +5051,8 @@
     source: Basic Rules
     key: :planetar
     xp_value: 15000
+    boss: false
+    groups: []
   :plesiosaurus: &473 !ruby/object:Monster
     challenge: 2
     name: Plesiosaurus
@@ -3920,6 +5060,8 @@
     source: Basic Rules
     key: :plesiosaurus
     xp_value: 450
+    boss: false
+    groups: []
   :poisonous_snake: &474 !ruby/object:Monster
     challenge: 0.125
     name: Poisonous Snake
@@ -3927,6 +5069,8 @@
     source: Basic Rules
     key: :poisonous_snake
     xp_value: 25
+    boss: false
+    groups: []
   :polar_bear: &475 !ruby/object:Monster
     challenge: 2
     name: Polar Bear
@@ -3934,6 +5078,8 @@
     source: Basic Rules
     key: :polar_bear
     xp_value: 450
+    boss: false
+    groups: []
   :poltergeist: &80 !ruby/object:Monster
     challenge: 2
     name: Poltergeist
@@ -3941,6 +5087,8 @@
     source: Monster Manual
     key: :poltergeist
     xp_value: 450
+    boss: false
+    groups: []
   :pony: &476 !ruby/object:Monster
     challenge: 0.125
     name: Pony
@@ -3948,6 +5096,8 @@
     source: Basic Rules
     key: :pony
     xp_value: 25
+    boss: false
+    groups: []
   :priest: &477 !ruby/object:Monster
     challenge: 2
     name: Priest
@@ -3955,6 +5105,8 @@
     source: Basic Rules
     key: :priest
     xp_value: 450
+    boss: false
+    groups: []
   :pseudodragon: &478 !ruby/object:Monster
     challenge: 0.25
     name: Pseudodragon
@@ -3962,6 +5114,8 @@
     source: Basic Rules
     key: :pseudodragon
     xp_value: 50
+    boss: false
+    groups: []
   :psychic_gray_ooze: &81 !ruby/object:Monster
     challenge: 0.5
     name: Psychic Gray Ooze
@@ -3969,6 +5123,8 @@
     source: Monster Manual
     key: :psychic_gray_ooze
     xp_value: 100
+    boss: false
+    groups: []
   :pterafolk: &595 !ruby/object:Monster
     challenge: 1
     name: Pterafolk
@@ -3976,6 +5132,8 @@
     source: Tomb of Annihilation
     key: :pterafolk
     xp_value: 200
+    boss: false
+    groups: []
   :pteranodon: &479 !ruby/object:Monster
     challenge: 0.25
     name: Pteranodon
@@ -3983,6 +5141,8 @@
     source: Basic Rules
     key: :pteranodon
     xp_value: 50
+    boss: false
+    groups: []
   :pudding_king: &735 !ruby/object:Monster
     challenge: 4
     name: Pudding King
@@ -3990,6 +5150,8 @@
     source: Out of the Abyss
     key: :pudding_king
     xp_value: 1100
+    boss: false
+    groups: []
   :purple_worm: &480 !ruby/object:Monster
     challenge: 15
     name: Purple Worm
@@ -3997,6 +5159,8 @@
     source: Basic Rules
     key: :purple_worm
     xp_value: 13000
+    boss: false
+    groups: []
   :purple_wormling: &688 !ruby/object:Monster
     challenge: 2
     name: Purple Wormling
@@ -4004,6 +5168,8 @@
     source: Storm King's Thunder
     key: :purple_wormling
     xp_value: 450
+    boss: false
+    groups: []
   :quadrone: &82 !ruby/object:Monster
     challenge: 1
     name: Quadrone
@@ -4011,6 +5177,8 @@
     source: Monster Manual
     key: :quadrone
     xp_value: 200
+    boss: false
+    groups: []
   :quaggoth: &83 !ruby/object:Monster
     challenge: 2
     name: Quaggoth
@@ -4018,6 +5186,8 @@
     source: Monster Manual
     key: :quaggoth
     xp_value: 450
+    boss: false
+    groups: []
   :quaggoth_spore_servant: &84 !ruby/object:Monster
     challenge: 1
     name: Quaggoth Spore Servant
@@ -4025,6 +5195,8 @@
     source: Monster Manual
     key: :quaggoth_spore_servant
     xp_value: 200
+    boss: false
+    groups: []
   :quaggoth_thonot: &85 !ruby/object:Monster
     challenge: 3
     name: Quaggoth Thonot
@@ -4032,6 +5204,8 @@
     source: Monster Manual
     key: :quaggoth_thonot
     xp_value: 700
+    boss: false
+    groups: []
   :quasit: &481 !ruby/object:Monster
     challenge: 1
     name: Quasit
@@ -4039,6 +5213,8 @@
     source: Basic Rules
     key: :quasit
     xp_value: 200
+    boss: false
+    groups: []
   :quetzalcoatlus: &203 !ruby/object:Monster
     challenge: 2
     name: Quetzalcoatlus
@@ -4046,6 +5222,8 @@
     source: Volo's Guide to Monsters
     key: :quetzalcoatlus
     xp_value: 450
+    boss: false
+    groups: []
   :quickling: &204 !ruby/object:Monster
     challenge: 1
     name: Quickling
@@ -4053,6 +5231,8 @@
     source: Volo's Guide to Monsters
     key: :quickling
     xp_value: 200
+    boss: false
+    groups: []
   :quipper: &482 !ruby/object:Monster
     challenge: 0
     name: Quipper
@@ -4060,6 +5240,8 @@
     source: Basic Rules
     key: :quipper
     xp_value: 10
+    boss: false
+    groups: []
   :rahadin: &755 !ruby/object:Monster
     challenge: 10
     name: Rahadin
@@ -4067,6 +5249,8 @@
     source: Curse of Strahd
     key: :rahadin
     xp_value: 5900
+    boss: false
+    groups: []
   :rakshasa: &483 !ruby/object:Monster
     challenge: 13
     name: Rakshasa
@@ -4074,6 +5258,8 @@
     source: Basic Rules
     key: :rakshasa
     xp_value: 10000
+    boss: false
+    groups: []
   :ras_nsi: &596 !ruby/object:Monster
     challenge: 7
     name: Ras Nsi
@@ -4081,6 +5267,8 @@
     source: Tomb of Annihilation
     key: :ras_nsi
     xp_value: 2900
+    boss: false
+    groups: []
   :rat: &484 !ruby/object:Monster
     challenge: 0
     name: Rat
@@ -4088,6 +5276,8 @@
     source: Basic Rules
     key: :rat
     xp_value: 10
+    boss: false
+    groups: []
   :rath_modar: &663 !ruby/object:Monster
     challenge: 6
     name: Rath Modar
@@ -4095,6 +5285,8 @@
     source: Hoard of the Dragon Queen
     key: :rath_modar
     xp_value: 2300
+    boss: false
+    groups: []
   :raven: &485 !ruby/object:Monster
     challenge: 0
     name: Raven
@@ -4102,6 +5294,8 @@
     source: Basic Rules
     key: :raven
     xp_value: 10
+    boss: false
+    groups: []
   :razerblast: &641 !ruby/object:Monster
     challenge: 5
     name: Razerblast
@@ -4109,6 +5303,8 @@
     source: Princes of the Apocalypse
     key: :razerblast
     xp_value: 1800
+    boss: false
+    groups: []
   :red_dragon_wyrmling: &486 !ruby/object:Monster
     challenge: 4
     name: Red Dragon Wyrmling
@@ -4116,6 +5312,8 @@
     source: Basic Rules
     key: :red_dragon_wyrmling
     xp_value: 1100
+    boss: false
+    groups: []
   :red_guard_drake: &205 !ruby/object:Monster
     challenge: 2
     name: Red Guard Drake
@@ -4123,6 +5321,8 @@
     source: Volo's Guide to Monsters
     key: :red_guard_drake
     xp_value: 450
+    boss: false
+    groups: []
   :red_slaad: &86 !ruby/object:Monster
     challenge: 5
     name: Red Slaad
@@ -4130,6 +5330,8 @@
     source: Monster Manual
     key: :red_slaad
     xp_value: 1800
+    boss: false
+    groups: []
   :redbrand_ruffian: &802 !ruby/object:Monster
     challenge: 0.5
     name: Redbrand Ruffian
@@ -4137,6 +5339,8 @@
     source: Lost Mine of Phandelver
     key: :redbrand_ruffian
     xp_value: 100
+    boss: false
+    groups: []
   :redcap: &206 !ruby/object:Monster
     challenge: 3
     name: Redcap
@@ -4144,6 +5348,8 @@
     source: Volo's Guide to Monsters
     key: :redcap
     xp_value: 700
+    boss: false
+    groups: []
   :reef_shark: &487 !ruby/object:Monster
     challenge: 0.5
     name: Reef Shark
@@ -4151,6 +5357,8 @@
     source: Basic Rules
     key: :reef_shark
     xp_value: 100
+    boss: false
+    groups: []
   :remorhaz: &488 !ruby/object:Monster
     challenge: 11
     name: Remorhaz
@@ -4158,6 +5366,8 @@
     source: Basic Rules
     key: :remorhaz
     xp_value: 7200
+    boss: false
+    groups: []
   :revenant: &87 !ruby/object:Monster
     challenge: 5
     name: Revenant
@@ -4165,6 +5375,8 @@
     source: Monster Manual
     key: :revenant
     xp_value: 1800
+    boss: false
+    groups: []
   :rezmir: &664 !ruby/object:Monster
     challenge: 7
     name: Rezmir
@@ -4172,6 +5384,8 @@
     source: Hoard of the Dragon Queen
     key: :rezmir
     xp_value: 2900
+    boss: false
+    groups: []
   :rhinoceros: &489 !ruby/object:Monster
     challenge: 2
     name: Rhinoceros
@@ -4179,6 +5393,8 @@
     source: Basic Rules
     key: :rhinoceros
     xp_value: 450
+    boss: false
+    groups: []
   :rictavio: &756 !ruby/object:Monster
     challenge: 5
     name: Rictavio
@@ -4186,6 +5402,8 @@
     source: Curse of Strahd
     key: :rictavio
     xp_value: 1800
+    boss: false
+    groups: []
   :riding_horse: &490 !ruby/object:Monster
     challenge: 0.25
     name: Riding Horse
@@ -4193,6 +5411,8 @@
     source: Basic Rules
     key: :riding_horse
     xp_value: 50
+    boss: false
+    groups: []
   :roc: &491 !ruby/object:Monster
     challenge: 11
     name: Roc
@@ -4200,6 +5420,8 @@
     source: Basic Rules
     key: :roc
     xp_value: 7200
+    boss: false
+    groups: []
   :roper: &492 !ruby/object:Monster
     challenge: 5
     name: Roper
@@ -4207,6 +5429,8 @@
     source: Basic Rules
     key: :roper
     xp_value: 1800
+    boss: false
+    groups: []
   :rothe: &207 !ruby/object:Monster
     challenge: 0.25
     name: Rothé
@@ -4214,6 +5438,8 @@
     source: Volo's Guide to Monsters
     key: :rothe
     xp_value: 50
+    boss: false
+    groups: []
   :rug_of_smothering: &493 !ruby/object:Monster
     challenge: 2
     name: Rug of Smothering
@@ -4221,6 +5447,8 @@
     source: Basic Rules
     key: :rug_of_smothering
     xp_value: 450
+    boss: false
+    groups: []
   :rust_monster: &494 !ruby/object:Monster
     challenge: 0.5
     name: Rust Monster
@@ -4228,6 +5456,8 @@
     source: Basic Rules
     key: :rust_monster
     xp_value: 100
+    boss: false
+    groups: []
   :saber_toothed_tiger: &495 !ruby/object:Monster
     challenge: 2
     name: Saber-Toothed Tiger
@@ -4235,6 +5465,8 @@
     source: Basic Rules
     key: :saber_toothed_tiger
     xp_value: 450
+    boss: false
+    groups: []
   :sacred_stone_monk: &642 !ruby/object:Monster
     challenge: 0.5
     name: Sacred Stone Monk
@@ -4242,6 +5474,8 @@
     source: Princes of the Apocalypse
     key: :sacred_stone_monk
     xp_value: 100
+    boss: false
+    groups: []
   :sahuagin: &496 !ruby/object:Monster
     challenge: 0.5
     name: Sahuagin
@@ -4249,6 +5483,8 @@
     source: Basic Rules
     key: :sahuagin
     xp_value: 100
+    boss: false
+    groups: []
   :sahuagin_baron: &88 !ruby/object:Monster
     challenge: 5
     name: Sahuagin Baron
@@ -4256,6 +5492,8 @@
     source: Monster Manual
     key: :sahuagin_baron
     xp_value: 1800
+    boss: false
+    groups: []
   :sahuagin_priestess: &89 !ruby/object:Monster
     challenge: 2
     name: Sahuagin Priestess
@@ -4263,6 +5501,8 @@
     source: Monster Manual
     key: :sahuagin_priestess
     xp_value: 450
+    boss: false
+    groups: []
   :salamander: &497 !ruby/object:Monster
     challenge: 5
     name: Salamander
@@ -4270,6 +5510,8 @@
     source: Basic Rules
     key: :salamander
     xp_value: 1800
+    boss: false
+    groups: []
   :satyr: &498 !ruby/object:Monster
     challenge: 0.5
     name: Satyr
@@ -4277,6 +5519,8 @@
     source: Basic Rules
     key: :satyr
     xp_value: 100
+    boss: false
+    groups: []
   :scarecrow: &90 !ruby/object:Monster
     challenge: 1
     name: Scarecrow
@@ -4284,6 +5528,8 @@
     source: Monster Manual
     key: :scarecrow
     xp_value: 200
+    boss: false
+    groups: []
   :scorpion: &499 !ruby/object:Monster
     challenge: 0
     name: Scorpion
@@ -4291,6 +5537,8 @@
     source: Basic Rules
     key: :scorpion
     xp_value: 10
+    boss: false
+    groups: []
   :scout: &500 !ruby/object:Monster
     challenge: 0.5
     name: Scout
@@ -4298,6 +5546,8 @@
     source: Basic Rules
     key: :scout
     xp_value: 100
+    boss: false
+    groups: []
   :scrag: &796 !ruby/object:Monster
     challenge: 5
     name: Scrag
@@ -4305,6 +5555,8 @@
     source: Rise of Tiamat
     key: :scrag
     xp_value: 1800
+    boss: false
+    groups: []
   :sea_hag: &501 !ruby/object:Monster
     challenge: 2
     name: Sea Hag
@@ -4312,6 +5564,8 @@
     source: Basic Rules
     key: :sea_hag
     xp_value: 450
+    boss: false
+    groups: []
   :sea_horse: &502 !ruby/object:Monster
     challenge: 0
     name: Sea Horse
@@ -4319,6 +5573,8 @@
     source: Basic Rules
     key: :sea_horse
     xp_value: 10
+    boss: false
+    groups: []
   :sea_lion: &809 !ruby/object:Monster
     challenge: 5
     name: Sea Lion
@@ -4326,6 +5582,8 @@
     source: White Plume Mountain
     key: :sea_lion
     xp_value: 1800
+    boss: false
+    groups: []
   :sea_spawn: &208 !ruby/object:Monster
     challenge: 1
     name: Sea Spawn
@@ -4333,6 +5591,8 @@
     source: Volo's Guide to Monsters
     key: :sea_spawn
     xp_value: 200
+    boss: false
+    groups: []
   :severin: &797 !ruby/object:Monster
     challenge: 11
     name: Severin
@@ -4340,6 +5600,8 @@
     source: Rise of Tiamat
     key: :severin
     xp_value: 7200
+    boss: false
+    groups: []
   :shadow: &503 !ruby/object:Monster
     challenge: 0.5
     name: Shadow
@@ -4347,6 +5609,9 @@
     source: Basic Rules
     key: :shadow
     xp_value: 100
+    boss: false
+    groups:
+    - :undead
   :shadow_demon: &91 !ruby/object:Monster
     challenge: 4
     name: Shadow Demon
@@ -4354,6 +5619,8 @@
     source: Monster Manual
     key: :shadow_demon
     xp_value: 1100
+    boss: false
+    groups: []
   :shadow_mastiff: &209 !ruby/object:Monster
     challenge: 2
     name: Shadow Mastiff
@@ -4361,6 +5628,8 @@
     source: Volo's Guide to Monsters
     key: :shadow_mastiff
     xp_value: 450
+    boss: false
+    groups: []
   :shadow_mastiff_alpha: &210 !ruby/object:Monster
     challenge: 2
     name: Shadow Mastiff Alpha
@@ -4368,6 +5637,8 @@
     source: Volo's Guide to Monsters
     key: :shadow_mastiff_alpha
     xp_value: 450
+    boss: false
+    groups: []
   :shaldoor: &689 !ruby/object:Monster
     challenge: 13
     name: Shaldoor
@@ -4375,6 +5646,8 @@
     source: Storm King's Thunder
     key: :shaldoor
     xp_value: 10000
+    boss: false
+    groups: []
   :shalvus_martholio: &690 !ruby/object:Monster
     challenge: 0
     name: Shalvus Martholio
@@ -4382,6 +5655,8 @@
     source: Storm King's Thunder
     key: :shalvus_martholio
     xp_value: 10
+    boss: false
+    groups: []
   :shambling_mound: &504 !ruby/object:Monster
     challenge: 5
     name: Shambling Mound
@@ -4389,6 +5664,8 @@
     source: Basic Rules
     key: :shambling_mound
     xp_value: 1800
+    boss: false
+    groups: []
   :sharwyn_hucrele: &810 !ruby/object:Monster
     challenge: 0.5
     name: Sharwyn Hucrele
@@ -4396,6 +5673,8 @@
     source: The Sunless Citadel
     key: :sharwyn_hucrele
     xp_value: 100
+    boss: false
+    groups: []
   :shield_guardian: &505 !ruby/object:Monster
     challenge: 7
     name: Shield Guardian
@@ -4403,6 +5682,8 @@
     source: Basic Rules
     key: :shield_guardian
     xp_value: 2900
+    boss: false
+    groups: []
   :shoalar_quanderil: &643 !ruby/object:Monster
     challenge: 4
     name: Shoalar Quanderil
@@ -4410,6 +5691,8 @@
     source: Princes of the Apocalypse
     key: :shoalar_quanderil
     xp_value: 1100
+    boss: false
+    groups: []
   :shoosuva: &211 !ruby/object:Monster
     challenge: 8
     name: Shoosuva
@@ -4417,6 +5700,8 @@
     source: Volo's Guide to Monsters
     key: :shoosuva
     xp_value: 3900
+    boss: false
+    groups: []
   :shrieker: &506 !ruby/object:Monster
     challenge: 0
     name: Shrieker
@@ -4424,6 +5709,8 @@
     source: Basic Rules
     key: :shrieker
     xp_value: 10
+    boss: false
+    groups: []
   :sildar_hallwinter: &803 !ruby/object:Monster
     challenge: 1
     name: Sildar Hallwinter
@@ -4431,6 +5718,8 @@
     source: Lost Mine of Phandelver
     key: :sildar_hallwinter
     xp_value: 200
+    boss: false
+    groups: []
   :silver_dragon_wyrmling: &507 !ruby/object:Monster
     challenge: 2
     name: Silver Dragon Wyrmling
@@ -4438,6 +5727,8 @@
     source: Basic Rules
     key: :silver_dragon_wyrmling
     xp_value: 450
+    boss: false
+    groups: []
   :sir_baric_nylef: &691 !ruby/object:Monster
     challenge: 0
     name: Sir Baric Nylef
@@ -4445,6 +5736,8 @@
     source: Storm King's Thunder
     key: :sir_baric_nylef
     xp_value: 10
+    boss: false
+    groups: []
   :sir_braford: &811 !ruby/object:Monster
     challenge: 0.5
     name: Sir Braford
@@ -4452,6 +5745,8 @@
     source: The Sunless Citadel
     key: :sir_braford
     xp_value: 100
+    boss: false
+    groups: []
   :sirac_of_suzail: &692 !ruby/object:Monster
     challenge: 0
     name: Sirac of Suzail
@@ -4459,6 +5754,8 @@
     source: Storm King's Thunder
     key: :sirac_of_suzail
     xp_value: 10
+    boss: false
+    groups: []
   :siren: &807 !ruby/object:Monster
     challenge: 3
     name: Siren
@@ -4466,6 +5763,8 @@
     source: Tomb of Horrors
     key: :siren
     xp_value: 700
+    boss: false
+    groups: []
   :skeleton: &508 !ruby/object:Monster
     challenge: 0.25
     name: Skeleton
@@ -4473,6 +5772,11 @@
     source: Basic Rules
     key: :skeleton
     xp_value: 50
+    boss: false
+    groups:
+    - :undead
+    - :undead_mythical
+    - :undead_vampire
   :skyweaver: &644 !ruby/object:Monster
     challenge: 3
     name: Skyweaver
@@ -4480,6 +5784,8 @@
     source: Princes of the Apocalypse
     key: :skyweaver
     xp_value: 700
+    boss: false
+    groups: []
   :slaad_tadpole: &92 !ruby/object:Monster
     challenge: 0.125
     name: Slaad Tadpole
@@ -4487,6 +5793,8 @@
     source: Monster Manual
     key: :slaad_tadpole
     xp_value: 25
+    boss: false
+    groups: []
   :slithering_tracker: &212 !ruby/object:Monster
     challenge: 3
     name: Slithering Tracker
@@ -4494,6 +5802,8 @@
     source: Volo's Guide to Monsters
     key: :slithering_tracker
     xp_value: 700
+    boss: false
+    groups: []
   :smoke_mephit: &93 !ruby/object:Monster
     challenge: 0.25
     name: Smoke Mephit
@@ -4501,6 +5811,8 @@
     source: Monster Manual
     key: :smoke_mephit
     xp_value: 50
+    boss: false
+    groups: []
   :solar: &509 !ruby/object:Monster
     challenge: 21
     name: Solar
@@ -4508,6 +5820,8 @@
     source: Basic Rules
     key: :solar
     xp_value: 33000
+    boss: false
+    groups: []
   :spawn_of_kyuss: &213 !ruby/object:Monster
     challenge: 5
     name: Spawn of Kyuss
@@ -4515,6 +5829,8 @@
     source: Volo's Guide to Monsters
     key: :spawn_of_kyuss
     xp_value: 1800
+    boss: false
+    groups: []
   :spectator: &510 !ruby/object:Monster
     challenge: 3
     name: Spectator
@@ -4522,6 +5838,8 @@
     source: Basic Rules
     key: :spectator
     xp_value: 700
+    boss: false
+    groups: []
   :specter: &511 !ruby/object:Monster
     challenge: 1
     name: Specter
@@ -4529,6 +5847,9 @@
     source: Basic Rules
     key: :specter
     xp_value: 200
+    boss: false
+    groups:
+    - :undead
   :spider: &512 !ruby/object:Monster
     challenge: 0
     name: Spider
@@ -4536,6 +5857,8 @@
     source: Basic Rules
     key: :spider
     xp_value: 10
+    boss: false
+    groups: []
   :spined_devil: &94 !ruby/object:Monster
     challenge: 2
     name: Spined Devil
@@ -4543,6 +5866,8 @@
     source: Monster Manual
     key: :spined_devil
     xp_value: 450
+    boss: false
+    groups: []
   :spirit_naga: &513 !ruby/object:Monster
     challenge: 8
     name: Spirit Naga
@@ -4550,6 +5875,8 @@
     source: Basic Rules
     key: :spirit_naga
     xp_value: 3900
+    boss: false
+    groups: []
   :sprite: &514 !ruby/object:Monster
     challenge: 0.25
     name: Sprite
@@ -4557,6 +5884,8 @@
     source: Basic Rules
     key: :sprite
     xp_value: 50
+    boss: false
+    groups: []
   :spy: &515 !ruby/object:Monster
     challenge: 1
     name: Spy
@@ -4564,6 +5893,8 @@
     source: Basic Rules
     key: :spy
     xp_value: 200
+    boss: false
+    groups: []
   :steam_mephit: &516 !ruby/object:Monster
     challenge: 0.25
     name: Steam Mephit
@@ -4571,6 +5902,8 @@
     source: Basic Rules
     key: :steam_mephit
     xp_value: 50
+    boss: false
+    groups: []
   :stegosaurus: &214 !ruby/object:Monster
     challenge: 4
     name: Stegosaurus
@@ -4578,6 +5911,8 @@
     source: Volo's Guide to Monsters
     key: :stegosaurus
     xp_value: 1100
+    boss: false
+    groups: []
   :stench_kow: &215 !ruby/object:Monster
     challenge: 0.25
     name: Stench Kow
@@ -4585,6 +5920,8 @@
     source: Volo's Guide to Monsters
     key: :stench_kow
     xp_value: 50
+    boss: false
+    groups: []
   :stirge: &517 !ruby/object:Monster
     challenge: 0.125
     name: Stirge
@@ -4592,6 +5929,8 @@
     source: Basic Rules
     key: :stirge
     xp_value: 25
+    boss: false
+    groups: []
   :stone_giant: &518 !ruby/object:Monster
     challenge: 7
     name: Stone Giant
@@ -4599,6 +5938,8 @@
     source: Basic Rules
     key: :stone_giant
     xp_value: 2900
+    boss: false
+    groups: []
   :stone_giant_dreamwalker: &216 !ruby/object:Monster
     challenge: 10
     name: Stone Giant Dreamwalker
@@ -4606,6 +5947,8 @@
     source: Volo's Guide to Monsters
     key: :stone_giant_dreamwalker
     xp_value: 5900
+    boss: false
+    groups: []
   :stone_golem: &519 !ruby/object:Monster
     challenge: 10
     name: Stone Golem
@@ -4613,6 +5956,8 @@
     source: Basic Rules
     key: :stone_golem
     xp_value: 5900
+    boss: false
+    groups: []
   :stone_juggernaut: &597 !ruby/object:Monster
     challenge: 12
     name: Stone Juggernaut
@@ -4620,6 +5965,8 @@
     source: Tomb of Annihilation
     key: :stone_juggernaut
     xp_value: 8400
+    boss: false
+    groups: []
   :stonemelder: &645 !ruby/object:Monster
     challenge: 4
     name: Stonemelder
@@ -4627,6 +5974,8 @@
     source: Princes of the Apocalypse
     key: :stonemelder
     xp_value: 1100
+    boss: false
+    groups: []
   :storm_giant: &520 !ruby/object:Monster
     challenge: 13
     name: Storm Giant
@@ -4634,6 +5983,8 @@
     source: Basic Rules
     key: :storm_giant
     xp_value: 10000
+    boss: false
+    groups: []
   :storm_giant_quintessent: &217 !ruby/object:Monster
     challenge: 16
     name: Storm Giant Quintessent
@@ -4641,6 +5992,8 @@
     source: Volo's Guide to Monsters
     key: :storm_giant_quintessent
     xp_value: 15000
+    boss: false
+    groups: []
   :strahd_von_zarovich: &757 !ruby/object:Monster
     challenge: 15
     name: Strahd von Zarovich
@@ -4648,6 +6001,8 @@
     source: Curse of Strahd
     key: :strahd_von_zarovich
     xp_value: 13000
+    boss: false
+    groups: []
   :strahd_zombie: &758 !ruby/object:Monster
     challenge: 1
     name: Strahd Zombie
@@ -4655,6 +6010,8 @@
     source: Curse of Strahd
     key: :strahd_zombie
     xp_value: 200
+    boss: false
+    groups: []
   :strahds_animated_armor: &759 !ruby/object:Monster
     challenge: 6
     name: Strahd’s Animated Armor
@@ -4662,6 +6019,8 @@
     source: Curse of Strahd
     key: :strahds_animated_armor
     xp_value: 2300
+    boss: false
+    groups: []
   :succubus/incubus: &521 !ruby/object:Monster
     challenge: 4
     name: Succubus/Incubus
@@ -4669,6 +6028,8 @@
     source: Basic Rules
     key: :succubus/incubus
     xp_value: 1100
+    boss: false
+    groups: []
   :su_monster: &598 !ruby/object:Monster
     challenge: 1
     name: Su-monster
@@ -4676,6 +6037,8 @@
     source: Tomb of Annihilation
     key: :su_monster
     xp_value: 200
+    boss: false
+    groups: []
   :swarm_of_bats: &522 !ruby/object:Monster
     challenge: 0.25
     name: Swarm of Bats
@@ -4683,6 +6046,8 @@
     source: Basic Rules
     key: :swarm_of_bats
     xp_value: 50
+    boss: false
+    groups: []
   :swarm_of_cranium_rats: &218 !ruby/object:Monster
     challenge: 5
     name: Swarm of Cranium Rats
@@ -4690,6 +6055,8 @@
     source: Volo's Guide to Monsters
     key: :swarm_of_cranium_rats
     xp_value: 1800
+    boss: false
+    groups: []
   :swarm_of_insects: &523 !ruby/object:Monster
     challenge: 0.5
     name: Swarm of Insects
@@ -4697,6 +6064,8 @@
     source: Basic Rules
     key: :swarm_of_insects
     xp_value: 100
+    boss: false
+    groups: []
   :swarm_of_poisonous_snakes: &524 !ruby/object:Monster
     challenge: 2
     name: Swarm of Poisonous Snakes
@@ -4704,6 +6073,8 @@
     source: Basic Rules
     key: :swarm_of_poisonous_snakes
     xp_value: 450
+    boss: false
+    groups: []
   :swarm_of_quippers: &525 !ruby/object:Monster
     challenge: 1
     name: Swarm of Quippers
@@ -4711,6 +6082,8 @@
     source: Basic Rules
     key: :swarm_of_quippers
     xp_value: 200
+    boss: false
+    groups: []
   :swarm_of_rats: &526 !ruby/object:Monster
     challenge: 0.25
     name: Swarm of Rats
@@ -4718,6 +6091,8 @@
     source: Basic Rules
     key: :swarm_of_rats
     xp_value: 50
+    boss: false
+    groups: []
   :swarm_of_ravens: &527 !ruby/object:Monster
     challenge: 0.25
     name: Swarm of Ravens
@@ -4725,6 +6100,8 @@
     source: Basic Rules
     key: :swarm_of_ravens
     xp_value: 50
+    boss: false
+    groups: []
   :swarm_of_rot_grubs: &219 !ruby/object:Monster
     challenge: 0.5
     name: Swarm of Rot Grubs
@@ -4732,6 +6109,8 @@
     source: Volo's Guide to Monsters
     key: :swarm_of_rot_grubs
     xp_value: 100
+    boss: false
+    groups: []
   :swashbuckler: &220 !ruby/object:Monster
     challenge: 3
     name: Swashbuckler
@@ -4739,6 +6118,8 @@
     source: Volo's Guide to Monsters
     key: :swashbuckler
     xp_value: 700
+    boss: false
+    groups: []
   :tabaxi_hunter: &599 !ruby/object:Monster
     challenge: 1
     name: Tabaxi Hunter
@@ -4746,6 +6127,8 @@
     source: Tomb of Annihilation
     key: :tabaxi_hunter
     xp_value: 200
+    boss: false
+    groups: []
   :tabaxi_minstrel: &600 !ruby/object:Monster
     challenge: 0.25
     name: Tabaxi Minstrel
@@ -4753,6 +6136,8 @@
     source: Tomb of Annihilation
     key: :tabaxi_minstrel
     xp_value: 50
+    boss: false
+    groups: []
   :talis_the_white: &665 !ruby/object:Monster
     challenge: 5
     name: Talis the White
@@ -4760,6 +6145,8 @@
     source: Hoard of the Dragon Queen
     key: :talis_the_white
     xp_value: 1800
+    boss: false
+    groups: []
   :tanarukk: &221 !ruby/object:Monster
     challenge: 5
     name: Tanarukk
@@ -4767,6 +6154,8 @@
     source: Volo's Guide to Monsters
     key: :tanarukk
     xp_value: 1800
+    boss: false
+    groups: []
   :tarrasque: &528 !ruby/object:Monster
     challenge: 30
     name: Tarrasque
@@ -4774,6 +6163,8 @@
     source: Basic Rules
     key: :tarrasque
     xp_value: 155000
+    boss: false
+    groups: []
   :tarul_var: &776 !ruby/object:Monster
     challenge: 13
     name: Tarul Var
@@ -4781,6 +6172,8 @@
     source: Dead in Thay
     key: :tarul_var
     xp_value: 10000
+    boss: false
+    groups: []
   :tecuziztecatl: &769 !ruby/object:Monster
     challenge: 4
     name: Tecuziztecatl
@@ -4788,6 +6181,8 @@
     source: The Hidden Shrine of Tamoachan
     key: :tecuziztecatl
     xp_value: 1100
+    boss: false
+    groups: []
   :thayan_apprentice: &777 !ruby/object:Monster
     challenge: 2
     name: Thayan Apprentice
@@ -4795,6 +6190,8 @@
     source: Dead in Thay
     key: :thayan_apprentice
     xp_value: 450
+    boss: false
+    groups: []
   :thayan_warrior: &778 !ruby/object:Monster
     challenge: 2
     name: Thayan Warrior
@@ -4802,6 +6199,8 @@
     source: Dead in Thay
     key: :thayan_warrior
     xp_value: 450
+    boss: false
+    groups: []
   :the_abbot: &760 !ruby/object:Monster
     challenge: 10
     name: The Abbot
@@ -4809,6 +6208,8 @@
     source: Curse of Strahd
     key: :the_abbot
     xp_value: 5900
+    boss: false
+    groups: []
   :thorn_slinger: &770 !ruby/object:Monster
     challenge: 0.5
     name: Thorn Slinger
@@ -4816,6 +6217,8 @@
     source: The Hidden Shrine of Tamoachan
     key: :thorn_slinger
     xp_value: 100
+    boss: false
+    groups: []
   :thorny: &222 !ruby/object:Monster
     challenge: 1
     name: Thorny
@@ -4823,6 +6226,8 @@
     source: Volo's Guide to Monsters
     key: :thorny
     xp_value: 200
+    boss: false
+    groups: []
   :thri_kreen: &95 !ruby/object:Monster
     challenge: 1
     name: Thri-kreen
@@ -4830,6 +6235,8 @@
     source: Monster Manual
     key: :thri_kreen
     xp_value: 200
+    boss: false
+    groups: []
   :thug: &529 !ruby/object:Monster
     challenge: 0.5
     name: Thug
@@ -4837,6 +6244,8 @@
     source: Basic Rules
     key: :thug
     xp_value: 100
+    boss: false
+    groups: []
   :thurl_merosska: &646 !ruby/object:Monster
     challenge: 3
     name: Thurl Merosska
@@ -4844,6 +6253,8 @@
     source: Princes of the Apocalypse
     key: :thurl_merosska
     xp_value: 700
+    boss: false
+    groups: []
   :tiamat: &798 !ruby/object:Monster
     challenge: 30
     name: Tiamat
@@ -4851,6 +6262,8 @@
     source: Rise of Tiamat
     key: :tiamat
     xp_value: 155000
+    boss: false
+    groups: []
   :tiger: &530 !ruby/object:Monster
     challenge: 1
     name: Tiger
@@ -4858,6 +6271,8 @@
     source: Basic Rules
     key: :tiger
     xp_value: 200
+    boss: false
+    groups: []
   :tiny_servant: &813 !ruby/object:Monster
     challenge: 0
     name: Tiny Servant
@@ -4865,6 +6280,8 @@
     source: Xanathar's Guide to Everything
     key: :tiny_servant
     xp_value: 10
+    boss: false
+    groups: []
   :tlincalli: &223 !ruby/object:Monster
     challenge: 5
     name: Tlincalli
@@ -4872,6 +6289,8 @@
     source: Volo's Guide to Monsters
     key: :tlincalli
     xp_value: 1800
+    boss: false
+    groups: []
   :topi: &783 !ruby/object:Monster
     challenge: 0.5
     name: Topi
@@ -4879,6 +6298,8 @@
     source: The Tortle Package
     key: :topi
     xp_value: 100
+    boss: false
+    groups: []
   :tortle: &784 !ruby/object:Monster
     challenge: 0.25
     name: Tortle
@@ -4886,6 +6307,8 @@
     source: The Tortle Package
     key: :tortle
     xp_value: 50
+    boss: false
+    groups: []
   :tortle_druid: &785 !ruby/object:Monster
     challenge: 2
     name: Tortle Druid
@@ -4893,6 +6316,8 @@
     source: The Tortle Package
     key: :tortle_druid
     xp_value: 450
+    boss: false
+    groups: []
   :transmuter: &224 !ruby/object:Monster
     challenge: 5
     name: Transmuter
@@ -4900,6 +6325,8 @@
     source: Volo's Guide to Monsters
     key: :transmuter
     xp_value: 1800
+    boss: false
+    groups: []
   :trapper: &225 !ruby/object:Monster
     challenge: 3
     name: Trapper
@@ -4907,6 +6334,8 @@
     source: Volo's Guide to Monsters
     key: :trapper
     xp_value: 700
+    boss: false
+    groups: []
   :treant: &531 !ruby/object:Monster
     challenge: 9
     name: Treant
@@ -4914,6 +6343,8 @@
     source: Basic Rules
     key: :treant
     xp_value: 5000
+    boss: false
+    groups: []
   :tree_blight: &761 !ruby/object:Monster
     challenge: 7
     name: Tree Blight
@@ -4921,6 +6352,8 @@
     source: Curse of Strahd
     key: :tree_blight
     xp_value: 2900
+    boss: false
+    groups: []
   :tressym: &693 !ruby/object:Monster
     challenge: 0
     name: Tressym
@@ -4928,6 +6361,8 @@
     source: Storm King's Thunder
     key: :tressym
     xp_value: 10
+    boss: false
+    groups: []
   :tribal_warrior: &532 !ruby/object:Monster
     challenge: 0.125
     name: Tribal Warrior
@@ -4935,6 +6370,8 @@
     source: Basic Rules
     key: :tribal_warrior
     xp_value: 25
+    boss: false
+    groups: []
   :triceratops: &533 !ruby/object:Monster
     challenge: 5
     name: Triceratops
@@ -4942,6 +6379,8 @@
     source: Basic Rules
     key: :triceratops
     xp_value: 1800
+    boss: false
+    groups: []
   :tridrone: &96 !ruby/object:Monster
     challenge: 0.5
     name: Tridrone
@@ -4949,6 +6388,8 @@
     source: Monster Manual
     key: :tridrone
     xp_value: 100
+    boss: false
+    groups: []
   :tri_flower_frond: &601 !ruby/object:Monster
     challenge: 0.5
     name: Tri-flower Frond
@@ -4956,6 +6397,8 @@
     source: Tomb of Annihilation
     key: :tri_flower_frond
     xp_value: 100
+    boss: false
+    groups: []
   :troglodyte: &97 !ruby/object:Monster
     challenge: 0.25
     name: Troglodyte
@@ -4963,6 +6406,8 @@
     source: Monster Manual
     key: :troglodyte
     xp_value: 50
+    boss: false
+    groups: []
   :troglodyte_champion_of_laogzed: &736 !ruby/object:Monster
     challenge: 3
     name: Troglodyte Champion of Laogzed
@@ -4970,6 +6415,8 @@
     source: Out of the Abyss
     key: :troglodyte_champion_of_laogzed
     xp_value: 700
+    boss: false
+    groups: []
   :troll: &534 !ruby/object:Monster
     challenge: 5
     name: Troll
@@ -4977,6 +6424,8 @@
     source: Basic Rules
     key: :troll
     xp_value: 1800
+    boss: false
+    groups: []
   :twig_blight: &535 !ruby/object:Monster
     challenge: 0.125
     name: Twig Blight
@@ -4984,6 +6433,8 @@
     source: Basic Rules
     key: :twig_blight
     xp_value: 25
+    boss: false
+    groups: []
   :tyrannosaurus_rex: &536 !ruby/object:Monster
     challenge: 8
     name: Tyrannosaurus Rex
@@ -4991,6 +6442,8 @@
     source: Basic Rules
     key: :tyrannosaurus_rex
     xp_value: 3900
+    boss: false
+    groups: []
   :tyrannosaurus_zombie: &602 !ruby/object:Monster
     challenge: 8
     name: Tyrannosaurus Zombie
@@ -4998,6 +6451,8 @@
     source: Tomb of Annihilation
     key: :tyrannosaurus_zombie
     xp_value: 3900
+    boss: false
+    groups: []
   :ulitharid: &226 !ruby/object:Monster
     challenge: 9
     name: Ulitharid
@@ -5005,6 +6460,8 @@
     source: Volo's Guide to Monsters
     key: :ulitharid
     xp_value: 5000
+    boss: false
+    groups: []
   :ultroloth: &98 !ruby/object:Monster
     challenge: 13
     name: Ultroloth
@@ -5012,6 +6469,8 @@
     source: Monster Manual
     key: :ultroloth
     xp_value: 10000
+    boss: false
+    groups: []
   :umber_hulk: &99 !ruby/object:Monster
     challenge: 5
     name: Umber Hulk
@@ -5019,6 +6478,8 @@
     source: Monster Manual
     key: :umber_hulk
     xp_value: 1800
+    boss: false
+    groups: []
   :unicorn: &537 !ruby/object:Monster
     challenge: 5
     name: Unicorn
@@ -5026,6 +6487,8 @@
     source: Basic Rules
     key: :unicorn
     xp_value: 1800
+    boss: false
+    groups: []
   :urgala_meltimer: &694 !ruby/object:Monster
     challenge: 0
     name: Urgala Meltimer
@@ -5033,6 +6496,8 @@
     source: Storm King's Thunder
     key: :urgala_meltimer
     xp_value: 10
+    boss: false
+    groups: []
   :uthgardt_shaman: &695 !ruby/object:Monster
     challenge: 2
     name: Uthgardt Shaman
@@ -5040,6 +6505,8 @@
     source: Storm King's Thunder
     key: :uthgardt_shaman
     xp_value: 450
+    boss: false
+    groups: []
   :vaasha: &696 !ruby/object:Monster
     challenge: 13
     name: Vaasha
@@ -5047,6 +6514,8 @@
     source: Storm King's Thunder
     key: :vaasha
     xp_value: 10000
+    boss: false
+    groups: []
   :vampire: &538 !ruby/object:Monster
     challenge: 13
     name: Vampire
@@ -5054,6 +6523,9 @@
     source: Basic Rules
     key: :vampire
     xp_value: 10000
+    boss: false
+    groups:
+    - :undead_vampire
   :vampire_spawn: &539 !ruby/object:Monster
     challenge: 5
     name: Vampire Spawn
@@ -5061,6 +6533,9 @@
     source: Basic Rules
     key: :vampire_spawn
     xp_value: 1800
+    boss: false
+    groups:
+    - :undead_vampire
   :vampire_spellcaster: &100 !ruby/object:Monster
     challenge: 15
     name: Vampire Spellcaster
@@ -5068,6 +6543,9 @@
     source: Monster Manual
     key: :vampire_spellcaster
     xp_value: 13000
+    boss: false
+    groups:
+    - :undead_vampire
   :vampire_warrior: &101 !ruby/object:Monster
     challenge: 15
     name: Vampire Warrior
@@ -5075,6 +6553,9 @@
     source: Monster Manual
     key: :vampire_warrior
     xp_value: 13000
+    boss: false
+    groups:
+    - :undead_vampire
   :vampiric_ixitxachitl: &737 !ruby/object:Monster
     challenge: 2
     name: Vampiric Ixitxachitl
@@ -5082,6 +6563,8 @@
     source: Out of the Abyss
     key: :vampiric_ixitxachitl
     xp_value: 450
+    boss: false
+    groups: []
   :vampiric_mist: &779 !ruby/object:Monster
     challenge: 3
     name: Vampiric Mist
@@ -5089,6 +6572,8 @@
     source: Dead in Thay
     key: :vampiric_mist
     xp_value: 700
+    boss: false
+    groups: []
   :vanifer: &647 !ruby/object:Monster
     challenge: 9
     name: Vanifer
@@ -5096,6 +6581,8 @@
     source: Princes of the Apocalypse
     key: :vanifer
     xp_value: 5000
+    boss: false
+    groups: []
   :vargouille: &227 !ruby/object:Monster
     challenge: 1
     name: Vargouille
@@ -5103,6 +6590,8 @@
     source: Volo's Guide to Monsters
     key: :vargouille
     xp_value: 200
+    boss: false
+    groups: []
   :vegepygmy: &228 !ruby/object:Monster
     challenge: 0.25
     name: Vegepygmy
@@ -5110,6 +6599,8 @@
     source: Volo's Guide to Monsters
     key: :vegepygmy
     xp_value: 50
+    boss: false
+    groups: []
   :vegepygmy_chief: &229 !ruby/object:Monster
     challenge: 2
     name: Vegepygmy Chief
@@ -5117,6 +6608,8 @@
     source: Volo's Guide to Monsters
     key: :vegepygmy_chief
     xp_value: 450
+    boss: false
+    groups: []
   :velociraptor: &230 !ruby/object:Monster
     challenge: 0.25
     name: Velociraptor
@@ -5124,6 +6617,8 @@
     source: Volo's Guide to Monsters
     key: :velociraptor
     xp_value: 50
+    boss: false
+    groups: []
   :veteran: &540 !ruby/object:Monster
     challenge: 3
     name: Veteran
@@ -5131,6 +6626,8 @@
     source: Basic Rules
     key: :veteran
     xp_value: 700
+    boss: false
+    groups: []
   :veteran_of_the_gauntlet: &738 !ruby/object:Monster
     challenge: 3
     name: Veteran of the Gauntlet
@@ -5138,6 +6635,8 @@
     source: Out of the Abyss
     key: :veteran_of_the_gauntlet
     xp_value: 700
+    boss: false
+    groups: []
   :vine_blight: &102 !ruby/object:Monster
     challenge: 0.5
     name: Vine Blight
@@ -5145,6 +6644,8 @@
     source: Monster Manual
     key: :vine_blight
     xp_value: 100
+    boss: false
+    groups: []
   :violet_fungus: &541 !ruby/object:Monster
     challenge: 0.25
     name: Violet Fungus
@@ -5152,6 +6653,8 @@
     source: Basic Rules
     key: :violet_fungus
     xp_value: 50
+    boss: false
+    groups: []
   :vladimir_horngaard: &762 !ruby/object:Monster
     challenge: 7
     name: Vladimir Horngaard
@@ -5159,6 +6662,8 @@
     source: Curse of Strahd
     key: :vladimir_horngaard
     xp_value: 2900
+    boss: false
+    groups: []
   :volothamp_volo_geddarm: &603 !ruby/object:Monster
     challenge: 0.25
     name: Volothamp “Volo” Geddarm
@@ -5166,6 +6671,8 @@
     source: Tomb of Annihilation
     key: :volothamp_volo_geddarm
     xp_value: 50
+    boss: false
+    groups: []
   :vrock: &542 !ruby/object:Monster
     challenge: 6
     name: Vrock
@@ -5173,6 +6680,8 @@
     source: Basic Rules
     key: :vrock
     xp_value: 2300
+    boss: false
+    groups: []
   :vulture: &543 !ruby/object:Monster
     challenge: 0
     name: Vulture
@@ -5180,6 +6689,8 @@
     source: Basic Rules
     key: :vulture
     xp_value: 10
+    boss: false
+    groups: []
   :war_priest: &231 !ruby/object:Monster
     challenge: 9
     name: War Priest
@@ -5187,6 +6698,8 @@
     source: Volo's Guide to Monsters
     key: :war_priest
     xp_value: 5000
+    boss: false
+    groups: []
   :warhorse: &544 !ruby/object:Monster
     challenge: 0.5
     name: Warhorse
@@ -5194,6 +6707,8 @@
     source: Basic Rules
     key: :warhorse
     xp_value: 100
+    boss: false
+    groups: []
   :warhorse_skeleton: &545 !ruby/object:Monster
     challenge: 0.5
     name: Warhorse Skeleton
@@ -5201,6 +6716,8 @@
     source: Basic Rules
     key: :warhorse_skeleton
     xp_value: 100
+    boss: false
+    groups: []
   :warlock_of_the_archfey: &232 !ruby/object:Monster
     challenge: 4
     name: Warlock of the Archfey
@@ -5208,6 +6725,8 @@
     source: Volo's Guide to Monsters
     key: :warlock_of_the_archfey
     xp_value: 1100
+    boss: false
+    groups: []
   :warlock_of_the_fiend: &233 !ruby/object:Monster
     challenge: 7
     name: Warlock of the Fiend
@@ -5215,6 +6734,8 @@
     source: Volo's Guide to Monsters
     key: :warlock_of_the_fiend
     xp_value: 2900
+    boss: false
+    groups: []
   :warlock_of_the_great_old_one: &234 !ruby/object:Monster
     challenge: 6
     name: Warlock of the Great Old One
@@ -5222,6 +6743,8 @@
     source: Volo's Guide to Monsters
     key: :warlock_of_the_great_old_one
     xp_value: 2300
+    boss: false
+    groups: []
   :warlord: &235 !ruby/object:Monster
     challenge: 12
     name: Warlord
@@ -5229,6 +6752,8 @@
     source: Volo's Guide to Monsters
     key: :warlord
     xp_value: 8400
+    boss: false
+    groups: []
   :water_elemental: &546 !ruby/object:Monster
     challenge: 5
     name: Water Elemental
@@ -5236,6 +6761,8 @@
     source: Basic Rules
     key: :water_elemental
     xp_value: 1800
+    boss: false
+    groups: []
   :water_elemental_myrmidon: &648 !ruby/object:Monster
     challenge: 7
     name: Water Elemental Myrmidon
@@ -5243,6 +6770,8 @@
     source: Princes of the Apocalypse
     key: :water_elemental_myrmidon
     xp_value: 2900
+    boss: false
+    groups: []
   :water_weird: &103 !ruby/object:Monster
     challenge: 3
     name: Water Weird
@@ -5250,6 +6779,8 @@
     source: Monster Manual
     key: :water_weird
     xp_value: 700
+    boss: false
+    groups: []
   :weasel: &547 !ruby/object:Monster
     challenge: 0
     name: Weasel
@@ -5257,6 +6788,8 @@
     source: Basic Rules
     key: :weasel
     xp_value: 10
+    boss: false
+    groups: []
   :werebear: &548 !ruby/object:Monster
     challenge: 5
     name: Werebear
@@ -5264,6 +6797,8 @@
     source: Basic Rules
     key: :werebear
     xp_value: 1800
+    boss: false
+    groups: []
   :wereboar: &549 !ruby/object:Monster
     challenge: 4
     name: Wereboar
@@ -5271,6 +6806,8 @@
     source: Basic Rules
     key: :wereboar
     xp_value: 1100
+    boss: false
+    groups: []
   :wererat: &550 !ruby/object:Monster
     challenge: 2
     name: Wererat
@@ -5278,6 +6815,8 @@
     source: Basic Rules
     key: :wererat
     xp_value: 450
+    boss: false
+    groups: []
   :wereraven: &763 !ruby/object:Monster
     challenge: 2
     name: Wereraven
@@ -5285,6 +6824,8 @@
     source: Curse of Strahd
     key: :wereraven
     xp_value: 450
+    boss: false
+    groups: []
   :weretiger: &551 !ruby/object:Monster
     challenge: 4
     name: Weretiger
@@ -5292,6 +6833,8 @@
     source: Basic Rules
     key: :weretiger
     xp_value: 1100
+    boss: false
+    groups: []
   :werewolf: &552 !ruby/object:Monster
     challenge: 3
     name: Werewolf
@@ -5299,6 +6842,8 @@
     source: Basic Rules
     key: :werewolf
     xp_value: 700
+    boss: false
+    groups: []
   :white_dragon_wyrmling: &553 !ruby/object:Monster
     challenge: 2
     name: White Dragon Wyrmling
@@ -5306,6 +6851,8 @@
     source: Basic Rules
     key: :white_dragon_wyrmling
     xp_value: 450
+    boss: false
+    groups: []
   :white_guard_drake: &236 !ruby/object:Monster
     challenge: 2
     name: White Guard Drake
@@ -5313,6 +6860,8 @@
     source: Volo's Guide to Monsters
     key: :white_guard_drake
     xp_value: 450
+    boss: false
+    groups: []
   :white_maw: &780 !ruby/object:Monster
     challenge: 10
     name: White Maw
@@ -5320,6 +6869,8 @@
     source: Dead in Thay
     key: :white_maw
     xp_value: 5900
+    boss: false
+    groups: []
   :wiggan_nettlebee: &649 !ruby/object:Monster
     challenge: 2
     name: Wiggan Nettlebee
@@ -5327,6 +6878,8 @@
     source: Princes of the Apocalypse
     key: :wiggan_nettlebee
     xp_value: 450
+    boss: false
+    groups: []
   :wight: &554 !ruby/object:Monster
     challenge: 3
     name: Wight
@@ -5334,6 +6887,8 @@
     source: Basic Rules
     key: :wight
     xp_value: 700
+    boss: false
+    groups: []
   :will_o_wisp: &555 !ruby/object:Monster
     challenge: 2
     name: Will-o'-Wisp
@@ -5341,6 +6896,8 @@
     source: Basic Rules
     key: :will_o_wisp
     xp_value: 450
+    boss: false
+    groups: []
   :windharrow: &650 !ruby/object:Monster
     challenge: 3
     name: Windharrow
@@ -5348,6 +6905,8 @@
     source: Princes of the Apocalypse
     key: :windharrow
     xp_value: 700
+    boss: false
+    groups: []
   :winged_kobold: &104 !ruby/object:Monster
     challenge: 0.25
     name: Winged Kobold
@@ -5355,6 +6914,8 @@
     source: Monster Manual
     key: :winged_kobold
     xp_value: 50
+    boss: false
+    groups: []
   :winter_wolf: &556 !ruby/object:Monster
     challenge: 3
     name: Winter Wolf
@@ -5362,6 +6923,8 @@
     source: Basic Rules
     key: :winter_wolf
     xp_value: 700
+    boss: false
+    groups: []
   :wolf: &557 !ruby/object:Monster
     challenge: 0.25
     name: Wolf
@@ -5369,6 +6932,8 @@
     source: Basic Rules
     key: :wolf
     xp_value: 50
+    boss: false
+    groups: []
   :wood_woad: &237 !ruby/object:Monster
     challenge: 5
     name: Wood Woad
@@ -5376,6 +6941,8 @@
     source: Volo's Guide to Monsters
     key: :wood_woad
     xp_value: 1800
+    boss: false
+    groups: []
   :worg: &558 !ruby/object:Monster
     challenge: 0.5
     name: Worg
@@ -5383,6 +6950,8 @@
     source: Basic Rules
     key: :worg
     xp_value: 100
+    boss: false
+    groups: []
   :wraith: &559 !ruby/object:Monster
     challenge: 5
     name: Wraith
@@ -5390,6 +6959,8 @@
     source: Basic Rules
     key: :wraith
     xp_value: 1800
+    boss: false
+    groups: []
   :wyvern: &560 !ruby/object:Monster
     challenge: 6
     name: Wyvern
@@ -5397,6 +6968,8 @@
     source: Basic Rules
     key: :wyvern
     xp_value: 2300
+    boss: false
+    groups: []
   :xandala: &604 !ruby/object:Monster
     challenge: 7
     name: Xandala
@@ -5404,6 +6977,8 @@
     source: Tomb of Annihilation
     key: :xandala
     xp_value: 2900
+    boss: false
+    groups: []
   :xorn: &561 !ruby/object:Monster
     challenge: 5
     name: Xorn
@@ -5411,6 +6986,8 @@
     source: Basic Rules
     key: :xorn
     xp_value: 1800
+    boss: false
+    groups: []
   :xvart: &238 !ruby/object:Monster
     challenge: 0.125
     name: Xvart
@@ -5418,6 +6995,8 @@
     source: Volo's Guide to Monsters
     key: :xvart
     xp_value: 25
+    boss: false
+    groups: []
   :xvart_speaker: &239 !ruby/object:Monster
     challenge: 0.125
     name: Xvart Speaker
@@ -5425,6 +7004,8 @@
     source: Volo's Guide to Monsters
     key: :xvart_speaker
     xp_value: 25
+    boss: false
+    groups: []
   :xvart_warlock_of_raxivort: &240 !ruby/object:Monster
     challenge: 1
     name: Xvart Warlock of Raxivort
@@ -5432,6 +7013,8 @@
     source: Volo's Guide to Monsters
     key: :xvart_warlock_of_raxivort
     xp_value: 200
+    boss: false
+    groups: []
   :yakfolk_priest: &697 !ruby/object:Monster
     challenge: 4
     name: Yakfolk Priest
@@ -5439,6 +7022,8 @@
     source: Storm King's Thunder
     key: :yakfolk_priest
     xp_value: 1100
+    boss: false
+    groups: []
   :yakfolk_warrior: &698 !ruby/object:Monster
     challenge: 3
     name: Yakfolk Warrior
@@ -5446,6 +7031,8 @@
     source: Storm King's Thunder
     key: :yakfolk_warrior
     xp_value: 700
+    boss: false
+    groups: []
   :yan_c_bin: &651 !ruby/object:Monster
     challenge: 18
     name: Yan-C-Bin
@@ -5453,6 +7040,8 @@
     source: Princes of the Apocalypse
     key: :yan_c_bin
     xp_value: 20000
+    boss: false
+    groups: []
   :yeenoghu: &739 !ruby/object:Monster
     challenge: 24
     name: Yeenoghu
@@ -5460,6 +7049,8 @@
     source: Out of the Abyss
     key: :yeenoghu
     xp_value: 62000
+    boss: false
+    groups: []
   :yellow_musk_creeper: &605 !ruby/object:Monster
     challenge: 2
     name: Yellow Musk Creeper
@@ -5467,6 +7058,8 @@
     source: Tomb of Annihilation
     key: :yellow_musk_creeper
     xp_value: 450
+    boss: false
+    groups: []
   :yellow_musk_zombie: &606 !ruby/object:Monster
     challenge: 0.25
     name: Yellow Musk Zombie
@@ -5474,6 +7067,8 @@
     source: Tomb of Annihilation
     key: :yellow_musk_zombie
     xp_value: 50
+    boss: false
+    groups: []
   :yestabrod: &740 !ruby/object:Monster
     challenge: 4
     name: Yestabrod
@@ -5481,6 +7076,8 @@
     source: Out of the Abyss
     key: :yestabrod
     xp_value: 1100
+    boss: false
+    groups: []
   :yeth_hound: &241 !ruby/object:Monster
     challenge: 4
     name: Yeth Hound
@@ -5488,6 +7085,8 @@
     source: Volo's Guide to Monsters
     key: :yeth_hound
     xp_value: 1100
+    boss: false
+    groups: []
   :yeti: &562 !ruby/object:Monster
     challenge: 3
     name: Yeti
@@ -5495,6 +7094,8 @@
     source: Basic Rules
     key: :yeti
     xp_value: 700
+    boss: false
+    groups: []
   :yochlol: &105 !ruby/object:Monster
     challenge: 10
     name: Yochlol
@@ -5502,6 +7103,8 @@
     source: Monster Manual
     key: :yochlol
     xp_value: 5900
+    boss: false
+    groups: []
   :young_black_dragon: &563 !ruby/object:Monster
     challenge: 7
     name: Young Black Dragon
@@ -5509,6 +7112,8 @@
     source: Basic Rules
     key: :young_black_dragon
     xp_value: 2900
+    boss: false
+    groups: []
   :young_blue_dragon: &564 !ruby/object:Monster
     challenge: 9
     name: Young Blue Dragon
@@ -5516,6 +7121,8 @@
     source: Basic Rules
     key: :young_blue_dragon
     xp_value: 5000
+    boss: false
+    groups: []
   :young_brass_dragon: &565 !ruby/object:Monster
     challenge: 6
     name: Young Brass Dragon
@@ -5523,6 +7130,8 @@
     source: Basic Rules
     key: :young_brass_dragon
     xp_value: 2300
+    boss: false
+    groups: []
   :young_bronze_dragon: &566 !ruby/object:Monster
     challenge: 8
     name: Young Bronze Dragon
@@ -5530,6 +7139,8 @@
     source: Basic Rules
     key: :young_bronze_dragon
     xp_value: 3900
+    boss: false
+    groups: []
   :young_copper_dragon: &567 !ruby/object:Monster
     challenge: 7
     name: Young Copper Dragon
@@ -5537,6 +7148,8 @@
     source: Basic Rules
     key: :young_copper_dragon
     xp_value: 2900
+    boss: false
+    groups: []
   :young_gold_dragon: &568 !ruby/object:Monster
     challenge: 10
     name: Young Gold Dragon
@@ -5544,6 +7157,8 @@
     source: Basic Rules
     key: :young_gold_dragon
     xp_value: 5900
+    boss: false
+    groups: []
   :young_green_dragon: &569 !ruby/object:Monster
     challenge: 8
     name: Young Green Dragon
@@ -5551,6 +7166,8 @@
     source: Basic Rules
     key: :young_green_dragon
     xp_value: 3900
+    boss: false
+    groups: []
   :young_red_dragon: &570 !ruby/object:Monster
     challenge: 10
     name: Young Red Dragon
@@ -5558,6 +7175,8 @@
     source: Basic Rules
     key: :young_red_dragon
     xp_value: 5900
+    boss: false
+    groups: []
   :young_red_shadow_dragon: &106 !ruby/object:Monster
     challenge: 13
     name: Young Red Shadow Dragon
@@ -5565,6 +7184,8 @@
     source: Monster Manual
     key: :young_red_shadow_dragon
     xp_value: 10000
+    boss: false
+    groups: []
   :young_remorhaz: &107 !ruby/object:Monster
     challenge: 5
     name: Young Remorhaz
@@ -5572,6 +7193,8 @@
     source: Monster Manual
     key: :young_remorhaz
     xp_value: 1800
+    boss: false
+    groups: []
   :young_silver_dragon: &571 !ruby/object:Monster
     challenge: 9
     name: Young Silver Dragon
@@ -5579,6 +7202,8 @@
     source: Basic Rules
     key: :young_silver_dragon
     xp_value: 5000
+    boss: false
+    groups: []
   :young_white_dragon: &572 !ruby/object:Monster
     challenge: 6
     name: Young White Dragon
@@ -5586,6 +7211,8 @@
     source: Basic Rules
     key: :young_white_dragon
     xp_value: 2300
+    boss: false
+    groups: []
   :yuan_ti_abomination: &108 !ruby/object:Monster
     challenge: 7
     name: Yuan-ti Abomination
@@ -5593,6 +7220,8 @@
     source: Monster Manual
     key: :yuan_ti_abomination
     xp_value: 2900
+    boss: false
+    groups: []
   :yuan_ti_anathema: &242 !ruby/object:Monster
     challenge: 12
     name: Yuan-ti Anathema
@@ -5600,6 +7229,8 @@
     source: Volo's Guide to Monsters
     key: :yuan_ti_anathema
     xp_value: 8400
+    boss: false
+    groups: []
   :yuan_ti_broodguard: &243 !ruby/object:Monster
     challenge: 2
     name: Yuan-ti Broodguard
@@ -5607,6 +7238,8 @@
     source: Volo's Guide to Monsters
     key: :yuan_ti_broodguard
     xp_value: 450
+    boss: false
+    groups: []
   :yuan_ti_malison: &109 !ruby/object:Monster
     challenge: 3
     name: Yuan-ti Malison
@@ -5614,6 +7247,8 @@
     source: Monster Manual
     key: :yuan_ti_malison
     xp_value: 700
+    boss: false
+    groups: []
   :yuan_ti_mind_whisperer: &244 !ruby/object:Monster
     challenge: 4
     name: Yuan-ti Mind Whisperer
@@ -5621,6 +7256,8 @@
     source: Volo's Guide to Monsters
     key: :yuan_ti_mind_whisperer
     xp_value: 1100
+    boss: false
+    groups: []
   :yuan_ti_nightmare_speaker: &245 !ruby/object:Monster
     challenge: 4
     name: Yuan-ti Nightmare Speaker
@@ -5628,6 +7265,8 @@
     source: Volo's Guide to Monsters
     key: :yuan_ti_nightmare_speaker
     xp_value: 1100
+    boss: false
+    groups: []
   :yuan_ti_pit_master: &246 !ruby/object:Monster
     challenge: 5
     name: Yuan-ti Pit Master
@@ -5635,6 +7274,8 @@
     source: Volo's Guide to Monsters
     key: :yuan_ti_pit_master
     xp_value: 1800
+    boss: false
+    groups: []
   :yuan_ti_pureblood: &110 !ruby/object:Monster
     challenge: 1
     name: Yuan-ti Pureblood
@@ -5642,6 +7283,8 @@
     source: Monster Manual
     key: :yuan_ti_pureblood
     xp_value: 200
+    boss: false
+    groups: []
   :yusdrayl: &812 !ruby/object:Monster
     challenge: 1
     name: Yusdrayl
@@ -5649,6 +7292,8 @@
     source: The Sunless Citadel
     key: :yusdrayl
     xp_value: 200
+    boss: false
+    groups: []
   :zhentarim_thug: &741 !ruby/object:Monster
     challenge: 0.5
     name: Zhentarim Thug
@@ -5656,6 +7301,8 @@
     source: Out of the Abyss
     key: :zhentarim_thug
     xp_value: 100
+    boss: false
+    groups: []
   :zi_liang: &699 !ruby/object:Monster
     challenge: 0
     name: Zi Liang
@@ -5663,6 +7310,8 @@
     source: Storm King's Thunder
     key: :zi_liang
     xp_value: 10
+    boss: false
+    groups: []
   :zindar: &607 !ruby/object:Monster
     challenge: 8
     name: Zindar
@@ -5670,6 +7319,8 @@
     source: Tomb of Annihilation
     key: :zindar
     xp_value: 3900
+    boss: false
+    groups: []
   :zombie: &573 !ruby/object:Monster
     challenge: 0.25
     name: Zombie
@@ -5677,6 +7328,11 @@
     source: Basic Rules
     key: :zombie
     xp_value: 50
+    boss: false
+    groups:
+    - :undead
+    - :undead_mythical
+    - :undead_vampire
   :zorbo: &608 !ruby/object:Monster
     challenge: 0.5
     name: Zorbo
@@ -5684,6 +7340,8 @@
     source: Tomb of Annihilation
     key: :zorbo
     xp_value: 100
+    boss: false
+    groups: []
   :zuggtmoy: &742 !ruby/object:Monster
     challenge: 23
     name: Zuggtmoy
@@ -5691,6 +7349,8 @@
     source: Out of the Abyss
     key: :zuggtmoy
     xp_value: 50000
+    boss: false
+    groups: []
 :sources:
   Monster Manual:
   - *1
@@ -8198,3 +9858,45 @@
   - *509
   - *760
   - *537
+:groups:
+  :gobelin:
+  - *305
+  - *10
+  - *397
+  - *41
+  - *416
+  - *49
+  - *50
+  :bugbear:
+  - *305
+  - *10
+  :undead:
+  - *361
+  - *363
+  - *503
+  - *508
+  - *511
+  - *573
+  :undead_mythical:
+  - *363
+  - *450
+  - *452
+  - *453
+  - *508
+  - *573
+  :undead_vampire:
+  - *363
+  - *508
+  - *538
+  - *539
+  - *100
+  - *101
+  - *573
+  :hobgobelin:
+  - *416
+  - *49
+  - *50
+  :orc:
+  - *464
+  - *73
+  - *74

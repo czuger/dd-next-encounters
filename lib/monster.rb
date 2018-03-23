@@ -23,8 +23,9 @@ class Monster
     @boss = false
   end
 
-  def add_group( group )
-    @groups << group
+  def add_groups( groups )
+    @groups ||= []
+    @groups += groups
   end
 
 end
