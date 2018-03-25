@@ -3,7 +3,7 @@ require_relative 'monster'
 
 class MonstersManual
 
-  attr_reader :monsters
+  attr_reader :monsters, :groups
 
   def initialize
     @monsters = {}
@@ -71,8 +71,9 @@ class MonstersManual
     @types[monster.type] << monster
 
     monster.groups.each do |group|
-      @groups[group] ||= []
-      @groups[group] << monster
+      @groups[group] ||= { troops: [], bosses: [] }
+      @groups[group][ :troops ] << monster unless monster.boss
+      @groups[group][ :bosses ] << monster if monster.boss
     end
   end
 

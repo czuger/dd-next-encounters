@@ -4787,7 +4787,7 @@
     source: Basic Rules
     key: :orc
     xp_value: 100
-    boss: true
+    boss: false
     groups:
     - :orc
   :orc_blade_of_ilneval: &197 !ruby/object:Monster
@@ -9860,43 +9860,57 @@
   - *537
 :groups:
   :gobelin:
-  - *305
-  - *10
-  - *397
-  - *41
-  - *416
-  - *49
-  - *50
+    :troops:
+    - *305
+    - *397
+    - *416
+    :bosses:
+    - *10
+    - *41
+    - *49
+    - *50
   :bugbear:
-  - *305
-  - *10
+    :troops:
+    - *305
+    :bosses:
+    - *10
   :undead:
-  - *361
-  - *363
-  - *503
-  - *508
-  - *511
-  - *573
+    :troops:
+    - *361
+    - *363
+    - *503
+    - *508
+    - *511
+    - *573
+    :bosses: []
   :undead_mythical:
-  - *363
-  - *450
-  - *452
-  - *453
-  - *508
-  - *573
+    :troops:
+    - *363
+    - *450
+    - *452
+    - *508
+    - *573
+    :bosses:
+    - *453
   :undead_vampire:
-  - *363
-  - *508
-  - *538
-  - *539
-  - *100
-  - *101
-  - *573
+    :troops:
+    - *363
+    - *508
+    - *538
+    - *539
+    - *100
+    - *101
+    - *573
+    :bosses: []
   :hobgobelin:
-  - *416
-  - *49
-  - *50
+    :troops:
+    - *416
+    :bosses:
+    - *49
+    - *50
   :orc:
-  - *464
-  - *73
-  - *74
+    :troops:
+    - *464
+    :bosses:
+    - *73
+    - *74

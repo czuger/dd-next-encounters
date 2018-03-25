@@ -5,4 +5,4 @@ mummy_lord
 
 goblin_boss hobgoblin_captain hobgoblin_warlord bugbear_chief
 
-orc_war_chief orc_eye_of_gruumsh orc
+orc_war_chief orc_eye_of_gruumsh
