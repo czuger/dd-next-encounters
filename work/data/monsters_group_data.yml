@@ -70,44 +70,50 @@
   - :undead_vampire
   :boss: false
   :superior_to: []
-:goblin_boss:
-  :groups:
-  - :gobelin
-  :boss: true
-  :superior_to: []
-:goblin:
-  :groups:
-  - :gobelin
-  :boss: false
-  :superior_to: []
 :hobgoblin_captain:
   :groups:
-  - :gobelin
-  - :hobgobelin
+  - :hobgoblin
   :boss: true
   :superior_to: []
 :hobgoblin_warlord:
   :groups:
-  - :gobelin
-  - :hobgobelin
+  - :hobgoblin
   :boss: true
   :superior_to: []
 :hobgoblin:
   :groups:
-  - :gobelin
-  - :hobgobelin
+  - :hobgoblin
   :boss: false
   :superior_to: []
 :bugbear_chief:
   :groups:
-  - :gobelin
   - :bugbear
   :boss: true
   :superior_to: []
 :bugbear:
   :groups:
-  - :gobelin
   - :bugbear
+  :boss: false
+  :superior_to: []
+:goblin_boss:
+  :groups:
+  - :goblin
+  :boss: true
+  :superior_to: []
+:goblin:
+  :groups:
+  - :goblin
+  :boss: false
+  :superior_to: []
+:goblinoid:
+  :groups:
+  - goblin_boss
+  - goblin
+  - hobgoblin_captain
+  - hobgoblin_warlord
+  - hobgoblin
+  - bugbear_chief
+  - bugbear
   :boss: false
   :superior_to: []
 :orc_war_chief:

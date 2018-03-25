@@ -3,6 +3,8 @@ class MonstersGroup
   def initialize
     @troops = []
     @bosses = []
+    # This mean that this group is inferior to the listed groups. They wont accept
+    @groups_inferiority = []
   end
 
   def add_monster( monster )

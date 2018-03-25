@@ -2,6 +2,7 @@ require 'pp'
 require 'yaml'
 
 monsters_group_data = {}
+groups_monsters_data = {}
 default_group_entry = '{ groups: [], boss: false, superior_to: [] }'
 
 File.open( 'data/groups.txt', 'r' ) do |f|
@@ -11,8 +12,19 @@ File.open( 'data/groups.txt', 'r' ) do |f|
     next if line.empty?
     group = line.shift.to_sym
     line.each do |m|
-      monsters_group_data[ m.to_sym ] ||= eval( default_group_entry )
-      monsters_group_data[ m.to_sym ][ :groups ] << group
+
+      groups_monsters_data[ group ] ||= []
+      if m =~ /\[.+\]/
+        sub_group = m.match( /\[(.+)\]/ )
+        sub_group = sub_group[1].to_sym
+        monsters_group_data[ group ] ||= eval( default_group_entry )
+        monsters_group_data[ group ][ :groups ] += groups_monsters_data[ sub_group ]
+        groups_monsters_data[ group ] += groups_monsters_data[ sub_group ]
+      else
+        monsters_group_data[ m.to_sym ] ||= eval( default_group_entry )
+        monsters_group_data[ m.to_sym ][ :groups ] << group
+        groups_monsters_data[ group ] << m
+      end
     end
   end
 end

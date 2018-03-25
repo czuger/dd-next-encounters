@@ -4,9 +4,12 @@ undead zombie skeleton ghoul shadow specter ghast
 undead_mythical zombie skeleton ghoul minotaur_skeleton mummy mummy_lord 
 undead_vampire zombie skeleton ghoul vampire vampire_spawn vampire_spellcaster vampire_warrior
 
-gobelin goblin_boss goblin hobgoblin_captain hobgoblin_warlord hobgoblin bugbear_chief bugbear
-
-hobgobelin hobgoblin_captain hobgoblin_warlord hobgoblin 
+hobgoblin hobgoblin_captain hobgoblin_warlord hobgoblin
 bugbear bugbear_chief bugbear
+goblin goblin_boss goblin
+
+# [] mean that we will look for the group and replace any elements
+# of course the group must already have been described
+goblinoid [goblin] [hobgoblin] [bugbear]
 
 orc orc_war_chief orc_eye_of_gruumsh orc

@@ -20,12 +20,18 @@ class Monster
     set_instance_variables(binding, *local_variables)
     @key = @name.gsub( /[ -]/, '_' ).gsub( 'é', 'e' ).delete( "()'’“”" ).downcase.to_sym
     @groups = []
+    @accepted_bosses = []
     @boss = false
   end
 
-  def add_groups( groups )
+  def add_groups( monsters_or_groups )
+    monsters_or_groups.each do ||
+
+  end
     @groups ||= []
     @groups += groups
   end
+
+  def add_
 
 end
