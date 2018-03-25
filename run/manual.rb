@@ -8,7 +8,7 @@ m.load
 p m.sources
 p m.types
 p m.challenges
-pp m.groups
+p m.groups
 
 # p m.select( sources: [ 'Basic Rules', 'Monster Manual' ], types: [ 'Undead' ] ).map{ |m| m.key }
 #

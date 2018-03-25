@@ -42,6 +42,8 @@ class Lair
     # Work from list
     # Add a boss tag to the monster (work from a key list)
 
+    # Need to integrate hierarchy. Bugbear can't be lead by gobelin boss
+
     raise "Bad encounter level : #{encounter_level.inspect}" if encounter_level < 0 || encounter_level > 3
     party_xp_level = hero_level.map{ |hl| @xp_table[hl][encounter_level] }.reduce(&:+)
 

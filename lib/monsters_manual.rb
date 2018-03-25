@@ -1,5 +1,6 @@
 require 'yaml'
 require_relative 'monster'
+require_relative 'monsters_group'
 
 class MonstersManual
 
@@ -71,9 +72,8 @@ class MonstersManual
     @types[monster.type] << monster
 
     monster.groups.each do |group|
-      @groups[group] ||= { troops: [], bosses: [] }
-      @groups[group][ :troops ] << monster unless monster.boss
-      @groups[group][ :bosses ] << monster if monster.boss
+      @groups[group] ||= MonstersGroup.new
+      @groups[group].add_monster( monster )
     end
   end
 

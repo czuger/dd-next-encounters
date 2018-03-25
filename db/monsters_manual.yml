@@ -9859,41 +9859,41 @@
   - *760
   - *537
 :groups:
-  :gobelin:
-    :troops:
+  :gobelin: !ruby/object:MonstersGroup
+    troops:
     - *305
     - *397
     - *416
-    :bosses:
+    bosses:
     - *10
     - *41
     - *49
     - *50
-  :bugbear:
-    :troops:
+  :bugbear: !ruby/object:MonstersGroup
+    troops:
     - *305
-    :bosses:
+    bosses:
     - *10
-  :undead:
-    :troops:
+  :undead: !ruby/object:MonstersGroup
+    troops:
     - *361
     - *363
     - *503
     - *508
     - *511
     - *573
-    :bosses: []
-  :undead_mythical:
-    :troops:
+    bosses: []
+  :undead_mythical: !ruby/object:MonstersGroup
+    troops:
     - *363
     - *450
     - *452
     - *508
     - *573
-    :bosses:
+    bosses:
     - *453
-  :undead_vampire:
-    :troops:
+  :undead_vampire: !ruby/object:MonstersGroup
+    troops:
     - *363
     - *508
     - *538
@@ -9901,16 +9901,16 @@
     - *100
     - *101
     - *573
-    :bosses: []
-  :hobgobelin:
-    :troops:
+    bosses: []
+  :hobgobelin: !ruby/object:MonstersGroup
+    troops:
     - *416
-    :bosses:
+    bosses:
     - *49
     - *50
-  :orc:
-    :troops:
+  :orc: !ruby/object:MonstersGroup
+    troops:
     - *464
-    :bosses:
+    bosses:
     - *73
     - *74
