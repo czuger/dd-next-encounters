@@ -10,7 +10,7 @@ groups = YAML::load_file('data/monsters_group_data.yml')
 monsters.each do |monster|
   monster.xp_value = xp_by_challenge_rating_table[monster.challenge]
   monster.boss = groups[monster.key] ? groups[monster.key][:boss] : false
-  monster.add_groups( groups, groups[monster.key] ? groups[monster.key][:groups] : [] )
+  monster.add_groups( groups[monster.key] ? groups[monster.key][:groups] : [] )
   mm.add_monster( monster )
 end
 

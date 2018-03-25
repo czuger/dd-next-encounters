@@ -10,6 +10,7 @@ goblin goblin_boss goblin
 
 # [] mean that we will look for the group and replace any elements
 # of course the group must already have been described
-goblinoid [goblin] [hobgoblin] [bugbear]
+# Not working as expected, leaving dev for now ...
+# goblinoid [goblin] [hobgoblin] [bugbear]
 
 orc orc_war_chief orc_eye_of_gruumsh orc

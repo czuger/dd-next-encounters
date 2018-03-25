@@ -24,14 +24,9 @@ class Monster
     @boss = false
   end
 
-  def add_groups( monsters_or_groups )
-    monsters_or_groups.each do ||
-
-  end
+  def add_groups( groups )
     @groups ||= []
     @groups += groups
   end
-
-  def add_
 
 end

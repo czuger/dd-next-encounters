@@ -105,17 +105,6 @@
   - :goblin
   :boss: false
   :superior_to: []
-:goblinoid:
-  :groups:
-  - goblin_boss
-  - goblin
-  - hobgoblin_captain
-  - hobgoblin_warlord
-  - hobgoblin
-  - bugbear_chief
-  - bugbear
-  :boss: false
-  :superior_to: []
 :orc_war_chief:
   :groups:
   - :orc

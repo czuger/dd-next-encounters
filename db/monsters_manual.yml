@@ -1026,7 +1026,6 @@
     xp_value: 200
     boss: false
     groups:
-    - :gobelin
     - :bugbear
   :bugbear_chief: &10 !ruby/object:Monster
     challenge: 3
@@ -1037,7 +1036,6 @@
     xp_value: 700
     boss: true
     groups:
-    - :gobelin
     - :bugbear
   :bulette: &306 !ruby/object:Monster
     challenge: 5
@@ -3095,7 +3093,7 @@
     xp_value: 50
     boss: false
     groups:
-    - :gobelin
+    - :goblin
   :goblin_boss: &41 !ruby/object:Monster
     challenge: 1
     name: Goblin Boss
@@ -3105,7 +3103,7 @@
     xp_value: 200
     boss: true
     groups:
-    - :gobelin
+    - :goblin
   :gold_dragon_wyrmling: &398 !ruby/object:Monster
     challenge: 3
     name: Gold Dragon Wyrmling
@@ -3475,8 +3473,7 @@
     xp_value: 100
     boss: false
     groups:
-    - :gobelin
-    - :hobgobelin
+    - :hobgoblin
   :hobgoblin_captain: &49 !ruby/object:Monster
     challenge: 3
     name: Hobgoblin Captain
@@ -3486,8 +3483,7 @@
     xp_value: 700
     boss: true
     groups:
-    - :gobelin
-    - :hobgobelin
+    - :hobgoblin
   :hobgoblin_devastator: &173 !ruby/object:Monster
     challenge: 4
     name: Hobgoblin Devastator
@@ -3515,8 +3511,7 @@
     xp_value: 2300
     boss: true
     groups:
-    - :gobelin
-    - :hobgobelin
+    - :hobgoblin
   :homunculus: &417 !ruby/object:Monster
     challenge: 0
     name: Homunculus
@@ -9859,21 +9854,12 @@
   - *760
   - *537
 :groups:
-  :gobelin: !ruby/object:MonstersGroup
-    troops:
-    - *305
-    - *397
-    - *416
-    bosses:
-    - *10
-    - *41
-    - *49
-    - *50
   :bugbear: !ruby/object:MonstersGroup
     troops:
     - *305
     bosses:
     - *10
+    groups_inferiority: []
   :undead: !ruby/object:MonstersGroup
     troops:
     - *361
@@ -9883,6 +9869,7 @@
     - *511
     - *573
     bosses: []
+    groups_inferiority: []
   :undead_mythical: !ruby/object:MonstersGroup
     troops:
     - *363
@@ -9892,6 +9879,7 @@
     - *573
     bosses:
     - *453
+    groups_inferiority: []
   :undead_vampire: !ruby/object:MonstersGroup
     troops:
     - *363
@@ -9902,15 +9890,24 @@
     - *101
     - *573
     bosses: []
-  :hobgobelin: !ruby/object:MonstersGroup
+    groups_inferiority: []
+  :goblin: !ruby/object:MonstersGroup
+    troops:
+    - *397
+    bosses:
+    - *41
+    groups_inferiority: []
+  :hobgoblin: !ruby/object:MonstersGroup
     troops:
     - *416
     bosses:
     - *49
     - *50
+    groups_inferiority: []
   :orc: !ruby/object:MonstersGroup
     troops:
     - *464
     bosses:
     - *73
     - *74
+    groups_inferiority: []

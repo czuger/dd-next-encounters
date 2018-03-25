@@ -3,6 +3,7 @@ require 'yaml'
 
 monsters_group_data = {}
 groups_monsters_data = {}
+
 default_group_entry = '{ groups: [], boss: false, superior_to: [] }'
 
 File.open( 'data/groups.txt', 'r' ) do |f|
@@ -23,7 +24,7 @@ File.open( 'data/groups.txt', 'r' ) do |f|
       else
         monsters_group_data[ m.to_sym ] ||= eval( default_group_entry )
         monsters_group_data[ m.to_sym ][ :groups ] << group
-        groups_monsters_data[ group ] << m
+        groups_monsters_data[ group ] << m.to_sym
       end
     end
   end
@@ -40,6 +41,9 @@ File.open( 'data/bosses.txt', 'r' ) do |f|
     end
   end
 end
+
+# For future use
+bosses_in_groups = groups_monsters_data.map{ |k, v| [ k, v.select{ |monster| monsters_group_data[monster][:boss] if monsters_group_data[monster] } ] }
 
 File.open( 'data/hierarchy.txt', 'r' ) do |f|
   f.readlines.each do |line|
