@@ -47,6 +47,8 @@ class MonstersManual
   end
 
   def select( sources: :all, types: :all, min_challenge: :none, max_challenge: :none )
+    validate_loaded
+
     sources_ids = ( sources == :all ? @sources.values.flatten : sources.map{ |s| @sources[s] }.flatten )
     types_ids = ( types == :all ? @types.values.flatten : types.map{ |t| @types[t] }.flatten )
 
@@ -75,6 +77,10 @@ class MonstersManual
       @groups[group] ||= MonstersGroup.new
       @groups[group].add_monster( monster )
     end
+  end
+
+  def validate_loaded
+    raise 'Monster manual not loadad' if @monsters.empty?
   end
 
 end
