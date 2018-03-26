@@ -19,7 +19,12 @@ class MonstersGroup
   # end
 
   def to_hash
-    { troops: @troops.map{ |m| m.to_hash }, bosses: @bosses.map{ |m| m.to_hash } }
+    { troops: @troops.map{ |m| m.key }, bosses: @bosses.map{ |m| m.key } }
+  end
+
+  def from_hash( monsters, hash )
+    @troops = hash[:troops].map{ |tk| monsters[tk] }
+    @bosses = hash[:bosses].map{ |tk| monsters[tk] }
   end
 
 end

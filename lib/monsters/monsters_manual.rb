@@ -24,13 +24,19 @@ class MonstersManual
       monster = Monster.new( m[:challenge], m[:name], m[:type], m[:source] )
       monster.xp_value = m[:xp_value]
       monster.boss = m[:boss]
+      monster.add_groups( m[:groups] )
       @monsters[ monster.key ] = monster
     end
 
     @sources = MONSTERS_MANUAL_CONTENT[:sources]
     @challenges = MONSTERS_MANUAL_CONTENT[:challenges]
     @types = MONSTERS_MANUAL_CONTENT[:types]
-    @groups = nil # Hash[ MONSTERS_MANUAL_CONTENT[:groups].map{ |k, g| [ k, g.from_hash( g ) ] } ]
+
+    MONSTERS_MANUAL_CONTENT[:groups].each do |k, group_hash|
+      group = MonstersGroup.new
+      group.from_hash( @monsters, group_hash )
+      @groups[k] = group
+    end
   end
 
   def save( filename )
