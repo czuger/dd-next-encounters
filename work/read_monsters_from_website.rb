@@ -6,7 +6,7 @@ require 'yaml'
 # Best nokogiri tuto
 # http://ruby.bastardsbook.com/chapters/html-parsing/
 
-require_relative '../lib/monster'
+require_relative '../lib/monsters/monster'
 
 base_page = 'https://www.dndbeyond.com/'
 next_page = 'monsters'

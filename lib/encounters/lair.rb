@@ -80,6 +80,7 @@ class Lair
         raise "Bad lair type : #{encounter_type.inspect}" + ". Available lairs types : #{@monster_manual.groups.keys}"
       end
     end
+    @encounters_types =  @monster_manual.groups.keys if @encounters_types.empty?
   end
 
 end

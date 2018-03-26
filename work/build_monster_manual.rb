@@ -1,5 +1,5 @@
 require 'yaml'
-require_relative '../lib/monsters_manual'
+require_relative '../lib/monsters/monsters_manual'
 
 mm = MonstersManual.new
 
