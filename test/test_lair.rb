@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class LairTest < Minitest::Test
+class TestLair < Minitest::Test
 
   def setup
     @lair = Lair.new( :goblin )

@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class MonsterManualTest < Minitest::Test
+class TestMonsterManual < Minitest::Test
 
   def setup
     @mm = MonstersManual.new
