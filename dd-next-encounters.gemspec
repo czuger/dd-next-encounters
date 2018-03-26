@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = 'A simple gem that generate DD Next encounters'
   s.authors     = ['Cédric Zuger']
   s.email       = 'zuger.cedric@gmail.com'
-  s.files       = ['lib/dd-next-encounter.rb']
+  s.files       = ['lib/dd-next-encounters.rb']
   s.homepage    =
       'https://github.com/czuger/dd-next-encounters'
   s.license       = 'MIT'
