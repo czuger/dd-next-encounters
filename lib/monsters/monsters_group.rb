@@ -18,4 +18,8 @@ class MonstersGroup
   #   { troops: @troops.map{ |m| m.key }, bosses: @bosses.map{ |m| m.key } }
   # end
 
+  def to_hash
+    { troops: @troops.map{ |m| m.to_hash }, bosses: @bosses.map{ |m| m.to_hash } }
+  end
+
 end

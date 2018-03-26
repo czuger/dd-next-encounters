@@ -1,10 +1,14 @@
-require 'yaml'
+require 'json'
+require 'pp'
 require_relative 'monster'
 require_relative 'monsters_group'
+require_relative '../../lib/data/monsters_manual_content'
 
 class MonstersManual
 
   attr_reader :monsters, :groups
+
+  include MonstersManualContent
 
   def initialize
     @monsters = {}
@@ -15,23 +19,34 @@ class MonstersManual
   end
 
   def load
-    monster_manual = YAML::load_file('db/monsters_manual.yml')
-    @monsters = monster_manual[:monsters]
-    @sources = monster_manual[:sources]
-    @challenges = monster_manual[:challenges]
-    @types = monster_manual[:types]
-    @groups = monster_manual[:groups]
+    @monsters = {}
+    MONSTERS_MANUAL_CONTENT[:monsters].each do |m|
+      monster = Monster.new( m[:challenge], m[:name], m[:type], m[:source] )
+      monster.xp_value = m[:xp_value]
+      monster.boss = m[:boss]
+      @monsters[ monster.key ] = monster
+    end
+
+    @sources = MONSTERS_MANUAL_CONTENT[:sources]
+    @challenges = MONSTERS_MANUAL_CONTENT[:challenges]
+    @types = MONSTERS_MANUAL_CONTENT[:types]
+    @groups = nil # Hash[ MONSTERS_MANUAL_CONTENT[:groups].map{ |k, g| [ k, g.from_hash( g ) ] } ]
   end
 
   def save( filename )
     monster_manual = {
-        monsters: @monsters,
+        monsters: @monsters.map{ |_, m| m.to_hash },
         sources: @sources,
         challenges: @challenges,
         types: @types,
-        groups: @groups
+        groups: Hash[ @groups.map{ |k, g| [ k, g.to_hash ] } ]
     }
-    File.open( filename, 'w' ){ |f| f.write monster_manual.to_yaml }
+    File.open( filename, 'w' ) do |f|
+      f.puts 'module MonstersManualContent'
+      f.puts "\t MONSTERS_MANUAL_CONTENT = "
+      PP.pp(monster_manual,f)
+      f.puts 'end'
+    end
   end
 
   def sources

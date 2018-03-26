@@ -14,4 +14,4 @@ monsters.each do |monster|
   mm.add_monster( monster )
 end
 
-mm.save( '../db/monsters_manual.yml' )
+mm.save( '../lib/data/monsters_manual_content.rb' )

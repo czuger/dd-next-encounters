@@ -1,4 +1,4 @@
-# require 'constructor'
+require 'json'
 
 class Object
   private
@@ -27,6 +27,10 @@ class Monster
   def add_groups( groups )
     @groups ||= []
     @groups += groups
+  end
+
+  def to_hash
+    { key: @key, challenge: @challenge, name: @name, type: @type, source: @source, xp_value: @xp_value, boss: @boss, groups: @groups }
   end
 
 end
