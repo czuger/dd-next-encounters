@@ -63,13 +63,13 @@ class MonstersManual
     @monsters[monster.key]=monster
 
     @sources[monster.source] ||= []
-    @sources[monster.source] << monster
+    @sources[monster.source] << monster.key
 
     @challenges[monster.challenge] ||= []
-    @challenges[monster.challenge] << monster
+    @challenges[monster.challenge] << monster.key
 
     @types[monster.type] ||= []
-    @types[monster.type] << monster
+    @types[monster.type] << monster.key
 
     monster.groups.each do |group|
       @groups[group] ||= MonstersGroup.new

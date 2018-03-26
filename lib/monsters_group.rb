@@ -1,5 +1,7 @@
 class MonstersGroup
 
+  attr_reader :troops, :bosses
+
   def initialize
     @troops = []
     @bosses = []
@@ -12,8 +14,8 @@ class MonstersGroup
     @bosses << monster if monster.boss
   end
 
-  def to_s
-    { troops: @troops.map{ |m| m.key }, bosses: @bosses.map{ |m| m.key } }
-  end
+  # def to_s
+  #   { troops: @troops.map{ |m| m.key }, bosses: @bosses.map{ |m| m.key } }
+  # end
 
 end
