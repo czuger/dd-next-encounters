@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
       'https://github.com/czuger/dd-next-encounters'
   s.license       = 'MIT'
   s.add_dependency 'hazard', '~> 1'
-  s.required_ruby_version = '>= 2.2.9'
+  s.required_ruby_version = '>= 2.3.6'
 end
