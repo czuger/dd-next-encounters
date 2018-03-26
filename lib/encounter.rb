@@ -19,7 +19,7 @@ class Encounter
   end
 
   def to_s
-    "Total monsters : #{@monsters.count}. #{@monsters.map{ |m| m.name }}"
+    @monsters.group_by {|i| i.key}.map{ |_, v| "#{v.count} #{v.first.name}"}.join( ', ' )
   end
 
   private
