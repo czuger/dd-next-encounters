@@ -1,10 +1,10 @@
-require 'yaml'
+require 'pp'
 
 xp_table = {}
 
 difficulties = [ :easy, :medium, :hard, :deadly ]
 
-File.open( 'data/xp_tables.txt', 'r' ) do |f|
+File.open( 'data/xp_difficulty_table.txt', 'r' ) do |f|
   f.readlines.each_with_index do |line, index|
     next if index == 0
     l_data = line.split.map{ |e| e.to_i }
@@ -17,4 +17,9 @@ File.open( 'data/xp_tables.txt', 'r' ) do |f|
   end
 end
 
-File.open( '../db/xp_difficulty_table.yml', 'w' ){ |f| f.write xp_table.to_yaml }
+File.open( '../lib/data/xp_difficulty_table.rb', 'w' ) do |f|
+  f.puts 'module XpDifficultyTable'
+  f.puts "\t XP_DIFFICULTY_TABLE = "
+  PP.pp(xp_table,f )
+  f.puts 'end'
+end

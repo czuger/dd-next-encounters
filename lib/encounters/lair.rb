@@ -1,19 +1,22 @@
 require_relative 'encounter'
+require_relative '../data/xp_difficulty_table'
 
 class Lair
 
+  include XpDifficultyTable
+
   AVAILABLE_ENCOUNTER_LEVEL=[ :easy, :medium, :hard, :deadly ]
+
   def initialize( *encounters_types )
     @monster_manual = MonstersManual.new
     @monsters = nil
-    @xp_difficulty_table = {}
+    @xp_difficulty_table = XP_DIFFICULTY_TABLE
     @encounters_types = encounters_types
     @encounters={}
   end
 
   def read_manuals
     read_monster_manual
-    read_xp_difficulty_table
   end
 
   def groups
@@ -66,10 +69,6 @@ class Lair
       @encounters[encounter_type][:troops] = @monster_manual.groups[encounter_type]&.troops
       @encounters[encounter_type][:bosses] = @monster_manual.groups[encounter_type]&.bosses
     end
-  end
-
-  def read_xp_difficulty_table
-    @xp_difficulty_table = YAML.load_file('db/xp_difficulty_table.yml' )
   end
 
   private
