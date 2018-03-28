@@ -6,7 +6,8 @@ class Encounter
   end
 
   # Return true or false. Monster added or not
-  def add_monster_if_possible( monster )
+  def add_monster_while_possible(monster )
+    raise "monster can't be nil : #{monster.inspect}" unless monster
     if can_add_monster?( monster )
       @monsters << monster
       return true
@@ -25,6 +26,7 @@ class Encounter
   private
 
   def encounter_value( encounter )
+    raise "Encounter should not contain nil values : #{encounter.inspect}" if encounter.compact != encounter
     encounter.map{ |e| e.xp_value }.reduce(&:+) * get_encounter_multiplier( encounter )
   end
 

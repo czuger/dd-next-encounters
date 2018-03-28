@@ -26,27 +26,49 @@ class Lair
 
   # encounter_level : :easy, :medium, :hard, :deadly
   def get_encounter( encounter_level, *hero_level )
+    raise 'Empty party is not valid. Please provide at least one hero' if hero_level.empty?
     @monster_manual.validate_loaded
 
     raise "Bad encounter level : #{encounter_level.inspect}. Available encounter level : #{AVAILABLE_ENCOUNTER_LEVEL.inspect}" unless AVAILABLE_ENCOUNTER_LEVEL.include?( encounter_level )
+    raise 'Party too weak. Minimum 3 members' if hero_level.count < 3
+
+    hero_level.each do |level|
+      raise "Bad hero level : #{level}. Should be between 1 .. 20" if level < 1 || level > 20
+    end
+
     party_xp_level = hero_level.map{ |hl| @xp_difficulty_table[hl][encounter_level] }.reduce(&:+)
 
-    encounter = Encounter.new( party_xp_level )
-
-    # Choose a random encounter type
-    encounter_type = @encounters_types.sample
-    bosses = @encounters[encounter_type][:bosses]
-    troops = @encounters[encounter_type][:troops]
-
-    # Choose a random boss
-    boss = bosses.sample if !bosses.empty? && rand( 1 .. 2 ) == 1
-    encounter.add_monster_if_possible( boss ) if boss
-
-    # Choose a random monster
-    monster = get_corresponding_monsters( troops, party_xp_level ).sample
-
+    tested_encounters_types = []
+    encounter = nil
     loop do
-      break unless encounter.add_monster_if_possible( monster )
+
+      raise "Can't create an encounter for this party" if (@encounters_types-tested_encounters_types).empty?
+      encounter = Encounter.new( party_xp_level )
+
+      # Choose a random encounter type
+      encounter_type = ( @encounters_types - tested_encounters_types ).sample
+      bosses = @encounters[encounter_type][:bosses]
+      troops = @encounters[encounter_type][:troops]
+
+      # Choose a random boss
+      boss = bosses.sample if !bosses.empty? && rand( 1 .. 2 ) == 1
+      encounter.add_monster_while_possible(boss ) if boss
+
+      # Choose a random monster
+      monster = get_corresponding_monsters( troops, party_xp_level ).sample
+      # We couldn't get a monster of this type for this party. Probably the monsters are too hard
+      # Then we have to check again with another monster type
+      unless monster
+        tested_encounters_types << encounter_type
+        next
+      end
+
+      # Will add the same monster while party_xp_level is not reached
+      loop do
+        break unless encounter.add_monster_while_possible(monster )
+      end
+
+      break
     end
 
     encounter
