@@ -11,6 +11,7 @@ class Lair
     @monster_manual = MonstersManual.new
     @monsters = nil
     @xp_difficulty_table = XP_DIFFICULTY_TABLE
+    # No more used, have to remove it after dependency check
     @encounters_types = encounters_types
     @encounters={}
   end
@@ -33,10 +34,12 @@ class Lair
     raise 'Party too weak. Minimum 3 members' if hero_level.count < 3
 
     hero_level.each do |level|
+      raise "Hero level should be an integer currently : #{level.class.to_s}" unless level.class == Integer
       raise "Bad hero level : #{level}. Should be between 1 .. 20" if level < 1 || level > 20
     end
 
     party_xp_level = hero_level.map{ |hl| @xp_difficulty_table[hl][encounter_level] }.reduce(&:+)
+    sixth_party_xp_level = party_xp_level / 6
 
     tested_encounters_types = []
     encounter = nil
