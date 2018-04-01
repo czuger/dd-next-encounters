@@ -1,11 +1,11 @@
 require_relative '../lib/monsters/monsters_manual'
-require_relative '../lib/encounters/lair'
+require_relative '../lib/encounters/encounters'
 require 'pp'
 
-l = Lair.new( :goblin, :hobgoblin, :undead, :bugbear, :orc )
-l.read_manuals
+m = MonstersManual.new
+m.load
 
-l.print_summary
+Encounters.load_by_xp_encounters( m )
 
-encounter =  l.get_encounter( :medium, 3, 3, 3, 3 )
+encounter =  Encounters.get_party_encounter( :medium, 3, 3, 3, 3 )
 puts encounter.to_s

@@ -1,5 +1,4 @@
 require_relative '../lib/monsters/monsters_manual'
-require_relative '../lib/encounters/lair'
 require 'pp'
 
 m = MonstersManual.new
