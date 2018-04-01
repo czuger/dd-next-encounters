@@ -55,6 +55,11 @@ class MonstersManual
     end
   end
 
+  # Retrieve a monster by its monster key
+  def get( monster_key )
+    @monsters[ monster_key ]
+  end
+
   def sources
     @sources.keys.sort
   end

@@ -1,8 +1,9 @@
 class Encounter
 
-  def initialize( party_xp_level )
-    @monsters = []
-    @party_xp_level = party_xp_level
+  def initialize( monster, amount )
+    @monster = monster
+    @amount = amount
+    # @party_xp_level = party_xp_level
   end
 
   # Return true or false. Monster added or not
@@ -20,18 +21,17 @@ class Encounter
   end
 
   def to_s
-    @monsters.group_by {|i| i.key}.map{ |_, v| "#{v.count} #{v.first.name}"}.join( ', ' )
+    "#{@amount}. #{@monster.name}"
+  end
+
+  def encounter_xp_value
+    1.upto(@amount).map{ @monster.xp_value }.reduce(&:+) * get_encounter_multiplier
   end
 
   private
 
-  def encounter_value( encounter )
-    raise "Encounter should not contain nil values : #{encounter.inspect}" if encounter.compact != encounter
-    encounter.map{ |e| e.xp_value }.reduce(&:+) * get_encounter_multiplier( encounter )
-  end
-
-  def get_encounter_multiplier( encounter )
-    count = encounter.count
+  def get_encounter_multiplier
+    count = @amount
     mul = 1
     mul = 1.5 if count >= 2
     mul = 2 if count >= 3
