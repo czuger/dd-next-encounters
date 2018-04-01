@@ -13,7 +13,7 @@ File.open( 'data/encounters.txt', 'r' ) do |f|
     next if index == 0 || line.chomp.size == 0
     l_data = line.split
 
-    p l_data
+    # p l_data
 
     group = l_data.shift
     amount = l_data.shift
@@ -26,10 +26,17 @@ File.open( 'data/encounters.txt', 'r' ) do |f|
     min_monsters.upto( max_monsters ).each do |monster_amount|
       e = Encounter.new( mm.get( monster.to_sym ), monster_amount )
       by_xp_encounters[ e.encounter_xp_value.to_i ] ||= []
-      by_xp_encounters[ e.encounter_xp_value.to_i ] << e.to_s
+      by_xp_encounters[ e.encounter_xp_value.to_i ] << { amount: monster_amount, monster_key: monster.to_sym }
     end
 
   end
 end
 
-pp by_xp_encounters
+# pp by_xp_encounters
+
+File.open( '../lib/data/by_xp_encounters.rb', 'w' ) do |f|
+  f.puts 'module ByXpEncounters'
+  f.puts "\t BY_XP_ENCOUNTERS = "
+  PP.pp(by_xp_encounters,f )
+  f.puts 'end'
+end

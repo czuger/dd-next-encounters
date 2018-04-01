@@ -6,20 +6,6 @@ class Encounter
     # @party_xp_level = party_xp_level
   end
 
-  # Return true or false. Monster added or not
-  def add_monster_while_possible(monster )
-    raise "monster can't be nil : #{monster.inspect}" unless monster
-    if can_add_monster?( monster )
-      @monsters << monster
-      return true
-    end
-    false
-  end
-
-  def can_add_monster?( monster )
-    encounter_value( @monsters + [ monster ] ) <= @party_xp_level
-  end
-
   def to_s
     "#{@amount}. #{@monster.name}"
   end
