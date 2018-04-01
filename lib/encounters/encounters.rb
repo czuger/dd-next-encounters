@@ -1,5 +1,6 @@
 require_relative '../data/by_xp_encounters'
 require_relative '../data/xp_difficulty_table'
+require_relative '../../lib/monsters/monsters_manual'
 require_relative 'encounter'
 
 class Encounters
@@ -9,8 +10,17 @@ class Encounters
   AVAILABLE_ENCOUNTER_LEVEL = REVERSED_XP_DIFFICULTY_TABLE.keys
   @@by_xp_encounters = nil
 
+  def initialize
+    @monster_manual = MonstersManual.new
+    @monster_manual.load
+    @by_xp_encounters = {}
+    BY_XP_ENCOUNTERS.each do |k, v|
+      @by_xp_encounters[ k ] = v.map{ |e| Encounter.new( @monster_manual.get( e[:monster_key] ), e[:amount] ) }
+    end
+  end
+
   # encounter_level : :easy, :medium, :hard, :deadly
-  def self.get_party_encounter( encounter_level, *hero_level )
+  def get_party_encounter( encounter_level, *hero_level )
     raise 'Empty party is not valid. Please provide at least one hero' if hero_level.empty?
 
     raise "Bad encounter level : #{encounter_level.inspect}. Available encounter level : #{AVAILABLE_ENCOUNTER_LEVEL.inspect}" unless AVAILABLE_ENCOUNTER_LEVEL.include?( encounter_level )
@@ -26,20 +36,14 @@ class Encounters
     get_encounter( party_xp_level*0.6, party_xp_level*1.2 )
   end
 
+  private
 
-  def self.get_encounter( min_xp, max_xp )
-    raise 'Encounters not loaded' unless @@by_xp_encounters
-    encounters = @@by_xp_encounters.map{ |k_value, encounters| encounters if k_value <= max_xp && k_value >= min_xp }
+  def get_encounter( min_xp, max_xp )
+    raise 'Encounters not loaded' unless @by_xp_encounters
+    encounters = @by_xp_encounters.map{ |k_value, encounters| encounters if k_value <= max_xp && k_value >= min_xp }
     encounters = encounters.compact.flatten
     p encounters.map{ |e| e.to_s }
     encounters.sample
-  end
-
-  def self.load_by_xp_encounters( monster_manual )
-    @@by_xp_encounters = {}
-    BY_XP_ENCOUNTERS.each do |k, v|
-      @@by_xp_encounters[ k ] = v.map{ |e| Encounter.new( monster_manual.get( e[:monster_key] ), e[:amount] ) }
-    end
   end
 
 end

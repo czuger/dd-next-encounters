@@ -13,5 +13,7 @@ vampires_spellcasters 1-3 vampire_spellcaster
 vampires_warriors 1-3 vampire_warrior
 
 goblins 1-6 goblin
+hobgoblin 1-6 hobgoblin
+bugbear 1-6 bugbear
 
 orcs 1-6 orc

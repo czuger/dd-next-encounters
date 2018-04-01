@@ -8,6 +8,7 @@ module ByXpEncounters
   [{:amount=>3, :monster_key=>:skeleton},
    {:amount=>2, :monster_key=>:shadow},
    {:amount=>3, :monster_key=>:goblin},
+   {:amount=>2, :monster_key=>:hobgoblin},
    {:amount=>2, :monster_key=>:orc}],
  400=>
   [{:amount=>4, :monster_key=>:skeleton}, {:amount=>4, :monster_key=>:goblin}],
@@ -19,23 +20,44 @@ module ByXpEncounters
    {:amount=>3, :monster_key=>:shadow},
    {:amount=>2, :monster_key=>:specter},
    {:amount=>6, :monster_key=>:goblin},
+   {:amount=>3, :monster_key=>:hobgoblin},
+   {:amount=>2, :monster_key=>:bugbear},
    {:amount=>3, :monster_key=>:orc}],
  200=>
-  [{:amount=>1, :monster_key=>:ghoul}, {:amount=>1, :monster_key=>:specter}],
+  [{:amount=>1, :monster_key=>:ghoul},
+   {:amount=>1, :monster_key=>:specter},
+   {:amount=>1, :monster_key=>:bugbear}],
  1200=>
   [{:amount=>3, :monster_key=>:ghoul},
    {:amount=>6, :monster_key=>:shadow},
    {:amount=>3, :monster_key=>:specter},
+   {:amount=>6, :monster_key=>:hobgoblin},
+   {:amount=>3, :monster_key=>:bugbear},
    {:amount=>6, :monster_key=>:orc}],
  1600=>
-  [{:amount=>4, :monster_key=>:ghoul}, {:amount=>4, :monster_key=>:specter}],
+  [{:amount=>4, :monster_key=>:ghoul},
+   {:amount=>4, :monster_key=>:specter},
+   {:amount=>4, :monster_key=>:bugbear}],
  2000=>
-  [{:amount=>5, :monster_key=>:ghoul}, {:amount=>5, :monster_key=>:specter}],
+  [{:amount=>5, :monster_key=>:ghoul},
+   {:amount=>5, :monster_key=>:specter},
+   {:amount=>5, :monster_key=>:bugbear}],
  2400=>
-  [{:amount=>6, :monster_key=>:ghoul}, {:amount=>6, :monster_key=>:specter}],
- 100=>[{:amount=>1, :monster_key=>:shadow}, {:amount=>1, :monster_key=>:orc}],
- 800=>[{:amount=>4, :monster_key=>:shadow}, {:amount=>4, :monster_key=>:orc}],
- 1000=>[{:amount=>5, :monster_key=>:shadow}, {:amount=>5, :monster_key=>:orc}],
+  [{:amount=>6, :monster_key=>:ghoul},
+   {:amount=>6, :monster_key=>:specter},
+   {:amount=>6, :monster_key=>:bugbear}],
+ 100=>
+  [{:amount=>1, :monster_key=>:shadow},
+   {:amount=>1, :monster_key=>:hobgoblin},
+   {:amount=>1, :monster_key=>:orc}],
+ 800=>
+  [{:amount=>4, :monster_key=>:shadow},
+   {:amount=>4, :monster_key=>:hobgoblin},
+   {:amount=>4, :monster_key=>:orc}],
+ 1000=>
+  [{:amount=>5, :monster_key=>:shadow},
+   {:amount=>5, :monster_key=>:hobgoblin},
+   {:amount=>5, :monster_key=>:orc}],
  450=>
   [{:amount=>1, :monster_key=>:ghast},
    {:amount=>1, :monster_key=>:minotaur_skeleton}],
