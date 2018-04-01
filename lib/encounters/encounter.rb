@@ -7,7 +7,7 @@ class Encounter
   end
 
   def to_s
-    "#{@amount}. #{@monster.name}"
+    "#{@amount} #{@monster.name}"
   end
 
   def encounter_xp_value

@@ -42,7 +42,7 @@ class Encounters
     raise 'Encounters not loaded' unless @by_xp_encounters
     encounters = @by_xp_encounters.map{ |k_value, encounters| encounters if k_value <= max_xp && k_value >= min_xp }
     encounters = encounters.compact.flatten
-    p encounters.map{ |e| e.to_s }
+    # p encounters.map{ |e| e.to_s }
     encounters.sample
   end
 
