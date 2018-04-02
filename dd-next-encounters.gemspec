@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'dd-next-encounters'
-  s.version     = '2.0.1'
+  s.version     = '2.0.2'
   s.date        = '2018-03-26'
   s.summary     = 'Generate DD Next encounters'
   s.description = 'A simple gem that generate DD Next encounters'
@@ -11,5 +11,5 @@ Gem::Specification.new do |s|
       'https://github.com/czuger/dd-next-encounters'
   s.license       = 'MIT'
   s.add_dependency 'hazard', '~> 1'
-  s.required_ruby_version = '>= 2.4.3'
+  s.required_ruby_version = '>= 2.4.0'
 end
