@@ -7,4 +7,4 @@ An encounter generator for DD next
 
 # Compatibility
 
-Has been test with ruby 2.3 -> 2.5
+Require ruby 2.4.3 or higher.
