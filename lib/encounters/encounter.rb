@@ -1,15 +1,20 @@
 class Encounter
 
-  attr_reader :xp_value
+  attr_reader :xp_value, :id
 
-  def initialize( monster, amount )
+  def initialize( monster, amount, id = nil, xp_value = nil )
     @monster = monster
     @amount = amount
-    @xp_value = encounter_xp_value
+    @xp_value = xp_value ? xp_value : encounter_xp_value.to_i
+    @id = id ? id : ( monster.key.to_s + '_' + amount.to_s ).to_sym
   end
 
   def to_s
     "#{@amount} #{@monster.name}"
+  end
+
+  def to_hash
+    { id: @id, monster_key: @monster.key, amount: @amount, xp_value: @xp_value }
   end
 
   private

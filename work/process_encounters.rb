@@ -7,6 +7,7 @@ mm = MonstersManual.new
 mm.load
 
 by_xp_encounters = {}
+encounters = []
 
 File.open( 'data/encounters.txt', 'r' ) do |f|
   f.readlines.each_with_index do |line, index|
@@ -23,19 +24,26 @@ File.open( 'data/encounters.txt', 'r' ) do |f|
     max_monsters = amount_data[2].to_i
 
     min_monsters.upto( max_monsters ).each do |monster_amount|
+
       e = Encounter.new( mm.get( monster.to_sym ), monster_amount )
-      by_xp_encounters[ e.xp_value.to_i ] ||= []
-      by_xp_encounters[ e.xp_value.to_i ] << { amount: monster_amount, monster_key: monster.to_sym }
+
+      encounters << e.to_hash
+
+      by_xp_encounters[ e.xp_value ] ||= []
+      by_xp_encounters[ e.xp_value ] << e.id
+
     end
 
   end
 end
 
-# pp by_xp_encounters
-
-File.open( '../lib/data/by_xp_encounters.rb', 'w' ) do |f|
-  f.puts 'module ByXpEncounters'
+File.open( '../lib/data/encounters_data.rb', 'w' ) do |f|
+  f.puts 'module EncountersData'
+  f.puts "\t ENCOUNTERS = "
+  PP.pp(encounters,f )
+  f.puts
   f.puts "\t BY_XP_ENCOUNTERS = "
   PP.pp(by_xp_encounters,f )
   f.puts 'end'
+
 end

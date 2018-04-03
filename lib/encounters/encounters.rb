@@ -1,21 +1,28 @@
-require_relative '../data/by_xp_encounters'
+require_relative '../data/encounters_data'
 require_relative '../data/xp_difficulty_table'
 require_relative '../../lib/monsters/monsters_manual'
 require_relative 'encounter'
 
 class Encounters
 
-  include ByXpEncounters
+  include EncountersData
   include XpDifficultyTable
   AVAILABLE_ENCOUNTER_LEVEL = REVERSED_XP_DIFFICULTY_TABLE.keys
 
   def initialize
     @monster_manual = MonstersManual.new
     @monster_manual.load
+
+    @encounters = {}
+    ENCOUNTERS.each do |e|
+      @encounters[e[:id]] = Encounter.new( @monster_manual.get( e[:monster_key] ), e[:amount], e[:id], e[:xp_value] )
+    end
+
     @by_xp_encounters = {}
     BY_XP_ENCOUNTERS.each do |k, v|
-      @by_xp_encounters[ k ] = v.map{ |e| Encounter.new( @monster_manual.get( e[:monster_key] ), e[:amount] ) }
+      @by_xp_encounters[ k ] = v.map{ |e| @encounters[e] }
     end
+
   end
 
   # encounter_level : :easy, :medium, :hard, :deadly
