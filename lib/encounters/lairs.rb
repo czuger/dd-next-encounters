@@ -6,6 +6,11 @@ class Lairs
 
   def initialize
     @encounters = Encounters.new
+
+    @lairs_by_xp_range = []
+    LAIRS_DATA.each do |k, v|
+      @lairs_by_xp_range
+    end
   end
 
 end

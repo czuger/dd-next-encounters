@@ -11,7 +11,7 @@ encounters = []
 
 File.open( 'data/encounters.txt', 'r' ) do |f|
   f.readlines.each_with_index do |line, index|
-    next if index == 0 || line.chomp.size == 0
+    next if line[0] == '#' || line.chomp.size == 0
     l_data = line.split
 
     # p l_data
@@ -31,9 +31,7 @@ File.open( 'data/encounters.txt', 'r' ) do |f|
 
       by_xp_encounters[ e.xp_value ] ||= []
       by_xp_encounters[ e.xp_value ] << e.id
-
     end
-
   end
 end
 

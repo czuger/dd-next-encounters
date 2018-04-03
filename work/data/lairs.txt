@@ -1,1 +1,2 @@
 classic_undead zombie skeleton ghoul shadow specter ghast
+mythical_undead minotaur_skeleton mummy mummy_lord

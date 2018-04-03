@@ -1,9 +1,10 @@
 require 'yaml'
 require 'pp'
-require_relative '../lib/encounters/encounter'
+require_relative '../lib/encounters/encounters'
 require_relative '../lib/monsters/monsters_manual'
 
 lairs = {}
+encounters = Encounters.new
 
 File.open( 'data/lairs.txt', 'r' ) do |f|
   f.readlines.each_with_index do |line, index|
@@ -13,8 +14,20 @@ File.open( 'data/lairs.txt', 'r' ) do |f|
     lair_name = l_data.shift
     monsters = l_data
 
-    lairs[ lair_name.to_sym ] = monsters.map{ |e| e.to_sym }
+    monsters = monsters.map{ |e| e.to_sym }
+    encounters_values = []
+    by_encounters_xp = {}
+    monsters.each do |monster_key|
+      p monster_key
+      encounters.by_monster(monster_key).each do |encounter|
+        encounters_values << encounter.xp_value
+        by_encounters_xp[ encounter.xp_value ] ||= []
+        by_encounters_xp[ encounter.xp_value ] << encounter.id
+      end
+    end
 
+    lairs[ lair_name.to_sym ] = { monsters: monsters, xp_values: encounters_values.uniq.sort,
+      by_encounters_xp: by_encounters_xp }
   end
 end
 

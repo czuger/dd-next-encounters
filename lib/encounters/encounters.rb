@@ -14,15 +14,20 @@ class Encounters
     @monster_manual.load
 
     @encounters = {}
+    @by_monster_encounters = {}
     ENCOUNTERS.each do |e|
-      @encounters[e[:id]] = Encounter.new( @monster_manual.get( e[:monster_key] ), e[:amount], e[:id], e[:xp_value] )
+      encounter = Encounter.new( @monster_manual.get( e[:monster_key] ), e[:amount], e[:id], e[:xp_value] )
+      @encounters[e[:id]] = encounter
+      @by_monster_encounters[e[:monster_key]] ||= []
+      @by_monster_encounters[e[:monster_key]] << encounter
     end
+
+    pp @by_monster_encounters
 
     @by_xp_encounters = {}
     BY_XP_ENCOUNTERS.each do |k, v|
       @by_xp_encounters[ k ] = v.map{ |e| @encounters[e] }
     end
-
   end
 
   # encounter_level : :easy, :medium, :hard, :deadly
@@ -40,6 +45,10 @@ class Encounters
     party_xp_level = hero_level.map{ |hl| XP_DIFFICULTY_TABLE[hl][encounter_level] }.reduce(&:+)
 
     get_encounter( party_xp_level*0.6, party_xp_level*1.2 )
+  end
+
+  def by_monster( monster_key )
+    @by_monster_encounters[monster_key]
   end
 
   private

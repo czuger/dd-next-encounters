@@ -1,6 +1,12 @@
 module EncountersData
 	 ENCOUNTERS = 
-[{:id=>:skeleton_1, :monster_key=>:skeleton, :amount=>1, :xp_value=>50},
+[{:id=>:zombie_1, :monster_key=>:zombie, :amount=>1, :xp_value=>50},
+ {:id=>:zombie_2, :monster_key=>:zombie, :amount=>2, :xp_value=>150},
+ {:id=>:zombie_3, :monster_key=>:zombie, :amount=>3, :xp_value=>300},
+ {:id=>:zombie_4, :monster_key=>:zombie, :amount=>4, :xp_value=>400},
+ {:id=>:zombie_5, :monster_key=>:zombie, :amount=>5, :xp_value=>500},
+ {:id=>:zombie_6, :monster_key=>:zombie, :amount=>6, :xp_value=>600},
+ {:id=>:skeleton_1, :monster_key=>:skeleton, :amount=>1, :xp_value=>50},
  {:id=>:skeleton_2, :monster_key=>:skeleton, :amount=>2, :xp_value=>150},
  {:id=>:skeleton_3, :monster_key=>:skeleton, :amount=>3, :xp_value=>300},
  {:id=>:skeleton_4, :monster_key=>:skeleton, :amount=>4, :xp_value=>400},
@@ -123,13 +129,14 @@ module EncountersData
  {:id=>:orc_6, :monster_key=>:orc, :amount=>6, :xp_value=>1200}]
 
 	 BY_XP_ENCOUNTERS = 
-{50=>[:skeleton_1, :goblin_1],
- 150=>[:skeleton_2, :goblin_2],
- 300=>[:skeleton_3, :shadow_2, :goblin_3, :hobgoblin_2, :orc_2],
- 400=>[:skeleton_4, :goblin_4],
- 500=>[:skeleton_5, :goblin_5],
+{50=>[:zombie_1, :skeleton_1, :goblin_1],
+ 150=>[:zombie_2, :skeleton_2, :goblin_2],
+ 300=>[:zombie_3, :skeleton_3, :shadow_2, :goblin_3, :hobgoblin_2, :orc_2],
+ 400=>[:zombie_4, :skeleton_4, :goblin_4],
+ 500=>[:zombie_5, :skeleton_5, :goblin_5],
  600=>
-  [:skeleton_6,
+  [:zombie_6,
+   :skeleton_6,
    :ghoul_2,
    :shadow_3,
    :specter_2,
