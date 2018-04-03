@@ -1,19 +1,19 @@
-zombies 1-6 zombie
-skeletons 1-6 skeleton
-ghouls 1-6 ghoul
-shadows 1-6 shadow
-specters 1-6 specter
-ghasts 1-6 ghast
-minotaur_skeletons 1-6 minotaur_skeleton
-mummies 1-3 mummy
-mummies_lords 1-1 mummy_lord
-vampires 1-3 vampire
-vampires_spawns 1-3 vampire_spawn
-vampires_spellcasters 1-3 vampire_spellcaster
-vampires_warriors 1-3 vampire_warrior
+1-6 zombie
+1-6 skeleton
+1-6 ghoul
+1-6 shadow
+1-6 specter
+1-6 ghast
+1-6 minotaur_skeleton
+1-3 mummy
+1-1 mummy_lord
+1-3 vampire
+1-3 vampire_spawn
+1-3 vampire_spellcaster
+1-3 vampire_warrior
 
-goblins 1-6 goblin
-hobgoblin 1-6 hobgoblin
-bugbear 1-6 bugbear
+1-6 goblin
+1-6 hobgoblin
+1-6 bugbear
 
-orcs 1-6 orc
+1-6 orc

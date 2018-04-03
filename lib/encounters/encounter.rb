@@ -1,20 +1,22 @@
 class Encounter
 
+  attr_reader :xp_value
+
   def initialize( monster, amount )
     @monster = monster
     @amount = amount
-    # @party_xp_level = party_xp_level
+    @xp_value = encounter_xp_value
   end
 
   def to_s
     "#{@amount} #{@monster.name}"
   end
 
+  private
+
   def encounter_xp_value
     1.upto(@amount).map{ @monster.xp_value }.reduce(&:+) * get_encounter_multiplier
   end
-
-  private
 
   def get_encounter_multiplier
     count = @amount

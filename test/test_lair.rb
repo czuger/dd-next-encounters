@@ -4,6 +4,7 @@ class TestLair < Minitest::Test
 
   def setup
     @encounters = Encounters.new()
+    @lairs = Lairs.new
   end
 
   def test_get_party_encounter

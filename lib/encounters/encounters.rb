@@ -8,7 +8,6 @@ class Encounters
   include ByXpEncounters
   include XpDifficultyTable
   AVAILABLE_ENCOUNTER_LEVEL = REVERSED_XP_DIFFICULTY_TABLE.keys
-  @@by_xp_encounters = nil
 
   def initialize
     @monster_manual = MonstersManual.new
