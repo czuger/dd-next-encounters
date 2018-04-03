@@ -1,12 +1,11 @@
 require 'json'
 require 'pp'
 require_relative 'monster'
-require_relative 'monsters_group'
-require_relative '../../lib/data/monsters_manual_content'
+require_relative '../data/monsters_manual_content'
 
 class MonstersManual
 
-  attr_reader :monsters, :groups
+  attr_reader :monsters
 
   include MonstersManualContent
 
@@ -15,7 +14,6 @@ class MonstersManual
     @sources = {}
     @challenges = {}
     @types = {}
-    @groups = {}
   end
 
   def load
@@ -24,7 +22,6 @@ class MonstersManual
       monster = Monster.new( m[:challenge], m[:name], m[:type], m[:source] )
       monster.xp_value = m[:xp_value]
       monster.boss = m[:boss]
-      monster.add_groups( m[:groups] )
       @monsters[ monster.key ] = monster
     end
 
@@ -32,11 +29,6 @@ class MonstersManual
     @challenges = MONSTERS_MANUAL_CONTENT[:challenges]
     @types = MONSTERS_MANUAL_CONTENT[:types]
 
-    MONSTERS_MANUAL_CONTENT[:groups].each do |k, group_hash|
-      group = MonstersGroup.new
-      group.from_hash( @monsters, group_hash )
-      @groups[k] = group
-    end
   end
 
   def save( filename )
@@ -44,8 +36,7 @@ class MonstersManual
         monsters: @monsters.map{ |_, m| m.to_hash },
         sources: @sources,
         challenges: @challenges,
-        types: @types,
-        groups: Hash[ @groups.map{ |k, g| [ k, g.to_hash ] } ]
+        types: @types
     }
     File.open( filename, 'w' ) do |f|
       f.puts 'module MonstersManualContent'
@@ -99,10 +90,6 @@ class MonstersManual
     @types[monster.type] ||= []
     @types[monster.type] << monster.key
 
-    monster.groups.each do |group|
-      @groups[group] ||= MonstersGroup.new
-      @groups[group].add_monster( monster )
-    end
   end
 
   def validate_loaded

@@ -13,7 +13,6 @@ class TestMonsterManual < Minitest::Test
 
   def test_add_monster
     m = Monster.new( 1, 'test', :test, :test )
-    m.add_groups( [ :test ] )
     @mm.add_monster( m )
     assert_equal :test, @mm.monsters[:test].type
     @mm.save( 'mm_test.dummy' )

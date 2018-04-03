@@ -1,7 +1,0 @@
-# Hierarchy is between group
-# This mean that a boss can't have troops from inferior hierarchy
-# Example gobelin_boss and bugbears
-
-bugbears > goblins
-bugbears > hobgoblins
-hobgoblins > goblins
