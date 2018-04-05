@@ -8,4 +8,4 @@ require 'pp'
 # puts encounter.to_s
 
 l = Lairs.new
-p l.get_party_encounter( :easy, [1]*4 )
+p l.get_party_encounter( :medium, [5]*4 )

@@ -7,6 +7,8 @@ class Lairs
   include XpDifficultyTable
   AVAILABLE_ENCOUNTER_LEVEL = REVERSED_XP_DIFFICULTY_TABLE.keys
 
+  MIN_PARTY_LEVEL_MUL = 0.4
+
   def initialize
     @encounters = Encounters.new
   end
@@ -24,15 +26,18 @@ class Lairs
     end
 
     party_xp_level = heros_levels.map{ |hl| XP_DIFFICULTY_TABLE[hl][encounter_level] }.reduce(&:+)
-    get_available_lairs( party_xp_level )
+    get_available_encounters( party_xp_level )
   end
 
   private
 
   def get_available_lairs( party_xp_level )
-    LAIRS_DATA[:by_xp_lair].select{ |k, v| k >= party_xp_level*0.6 && k <= party_xp_level*1.2 }.values.flatten.uniq
+    LAIRS_DATA[:by_xp_lair].select{ |k, _| k >= party_xp_level*MIN_PARTY_LEVEL_MUL && k <= party_xp_level }.values.flatten.uniq
   end
 
-
+  def get_available_encounters( party_xp_level)
+    lair = get_available_lairs( party_xp_level ).sample
+    LAIRS_DATA[:lairs][lair][:by_encounters_xp].select{ |k, _| k >= party_xp_level*MIN_PARTY_LEVEL_MUL && k <= party_xp_level }.values.flatten.uniq
+  end
 
 end
