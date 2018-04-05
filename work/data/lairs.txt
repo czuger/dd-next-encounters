@@ -1,2 +1,6 @@
 classic_undead zombie skeleton ghoul shadow specter ghast
-mythical_undead minotaur_skeleton mummy mummy_lord
+mythical_undead skeleton ghoul minotaur_skeleton mummy mummy_lord
+
+classic_monsters goblin hobgoblin bugbear orc kobold gnoll
+
+elementals air_elemental azer dust_mephit earth_elemental fire_elemental fire_snake galeb_duhr gargoyle ice_mephit invisible_stalker magma_mephit magmin mud_mephit salamander smoke_mephit steam_mephit water_elemental water_weird xorn

@@ -17,3 +17,28 @@
 1-6 bugbear
 
 1-6 orc
+
+1-6 kobold
+1-6 winged_kobold
+
+1-6 gnoll
+
+1-6 air_elemental
+1-6 azer
+1-6 dust_mephit
+1-6 earth_elemental
+1-6 fire_elemental
+1-6 fire_snake
+1-6 galeb_duhr
+1-6 gargoyle
+1-6 ice_mephit
+1-6 invisible_stalker
+1-6 magma_mephit
+1-6 magmin
+1-6 mud_mephit
+1-6 salamander
+1-6 smoke_mephit
+1-6 steam_mephit
+1-6 water_elemental
+1-6 water_weird
+1-6 xorn

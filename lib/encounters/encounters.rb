@@ -22,7 +22,7 @@ class Encounters
       @by_monster_encounters[e[:monster_key]] << encounter
     end
 
-    pp @by_monster_encounters
+    # pp @by_monster_encounters
 
     @by_xp_encounters = {}
     BY_XP_ENCOUNTERS.each do |k, v|
