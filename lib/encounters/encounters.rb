@@ -47,6 +47,10 @@ class Encounters
     get_encounter( party_xp_level*0.6, party_xp_level*1.2 )
   end
 
+  def by_id( encounter_id )
+    @encounters[ encounter_id ]
+  end
+
   def by_monster( monster_key )
     @by_monster_encounters[monster_key]
   end
