@@ -39,7 +39,7 @@ class TestLair < Minitest::Test
   def test_get_party_encounter_the_brutal_way
     [ :easy, :medium, :hard, :deadly ].each do |difficulty|
       # Need to update this to 1..20 when bigger monster will be in the encounters.txt file
-      (1..9).each do |party_level|
+      (1..15).each do |party_level|
         # puts "Party level = #{party_level}"
         (3..8).each do |party_count|
           party = (1..party_count).map{ party_level }
