@@ -36,6 +36,19 @@ class TestLair < Minitest::Test
     end
   end
 
+  def test_hash_methods
+    h = @lairs.to_hash
+    l = Lairs.from_hash( h )
+    assert_equal l.lair_type, h[:lair_type]
+  end
+
+  def test_json_transformation_methods
+    j = @lairs.to_hash.to_json
+    h = JSON.parse( j )
+    l = Lairs.from_hash( h )
+    assert_equal l.lair_type, h['lair_type'].to_sym
+  end
+
   def test_get_party_encounter_the_brutal_way
     [ :easy, :medium, :hard, :deadly ].each do |difficulty|
       # Need to update this to 1..20 when bigger monster will be in the encounters.txt file

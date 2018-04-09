@@ -9,8 +9,10 @@ class Lairs
 
   MIN_PARTY_LEVEL_MUL = 0.4
 
+  attr_reader :lair_type
+
   # encounter_level : :easy, :medium, :hard, :deadly
-  def initialize( encounter_level, hero_levels )
+  def initialize( encounter_level, hero_levels, lair_type = nil)
 
     @encounters = Encounters.new
     @encounter_level = encounter_level
@@ -19,12 +21,21 @@ class Lairs
 
     @party_xp_level = hero_levels.map{ |hl| XP_DIFFICULTY_TABLE[hl][@encounter_level] }.reduce(&:+)
 
-    @lair_type = get_available_lairs.sample
+    @lair_type = lair_type ? lair_type : get_available_lairs.sample
   end
 
   def encounter
     encounter_id = get_available_encounters.sample
     @encounters.by_id encounter_id
+  end
+
+  def to_hash
+    { encounter_level: @encounter_level, hero_levels: @hero_levels, lair_type: @lair_type }
+  end
+
+  def self.from_hash( hash )
+    hash = hash.map { |k, v| [k.to_sym, v] }.to_h
+    Lairs.new( hash[ :encounter_level ].to_sym, hash[ :hero_levels ], hash[ :lair_type ].to_sym )
   end
 
   private

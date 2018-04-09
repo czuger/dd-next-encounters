@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'dd-next-encounters'
-  s.version     = '3.0.0'
+  s.version     = '3.0.1'
   s.date        = '2018-04-06'
   s.summary     = 'Generate DD Next encounters'
   s.description = 'A simple gem that generate DD Next encounters'
