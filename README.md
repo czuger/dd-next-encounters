@@ -17,7 +17,7 @@ gem install dd-next-encounters
 
 Or in your gemfile : 
 ```ruby
-gem 'dd-next-encounters'
+gem 'dd-next-encounters', '~> 3.0.1'
 ```
 
 Then in your code :
